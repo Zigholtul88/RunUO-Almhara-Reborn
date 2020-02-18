@@ -1,0 +1,25 @@
+##############################
+Log started on 3/1/2018 11:24:16 PM
+
+##############################
+Log started on 3/1/2018 11:40:27 PM
+
+3/1/2018 11:43:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+3/1/2018 11:47:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2018 5:49:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+3/2/2018 5:49:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'unhide '
+3/2/2018 5:49:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') unhiding 0x1 "Zigholtul" ('Zigholtul88')
+3/2/2018 6:02:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/2/2018 6:02:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Set Blessed True'
+3/2/2018 6:02:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Blessed' of 0x1 "Zigholtul" ('Zigholtul88') to 'True'
+3/2/2018 6:02:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Set Squelched True'
+3/2/2018 6:04:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add chicken'
+3/2/2018 6:04:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1637, 1267, 15) in Malas: "chicken"
+3/2/2018 6:04:18 PM: 127.0.0.1: Serials: 0x39F; 
+3/2/2018 6:04:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/2/2018 6:04:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Set Squelched True'
+3/2/2018 6:04:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Squelched' of 0x39F "a chicken" (no account) to 'True'
+3/2/2018 6:04:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Set Squelched False'
+3/2/2018 6:04:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Squelched' of 0x39F "a chicken" (no account) to 'False'
+3/2/2018 6:05:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/2/2018 6:05:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x39F "a chicken" (no account)

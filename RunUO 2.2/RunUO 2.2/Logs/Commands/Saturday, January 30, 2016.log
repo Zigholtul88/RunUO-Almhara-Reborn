@@ -1,0 +1,62 @@
+##############################
+Log started on 1/30/2016 8:58:45 PM
+
+1/30/2016 9:04:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:05:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/30/2016 9:05:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+1/30/2016 9:05:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'wipe '
+1/30/2016 9:05:40 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') wiping from (1985, 33, -8) to (1991, 37, -3) in Ilshenar (Items, Mobiles)
+1/30/2016 9:05:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/30/2016 9:05:46 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+1/30/2016 9:07:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:07:57 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set map malas'
+1/30/2016 9:07:58 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'map' of 0xC "Kain" ('Zigholtul88') to 'Malas'
+1/30/2016 9:08:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set z 0'
+1/30/2016 9:08:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'z' of 0xC "Kain" ('Zigholtul88') to '0'
+1/30/2016 9:08:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set z 5'
+1/30/2016 9:08:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'z' of 0xC "Kain" ('Zigholtul88') to '5'
+1/30/2016 9:08:12 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set z 25'
+1/30/2016 9:08:12 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'z' of 0xC "Kain" ('Zigholtul88') to '25'
+1/30/2016 9:08:54 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/30/2016 9:08:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40000009 (Spawner)
+1/30/2016 9:09:20 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/30/2016 9:09:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+1/30/2016 9:09:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+1/30/2016 9:09:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+1/30/2016 9:09:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x400021CA (Spawner) to (744, 792, -10)
+1/30/2016 9:10:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/30/2016 9:10:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400021CA (Spawner)
+1/30/2016 9:10:38 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/30/2016 9:10:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+1/30/2016 9:10:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+1/30/2016 9:10:54 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+1/30/2016 9:10:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x4000279D (Spawner) to (743, 792, -10)
+1/30/2016 9:10:58 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+1/30/2016 9:11:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/30/2016 9:11:12 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x4000279D (Spawner)
+1/30/2016 9:15:14 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/30/2016 9:15:14 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x8D "an amazonian guard breaker" (no account)
+1/30/2016 9:15:56 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:18:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:23:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:23:47 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:24:15 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:24:57 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'tele '
+1/30/2016 9:26:57 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:27:07 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:27:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set map trammel'
+1/30/2016 9:27:30 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'map' of 0xC "Kain" ('Zigholtul88') to 'Trammel'
+1/30/2016 9:27:33 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:27:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:28:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:28:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:28:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set map ilshenar'
+1/30/2016 9:28:42 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'map' of 0xC "Kain" ('Zigholtul88') to 'Ilshenar'
+1/30/2016 9:28:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:29:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set map malas'
+1/30/2016 9:29:07 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'map' of 0xC "Kain" ('Zigholtul88') to 'Malas'
+1/30/2016 9:29:10 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/30/2016 9:31:07 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/30/2016 9:31:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/30/2016 9:31:15 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/30/2016 9:31:15 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'save '

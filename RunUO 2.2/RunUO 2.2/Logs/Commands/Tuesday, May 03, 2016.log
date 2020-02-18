@@ -1,0 +1,159 @@
+##############################
+Log started on 5/3/2016 2:29:04 PM
+
+5/3/2016 2:31:06 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add '
+5/3/2016 2:31:14 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add daem'
+5/3/2016 2:31:19 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (766, 799, 1) in Malas: "DaemonBoneArms"
+5/3/2016 2:31:19 PM: 127.0.0.1: Serials: 0x40000555; 
+5/3/2016 2:31:24 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (766, 799, 1) in Malas: "DaemonBoneChest"
+5/3/2016 2:31:24 PM: 127.0.0.1: Serials: 0x40000556; 
+5/3/2016 2:31:27 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (766, 800, 3) in Malas: "DaemonBoneGloves"
+5/3/2016 2:31:27 PM: 127.0.0.1: Serials: 0x40000557; 
+5/3/2016 2:31:31 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (766, 799, 1) in Malas: "DaemonBoneHelm"
+5/3/2016 2:31:31 PM: 127.0.0.1: Serials: 0x40000558; 
+5/3/2016 2:31:35 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (766, 799, 1) in Malas: "DaemonBoneLegs"
+5/3/2016 2:31:35 PM: 127.0.0.1: Serials: 0x40000559; 
+5/3/2016 2:33:52 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add elandrim'
+5/3/2016 2:33:55 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (692, 808, 1) in Malas: "ElandrimNurShazFletcher"
+5/3/2016 2:33:55 PM: 127.0.0.1: Serials: 0x4FF; 
+5/3/2016 2:34:25 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+5/3/2016 2:34:26 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x4FF "Quill Razorwind" (no account)
+5/3/2016 2:34:31 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'go '
+5/3/2016 2:35:03 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (482, 684, 53) in Malas: "ElandrimNurShazFletcher"
+5/3/2016 2:35:03 PM: 127.0.0.1: Serials: 0x500; 
+5/3/2016 2:35:43 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+5/3/2016 2:35:44 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x500 "Quill Razorwind" (no account)
+5/3/2016 2:35:46 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add elandrim'
+5/3/2016 2:36:31 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'where '
+5/3/2016 2:36:56 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add spawner'
+5/3/2016 2:36:57 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (482, 684, 53) in Malas: "spawner"
+5/3/2016 2:36:57 PM: 127.0.0.1: Serials: 0x40000622; 
+5/3/2016 2:37:01 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'props '
+5/3/2016 2:37:08 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+5/3/2016 2:37:09 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x40000622 (Spawner)
+5/3/2016 2:37:11 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add spawner'
+5/3/2016 2:37:12 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (482, 684, 52) in Malas: "spawner"
+5/3/2016 2:37:12 PM: 127.0.0.1: Serials: 0x40000626; 
+5/3/2016 2:37:16 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'props '
+5/3/2016 2:37:19 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'HomeRange' of 0x40000626 (Spawner) to '0'
+5/3/2016 2:37:37 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+5/3/2016 2:37:38 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x501 "Quill Razorwind" (no account)
+5/3/2016 2:37:39 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+5/3/2016 2:37:39 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x40000626 (Spawner)
+5/3/2016 2:37:56 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (484, 678, 52) in Malas: "ElandrimNurShazFletcher"
+5/3/2016 2:37:56 PM: 127.0.0.1: Serials: 0x502; 
+5/3/2016 2:38:29 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'go '
+5/3/2016 2:39:19 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add nightsightscroll 100'
+5/3/2016 2:39:23 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (2349, 1332, 0) in Malas: "nightsightscroll" "100"
+5/3/2016 2:39:23 PM: 127.0.0.1: Serials: 0x40000E0F; 
+5/3/2016 2:40:04 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'm tele'
+5/3/2016 2:40:34 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add calcifin'
+5/3/2016 2:41:05 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'where '
+5/3/2016 2:41:22 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add calcifin'
+5/3/2016 2:41:24 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (2414, 1316, -20) in Malas: "CalcifinaTheEnslaver"
+5/3/2016 2:41:24 PM: 127.0.0.1: Serials: 0x503; 
+5/3/2016 2:43:11 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'go '
+5/3/2016 2:43:17 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'go '
+5/3/2016 2:44:07 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add calcifi'
+5/3/2016 2:44:18 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (2270, 1345, 0) in Malas: "CalcifinasJournal"
+5/3/2016 2:44:18 PM: 127.0.0.1: Serials: 0x40001084; 
+5/3/2016 2:44:22 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (2271, 1345, 0) in Malas: "CalcifinasJournalDresser"
+5/3/2016 2:44:22 PM: 127.0.0.1: Serials: 0x40001087; 
+5/3/2016 2:44:25 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+5/3/2016 2:44:26 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x40001084 (CalcifinasJournal)
+5/3/2016 2:44:45 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'props '
+5/3/2016 2:45:26 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+5/3/2016 2:45:27 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x40001087 (CalcifinasJournalDresser)
+5/3/2016 2:45:38 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'go '
+5/3/2016 2:47:10 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+5/3/2016 2:47:11 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x502 "Quill Razorwind" (no account)
+5/3/2016 2:49:00 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'admin '
+5/3/2016 2:49:03 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/3/2016 2:49:03 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/3/2016 9:42:11 PM
+
+5/3/2016 9:43:24 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'set str 35'
+5/3/2016 9:43:25 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') set property 'str' of 0x4E8 "Bruce" ('Zigholtul88') to '35'
+5/3/2016 9:43:28 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'set dex 30'
+5/3/2016 9:43:29 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') set property 'dex' of 0x4E8 "Bruce" ('Zigholtul88') to '30'
+5/3/2016 9:43:39 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'go '
+5/3/2016 9:43:47 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'admin '
+5/3/2016 9:43:54 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'decorate '
+5/3/2016 9:44:57 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'setallskills 80'
+5/3/2016 9:44:58 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') set property 'EverySkill.Base' of 0x4E8 "Bruce" ('Zigholtul88') to '80'
+5/3/2016 9:45:25 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'go '
+5/3/2016 9:46:33 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add nightsightscroll 100'
+5/3/2016 9:46:34 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2366, 1286, 21) in Malas: "nightsightscroll" "100"
+5/3/2016 9:46:34 PM: 127.0.0.1: Serials: 0x40002381; 
+5/3/2016 9:47:21 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add boss'
+5/3/2016 9:48:45 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2366, 1334, 0) in Malas: "BossGateCalcifinaEntrance"
+5/3/2016 9:48:45 PM: 127.0.0.1: Serials: 0x4000239D; 
+5/3/2016 9:48:55 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2420, 1316, -20) in Malas: "BossGateCalcifinaExit"
+5/3/2016 9:48:55 PM: 127.0.0.1: Serials: 0x400023A6; 
+5/3/2016 9:49:07 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'move '
+5/3/2016 9:49:09 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') moving 0x4000239D (BossGateCalcifinaEntrance) to (2366, 1335, 0)
+5/3/2016 9:49:12 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'props '
+5/3/2016 9:49:55 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'props '
+5/3/2016 9:50:29 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add healpotion'
+5/3/2016 9:50:33 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2402, 1308, -20) in Malas: "healpotion"
+5/3/2016 9:50:33 PM: 127.0.0.1: Serials: 0x400023E0; 
+5/3/2016 9:50:38 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add curepotion'
+5/3/2016 9:50:40 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2402, 1308, -20) in Malas: "curepotion"
+5/3/2016 9:50:40 PM: 127.0.0.1: Serials: 0x400023E4; 
+5/3/2016 9:50:48 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add curepotion'
+5/3/2016 9:50:49 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2403, 1308, -20) in Malas: "curepotion"
+5/3/2016 9:50:49 PM: 127.0.0.1: Serials: 0x400023EA; 
+5/3/2016 9:50:52 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add curepotion'
+5/3/2016 9:50:52 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2403, 1309, -20) in Malas: "curepotion"
+5/3/2016 9:50:52 PM: 127.0.0.1: Serials: 0x400023EB; 
+5/3/2016 9:50:55 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add curepotion'
+5/3/2016 9:50:56 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2403, 1309, -20) in Malas: "curepotion"
+5/3/2016 9:50:56 PM: 127.0.0.1: Serials: 0x400023ED; 
+5/3/2016 9:50:59 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add curepotion'
+5/3/2016 9:50:59 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2403, 1309, -20) in Malas: "curepotion"
+5/3/2016 9:50:59 PM: 127.0.0.1: Serials: 0x400023EF; 
+5/3/2016 9:51:02 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add curepotion'
+5/3/2016 9:51:03 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2404, 1309, -20) in Malas: "curepotion"
+5/3/2016 9:51:03 PM: 127.0.0.1: Serials: 0x400023F0; 
+5/3/2016 9:51:06 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add curepotion'
+5/3/2016 9:51:06 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2403, 1308, -20) in Malas: "curepotion"
+5/3/2016 9:51:06 PM: 127.0.0.1: Serials: 0x400023F1; 
+5/3/2016 9:51:12 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add healpotion'
+5/3/2016 9:51:17 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'm add healpotion'
+5/3/2016 9:51:20 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2400, 1307, -20) in Malas: "healpotion"
+5/3/2016 9:51:20 PM: 127.0.0.1: Serials: 0x400023F2; 
+5/3/2016 9:51:21 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2400, 1307, -20) in Malas: "healpotion"
+5/3/2016 9:51:21 PM: 127.0.0.1: Serials: 0x400023F3; 
+5/3/2016 9:51:21 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2400, 1307, -20) in Malas: "healpotion"
+5/3/2016 9:51:21 PM: 127.0.0.1: Serials: 0x400023F7; 
+5/3/2016 9:51:21 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2400, 1307, -20) in Malas: "healpotion"
+5/3/2016 9:51:21 PM: 127.0.0.1: Serials: 0x400023F8; 
+5/3/2016 9:51:21 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2400, 1307, -20) in Malas: "healpotion"
+5/3/2016 9:51:21 PM: 127.0.0.1: Serials: 0x400023F9; 
+5/3/2016 9:51:22 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2400, 1307, -20) in Malas: "healpotion"
+5/3/2016 9:51:22 PM: 127.0.0.1: Serials: 0x400023FA; 
+5/3/2016 9:51:22 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2400, 1307, -20) in Malas: "healpotion"
+5/3/2016 9:51:22 PM: 127.0.0.1: Serials: 0x400023FB; 
+5/3/2016 9:51:22 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2400, 1307, -20) in Malas: "healpotion"
+5/3/2016 9:51:22 PM: 127.0.0.1: Serials: 0x400023FC; 
+5/3/2016 9:51:41 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add bag'
+5/3/2016 9:51:42 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2401, 1307, -20) in Malas: "bag"
+5/3/2016 9:51:42 PM: 127.0.0.1: Serials: 0x4000240F; 
+5/3/2016 9:52:00 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add bag'
+5/3/2016 9:52:01 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2401, 1307, -20) in Malas: "bag"
+5/3/2016 9:52:01 PM: 127.0.0.1: Serials: 0x40002412; 
+5/3/2016 9:54:03 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'kill '
+5/3/2016 9:54:04 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') killing 0x4FF "Calcifina the Enslaver" (no account)
+5/3/2016 9:54:30 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'remove '
+5/3/2016 9:54:40 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') deleting 0x4000239D (BossGateCalcifinaEntrance)
+5/3/2016 9:54:44 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'm tele'
+5/3/2016 9:54:49 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'remove '
+5/3/2016 9:54:49 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') deleting 0x400023A6 (BossGateCalcifinaExit)
+5/3/2016 9:54:51 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'remove '
+5/3/2016 9:54:51 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') deleting 0x4000172F (Spawner)
+5/3/2016 9:54:52 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'go '
+5/3/2016 9:55:33 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'go '
+5/3/2016 9:56:27 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'admin '
+5/3/2016 9:56:31 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/3/2016 9:56:31 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'save '

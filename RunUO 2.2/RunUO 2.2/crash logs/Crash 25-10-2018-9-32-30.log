@@ -1,0 +1,22 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8936
+Time: 10/25/2018 9:32:30 AM
+Mobiles: 2066
+Items: 18386
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Mobiles.Miasma.IsEnemy(Mobile m)
+   at Server.Mobiles.BaseAI.AcquireFocusMob(Int32 iRange, FightMode acqType, Boolean bPlayerOnly, Boolean bFacFriend, Boolean bFacFoe)
+   at Server.Mobiles.OmniAI.DoActionWander()
+   at Server.Mobiles.OmniAI.Think()
+   at Server.Mobiles.BaseAI.AITimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 71.208.8.50: (account = Zigholtul88) (mobile = 0x1 'Zigholtul')

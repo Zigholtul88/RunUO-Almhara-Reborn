@@ -1,0 +1,33 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 7032.20333
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8941
+Time: 7/31/2019 9:38:45 PM
+Mobiles: 2091
+Items: 17431
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Actions.StartGain(Mobile killer, Mobile killed)
+   at Server.Mobiles.BaseCreature.OnDamage(Int32 amount, Mobile from, Boolean willKill)
+   at Server.Mobile.Damage(Int32 amount, Mobile from, Boolean informMount)
+   at Server.Mobiles.BaseCreature.Damage(Int32 amount, Mobile from)
+   at Server.AOS.Damage(Mobile m, Mobile from, Int32 damage, Boolean ignoreArmor, Int32 phys, Int32 fire, Int32 cold, Int32 pois, Int32 nrgy, Int32 chaos, Int32 direct, Boolean keepAlive, Boolean archer, Boolean deathStrike)
+   at Server.Items.AcidSlime.Damage(Mobile m)
+   at Server.Items.AcidSlime.OnMoveOver(Mobile m)
+   at Server.Mobile.Move(Direction d)
+   at Server.Mobiles.BaseAI.DoMoveImpl(Direction d)
+   at Server.Mobiles.BaseAI.DoMove(Direction d, Boolean badStateOk)
+   at Server.Mobiles.BaseAI.WalkRandom(Int32 iChanceToNotMove, Int32 iChanceToDir, Int32 iSteps)
+   at Server.Mobiles.BaseAI.WalkRandomInHome(Int32 iChanceToNotMove, Int32 iChanceToDir, Int32 iSteps)
+   at Server.Mobiles.BaseAI.DoActionWander()
+   at Server.Mobiles.OmniAI.DoActionWander()
+   at Server.Mobiles.OmniAI.Think()
+   at Server.Mobiles.BaseAI.AITimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x13 'Doopie Doodid')

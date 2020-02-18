@@ -1,0 +1,133 @@
+##############################
+Log started on 5/1/2014 7:00:18 AM
+
+5/1/2014 7:04:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/1/2014 7:29:53 AM
+
+5/1/2014 7:30:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/1/2014 7:30:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+5/1/2014 7:30:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 20'
+5/1/2014 7:30:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '20'
+5/1/2014 7:30:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+5/1/2014 7:30:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 20'
+5/1/2014 7:30:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '20'
+5/1/2014 7:31:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 20'
+5/1/2014 7:31:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/1/2014 7:31:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/1/2014 7:31:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/1/2014 7:32:03 AM
+
+5/1/2014 7:33:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add tutor'
+5/1/2014 7:33:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2473, 2017, 20) in Malas: "TutorialDungeonNPC"
+5/1/2014 7:33:46 AM: 127.0.0.1: Serials: 0x3EB; 
+5/1/2014 7:34:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/1/2014 7:34:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Direction' of 0x3EB "Talk To Me First" (no account) to 'South'
+5/1/2014 7:35:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set direction south'
+5/1/2014 7:35:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'direction' of 0x3EB "Talk To Me First" (no account) to 'South'
+5/1/2014 7:35:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add blueelement'
+5/1/2014 7:35:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2472, 2019, 20) in Malas: "blueelement"
+5/1/2014 7:35:59 AM: 127.0.0.1: Serials: 0x40000651; 
+5/1/2014 7:36:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add aqua'
+5/1/2014 7:36:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2471, 2020, 20) in Malas: "AquaSlime"
+5/1/2014 7:36:13 AM: 127.0.0.1: Serials: 0x3EC; 
+5/1/2014 7:36:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/1/2014 7:36:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x3EC "an aqua slime" (no account)
+5/1/2014 7:36:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add rusty'
+5/1/2014 7:36:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2473, 2020, 20) in Malas: "RustyBow"
+5/1/2014 7:36:52 AM: 127.0.0.1: Serials: 0x40000673; 
+5/1/2014 7:36:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add rusty'
+5/1/2014 7:37:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2474, 2021, 20) in Malas: "RustyKatana"
+5/1/2014 7:37:01 AM: 127.0.0.1: Serials: 0x4000079D; 
+5/1/2014 7:38:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+5/1/2014 7:38:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000673 (RustyBow)
+5/1/2014 7:38:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000079D (RustyKatana)
+5/1/2014 7:38:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3EB "Talk To Me First" (no account)
+5/1/2014 7:38:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000066B (Corpse)
+5/1/2014 7:52:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/1/2014 8:01:02 AM
+
+5/1/2014 8:02:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add tut'
+5/1/2014 8:02:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2473, 2016, 21) in Malas: "TutorialDungeonNPC"
+5/1/2014 8:02:07 AM: 127.0.0.1: Serials: 0x3EB; 
+5/1/2014 8:02:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+5/1/2014 8:02:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x3EB "Talk To Me First" (no account) to (2473, 2016, 20)
+5/1/2014 8:02:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/1/2014 8:02:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3EB "Talk To Me First" (no account)
+5/1/2014 8:02:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+5/1/2014 8:02:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2473, 2016, 21) in Malas: "spawner"
+5/1/2014 8:02:26 AM: 127.0.0.1: Serials: 0x40000915; 
+5/1/2014 8:02:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/1/2014 8:02:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000915 (Spawner) to '0'
+5/1/2014 8:02:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'WalkingRange' of 0x40000915 (Spawner) to '0'
+5/1/2014 8:02:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add tutorial'
+5/1/2014 8:03:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+5/1/2014 8:03:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000915 (Spawner) to (2474, 2017, 20)
+5/1/2014 8:03:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+5/1/2014 8:03:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000915 (Spawner) to (2473, 2016, 20)
+5/1/2014 8:03:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+5/1/2014 8:03:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x3ED "Talk To Me First" (no account) to (2473, 2018, 20)
+5/1/2014 8:03:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+5/1/2014 8:04:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/1/2014 8:04:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3EE "Talk To Me First" (no account)
+5/1/2014 8:04:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add tutori'
+5/1/2014 8:05:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2471, 2021, 20) in Malas: "TutorialDungeonExitGate"
+5/1/2014 8:05:02 AM: 127.0.0.1: Serials: 0x40000DAB; 
+5/1/2014 8:05:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add tutori'
+5/1/2014 8:05:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1237, 1161, 0) in Malas: "TutorialDungeonExitGate"
+5/1/2014 8:05:19 AM: 127.0.0.1: Serials: 0x40000DAD; 
+5/1/2014 8:05:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/1/2014 8:05:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000DAD (TutorialDungeonExitGate)
+5/1/2014 8:05:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/1/2014 8:05:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+5/1/2014 8:06:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/1/2014 8:06:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000DAB (TutorialDungeonExitGate)
+5/1/2014 8:06:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/1/2014 8:06:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000915 (Spawner)
+5/1/2014 8:11:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/1/2014 8:12:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add tutorial'
+5/1/2014 8:12:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2470, 2016, 26) in Malas: "TutorialChest"
+5/1/2014 8:12:17 AM: 127.0.0.1: Serials: 0x40000E02; 
+5/1/2014 8:12:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2476, 2016, 26) in Malas: "TutorialChest"
+5/1/2014 8:12:20 AM: 127.0.0.1: Serials: 0x40000E09; 
+5/1/2014 8:12:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/1/2014 8:12:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/1/2014 8:13:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+5/1/2014 8:13:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E02 (TutorialChest)
+5/1/2014 8:13:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E09 (TutorialChest)
+5/1/2014 8:14:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+5/1/2014 8:14:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2426, 1998, 3) in Malas: "spawner"
+5/1/2014 8:14:44 AM: 127.0.0.1: Serials: 0x40000E31; 
+5/1/2014 8:14:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/1/2014 8:14:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000E31 (Spawner) to '20'
+5/1/2014 8:14:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40000E31 (Spawner) to '10'
+5/1/2014 8:15:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/1/2014 8:15:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000E31 (Spawner) to '25'
+5/1/2014 8:15:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/1/2014 8:16:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/1/2014 8:16:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40000E31 (Spawner) to '1'
+5/1/2014 8:16:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/1/2014 8:16:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3F2 "a mushroom bunny" (no account)
+5/1/2014 8:17:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/1/2014 8:17:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3F6 "a mushroom bunny" (no account)
+5/1/2014 8:17:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/1/2014 8:17:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E31 (Spawner)
+5/1/2014 8:17:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/1/2014 8:17:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/1/2014 8:17:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/1/2014 8:17:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/1/2014 8:17:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/1/2014 8:18:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/1/2014 8:18:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/1/2014 8:18:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/1/2014 8:19:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/1/2014 8:19:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/1/2014 8:20:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+5/1/2014 8:20:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/1/2014 8:23:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add edgar'
+5/1/2014 8:25:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/1/2014 8:26:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/1/2014 8:27:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/1/2014 8:27:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

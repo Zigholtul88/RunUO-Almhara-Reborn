@@ -1,0 +1,118 @@
+##############################
+Log started on 8/19/2016 8:59:18 AM
+
+8/19/2016 8:59:56 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/19/2016 9:01:10 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/19/2016 9:05:34 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/19/2016 9:05:38 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/19/2016 9:05:39 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/19/2016 10:16:18 AM
+
+8/19/2016 10:16:43 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/19/2016 10:17:08 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add shir'
+8/19/2016 10:17:14 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (657, 595, 0) in Malas: "FancyShirt"
+8/19/2016 10:17:14 AM: 127.0.0.1: Serials: 0x400004DE; 
+8/19/2016 10:17:16 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (656, 594, 0) in Malas: "Shirt"
+8/19/2016 10:17:16 AM: 127.0.0.1: Serials: 0x400004DF; 
+8/19/2016 10:17:51 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add backpack'
+8/19/2016 10:17:53 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (638, 573, 0) in Malas: "backpack"
+8/19/2016 10:17:53 AM: 127.0.0.1: Serials: 0x400004E9; 
+8/19/2016 10:19:47 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:19:48 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40000584 (BattleAxe)
+8/19/2016 10:19:51 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:19:51 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40000515 (FemalePlateChest)
+8/19/2016 10:19:55 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:19:55 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x4000059D (WarAxe)
+8/19/2016 10:19:58 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:19:59 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x4000059C (TwoHandedAxe)
+8/19/2016 10:20:02 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:03 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40000597 (DoubleAxe)
+8/19/2016 10:20:05 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:05 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x4000059B (LargeBattleAxe)
+8/19/2016 10:20:08 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:08 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40000595 (Axe)
+8/19/2016 10:20:15 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:17 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x4000059E (Broadsword)
+8/19/2016 10:20:20 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:20 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40000583 (FireHalberd)
+8/19/2016 10:20:21 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:22 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40000558 (BlueCutlassOfTheDeep)
+8/19/2016 10:20:39 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:41 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005BF (Longsword)
+8/19/2016 10:20:44 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:44 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005C1 (VikingSword)
+8/19/2016 10:20:47 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:47 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005BE (Kryss)
+8/19/2016 10:20:50 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:51 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005C0 (Scimitar)
+8/19/2016 10:20:54 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:20:54 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005BD (Katana)
+8/19/2016 10:21:15 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:21:16 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005C9 (ShortSpear)
+8/19/2016 10:21:20 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:21:21 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005CA (Spear)
+8/19/2016 10:21:23 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:21:24 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005C8 (Pitchfork)
+8/19/2016 10:21:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:21:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005C6 (WarHammer)
+8/19/2016 10:21:30 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:21:30 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005C7 (WarMace)
+8/19/2016 10:21:47 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add skirt'
+8/19/2016 10:21:48 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (625, 579, 0) in Malas: "skirt"
+8/19/2016 10:21:48 AM: 127.0.0.1: Serials: 0x400005D2; 
+8/19/2016 10:22:17 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add metalshield'
+8/19/2016 10:22:19 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (626, 581, 0) in Malas: "metalshield"
+8/19/2016 10:22:19 AM: 127.0.0.1: Serials: 0x400005E3; 
+8/19/2016 10:22:26 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set hue 1152'
+8/19/2016 10:22:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'hue' of 0x400005E3 (MetalShield) to '1152'
+8/19/2016 10:22:32 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:22:33 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400005E3 (MetalShield)
+8/19/2016 10:23:15 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add longsword'
+8/19/2016 10:23:16 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (629, 579, 0) in Malas: "longsword"
+8/19/2016 10:23:16 AM: 127.0.0.1: Serials: 0x400005FF; 
+8/19/2016 10:23:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add broadsword'
+8/19/2016 10:23:28 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (629, 579, 0) in Malas: "broadsword"
+8/19/2016 10:23:28 AM: 127.0.0.1: Serials: 0x40000604; 
+8/19/2016 10:24:05 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/19/2016 10:24:08 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/19/2016 10:24:09 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/19/2016 10:57:56 AM
+
+8/19/2016 10:58:25 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add thinlongsword'
+8/19/2016 10:58:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (628, 578, 0) in Malas: "thinlongsword"
+8/19/2016 10:58:27 AM: 127.0.0.1: Serials: 0x400004FB; 
+8/19/2016 10:58:33 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/19/2016 10:58:34 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400004FB (ThinLongsword)
+8/19/2016 10:58:39 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add gnarledstaff'
+8/19/2016 10:58:40 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (629, 578, 0) in Malas: "gnarledstaff"
+8/19/2016 10:58:40 AM: 127.0.0.1: Serials: 0x400004FE; 
+8/19/2016 10:58:54 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add quarterstaff'
+8/19/2016 10:58:55 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (609, 570, 0) in Malas: "quarterstaff"
+8/19/2016 10:58:55 AM: 127.0.0.1: Serials: 0x400004FF; 
+8/19/2016 11:03:35 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/19/2016 11:10:09 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/19/2016 11:10:14 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/19/2016 11:10:14 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/19/2016 2:29:47 PM
+
+8/19/2016 2:32:21 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add shirt'
+8/19/2016 2:32:47 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') starting facet clear of Malas (3707 objects)
+8/19/2016 2:32:47 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'clearfacet '
+8/19/2016 2:32:49 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 3707 objects
+8/19/2016 2:32:53 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/19/2016 2:32:58 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'decorate '
+8/19/2016 2:33:22 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add boots'
+8/19/2016 2:33:24 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1156, 1072, 0) in Malas: "boots"
+8/19/2016 2:33:24 PM: 127.0.0.1: Serials: 0x4000218D; 
+8/19/2016 2:37:40 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/19/2016 2:37:44 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/19/2016 2:37:44 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/19/2016 2:55:02 PM
+
+8/19/2016 2:59:24 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/19/2016 2:59:28 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/19/2016 2:59:29 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '

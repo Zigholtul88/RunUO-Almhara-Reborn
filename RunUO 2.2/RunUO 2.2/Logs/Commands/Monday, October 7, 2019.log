@@ -1,0 +1,76 @@
+##############################
+Log started on 10/7/2019 6:53:13 PM
+
+10/7/2019 11:53:37 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost '
+10/7/2019 11:53:51 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/7/2019 11:53:54 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'set map malas'
+10/7/2019 11:53:56 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') set property 'map' of 0x5 "Nastlia Kensley" ('Zigholtul88') to 'Malas'
+10/7/2019 11:54:20 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/8/2019 12:02:33 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost off'
+10/8/2019 12:04:20 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add gold 1000'
+10/8/2019 12:04:21 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (1233, 1141, 0) in Malas: "gold" "1000"
+10/8/2019 12:04:21 AM: 127.0.0.1: Serials: 0x40001141; 
+10/8/2019 12:04:42 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/8/2019 12:05:24 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'spawngen tokuno/dungeons.map'
+10/8/2019 12:11:44 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add dagger'
+10/8/2019 12:11:47 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (300, 65, -50) in Tokuno: "dagger"
+10/8/2019 12:11:47 AM: 127.0.0.1: Serials: 0x40003103; 
+10/8/2019 12:20:44 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'set hits 200'
+10/8/2019 12:20:45 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') set property 'hits' of 0x5 "Nastlia Kensley" ('Zigholtul88') to '200'
+10/8/2019 12:21:56 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'res '
+10/8/2019 12:21:57 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') resurrecting 0x5 "Nastlia Kensley" ('Zigholtul88')
+10/8/2019 12:22:16 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'res '
+10/8/2019 12:22:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') resurrecting 0x5 "Nastlia Kensley" ('Zigholtul88')
+10/8/2019 12:22:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') hiding 0x5 "Nastlia Kensley" ('Zigholtul88')
+10/8/2019 12:22:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'Self Hide'
+10/8/2019 12:22:58 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/8/2019 12:23:08 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') unhiding 0x5 "Nastlia Kensley" ('Zigholtul88')
+10/8/2019 12:23:08 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'Self Unhide'
+10/8/2019 12:23:39 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'set hits 200'
+10/8/2019 12:23:39 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') set property 'hits' of 0x5 "Nastlia Kensley" ('Zigholtul88') to '200'
+10/8/2019 12:24:16 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'res '
+10/8/2019 12:24:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') resurrecting 0x5 "Nastlia Kensley" ('Zigholtul88')
+10/8/2019 12:24:35 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'set hits 200'
+10/8/2019 12:24:35 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') set property 'hits' of 0x5 "Nastlia Kensley" ('Zigholtul88') to '200'
+10/8/2019 12:25:04 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') hiding 0x5 "Nastlia Kensley" ('Zigholtul88')
+10/8/2019 12:25:04 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'Self Hide'
+10/8/2019 12:25:50 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') unhiding 0x5 "Nastlia Kensley" ('Zigholtul88')
+10/8/2019 12:25:51 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'Self Unhide'
+10/8/2019 12:26:06 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add shachi'
+10/8/2019 12:26:08 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (443, 74, 0) in Tokuno: "Shachihoko"
+10/8/2019 12:26:08 AM: 127.0.0.1: Serials: 0xB0B; 
+10/8/2019 12:49:48 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/8/2019 12:51:57 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add curepotion'
+10/8/2019 12:51:59 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (1635, 1244, 15) in Malas: "curepotion"
+10/8/2019 12:51:59 AM: 127.0.0.1: Serials: 0x40004125; 
+10/8/2019 12:57:42 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add gold 20000'
+10/8/2019 12:57:43 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (1052, 1814, 103) in Malas: "gold" "20000"
+10/8/2019 12:57:43 AM: 127.0.0.1: Serials: 0x40004916; 
+10/8/2019 12:57:57 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'remove '
+10/8/2019 12:57:58 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') deleting 0x40003773 (TreasureMap)
+10/8/2019 1:00:20 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/8/2019 1:06:52 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/8/2019 1:08:53 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'where '
+10/8/2019 1:09:20 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add juke'
+10/8/2019 1:09:23 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add dawns'
+10/8/2019 1:09:26 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (400, 1554, -28) in Ilshenar: "DawnsMusicBox"
+10/8/2019 1:09:27 AM: 127.0.0.1: Serials: 0x40004A0B; 
+10/8/2019 1:12:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'remove '
+10/8/2019 1:12:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') deleting 0x40004A0B (DawnsMusicBox)
+10/8/2019 1:14:54 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add dawns'
+10/8/2019 1:14:56 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (2113, 999, -28) in Ilshenar: "DawnsMusicBox"
+10/8/2019 1:14:56 AM: 127.0.0.1: Serials: 0x40004A40; 
+10/8/2019 1:14:57 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (2114, 1000, -28) in Ilshenar: "DawnsMusicBox"
+10/8/2019 1:14:57 AM: 127.0.0.1: Serials: 0x40004A41; 
+10/8/2019 1:15:41 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add dawns'
+10/8/2019 1:15:43 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (2113, 1000, -28) in Ilshenar: "DawnsMusicBox"
+10/8/2019 1:15:43 AM: 127.0.0.1: Serials: 0x40004A59; 
+10/8/2019 1:16:34 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (2115, 998, -28) in Ilshenar: "DawnsMusicBox"
+10/8/2019 1:16:34 AM: 127.0.0.1: Serials: 0x40004A62; 
+10/8/2019 1:17:07 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (2113, 997, -28) in Ilshenar: "DawnsMusicBox"
+10/8/2019 1:17:07 AM: 127.0.0.1: Serials: 0x40004A63; 
+10/8/2019 1:18:23 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'wipe '
+10/8/2019 1:18:24 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') wiping from (2112, 995, -28) to (2116, 1002, -28) in Ilshenar (Items, Mobiles)
+10/8/2019 1:18:37 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/8/2019 1:22:12 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost '
+10/8/2019 1:26:24 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost '

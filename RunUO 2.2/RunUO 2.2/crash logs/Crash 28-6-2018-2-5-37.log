@@ -1,0 +1,21 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8922
+Time: 6/28/2018 2:05:37 AM
+Mobiles: 2119
+Items: 17584
+Exception:
+System.InvalidCastException: Unable to cast object of type 'Server.Items.SpawningClutterLargeCrateFood' to type 'Server.Mobile'.
+   at Server.Items.DemolishersKit.OnTarget(Mobile from, Object obj)
+   at Server.Targeting.Target.Invoke(Mobile from, Object targeted)
+   at Server.Network.PacketHandlers.TargetResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x1 'Zigholtul')

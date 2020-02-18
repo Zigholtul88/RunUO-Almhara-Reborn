@@ -1,0 +1,130 @@
+2.0 RC 1:
+
+(OPTIONAL)
+Replace
+        else if ( showSkillTitle && beheld.Player )
+        {
+            Skill highest = GetHighestSkill( beheld );// beheld.Skills.Highest;
+
+            if ( highest != null && highest.BaseFixedPoint >= 300 )
+            {
+                string skillLevel = GetSkillLevel( highest );
+                string skillTitle = highest.Info.Title;
+
+                if ( beheld.Female && skillTitle.EndsWith( "man" ) )
+                    skillTitle = skillTitle.Substring( 0, skillTitle.Length - 3 ) + "woman";
+
+                title.AppendFormat( ", {0} {1}", skillLevel, skillTitle );
+            }
+        }
+
+With
+            else if (beheld.Player)
+            {
+                Setup set = new Setup();
+                string display = String.Empty;
+
+                if (showSkilltitle)
+                {
+                    Skill highest = GetHighestSkill(beheld);
+
+                    if (highest != null && highest.BaseFixedPoint >= 300)
+                    {
+                        string skillLevel = GetSkillLevel(highest);
+                        string skilltitle = highest.Info.Title;
+
+                        if (set.ShowLevelPaperdoll)
+                            display = Features.Display(beheld, skillLevel + " " + skillTitle);
+                        else
+                            display = skillLevel + " " + skillTitle;
+                    }
+                }
+                else
+                {
+                    if (set.ShowLevelPaperdoll)
+                        display = Features.Display(beheld, null);
+                }
+
+                if (display != null && display.Length > 0)
+                    title.AppendFormat(", {0}", display);
+            }
+
+***********************************************************************
+
+DO NOT DO THE FOLLOWING IF YOU DO NOT HAVE SVN 279!
+
+
+
+
+SVN - 279:
+
+	(OPTIONAL)
+	Replace the
+		else if (beheld.Player && showSkillTitle)
+		{
+		
+		}
+
+	Section with
+            //Level System 3 Rework 1
+            else if (beheld.Player)
+            {
+                Setup set = new Setup();
+                string display = String.Empty;
+
+                if (showSkillTitle)
+                {
+                    string skillTitle = GetSkillTitle(beheld);
+
+                    if (set.ShowLevelPaperdoll)
+                        display = Features.Display(beheld, skillTitle);
+                    else
+                        display = skillTitle;
+                }
+                else
+                {
+                    if (set.ShowLevelPaperdoll)
+                        display = Features.Display(beheld, null);
+                }
+
+                if (display != null && display.Length > 0)
+                    title.AppendFormat(", {0}", display);
+            }
+            //End Level System 3 Rework 1
+
+
+SVN - 279:
+
+	(OPTIONAL)
+	Replace the
+		else if (beheld.Player && showSkillTitle)
+		{
+		
+		}
+
+	Section with
+            //Level System 3 Rework 1
+            else if (beheld.Player)
+            {
+                Setup set = new Setup();
+                string display = String.Empty;
+
+                if (showSkillTitle)
+                {
+                    string skillTitle = GetSkillTitle(beheld);
+
+                    if (set.ShowLevelPaperdoll)
+                        display = Features.Display(beheld, skillTitle);
+                    else
+                        display = skillTitle;
+                }
+                else
+                {
+                    if (set.ShowLevelPaperdoll)
+                        display = Features.Display(beheld, null);
+                }
+
+                if (display != null && display.Length > 0)
+                    title.AppendFormat(", {0}", display);
+            }
+            //End Level System 3 Rework 1

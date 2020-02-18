@@ -1,0 +1,103 @@
+##############################
+Log started on 4/27/2016 6:53:34 PM
+
+4/27/2016 6:55:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/27/2016 6:57:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/27/2016 6:57:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x426 "a sewer hydra" (no account)
+4/27/2016 6:57:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/27/2016 6:57:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x281 "a sewer hydra" (no account)
+4/27/2016 6:57:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/27/2016 6:57:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400005A1 (Spawner)
+4/27/2016 7:04:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/27/2016 7:06:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/27/2016 7:06:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 42'
+4/27/2016 7:06:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '42'
+4/27/2016 7:06:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 22'
+4/27/2016 7:06:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '22'
+4/27/2016 7:06:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 42'
+4/27/2016 7:06:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '42'
+4/27/2016 7:07:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 22'
+4/27/2016 7:07:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '22'
+4/27/2016 7:07:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 42'
+4/27/2016 7:07:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '42'
+4/27/2016 7:07:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:07:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 22'
+4/27/2016 7:07:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '22'
+4/27/2016 7:07:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 42'
+4/27/2016 7:08:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '42'
+4/27/2016 7:08:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:08:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/27/2016 7:08:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:08:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+4/27/2016 7:09:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:09:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+4/27/2016 7:09:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 22'
+4/27/2016 7:09:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '22'
+4/27/2016 7:09:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 42'
+4/27/2016 7:09:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '42'
+4/27/2016 7:10:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 22'
+4/27/2016 7:10:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '22'
+4/27/2016 7:10:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 42'
+4/27/2016 7:10:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '42'
+4/27/2016 7:10:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:10:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+4/27/2016 7:11:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:13:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:13:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:15:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/27/2016 7:15:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+4/27/2016 7:15:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/27/2016 7:18:09 PM
+
+4/27/2016 7:18:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/27/2016 7:18:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+4/27/2016 7:28:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/27/2016 7:29:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:29:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 4/27/2016 7:29:41 PM
+
+4/27/2016 7:29:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/27/2016 7:29:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+4/27/2016 7:33:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add running'
+4/27/2016 7:33:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (685, 873, -4) in Malas: "RunningPants"
+4/27/2016 7:33:46 PM: 127.0.0.1: Serials: 0x300; 
+4/27/2016 7:35:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 4/27/2016 7:38:08 PM
+
+4/27/2016 7:38:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:39:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/27/2016 7:39:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+4/27/2016 7:39:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/27/2016 7:39:45 PM
+
+4/27/2016 7:39:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/27/2016 7:40:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+4/27/2016 7:40:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/27/2016 7:41:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:42:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:42:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:44:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:44:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:45:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:46:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/27/2016 7:46:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add sthuo'
+4/27/2016 7:46:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2510, 1613, 20) in Malas: "SthuoTheMindFlayer"
+4/27/2016 7:46:47 PM: 127.0.0.1: Serials: 0x329; 
+4/27/2016 7:47:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/27/2016 7:47:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add sthuo'
+4/27/2016 7:47:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/27/2016 7:49:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 4/27/2016 7:51:59 PM
+
+4/27/2016 7:52:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/27/2016 7:52:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+4/27/2016 7:55:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/27/2016 7:56:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set race elf'
+4/27/2016 8:02:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/27/2016 8:02:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/27/2016 8:02:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

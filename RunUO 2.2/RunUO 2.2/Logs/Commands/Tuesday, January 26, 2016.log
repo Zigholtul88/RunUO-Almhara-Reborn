@@ -1,0 +1,141 @@
+##############################
+Log started on 1/26/2016 3:54:07 PM
+
+1/26/2016 3:54:42 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+1/26/2016 3:54:47 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'decorate '
+1/26/2016 5:24:02 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+1/26/2016 5:24:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add spawner'
+1/26/2016 5:24:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (747, 581, 6) in Malas: "spawner"
+1/26/2016 5:24:41 PM: 127.0.0.1: Serials: 0x4000269E; 
+1/26/2016 5:24:45 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:24:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'HomeRange' of 0x4000269E (Spawner) to '0'
+1/26/2016 5:25:49 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:26:07 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm remove'
+1/26/2016 5:26:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000269E (Spawner)
+1/26/2016 5:26:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm tele'
+1/26/2016 5:27:10 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add spawner'
+1/26/2016 5:27:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 790, 62) in Malas: "spawner"
+1/26/2016 5:27:12 PM: 127.0.0.1: Serials: 0x400026F4; 
+1/26/2016 5:27:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:27:21 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'HomeRange' of 0x400026F4 (Spawner) to '0'
+1/26/2016 5:27:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:28:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/26/2016 5:28:26 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400026F4 (Spawner)
+1/26/2016 5:28:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:29:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add plate'
+1/26/2016 5:29:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (570, 748, 72) in Malas: "plate"
+1/26/2016 5:29:46 PM: 127.0.0.1: Serials: 0x4000273C; 
+1/26/2016 5:29:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add plate'
+1/26/2016 5:29:49 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (572, 748, 72) in Malas: "plate"
+1/26/2016 5:29:49 PM: 127.0.0.1: Serials: 0x4000273D; 
+1/26/2016 5:29:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add plate'
+1/26/2016 5:29:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 748, 72) in Malas: "plate"
+1/26/2016 5:29:51 PM: 127.0.0.1: Serials: 0x4000273E; 
+1/26/2016 5:29:52 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add plate'
+1/26/2016 5:29:53 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (577, 748, 72) in Malas: "plate"
+1/26/2016 5:29:53 PM: 127.0.0.1: Serials: 0x4000273F; 
+1/26/2016 5:29:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add plate'
+1/26/2016 5:29:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (570, 750, 72) in Malas: "plate"
+1/26/2016 5:29:59 PM: 127.0.0.1: Serials: 0x40002740; 
+1/26/2016 5:30:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add plate'
+1/26/2016 5:30:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (572, 750, 72) in Malas: "plate"
+1/26/2016 5:30:01 PM: 127.0.0.1: Serials: 0x40002741; 
+1/26/2016 5:30:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add plate'
+1/26/2016 5:30:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 750, 72) in Malas: "plate"
+1/26/2016 5:30:03 PM: 127.0.0.1: Serials: 0x40002742; 
+1/26/2016 5:30:04 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add plate'
+1/26/2016 5:30:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (577, 750, 72) in Malas: "plate"
+1/26/2016 5:30:05 PM: 127.0.0.1: Serials: 0x40002743; 
+1/26/2016 5:30:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add '
+1/26/2016 5:31:02 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:31:10 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:31:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/26/2016 5:31:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000273C (Plate)
+1/26/2016 5:31:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm remove'
+1/26/2016 5:31:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40002740 (Plate)
+1/26/2016 5:31:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000273D (Plate)
+1/26/2016 5:31:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40002742 (Plate)
+1/26/2016 5:32:00 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40002743 (Plate)
+1/26/2016 5:32:04 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:32:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add '
+1/26/2016 5:33:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm remove'
+1/26/2016 5:33:07 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40002741 (Plate)
+1/26/2016 5:33:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000273E (Plate)
+1/26/2016 5:33:09 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000273F (Plate)
+1/26/2016 5:33:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:34:34 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add spear'
+1/26/2016 5:34:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 750, 72) in Malas: "spear"
+1/26/2016 5:34:35 PM: 127.0.0.1: Serials: 0x400027BA; 
+1/26/2016 5:34:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add spear'
+1/26/2016 5:34:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 749, 72) in Malas: "spear"
+1/26/2016 5:34:36 PM: 127.0.0.1: Serials: 0x400027BB; 
+1/26/2016 5:34:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add spear'
+1/26/2016 5:34:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 749, 72) in Malas: "spear"
+1/26/2016 5:34:38 PM: 127.0.0.1: Serials: 0x400027BC; 
+1/26/2016 5:34:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add spear'
+1/26/2016 5:34:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 749, 72) in Malas: "spear"
+1/26/2016 5:34:39 PM: 127.0.0.1: Serials: 0x400027BD; 
+1/26/2016 5:34:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm remove'
+1/26/2016 5:34:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400027BA (Spear)
+1/26/2016 5:34:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm remove'
+1/26/2016 5:34:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400027BD (Spear)
+1/26/2016 5:34:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400027BC (Spear)
+1/26/2016 5:34:45 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400027BB (Spear)
+1/26/2016 5:34:47 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add spear'
+1/26/2016 5:34:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (577, 750, 72) in Malas: "spear"
+1/26/2016 5:34:48 PM: 127.0.0.1: Serials: 0x400027C3; 
+1/26/2016 5:34:54 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/26/2016 5:34:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400027C3 (Spear)
+1/26/2016 5:34:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add spawner'
+1/26/2016 5:34:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (577, 750, 72) in Malas: "spawner"
+1/26/2016 5:34:58 PM: 127.0.0.1: Serials: 0x400027C5; 
+1/26/2016 5:35:02 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:35:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'HomeRange' of 0x400027C5 (Spawner) to '0'
+1/26/2016 5:35:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:35:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/26/2016 5:35:52 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400027C5 (Spawner)
+1/26/2016 5:36:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+1/26/2016 5:37:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add spawner'
+1/26/2016 5:38:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add spawner'
+1/26/2016 5:38:32 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (794, 576, 5) in Malas: "spawner"
+1/26/2016 5:38:32 PM: 127.0.0.1: Serials: 0x40002813; 
+1/26/2016 5:38:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:38:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'HomeRange' of 0x40002813 (Spawner) to '0'
+1/26/2016 5:38:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add healp'
+1/26/2016 5:39:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:40:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/26/2016 5:40:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000281E (HealPotion)
+1/26/2016 5:40:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+1/26/2016 5:40:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40002813 (Spawner) to (798, 570, 5)
+1/26/2016 5:40:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/26/2016 5:40:30 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40002836 (HealPotion)
+1/26/2016 5:40:32 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:40:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+1/26/2016 5:41:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40002813 (Spawner) to (798, 577, 6)
+1/26/2016 5:41:04 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:41:45 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+1/26/2016 5:41:49 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40002813 (Spawner) to (788, 576, 6)
+1/26/2016 5:41:53 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:42:24 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+1/26/2016 5:42:26 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40002813 (Spawner) to (788, 570, 5)
+1/26/2016 5:42:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+1/26/2016 5:42:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/26/2016 5:42:47 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40002813 (Spawner)
+1/26/2016 5:42:49 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+1/26/2016 5:42:54 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+1/26/2016 5:42:54 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/26/2016 5:43:06 PM
+
+1/26/2016 5:43:18 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+1/26/2016 5:43:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'decorate '
+1/26/2016 5:44:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+1/26/2016 5:46:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/26/2016 5:46:51 PM
+
+1/26/2016 5:47:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+1/26/2016 5:47:04 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'decorate '
+1/26/2016 5:48:30 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+1/26/2016 5:48:33 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/26/2016 5:48:34 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'save '

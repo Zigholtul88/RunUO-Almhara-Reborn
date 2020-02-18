@@ -1,0 +1,65 @@
+##############################
+Log started on 6/1/2019 8:35:22 PM
+
+6/1/2019 8:35:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+6/1/2019 8:37:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/1/2019 8:38:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add alytharr'
+6/1/2019 8:38:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (702, 796, 7) in Malas: "QuestBulletinBoardAlytharr"
+6/1/2019 8:38:25 PM: 127.0.0.1: Serials: 0x4000007B; 
+6/1/2019 8:38:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'props '
+6/1/2019 8:38:38 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'ItemID' of 0x4000007B (QuestBulletinBoardAlytharr) to '7774'
+6/1/2019 8:43:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/1/2019 8:43:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x4000007B (QuestBulletinBoardAlytharr)
+6/1/2019 8:43:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/1/2019 8:43:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'decorate '
+6/1/2019 8:43:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/1/2019 8:44:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'props '
+6/1/2019 8:44:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add questbull'
+6/1/2019 8:45:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/1/2019 8:45:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x40013355 (QuestBulletinBoardZaythalor)
+6/1/2019 8:45:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/1/2019 8:45:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'decorate '
+6/1/2019 8:45:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/1/2019 8:46:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/1/2019 8:46:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/1/2019 8:46:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'where '
+6/1/2019 8:47:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'where '
+6/1/2019 8:47:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/1/2019 8:47:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'decorate '
+6/1/2019 8:48:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/1/2019 8:48:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x400010EA (AddonComponent)
+6/1/2019 8:48:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'where '
+6/1/2019 8:48:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/1/2019 8:48:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'decorate '
+6/1/2019 8:48:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/1/2019 8:48:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x400017A8 (AddonComponent)
+6/1/2019 8:48:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/1/2019 8:48:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'where '
+6/1/2019 8:48:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/1/2019 8:48:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'decorate '
+6/1/2019 8:49:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'where '
+6/1/2019 8:49:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/1/2019 8:49:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'decorate '
+6/1/2019 8:50:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') unhiding 0x1A "Tobe Faire" ('Zigholtul88')
+6/1/2019 8:50:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'Self Unhide'
+6/1/2019 9:07:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add explosionpotio'
+6/1/2019 9:07:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (347, 507, 6) in Malas: "GreaterExplosionPotion"
+6/1/2019 9:07:31 PM: 127.0.0.1: Serials: 0x40003A03; 
+6/1/2019 9:07:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (347, 507, 6) in Malas: "GreaterExplosionPotion"
+6/1/2019 9:07:31 PM: 127.0.0.1: Serials: 0x40003A04; 
+6/1/2019 9:07:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (347, 507, 6) in Malas: "GreaterExplosionPotion"
+6/1/2019 9:07:32 PM: 127.0.0.1: Serials: 0x40003A05; 
+6/1/2019 9:07:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (347, 507, 6) in Malas: "GreaterExplosionPotion"
+6/1/2019 9:07:32 PM: 127.0.0.1: Serials: 0x40003A07; 
+6/1/2019 9:07:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (347, 507, 6) in Malas: "GreaterExplosionPotion"
+6/1/2019 9:07:32 PM: 127.0.0.1: Serials: 0x40003A08; 
+6/1/2019 9:07:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (347, 507, 6) in Malas: "GreaterExplosionPotion"
+6/1/2019 9:07:32 PM: 127.0.0.1: Serials: 0x40003A09; 
+6/1/2019 9:15:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add childswallet'
+6/1/2019 9:15:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (715, 592, -4) in Malas: "childswallet"
+6/1/2019 9:15:51 PM: 127.0.0.1: Serials: 0x40003BC0; 
+6/1/2019 9:16:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'bank '
+6/1/2019 9:16:16 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') opening bank box of 0x1A "Tobe Faire" ('Zigholtul88')
+6/1/2019 9:16:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/1/2019 9:16:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/1/2019 9:16:38 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '

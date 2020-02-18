@@ -1,0 +1,21 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 7032.20333
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8941
+Time: 7/20/2019 10:42:50 PM
+Mobiles: 1440
+Items: 12426
+Exception:
+System.InvalidCastException: Unable to cast object of type 'Server.Items.StuddedBustierArms' to type 'Server.Items.BaseClothing'.
+   at Server.Items.ItemIdentification.InternalTarget.OnTarget(Mobile from, Object o)
+   at Server.Targeting.Target.Invoke(Mobile from, Object targeted)
+   at Server.Network.PacketHandlers.TargetResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x5B7 'Rin Sakurai')

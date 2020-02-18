@@ -1,0 +1,170 @@
+##############################
+Log started on 6/6/2016 3:26:23 PM
+
+6/6/2016 3:28:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/6/2016 3:29:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+6/6/2016 3:29:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+6/6/2016 3:29:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Ilshenar (914 objects)
+6/6/2016 3:29:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/6/2016 3:29:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 914 objects
+6/6/2016 3:29:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+6/6/2016 3:29:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+6/6/2016 3:29:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/6/2016 3:29:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/6/2016 3:32:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+6/6/2016 3:32:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x3F "a hellsteed" (no account)
+6/6/2016 3:33:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add chival'
+6/6/2016 3:33:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1282, 1290, 5) in Malas: "ChivalrySpellbook"
+6/6/2016 3:33:12 PM: 127.0.0.1: Serials: 0x40001DAE; 
+6/6/2016 3:33:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/6/2016 3:33:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DAE (ChivalrySpellbook) to '1'
+6/6/2016 3:33:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:33:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001DAE (ChivalrySpellbook)
+6/6/2016 3:34:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add chival'
+6/6/2016 3:34:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1282, 1291, 5) in Malas: "BookOfChivalry"
+6/6/2016 3:34:11 PM: 127.0.0.1: Serials: 0x40001DAF; 
+6/6/2016 3:34:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/6/2016 3:34:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add chival'
+6/6/2016 3:34:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1282, 1290, 5) in Malas: "ChivalrySpellbook"
+6/6/2016 3:34:30 PM: 127.0.0.1: Serials: 0x40001DB0; 
+6/6/2016 3:34:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:34:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001DAF (BookOfChivalry)
+6/6/2016 3:34:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/6/2016 3:35:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '12'
+6/6/2016 3:35:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '2'
+6/6/2016 3:35:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '0'
+6/6/2016 3:35:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Full' of 0x40001DB0 (ChivalrySpellbook) to 'True'
+6/6/2016 3:35:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '12'
+6/6/2016 3:35:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '25'
+6/6/2016 3:36:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '100'
+6/6/2016 3:36:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '8000'
+6/6/2016 3:36:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '0'
+6/6/2016 3:36:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add chival'
+6/6/2016 3:37:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add cleanse'
+6/6/2016 3:37:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add clean'
+6/6/2016 3:37:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add paladi'
+6/6/2016 3:37:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '8'
+6/6/2016 3:37:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '7'
+6/6/2016 3:37:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '2'
+6/6/2016 3:37:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '3'
+6/6/2016 3:37:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '4'
+6/6/2016 3:37:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '5'
+6/6/2016 3:37:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '6'
+6/6/2016 3:37:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '7'
+6/6/2016 3:37:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '10'
+6/6/2016 3:37:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '12'
+6/6/2016 3:37:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '15'
+6/6/2016 3:37:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '18'
+6/6/2016 3:37:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '45'
+6/6/2016 3:37:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '85'
+6/6/2016 3:37:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '9'
+6/6/2016 3:37:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '8'
+6/6/2016 3:37:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40001DB0 (ChivalrySpellbook) to '0'
+6/6/2016 3:38:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spellboo'
+6/6/2016 3:39:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1282, 1290, 5) in Malas: "AvatarSpellbook"
+6/6/2016 3:39:09 PM: 127.0.0.1: Serials: 0x40001DB1; 
+6/6/2016 3:39:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1282, 1291, 5) in Malas: "AncientSpellbook"
+6/6/2016 3:39:12 PM: 127.0.0.1: Serials: 0x40001DB2; 
+6/6/2016 3:39:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:39:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001DB1 (AvatarSpellbook)
+6/6/2016 3:39:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:39:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001DB2 (AncientSpellbook)
+6/6/2016 3:39:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'fillbook '
+6/6/2016 3:39:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') filling spellbook 0x40001DB0 (ChivalrySpellbook)
+6/6/2016 3:39:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/6/2016 3:41:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:41:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001DB0 (ChivalrySpellbook)
+6/6/2016 3:41:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/6/2016 3:43:37 PM
+
+6/6/2016 3:43:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spellboo'
+6/6/2016 3:43:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1281, 1292, 5) in Malas: "ChivalrySpellbook"
+6/6/2016 3:43:58 PM: 127.0.0.1: Serials: 0x40000595; 
+6/6/2016 3:44:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/6/2016 3:44:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Full' of 0x40000595 (ChivalrySpellbook) to 'True'
+6/6/2016 3:44:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:44:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000595 (ChivalrySpellbook)
+6/6/2016 3:44:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3223 objects)
+6/6/2016 3:44:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/6/2016 3:44:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3223 objects
+6/6/2016 3:45:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add sisterofsk'
+6/6/2016 3:45:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add sister'
+6/6/2016 3:45:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1285, 1287, 12) in Malas: "SisterOfChivalry"
+6/6/2016 3:45:09 PM: 127.0.0.1: Serials: 0x2; 
+6/6/2016 3:45:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:45:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000059F (ChivalrySpellbook)
+6/6/2016 3:45:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:45:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Kasslenn Yharnam" (no account)
+6/6/2016 3:45:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/6/2016 3:45:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/6/2016 3:47:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:47:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0xA5 "a gaman" (no account)
+6/6/2016 3:47:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/6/2016 3:48:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3216 objects)
+6/6/2016 3:48:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/6/2016 3:48:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3216 objects
+6/6/2016 3:48:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/6/2016 3:48:58 PM
+
+6/6/2016 3:49:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/6/2016 3:49:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/6/2016 3:49:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/6/2016 3:49:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:50:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0xA4 "a gaman" (no account)
+6/6/2016 3:51:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/6/2016 3:51:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'X' of 0x1 "Zigholtul" ('Zigholtul88') to '1260'
+6/6/2016 3:51:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'X' of 0x1 "Zigholtul" ('Zigholtul88') to '1286'
+6/6/2016 3:51:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Y' of 0x1 "Zigholtul" ('Zigholtul88') to '1184'
+6/6/2016 3:51:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 3:51:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400004C0 (Spawner)
+6/6/2016 3:51:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/6/2016 3:52:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/6/2016 3:53:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/6/2016 3:53:57 PM
+
+6/6/2016 3:54:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/6/2016 3:54:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/6/2016 3:54:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3223 objects)
+6/6/2016 3:54:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/6/2016 3:54:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3223 objects
+6/6/2016 3:54:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/6/2016 3:54:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/6/2016 3:55:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/6/2016 3:57:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/6/2016 3:57:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/6/2016 3:58:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/6/2016 4:04:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+6/6/2016 4:04:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x587 "a minotaur of the Autumnwood" (no account)
+6/6/2016 4:04:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+6/6/2016 4:04:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x589 "a minotaur of the Autumnwood" (no account)
+6/6/2016 4:16:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+6/6/2016 4:16:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/6/2016 4:16:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40003D41 (BardSpellbook)
+6/6/2016 4:18:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/6/2016 4:24:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/6/2016 4:48:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/6/2016 4:50:29 PM
+
+6/6/2016 4:57:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/6/2016 4:59:04 PM
+
+6/6/2016 5:21:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/6/2016 6:09:35 PM
+
+6/6/2016 6:09:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add runeto'
+6/6/2016 6:09:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1360, 1191, 1) in Malas: "RuneToHammerhill"
+6/6/2016 6:09:55 PM: 127.0.0.1: Serials: 0x400005A4; 
+6/6/2016 6:10:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add runeto'
+6/6/2016 6:10:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1060, 0) in Malas: "RuneToHammerhill"
+6/6/2016 6:10:15 PM: 127.0.0.1: Serials: 0x40000732; 
+6/6/2016 6:10:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1180, 1060, 0) in Malas: "RuneToHammerhill"
+6/6/2016 6:10:16 PM: 127.0.0.1: Serials: 0x40000733; 
+6/6/2016 7:48:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/6/2016 7:48:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/6/2016 7:48:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

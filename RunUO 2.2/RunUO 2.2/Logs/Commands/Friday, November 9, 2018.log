@@ -1,0 +1,535 @@
+##############################
+Log started on 11/9/2018 10:19:55 AM
+
+11/9/2018 10:22:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 10:22:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/9/2018 10:22:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/9/2018 10:24:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 10:24:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/9/2018 10:24:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/9/2018 10:24:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 10:25:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 10:26:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/9/2018 10:26:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/9/2018 10:26:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 10:27:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 10:28:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 10:29:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add yewtre'
+11/9/2018 10:30:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (290, 458, 30) in Malas: "YewTree"
+11/9/2018 10:30:34 AM: 127.0.0.1: Serials: 0x400000EE; 
+11/9/2018 10:30:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:30:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000114 (AddonComponent) to (288, 461, 30)
+11/9/2018 10:31:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (300, 459, 30) in Malas: "YewTree"
+11/9/2018 10:31:03 AM: 127.0.0.1: Serials: 0x4000011B; 
+11/9/2018 10:31:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:31:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000012A (AddonComponent) to (304, 460, 30)
+11/9/2018 10:31:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:31:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:31:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (249, 494, 30) in Malas: "YewTree"
+11/9/2018 10:31:33 AM: 127.0.0.1: Serials: 0x40000195; 
+11/9/2018 10:31:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:31:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (236, 461, 30) in Malas: "YewTree"
+11/9/2018 10:31:47 AM: 127.0.0.1: Serials: 0x400001CC; 
+11/9/2018 10:31:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:31:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000215 (AddonComponent) to (244, 461, 30)
+11/9/2018 10:31:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:31:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000215 (AddonComponent) to (249, 463, 30)
+11/9/2018 10:32:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:32:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (225, 475, 30) in Malas: "YewTree"
+11/9/2018 10:32:09 AM: 127.0.0.1: Serials: 0x400002A0; 
+11/9/2018 10:32:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:32:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000039F (AddonComponent) to (224, 475, 30)
+11/9/2018 10:32:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:32:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (230, 538, 25) in Malas: "YewTree"
+11/9/2018 10:32:35 AM: 127.0.0.1: Serials: 0x400003D9; 
+11/9/2018 10:32:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:32:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (256, 524, 25) in Malas: "YewTree"
+11/9/2018 10:32:46 AM: 127.0.0.1: Serials: 0x40000416; 
+11/9/2018 10:32:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:33:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (293, 507, 32) in Malas: "YewTree"
+11/9/2018 10:33:03 AM: 127.0.0.1: Serials: 0x40000448; 
+11/9/2018 10:33:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:33:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (306, 537, 11) in Malas: "YewTree"
+11/9/2018 10:33:22 AM: 127.0.0.1: Serials: 0x40000490; 
+11/9/2018 10:33:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:33:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400004AD (AddonComponent) to (307, 538, 9)
+11/9/2018 10:33:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:33:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400004AE (AddonComponent) to (306, 538, 8)
+11/9/2018 10:33:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:33:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400004AE (AddonComponent) to (305, 539, 4)
+11/9/2018 10:33:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:33:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400004AD (AddonComponent) to (305, 538, 7)
+11/9/2018 10:33:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:33:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400004A8 (AddonComponent) to (308, 538, 10)
+11/9/2018 10:33:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:33:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (329, 506, 25) in Malas: "YewTree"
+11/9/2018 10:33:48 AM: 127.0.0.1: Serials: 0x400005A0; 
+11/9/2018 10:33:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:33:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (316, 490, 25) in Malas: "YewTree"
+11/9/2018 10:33:57 AM: 127.0.0.1: Serials: 0x400005D1; 
+11/9/2018 10:33:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:34:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (336, 485, 25) in Malas: "YewTree"
+11/9/2018 10:34:07 AM: 127.0.0.1: Serials: 0x400006C6; 
+11/9/2018 10:34:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:34:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (349, 461, 30) in Malas: "YewTree"
+11/9/2018 10:34:14 AM: 127.0.0.1: Serials: 0x400007AF; 
+11/9/2018 10:34:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:34:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (365, 476, 27) in Malas: "YewTree"
+11/9/2018 10:34:24 AM: 127.0.0.1: Serials: 0x400007EC; 
+11/9/2018 10:34:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:34:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (392, 487, 0) in Malas: "YewTree"
+11/9/2018 10:34:35 AM: 127.0.0.1: Serials: 0x40000823; 
+11/9/2018 10:34:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:34:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (408, 482, 5) in Malas: "YewTree"
+11/9/2018 10:34:43 AM: 127.0.0.1: Serials: 0x40000865; 
+11/9/2018 10:34:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:34:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (399, 504, 8) in Malas: "YewTree"
+11/9/2018 10:34:49 AM: 127.0.0.1: Serials: 0x400008AB; 
+11/9/2018 10:34:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:34:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (356, 490, 2) in Malas: "YewTree"
+11/9/2018 10:34:59 AM: 127.0.0.1: Serials: 0x400008E9; 
+11/9/2018 10:35:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:35:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (346, 504, 2) in Malas: "YewTree"
+11/9/2018 10:35:05 AM: 127.0.0.1: Serials: 0x40000936; 
+11/9/2018 10:35:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:35:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (335, 517, 10) in Malas: "YewTree"
+11/9/2018 10:35:12 AM: 127.0.0.1: Serials: 0x40000A1C; 
+11/9/2018 10:35:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:35:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000A6C (AddonComponent) to (332, 518, 10)
+11/9/2018 10:35:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:35:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (358, 527, 3) in Malas: "YewTree"
+11/9/2018 10:35:28 AM: 127.0.0.1: Serials: 0x40000C1E; 
+11/9/2018 10:35:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (385, 522, 4) in Malas: "YewTree"
+11/9/2018 10:35:32 AM: 127.0.0.1: Serials: 0x40000C41; 
+11/9/2018 10:35:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:35:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:35:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (385, 554, 4) in Malas: "YewTree"
+11/9/2018 10:35:42 AM: 127.0.0.1: Serials: 0x40000D88; 
+11/9/2018 10:35:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:35:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (406, 551, 6) in Malas: "YewTree"
+11/9/2018 10:35:50 AM: 127.0.0.1: Serials: 0x40000DB9; 
+11/9/2018 10:35:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:35:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (398, 528, 2) in Malas: "YewTree"
+11/9/2018 10:35:59 AM: 127.0.0.1: Serials: 0x40000DE8; 
+11/9/2018 10:36:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:36:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (373, 498, 0) in Malas: "YewTree"
+11/9/2018 10:36:12 AM: 127.0.0.1: Serials: 0x40000ECD; 
+11/9/2018 10:36:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:36:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (275, 539, 9) in Malas: "YewTree"
+11/9/2018 10:36:30 AM: 127.0.0.1: Serials: 0x40000EFD; 
+11/9/2018 10:36:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (257, 546, 5) in Malas: "YewTree"
+11/9/2018 10:36:34 AM: 127.0.0.1: Serials: 0x40000F1A; 
+11/9/2018 10:36:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:36:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:36:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (235, 551, 9) in Malas: "YewTree"
+11/9/2018 10:36:49 AM: 127.0.0.1: Serials: 0x40000F7C; 
+11/9/2018 10:36:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:36:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000F98 (AddonComponent) to (238, 554, 4)
+11/9/2018 10:36:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:37:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (219, 563, 0) in Malas: "YewTree"
+11/9/2018 10:37:03 AM: 127.0.0.1: Serials: 0x40000FBC; 
+11/9/2018 10:37:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:37:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (198, 572, 0) in Malas: "YewTree"
+11/9/2018 10:37:10 AM: 127.0.0.1: Serials: 0x40001008; 
+11/9/2018 10:37:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:37:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (178, 596, 2) in Malas: "YewTree"
+11/9/2018 10:37:17 AM: 127.0.0.1: Serials: 0x40001047; 
+11/9/2018 10:37:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:37:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (143, 577, 10) in Malas: "YewTree"
+11/9/2018 10:37:26 AM: 127.0.0.1: Serials: 0x40001078; 
+11/9/2018 10:37:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:37:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (126, 602, 13) in Malas: "YewTree"
+11/9/2018 10:37:33 AM: 127.0.0.1: Serials: 0x400010A8; 
+11/9/2018 10:37:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:37:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (126, 624, 8) in Malas: "YewTree"
+11/9/2018 10:37:38 AM: 127.0.0.1: Serials: 0x400010D7; 
+11/9/2018 10:37:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:37:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (161, 560, 2) in Malas: "YewTree"
+11/9/2018 10:37:55 AM: 127.0.0.1: Serials: 0x400011FB; 
+11/9/2018 10:37:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:38:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (169, 542, 10) in Malas: "YewTree"
+11/9/2018 10:38:03 AM: 127.0.0.1: Serials: 0x40001303; 
+11/9/2018 10:38:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:38:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (176, 513, 10) in Malas: "YewTree"
+11/9/2018 10:38:11 AM: 127.0.0.1: Serials: 0x4000161E; 
+11/9/2018 10:38:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:38:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (206, 503, 10) in Malas: "YewTree"
+11/9/2018 10:38:18 AM: 127.0.0.1: Serials: 0x4000164F; 
+11/9/2018 10:38:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:38:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add talltree'
+11/9/2018 10:38:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (204, 556, 0) in Malas: "TallTree01Addon"
+11/9/2018 10:38:41 AM: 127.0.0.1: Serials: 0x4000167C; 
+11/9/2018 10:38:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:38:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (203, 505, 10) in Malas: "TallTree01Addon"
+11/9/2018 10:38:51 AM: 127.0.0.1: Serials: 0x40001698; 
+11/9/2018 10:38:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:38:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (192, 505, 10) in Malas: "TallTree02Addon"
+11/9/2018 10:38:57 AM: 127.0.0.1: Serials: 0x400016B5; 
+11/9/2018 10:39:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:39:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (190, 507, 10) in Malas: "TallTree05Addon"
+11/9/2018 10:39:04 AM: 127.0.0.1: Serials: 0x400016DD; 
+11/9/2018 10:39:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:39:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (175, 516, 10) in Malas: "TallTree05Addon"
+11/9/2018 10:39:11 AM: 127.0.0.1: Serials: 0x400016FC; 
+11/9/2018 10:39:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:39:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400016FF (AddonComponent) to (175, 524, 10)
+11/9/2018 10:39:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:39:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (163, 545, 5) in Malas: "TallTree03Addon"
+11/9/2018 10:39:27 AM: 127.0.0.1: Serials: 0x4000171D; 
+11/9/2018 10:39:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:39:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (210, 571, 0) in Malas: "TallTree02Addon"
+11/9/2018 10:39:39 AM: 127.0.0.1: Serials: 0x4000173F; 
+11/9/2018 10:39:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:39:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (247, 547, 14) in Malas: "TallTree03Addon"
+11/9/2018 10:39:49 AM: 127.0.0.1: Serials: 0x4000176F; 
+11/9/2018 10:39:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:40:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (201, 589, 3) in Malas: "TallTree04Addon"
+11/9/2018 10:40:03 AM: 127.0.0.1: Serials: 0x4000179E; 
+11/9/2018 10:40:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (203, 582, 4) in Malas: "TallTree01Addon"
+11/9/2018 10:40:05 AM: 127.0.0.1: Serials: 0x400017B5; 
+11/9/2018 10:40:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:40:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:40:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (160, 602, 0) in Malas: "TallTree03Addon"
+11/9/2018 10:40:15 AM: 127.0.0.1: Serials: 0x400017E5; 
+11/9/2018 10:40:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (169, 610, 0) in Malas: "TallTree01Addon"
+11/9/2018 10:40:19 AM: 127.0.0.1: Serials: 0x400017F3; 
+11/9/2018 10:40:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:40:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:40:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (128, 584, 4) in Malas: "TallTree03Addon"
+11/9/2018 10:40:28 AM: 127.0.0.1: Serials: 0x40001850; 
+11/9/2018 10:40:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:40:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (124, 610, 12) in Malas: "TallTree04Addon"
+11/9/2018 10:40:36 AM: 127.0.0.1: Serials: 0x40001877; 
+11/9/2018 10:40:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:40:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (129, 632, 6) in Malas: "TallTree05Addon"
+11/9/2018 10:40:44 AM: 127.0.0.1: Serials: 0x40001897; 
+11/9/2018 10:40:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:40:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (155, 617, 0) in Malas: "TallTree03Addon"
+11/9/2018 10:40:51 AM: 127.0.0.1: Serials: 0x400018B8; 
+11/9/2018 10:40:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:41:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (168, 579, 0) in Malas: "TallTree04Addon"
+11/9/2018 10:41:05 AM: 127.0.0.1: Serials: 0x400018DA; 
+11/9/2018 10:41:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (171, 565, 4) in Malas: "TallTree01Addon"
+11/9/2018 10:41:10 AM: 127.0.0.1: Serials: 0x40001917; 
+11/9/2018 10:41:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:41:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:41:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (179, 554, 3) in Malas: "TallTree01Addon"
+11/9/2018 10:41:18 AM: 127.0.0.1: Serials: 0x40001964; 
+11/9/2018 10:41:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (192, 556, 1) in Malas: "TallTree05Addon"
+11/9/2018 10:41:23 AM: 127.0.0.1: Serials: 0x40001985; 
+11/9/2018 10:41:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:41:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:41:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+11/9/2018 10:41:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (265, 539, 14) in Malas: "TallTree02Addon"
+11/9/2018 10:41:54 AM: 127.0.0.1: Serials: 0x400019C3; 
+11/9/2018 10:41:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:42:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (290, 535, 10) in Malas: "TallTree01Addon"
+11/9/2018 10:42:05 AM: 127.0.0.1: Serials: 0x400019E2; 
+11/9/2018 10:42:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:42:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (333, 534, 6) in Malas: "TallTree01Addon"
+11/9/2018 10:42:24 AM: 127.0.0.1: Serials: 0x400019FC; 
+11/9/2018 10:42:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:42:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (361, 510, 4) in Malas: "TallTree03Addon"
+11/9/2018 10:42:38 AM: 127.0.0.1: Serials: 0x40001A22; 
+11/9/2018 10:42:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (355, 497, 2) in Malas: "TallTree01Addon"
+11/9/2018 10:42:43 AM: 127.0.0.1: Serials: 0x40001A33; 
+11/9/2018 10:42:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:42:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:42:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (386, 494, 2) in Malas: "TallTree04Addon"
+11/9/2018 10:42:52 AM: 127.0.0.1: Serials: 0x40001A58; 
+11/9/2018 10:42:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:42:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (403, 485, 8) in Malas: "TallTree01Addon"
+11/9/2018 10:42:59 AM: 127.0.0.1: Serials: 0x40001A71; 
+11/9/2018 10:43:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:43:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:43:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40001A7A (AddonComponent) to (400, 485, 8)
+11/9/2018 10:43:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:43:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (429, 491, 12) in Malas: "TallTree05Addon"
+11/9/2018 10:43:14 AM: 127.0.0.1: Serials: 0x40001A8D; 
+11/9/2018 10:43:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:43:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (399, 514, 10) in Malas: "TallTree03Addon"
+11/9/2018 10:43:24 AM: 127.0.0.1: Serials: 0x40001AA7; 
+11/9/2018 10:43:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:43:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (376, 533, 5) in Malas: "TallTree01Addon"
+11/9/2018 10:43:32 AM: 127.0.0.1: Serials: 0x40001AC1; 
+11/9/2018 10:43:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:43:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (358, 536, 2) in Malas: "TallTree02Addon"
+11/9/2018 10:43:41 AM: 127.0.0.1: Serials: 0x40001ADA; 
+11/9/2018 10:43:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:43:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (401, 556, 18) in Malas: "TallTree02Addon"
+11/9/2018 10:43:56 AM: 127.0.0.1: Serials: 0x40001AF3; 
+11/9/2018 10:43:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:44:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (390, 562, 3) in Malas: "TallTree01Addon"
+11/9/2018 10:44:00 AM: 127.0.0.1: Serials: 0x40001B0A; 
+11/9/2018 10:44:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:44:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (390, 536, 9) in Malas: "TallTree03Addon"
+11/9/2018 10:44:11 AM: 127.0.0.1: Serials: 0x40001B23; 
+11/9/2018 10:44:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:44:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (372, 508, 0) in Malas: "TallTree02Addon"
+11/9/2018 10:44:19 AM: 127.0.0.1: Serials: 0x40001B44; 
+11/9/2018 10:44:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:44:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (387, 505, 4) in Malas: "TallTree01Addon"
+11/9/2018 10:44:29 AM: 127.0.0.1: Serials: 0x40001B66; 
+11/9/2018 10:44:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:44:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (373, 482, 22) in Malas: "TallTree03Addon"
+11/9/2018 10:44:38 AM: 127.0.0.1: Serials: 0x40001B83; 
+11/9/2018 10:44:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/9/2018 10:44:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40001B8C (AddonComponent) to (373, 483, 22)
+11/9/2018 10:44:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:44:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (343, 467, 25) in Malas: "TallTree01Addon"
+11/9/2018 10:44:58 AM: 127.0.0.1: Serials: 0x40001B9C; 
+11/9/2018 10:45:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:45:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (333, 490, 25) in Malas: "TallTree05Addon"
+11/9/2018 10:45:08 AM: 127.0.0.1: Serials: 0x40001BB8; 
+11/9/2018 10:45:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:45:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (314, 501, 25) in Malas: "TallTree03Addon"
+11/9/2018 10:45:17 AM: 127.0.0.1: Serials: 0x40001BD3; 
+11/9/2018 10:45:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:45:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (311, 524, 25) in Malas: "TallTree01Addon"
+11/9/2018 10:45:32 AM: 127.0.0.1: Serials: 0x40001BF0; 
+11/9/2018 10:45:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:45:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (287, 515, 30) in Malas: "TallTree01Addon"
+11/9/2018 10:45:41 AM: 127.0.0.1: Serials: 0x40001C09; 
+11/9/2018 10:45:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (297, 512, 30) in Malas: "TallTree01Addon"
+11/9/2018 10:45:43 AM: 127.0.0.1: Serials: 0x40001C1E; 
+11/9/2018 10:45:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:45:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:45:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (296, 525, 25) in Malas: "TallTree05Addon"
+11/9/2018 10:45:58 AM: 127.0.0.1: Serials: 0x40001C47; 
+11/9/2018 10:46:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:46:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (269, 517, 30) in Malas: "TallTree05Addon"
+11/9/2018 10:46:09 AM: 127.0.0.1: Serials: 0x40001C71; 
+11/9/2018 10:46:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:46:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (250, 530, 25) in Malas: "TallTree05Addon"
+11/9/2018 10:46:15 AM: 127.0.0.1: Serials: 0x40001C8A; 
+11/9/2018 10:46:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:46:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (235, 541, 25) in Malas: "TallTree03Addon"
+11/9/2018 10:46:22 AM: 127.0.0.1: Serials: 0x40001CA3; 
+11/9/2018 10:46:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:46:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (226, 520, 25) in Malas: "TallTree05Addon"
+11/9/2018 10:46:29 AM: 127.0.0.1: Serials: 0x40001CBC; 
+11/9/2018 10:46:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:46:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (233, 513, 25) in Malas: "TallTree03Addon"
+11/9/2018 10:46:33 AM: 127.0.0.1: Serials: 0x40001CD5; 
+11/9/2018 10:46:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:46:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (222, 508, 25) in Malas: "TallTree05Addon"
+11/9/2018 10:46:40 AM: 127.0.0.1: Serials: 0x40001CEE; 
+11/9/2018 10:46:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:46:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (228, 496, 25) in Malas: "TallTree01Addon"
+11/9/2018 10:46:43 AM: 127.0.0.1: Serials: 0x40001D07; 
+11/9/2018 10:46:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (216, 490, 26) in Malas: "TallTree01Addon"
+11/9/2018 10:46:46 AM: 127.0.0.1: Serials: 0x40001D14; 
+11/9/2018 10:46:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:46:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:46:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (209, 463, 30) in Malas: "TallTree01Addon"
+11/9/2018 10:46:55 AM: 127.0.0.1: Serials: 0x40001D39; 
+11/9/2018 10:46:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (199, 474, 30) in Malas: "TallTree03Addon"
+11/9/2018 10:46:58 AM: 127.0.0.1: Serials: 0x40001D47; 
+11/9/2018 10:47:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:47:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:47:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (205, 481, 26) in Malas: "TallTree04Addon"
+11/9/2018 10:47:05 AM: 127.0.0.1: Serials: 0x40001D6C; 
+11/9/2018 10:47:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:47:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (236, 461, 30) in Malas: "TallTree02Addon"
+11/9/2018 10:47:15 AM: 127.0.0.1: Serials: 0x40001D87; 
+11/9/2018 10:47:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:47:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (253, 469, 30) in Malas: "TallTree03Addon"
+11/9/2018 10:47:23 AM: 127.0.0.1: Serials: 0x40001DA1; 
+11/9/2018 10:47:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:47:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (264, 479, 30) in Malas: "TallTree05Addon"
+11/9/2018 10:47:30 AM: 127.0.0.1: Serials: 0x40001DBD; 
+11/9/2018 10:47:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:47:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (247, 501, 30) in Malas: "TallTree01Addon"
+11/9/2018 10:47:36 AM: 127.0.0.1: Serials: 0x40001DD6; 
+11/9/2018 10:47:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (258, 503, 30) in Malas: "TallTree02Addon"
+11/9/2018 10:47:39 AM: 127.0.0.1: Serials: 0x40001DE3; 
+11/9/2018 10:47:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:47:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:47:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (274, 477, 30) in Malas: "TallTree03Addon"
+11/9/2018 10:47:48 AM: 127.0.0.1: Serials: 0x40001E06; 
+11/9/2018 10:47:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:47:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (272, 499, 34) in Malas: "TallTree05Addon"
+11/9/2018 10:47:55 AM: 127.0.0.1: Serials: 0x40001E24; 
+11/9/2018 10:47:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:48:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (279, 488, 30) in Malas: "TallTree01Addon"
+11/9/2018 10:48:04 AM: 127.0.0.1: Serials: 0x40001E4C; 
+11/9/2018 10:48:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:48:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (287, 471, 30) in Malas: "TallTree01Addon"
+11/9/2018 10:48:13 AM: 127.0.0.1: Serials: 0x40001E73; 
+11/9/2018 10:48:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:48:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (270, 460, 30) in Malas: "TallTree03Addon"
+11/9/2018 10:48:20 AM: 127.0.0.1: Serials: 0x40001E8C; 
+11/9/2018 10:48:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (275, 457, 30) in Malas: "TallTree04Addon"
+11/9/2018 10:48:23 AM: 127.0.0.1: Serials: 0x40001E99; 
+11/9/2018 10:48:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:48:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:48:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (276, 466, 30) in Malas: "TallTree05Addon"
+11/9/2018 10:48:31 AM: 127.0.0.1: Serials: 0x40001EC5; 
+11/9/2018 10:48:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:48:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (309, 466, 30) in Malas: "TallTree05Addon"
+11/9/2018 10:48:39 AM: 127.0.0.1: Serials: 0x40002014; 
+11/9/2018 10:48:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:48:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (294, 487, 30) in Malas: "TallTree01Addon"
+11/9/2018 10:48:46 AM: 127.0.0.1: Serials: 0x40002031; 
+11/9/2018 10:48:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (302, 484, 30) in Malas: "TallTree02Addon"
+11/9/2018 10:48:49 AM: 127.0.0.1: Serials: 0x40002043; 
+11/9/2018 10:48:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:48:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:48:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (305, 479, 30) in Malas: "TallTree03Addon"
+11/9/2018 10:48:59 AM: 127.0.0.1: Serials: 0x4000206C; 
+11/9/2018 10:49:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:49:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+11/9/2018 10:49:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (214, 519, 10) in Malas: "TallTree01Addon"
+11/9/2018 10:49:40 AM: 127.0.0.1: Serials: 0x40002089; 
+11/9/2018 10:49:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:49:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (215, 545, 10) in Malas: "TallTree05Addon"
+11/9/2018 10:49:48 AM: 127.0.0.1: Serials: 0x400020A2; 
+11/9/2018 10:49:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+11/9/2018 10:50:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'freezemap '
+11/9/2018 10:50:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') invoking freeze for every item in Owner
+11/9/2018 10:50:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 10:50:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/9/2018 10:50:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/9/2018 11:51:03 AM
+
+11/9/2018 11:51:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 11:52:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 11:52:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 11:58:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 11:59:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 12:03:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 12:03:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/9/2018 12:03:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/9/2018 1:24:07 PM
+
+11/9/2018 1:24:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 1:24:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 1:26:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 1:26:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/9/2018 1:26:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/9/2018 1:36:48 PM
+
+11/9/2018 6:14:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 6:15:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 6:16:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 6:16:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 6:16:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/9/2018 6:16:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/9/2018 6:18:44 PM
+
+11/9/2018 6:18:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 6:19:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+11/9/2018 6:20:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/9/2018 6:21:26 PM
+
+11/9/2018 6:21:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 6:23:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/9/2018 6:24:13 PM
+
+11/9/2018 6:24:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 6:26:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/9/2018 6:26:45 PM
+
+11/9/2018 6:26:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 6:28:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/9/2018 6:28:39 PM
+
+11/9/2018 6:35:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 6:36:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 6:36:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 6:38:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/9/2018 6:39:11 PM
+
+11/9/2018 6:39:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 6:39:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 6:40:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 6:45:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 6:46:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 6:47:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pony'
+11/9/2018 6:47:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (235, 718, 6) in Malas: "PonyStatue"
+11/9/2018 6:47:52 PM: 127.0.0.1: Serials: 0x400008EB; 
+11/9/2018 7:07:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 7:10:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 7:11:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/9/2018 7:12:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 7:26:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 7:26:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/9/2018 7:26:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/9/2018 9:14:04 PM
+
+11/9/2018 9:14:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 9:14:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 9:15:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+11/9/2018 9:15:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 9:17:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+11/9/2018 9:20:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 9:20:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/9/2018 9:20:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/9/2018 10:23:02 PM
+
+11/9/2018 10:23:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 10:23:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/9/2018 10:23:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 10:23:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x42D "a mongbat" (no account)
+11/9/2018 10:24:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 10:24:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x597 "a hind" (no account)
+11/9/2018 10:25:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 10:25:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x50B "a blackthorn" (no account)
+11/9/2018 10:25:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 10:25:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x536 "a forest bat" (no account)
+11/9/2018 10:25:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 10:25:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x538 "a forest bat" (no account)
+11/9/2018 10:26:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 10:27:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/9/2018 10:27:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/9/2018 11:22:29 PM
+
+11/9/2018 11:22:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 11:23:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 11:23:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x514 "a blackthorn" (no account)
+11/9/2018 11:23:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 11:23:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4E1 "a chickadee" (no account)
+11/9/2018 11:23:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 11:23:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x539 "a forest bat" (no account)
+11/9/2018 11:25:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 11:25:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+11/9/2018 11:28:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 11:28:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4CD "a swallow" (no account)
+11/9/2018 11:28:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 11:28:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4C9 "a woodpecker" (no account)
+11/9/2018 11:29:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 11:29:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x5C8 "a hind" (no account)
+11/9/2018 11:29:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 11:29:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 11:29:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x5D6 "a horde minion" (no account)
+11/9/2018 11:29:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 11:29:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4D3 "a warbler" (no account)
+11/9/2018 11:29:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 11:29:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4D6 "a nuthatch" (no account)
+11/9/2018 11:29:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/9/2018 11:29:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4D1 "a nightingale" (no account)
+11/9/2018 11:29:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/9/2018 11:30:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/9/2018 11:30:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/9/2018 11:55:18 PM
+
+11/9/2018 11:55:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/9/2018 11:57:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3615 objects)
+11/9/2018 11:57:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+11/9/2018 11:57:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3615 objects
+11/10/2018 12:01:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/10/2018 12:01:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/10/2018 12:01:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

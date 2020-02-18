@@ -1,0 +1,26 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8935
+Time: 10/3/2018 12:26:08 AM
+Mobiles: 780
+Items: 10496
+Exception:
+System.ArgumentException: Type not found for header: 'FlameSpurtTrapTrap 0x1B71'
+   at Server.Commands.DecorationList.Read(StreamReader ip)
+   at Server.Commands.DecorationList.ReadAll(String path)
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps)
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e)
+   at Server.Commands.CommandSystem.Handle(Mobile from, String text, MessageType type)
+   at Server.Gumps.AdminGump.InvokeCommand(String c)
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info)
+   at Server.Network.PacketHandlers.DisplayGumpResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 71.215.60.141: (account = Zigholtul88) (mobile = 0x486 'Jade Emerald')

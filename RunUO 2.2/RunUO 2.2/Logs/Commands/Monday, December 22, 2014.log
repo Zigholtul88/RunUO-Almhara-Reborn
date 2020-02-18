@@ -1,0 +1,356 @@
+##############################
+Log started on 12/22/2014 5:31:56 PM
+
+12/22/2014 5:33:34 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'tele '
+12/22/2014 5:34:24 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 5:34:44 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add wizardshat'
+12/22/2014 5:34:45 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (2509, 1977, 0) in Malas: "wizardshat"
+12/22/2014 5:34:45 PM: 127.0.0.1: Serials: 0x400003A7; 
+12/22/2014 5:34:54 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set hue 658'
+12/22/2014 5:34:55 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'hue' of 0x400003A7 (WizardsHat) to '658'
+12/22/2014 5:35:06 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add elvenrobe'
+12/22/2014 5:35:07 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (2507, 1977, 0) in Malas: "elvenrobe"
+12/22/2014 5:35:07 PM: 127.0.0.1: Serials: 0x400003B4; 
+12/22/2014 5:35:14 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set hue 473'
+12/22/2014 5:35:15 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'hue' of 0x400003B4 (ElvenRobe) to '473'
+12/22/2014 5:35:27 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add robe'
+12/22/2014 5:35:28 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (2507, 1978, 0) in Malas: "robe"
+12/22/2014 5:35:28 PM: 127.0.0.1: Serials: 0x400003BD; 
+12/22/2014 5:35:31 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set hue 473'
+12/22/2014 5:35:31 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'hue' of 0x400003BD (Robe) to '473'
+12/22/2014 5:35:35 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add scrib'
+12/22/2014 5:35:45 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add reagentseller'
+12/22/2014 5:35:47 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (2508, 1977, 0) in Malas: "ElmhavenReagentSeller"
+12/22/2014 5:35:47 PM: 127.0.0.1: Serials: 0xA2; 
+12/22/2014 5:35:51 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'remove '
+12/22/2014 5:35:52 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') deleting 0xA2 "Osprey" (no account)
+12/22/2014 5:35:56 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add dyes'
+12/22/2014 5:35:57 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (2508, 1978, 0) in Malas: "dyes"
+12/22/2014 5:35:57 PM: 127.0.0.1: Serials: 0x400003D2; 
+12/22/2014 5:36:03 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add dyetub'
+12/22/2014 5:36:04 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (2507, 1977, 0) in Malas: "dyetub"
+12/22/2014 5:36:04 PM: 127.0.0.1: Serials: 0x400003D3; 
+12/22/2014 5:36:09 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add leatherdyetub'
+12/22/2014 5:36:11 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (2508, 1978, 0) in Malas: "leatherdyetub"
+12/22/2014 5:36:11 PM: 127.0.0.1: Serials: 0x400003D4; 
+12/22/2014 5:36:16 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add leathergloves'
+12/22/2014 5:36:17 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (2508, 1977, 0) in Malas: "leathergloves"
+12/22/2014 5:36:17 PM: 127.0.0.1: Serials: 0x400003D8; 
+12/22/2014 5:36:35 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 5:36:44 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set hue 2219'
+12/22/2014 5:36:45 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'hue' of 0x400003BD (Robe) to '2219'
+12/22/2014 5:36:46 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set hue 2219'
+12/22/2014 5:36:46 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'hue' of 0x400003A7 (WizardsHat) to '2219'
+12/22/2014 5:36:54 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add elvenboots'
+12/22/2014 5:36:55 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (2508, 1977, 0) in Malas: "elvenboots"
+12/22/2014 5:36:55 PM: 127.0.0.1: Serials: 0x400003F9; 
+12/22/2014 5:36:56 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set hue 2219'
+12/22/2014 5:36:57 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'hue' of 0x400003F9 (ElvenBoots) to '2219'
+12/22/2014 5:37:34 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set hue 2219'
+12/22/2014 5:37:36 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 5:38:42 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add ethereal'
+12/22/2014 5:38:49 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (2509, 1977, 0) in Malas: "EtherealSwampDragon"
+12/22/2014 5:38:49 PM: 127.0.0.1: Serials: 0x400004F0; 
+12/22/2014 5:39:33 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'go '
+12/22/2014 5:46:53 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add '
+12/22/2014 5:47:19 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'remove '
+12/22/2014 5:47:21 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'remove '
+12/22/2014 5:47:21 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') deleting 0x400003BD (Robe)
+12/22/2014 5:47:22 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'remove '
+12/22/2014 5:47:22 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') deleting 0x400003A7 (WizardsHat)
+12/22/2014 5:47:23 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'remove '
+12/22/2014 5:47:24 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') deleting 0x400003D8 (LeatherGloves)
+12/22/2014 5:47:25 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'remove '
+12/22/2014 5:47:25 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') deleting 0x400003F9 (ElvenBoots)
+12/22/2014 5:47:26 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'remove '
+12/22/2014 5:47:27 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') deleting 0x400003B4 (ElvenRobe)
+12/22/2014 5:47:31 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'Add WoodlandArms'
+12/22/2014 5:47:31 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (510, 688, 32) in Malas: "WoodlandArms"
+12/22/2014 5:47:31 PM: 127.0.0.1: Serials: 0x400006EE; 
+12/22/2014 5:47:52 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set str 100'
+12/22/2014 5:47:53 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'str' of 0x94 "Hassem Skyshadow" ('Zigholtul88') to '100'
+12/22/2014 5:47:56 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set dex 100'
+12/22/2014 5:47:57 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'dex' of 0x94 "Hassem Skyshadow" ('Zigholtul88') to '100'
+12/22/2014 5:48:00 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set dex 100'
+12/22/2014 5:48:00 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'dex' of 0x94 "Hassem Skyshadow" ('Zigholtul88') to '100'
+12/22/2014 5:48:12 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'Add WoodlandChest'
+12/22/2014 5:48:13 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (512, 688, 32) in Malas: "WoodlandChest"
+12/22/2014 5:48:13 PM: 127.0.0.1: Serials: 0x4000071F; 
+12/22/2014 5:48:17 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'Add WoodlandGloves'
+12/22/2014 5:48:18 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (512, 688, 32) in Malas: "WoodlandGloves"
+12/22/2014 5:48:18 PM: 127.0.0.1: Serials: 0x40000720; 
+12/22/2014 5:48:44 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'Add WingedHelm'
+12/22/2014 5:48:45 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (512, 688, 32) in Malas: "WingedHelm"
+12/22/2014 5:48:45 PM: 127.0.0.1: Serials: 0x4000072A; 
+12/22/2014 5:49:12 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'Add WoodlandGorget'
+12/22/2014 5:49:12 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (512, 687, 32) in Malas: "WoodlandGorget"
+12/22/2014 5:49:12 PM: 127.0.0.1: Serials: 0x40000736; 
+12/22/2014 5:49:13 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'Add WoodlandLegs'
+12/22/2014 5:49:13 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (512, 687, 32) in Malas: "WoodlandLegs"
+12/22/2014 5:49:13 PM: 127.0.0.1: Serials: 0x40000737; 
+12/22/2014 5:49:47 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'Add RadiantScimitar'
+12/22/2014 5:49:48 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (513, 687, 32) in Malas: "RadiantScimitar"
+12/22/2014 5:49:48 PM: 127.0.0.1: Serials: 0x4000073E; 
+12/22/2014 5:49:59 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'Add RadiantScimitar'
+12/22/2014 5:50:00 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (515, 687, 32) in Malas: "RadiantScimitar"
+12/22/2014 5:50:00 PM: 127.0.0.1: Serials: 0x4000074A; 
+12/22/2014 5:50:30 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add elvenboots'
+12/22/2014 5:50:31 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (515, 688, 32) in Malas: "elvenboots"
+12/22/2014 5:50:31 PM: 127.0.0.1: Serials: 0x40000754; 
+12/22/2014 5:50:37 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add cloak'
+12/22/2014 5:50:39 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (514, 687, 32) in Malas: "cloak"
+12/22/2014 5:50:39 PM: 127.0.0.1: Serials: 0x4000075A; 
+12/22/2014 5:51:14 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add woodlandbelt'
+12/22/2014 5:51:15 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (514, 687, 32) in Malas: "woodlandbelt"
+12/22/2014 5:51:15 PM: 127.0.0.1: Serials: 0x40000760; 
+12/22/2014 5:52:34 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 5:52:52 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 5:53:11 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 5:53:28 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 5:53:42 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 5:53:56 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add woodland'
+12/22/2014 6:00:51 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 6:01:26 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 6:01:38 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 6:01:51 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 6:02:04 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 6:02:13 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'props '
+12/22/2014 6:05:58 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add wanderer'
+12/22/2014 6:05:59 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (521, 668, 33) in Malas: "wanderer"
+12/22/2014 6:05:59 PM: 127.0.0.1: Serials: 0xBA; 
+12/22/2014 6:20:44 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add mldryad'
+12/22/2014 6:20:46 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (523, 667, 33) in Malas: "mldryad"
+12/22/2014 6:20:46 PM: 127.0.0.1: Serials: 0xBE; 
+12/22/2014 6:29:44 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'add lich'
+12/22/2014 6:29:45 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') building at (526, 665, 32) in Malas: "lich"
+12/22/2014 6:29:45 PM: 127.0.0.1: Serials: 0x20F; 
+12/22/2014 6:30:03 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set hits 500'
+12/22/2014 6:30:04 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'hits' of 0x94 "Hassem Skyshadow" ('Zigholtul88') to '500'
+12/22/2014 6:30:20 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'setallskills 100'
+12/22/2014 6:30:21 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'EverySkill.Base' of 0x94 "Hassem Skyshadow" ('Zigholtul88') to '100'
+12/22/2014 6:30:23 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'set hits 500'
+12/22/2014 6:30:23 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') set property 'hits' of 0x94 "Hassem Skyshadow" ('Zigholtul88') to '500'
+12/22/2014 6:30:40 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'kill '
+12/22/2014 6:30:41 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') killing 0x20F "a lich" (no account)
+12/22/2014 6:30:44 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'kill '
+12/22/2014 6:30:45 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') killing 0x4AF "a zombie" (no account)
+12/22/2014 6:41:51 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'sound '
+12/22/2014 6:41:54 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') playing sound 12 (toAll=True)
+12/22/2014 6:41:54 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'sound 12'
+12/22/2014 6:42:03 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') playing sound 1476 (toAll=True)
+12/22/2014 6:42:03 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'sound 1476'
+12/22/2014 6:42:21 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') playing sound 1475 (toAll=True)
+12/22/2014 6:42:21 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'sound 0x5c3'
+12/22/2014 6:42:23 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') playing sound 1475 (toAll=True)
+12/22/2014 6:42:23 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'sound 0x5c3'
+12/22/2014 6:42:25 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') playing sound 1475 (toAll=True)
+12/22/2014 6:42:25 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'sound 0x5c3'
+12/22/2014 6:43:49 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') playing sound 1306 (toAll=True)
+12/22/2014 6:43:49 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'sound 0x51a'
+12/22/2014 6:45:15 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') playing sound 491 (toAll=True)
+12/22/2014 6:45:15 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'sound 0x1eb'
+12/22/2014 6:54:32 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') playing sound 1284 (toAll=True)
+12/22/2014 6:54:32 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'sound 0x504'
+12/22/2014 6:55:15 PM: 127.0.0.1: Owner 0x94 "Hassem Skyshadow" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/22/2014 6:57:29 PM
+
+12/22/2014 6:57:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+12/22/2014 6:57:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+12/22/2014 6:57:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+12/22/2014 7:03:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+12/22/2014 7:04:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+12/22/2014 7:05:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+12/22/2014 7:05:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+12/22/2014 7:05:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+12/22/2014 7:06:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+12/22/2014 7:06:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+12/22/2014 7:06:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/22/2014 7:06:43 PM
+
+12/22/2014 7:06:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+12/22/2014 7:07:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+12/22/2014 7:14:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elandri'
+12/22/2014 7:14:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1224, 1056, 0) in Malas: "ElandrimNurShazFortressGuard"
+12/22/2014 7:14:12 PM: 127.0.0.1: Serials: 0x4E5; 
+12/22/2014 7:14:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+12/22/2014 7:14:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+12/22/2014 7:15:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'hide '
+12/22/2014 7:15:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') hiding 0x1 "Zigholtul" ('Zigholtul88')
+12/22/2014 7:15:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+12/22/2014 7:15:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x4E5 "Tauredhiel" (no account)
+12/22/2014 7:15:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'unhide '
+12/22/2014 7:15:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') unhiding 0x1 "Zigholtul" ('Zigholtul88')
+12/22/2014 7:15:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+12/22/2014 7:15:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x4E6 "a woodland guardian" (no account)
+12/22/2014 7:15:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+12/22/2014 7:15:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x4E8 "a woodland guardian" (no account)
+12/22/2014 7:15:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+12/22/2014 7:15:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x4E9 "a woodland guardian" (no account)
+12/22/2014 7:15:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+12/22/2014 7:15:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x4E7 "a woodland guardian" (no account)
+12/22/2014 7:16:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+12/22/2014 7:18:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 7:18:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0xBE "a dryad" (no account)
+12/22/2014 7:18:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+12/22/2014 7:18:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (506, 678, 32) in Malas: "beachbeetle"
+12/22/2014 7:18:59 PM: 127.0.0.1: Serials: 0x4EF; 
+12/22/2014 7:19:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+12/22/2014 7:19:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x4EF "a beach beetle" (no account)
+12/22/2014 7:22:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+12/22/2014 7:24:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add static 2989 set movable False hue 0 light Circle225'
+12/22/2014 7:24:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (499, 682, 32) in Malas: "static" "2989" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/22/2014 7:24:09 PM: 127.0.0.1: Serials: 0x40000B50; 
+12/22/2014 7:24:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+12/22/2014 7:24:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 7:24:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000B50 (Static)
+12/22/2014 7:25:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add static 2974 set movable False hue 0 light Circle225'
+12/22/2014 7:25:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (504, 678, 32) in Malas: "static" "2974" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/22/2014 7:25:07 PM: 127.0.0.1: Serials: 0x40000B5F; 
+12/22/2014 7:25:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add static 3010 set movable False hue 0 light Circle225'
+12/22/2014 7:25:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (504, 678, 32) in Malas: "static" "3010" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/22/2014 7:25:15 PM: 127.0.0.1: Serials: 0x40000B60; 
+12/22/2014 7:25:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+12/22/2014 7:26:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 7:26:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000B60 (Static)
+12/22/2014 7:26:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add static 2982 set movable False hue 0 light Circle225'
+12/22/2014 7:26:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (499, 697, 32) in Malas: "static" "2982" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/22/2014 7:26:48 PM: 127.0.0.1: Serials: 0x40000B92; 
+12/22/2014 7:26:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+12/22/2014 7:27:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 7:27:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000B92 (Static)
+12/22/2014 7:29:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+12/22/2014 7:30:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+12/22/2014 7:31:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+12/22/2014 7:31:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+12/22/2014 7:38:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+12/22/2014 7:41:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+12/22/2014 7:46:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+12/22/2014 7:46:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/22/2014 7:46:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/22/2014 9:31:20 PM
+
+12/22/2014 9:31:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add farma'
+12/22/2014 9:31:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add farmablede'
+12/22/2014 9:31:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (745, 574, 0) in Malas: "FarmableDesertEmerald"
+12/22/2014 9:31:51 PM: 127.0.0.1: Serials: 0x40000053; 
+12/22/2014 9:32:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 9:32:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000053 (FarmableDesertEmerald)
+12/22/2014 9:32:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (745, 574, 0) in Malas: "FarmableDesertEmerald"
+12/22/2014 9:32:11 PM: 127.0.0.1: Serials: 0x4000005C; 
+12/22/2014 9:33:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add desertemerald'
+12/22/2014 9:33:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (747, 574, 0) in Malas: "desertemerald"
+12/22/2014 9:33:26 PM: 127.0.0.1: Serials: 0x40000158; 
+12/22/2014 9:33:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add desertemerald'
+12/22/2014 9:33:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (747, 574, 0) in Malas: "desertemerald"
+12/22/2014 9:33:27 PM: 127.0.0.1: Serials: 0x40000163; 
+12/22/2014 9:33:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add desertemerald'
+12/22/2014 9:33:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (747, 574, 0) in Malas: "desertemerald"
+12/22/2014 9:33:28 PM: 127.0.0.1: Serials: 0x40000164; 
+12/22/2014 9:33:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add desertemerald'
+12/22/2014 9:33:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (747, 574, 0) in Malas: "desertemerald"
+12/22/2014 9:33:30 PM: 127.0.0.1: Serials: 0x40000166; 
+12/22/2014 9:33:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add desertemerald'
+12/22/2014 9:33:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (747, 574, 0) in Malas: "desertemerald"
+12/22/2014 9:33:31 PM: 127.0.0.1: Serials: 0x40000168; 
+12/22/2014 9:33:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+12/22/2014 9:33:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000168 (DesertEmerald)
+12/22/2014 9:33:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000166 (DesertEmerald)
+12/22/2014 9:33:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000164 (DesertEmerald)
+12/22/2014 9:33:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000163 (DesertEmerald)
+12/22/2014 9:33:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000158 (DesertEmerald)
+12/22/2014 9:33:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+12/22/2014 9:33:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000005C (FarmableDesertEmerald)
+12/22/2014 9:34:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/22/2014 9:36:32 PM
+
+12/22/2014 9:37:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add farmabledes'
+12/22/2014 9:37:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (745, 574, 0) in Malas: "FarmableDesertEmerald"
+12/22/2014 9:37:10 PM: 127.0.0.1: Serials: 0x40000158; 
+12/22/2014 9:37:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (746, 574, 0) in Malas: "FarmableDesertEmerald"
+12/22/2014 9:37:18 PM: 127.0.0.1: Serials: 0x40000164; 
+12/22/2014 9:37:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+12/22/2014 9:37:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000164 (FarmableDesertEmerald)
+12/22/2014 9:37:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000158 (FarmableDesertEmerald)
+12/22/2014 9:38:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+12/22/2014 9:39:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+12/22/2014 9:39:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+12/22/2014 9:40:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elandrimnur'
+12/22/2014 9:40:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (486, 679, 32) in Malas: "ElandrimNurShazScribe"
+12/22/2014 9:42:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (487, 677, 32) in Malas: "ElandrimNurShazScribe"
+12/22/2014 9:42:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (487, 677, 32) in Malas: "ElandrimNurShazScribe"
+12/22/2014 9:42:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (487, 677, 32) in Malas: "ElandrimNurShazScribe"
+12/22/2014 9:42:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (487, 677, 32) in Malas: "ElandrimNurShazScribe"
+12/22/2014 9:42:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (487, 677, 32) in Malas: "ElandrimNurShazScribe"
+12/22/2014 10:03:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:03:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000118B (Spawner)
+12/22/2014 10:04:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:04:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001189 (Spawner)
+12/22/2014 10:04:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:04:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000118A (Spawner)
+12/22/2014 10:04:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:04:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x21A "Silvlarn Bristleback" (no account)
+12/22/2014 10:04:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:04:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001188 (Spawner)
+12/22/2014 10:05:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:05:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000045A (Spawner)
+12/22/2014 10:05:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:05:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000455 (LocalizedSign)
+12/22/2014 10:05:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:05:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x374 "Melinhara Thornburch" (no account)
+12/22/2014 10:05:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:05:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000456 (Spawner)
+12/22/2014 10:05:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:05:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001178 (MetalDoor)
+12/22/2014 10:05:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+12/22/2014 10:05:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001179 (MetalDoor)
+12/22/2014 10:05:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000117B (MetalDoor)
+12/22/2014 10:05:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001181 (MetalDoor)
+12/22/2014 10:06:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000117E (MetalDoor)
+12/22/2014 10:06:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001185 (MetalDoor)
+12/22/2014 10:06:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000117F (MetalDoor)
+12/22/2014 10:06:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001186 (MetalDoor)
+12/22/2014 10:06:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001175 (MetalDoor)
+12/22/2014 10:06:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001174 (MetalDoor)
+12/22/2014 10:06:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000045B (LocalizedSign)
+12/22/2014 10:06:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000457 (LocalizedSign)
+12/22/2014 10:06:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000117A (MetalDoor)
+12/22/2014 10:06:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001173 (MetalDoor)
+12/22/2014 10:06:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4A2 "Shandra Greenbark" (no account)
+12/22/2014 10:06:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000458 (Spawner)
+12/22/2014 10:06:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4AA "Hassem Skyshadow" (no account)
+12/22/2014 10:06:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000459 (Spawner)
+12/22/2014 10:07:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+12/22/2014 10:07:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001180 (MetalDoor)
+12/22/2014 10:12:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add guardians'
+12/22/2014 10:12:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (717, 713, 3) in Malas: "GuardiansHorizonInvestmentBanker"
+12/22/2014 10:12:56 PM: 127.0.0.1: Serials: 0x508; 
+12/22/2014 10:13:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:13:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x508 "Bagu Boosh" (no account)
+12/22/2014 10:13:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (680, 722, 1) in Malas: "GuardiansHorizonInvestmentBanker"
+12/22/2014 10:13:25 PM: 127.0.0.1: Serials: 0x509; 
+12/22/2014 10:14:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:14:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001A5A (Corpse)
+12/22/2014 10:23:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+12/22/2014 10:23:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add apple 50'
+12/22/2014 10:23:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1283, 950, 2) in Malas: "apple" "50"
+12/22/2014 10:23:20 PM: 127.0.0.1: Serials: 0x40001D4A; 
+12/22/2014 10:23:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+12/22/2014 10:23:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'ItemID' of 0x40001D4A (Apple) to '9911'
+12/22/2014 10:24:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hue 16'
+12/22/2014 10:24:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hue' of 0x40001D65 (Apple) to '16'
+12/22/2014 10:31:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+12/22/2014 10:32:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+12/22/2014 10:32:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+12/22/2014 10:53:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+12/22/2014 10:53:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1160, 1039, 10) in Malas: "spawner"
+12/22/2014 10:53:49 PM: 127.0.0.1: Serials: 0x40001FA3; 
+12/22/2014 10:53:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+12/22/2014 10:54:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/22/2014 10:54:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001FA3 (Spawner)
+12/23/2014 1:03:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+12/23/2014 1:03:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/23/2014 1:03:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

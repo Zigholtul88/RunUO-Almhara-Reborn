@@ -1,0 +1,490 @@
+##############################
+Log started on 2/16/2016 12:29:44 PM
+
+2/16/2016 12:31:26 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/16/2016 12:32:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 12:32:40 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/16/2016 12:33:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 12:34:54 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/16/2016 12:35:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add clutter'
+2/16/2016 12:36:22 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 12:37:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 12:37:57 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add stoneburr'
+2/16/2016 12:38:30 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 12:39:00 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'tele '
+2/16/2016 12:39:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 12:39:07 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2495, 1755, 26) in Malas: "spawner"
+2/16/2016 12:39:07 PM: 127.0.0.1: Serials: 0x400007FA; 
+2/16/2016 12:39:10 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'tele '
+2/16/2016 12:39:14 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 12:40:18 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 12:41:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:41:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400007FA (Spawner)
+2/16/2016 12:41:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:41:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001A92 (Spawner)
+2/16/2016 12:41:48 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:41:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001AA3 (Spawner)
+2/16/2016 12:41:52 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:41:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001AA8 (Spawner)
+2/16/2016 12:41:57 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:41:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:42:07 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 12:42:57 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 12:44:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4610 set movable False hue 0 light Circle225'
+2/16/2016 12:44:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1773, 40) in Malas: "static" "4610" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:11 PM: 127.0.0.1: Serials: 0x400008F4; 
+2/16/2016 12:44:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4610 set movable False hue 0 light Circle225'
+2/16/2016 12:44:17 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2486, 1773, 40) in Malas: "static" "4610" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:17 PM: 127.0.0.1: Serials: 0x400008F5; 
+2/16/2016 12:44:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4609 set movable False hue 0 light Circle225'
+2/16/2016 12:44:23 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2486, 1776, 40) in Malas: "static" "4609" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:23 PM: 127.0.0.1: Serials: 0x400008FD; 
+2/16/2016 12:44:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4609 set movable False hue 0 light Circle225'
+2/16/2016 12:44:26 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1776, 40) in Malas: "static" "4609" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:26 PM: 127.0.0.1: Serials: 0x400008FE; 
+2/16/2016 12:44:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4611 set movable False hue 0 light Circle225'
+2/16/2016 12:44:30 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1775, 40) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:30 PM: 127.0.0.1: Serials: 0x40000900; 
+2/16/2016 12:44:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4611 set movable False hue 0 light Circle225'
+2/16/2016 12:44:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1774, 40) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:32 PM: 127.0.0.1: Serials: 0x40000901; 
+2/16/2016 12:44:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4611 set movable False hue 0 light Circle225'
+2/16/2016 12:44:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2486, 1774, 40) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:34 PM: 127.0.0.1: Serials: 0x40000902; 
+2/16/2016 12:44:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4611 set movable False hue 0 light Circle225'
+2/16/2016 12:44:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2486, 1775, 40) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:36 PM: 127.0.0.1: Serials: 0x40000903; 
+2/16/2016 12:44:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4612 set movable False hue 0 light Circle225'
+2/16/2016 12:44:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2485, 1773, 40) in Malas: "static" "4612" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:43 PM: 127.0.0.1: Serials: 0x4000090A; 
+2/16/2016 12:44:47 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4613 set movable False hue 0 light Circle225'
+2/16/2016 12:44:48 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2482, 1773, 40) in Malas: "static" "4613" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:48 PM: 127.0.0.1: Serials: 0x4000090B; 
+2/16/2016 12:44:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4614 set movable False hue 0 light Circle225'
+2/16/2016 12:44:52 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2483, 1773, 40) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:52 PM: 127.0.0.1: Serials: 0x40000962; 
+2/16/2016 12:44:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4614 set movable False hue 0 light Circle225'
+2/16/2016 12:44:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2484, 1773, 40) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 12:44:53 PM: 127.0.0.1: Serials: 0x40000963; 
+2/16/2016 12:45:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:45:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x4000090B (Static)
+2/16/2016 12:45:38 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:45:38 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40000962 (Static)
+2/16/2016 12:45:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:45:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40000963 (Static)
+2/16/2016 12:45:40 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:45:40 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x4000090A (Static)
+2/16/2016 12:47:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 12:47:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2470, 1674, 26) in Malas: "spawner"
+2/16/2016 12:47:53 PM: 127.0.0.1: Serials: 0x400009FA; 
+2/16/2016 12:47:56 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 12:47:58 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x400009FA (Spawner) to '0'
+2/16/2016 12:48:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add ingo'
+2/16/2016 12:48:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 12:49:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:49:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400009FA (Spawner)
+2/16/2016 12:53:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set x 2477'
+2/16/2016 12:53:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'x' of 0xC "Kain" ('Zigholtul88') to '2477'
+2/16/2016 12:53:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set y 1720'
+2/16/2016 12:53:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'y' of 0xC "Kain" ('Zigholtul88') to '1720'
+2/16/2016 12:54:07 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set x 2417'
+2/16/2016 12:54:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'x' of 0xC "Kain" ('Zigholtul88') to '2417'
+2/16/2016 12:54:26 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set x 2401'
+2/16/2016 12:54:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'x' of 0xC "Kain" ('Zigholtul88') to '2401'
+2/16/2016 12:54:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set y 1765'
+2/16/2016 12:54:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'y' of 0xC "Kain" ('Zigholtul88') to '1765'
+2/16/2016 12:55:38 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 12:55:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2473, 1794, 23) in Malas: "spawner"
+2/16/2016 12:55:39 PM: 127.0.0.1: Serials: 0x40000CB6; 
+2/16/2016 12:55:42 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 12:55:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x40000CB6 (Spawner) to '0'
+2/16/2016 12:55:58 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 12:56:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:56:33 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40000CB7 (Lockpick)
+2/16/2016 12:56:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 12:56:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40000CB6 (Spawner)
+2/16/2016 12:58:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'freezemap '
+2/16/2016 12:58:10 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') invoking freeze for every item in Owner
+2/16/2016 12:58:12 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+2/16/2016 12:58:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/16/2016 12:58:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/16/2016 12:59:28 PM
+
+2/16/2016 1:00:00 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+2/16/2016 1:00:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+2/16/2016 1:00:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/16/2016 1:00:23 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:00:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:00:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001270 (Spawner)
+2/16/2016 1:00:48 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:01:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:01:04 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x4000126E (Spawner)
+2/16/2016 1:01:19 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add lockpick 25'
+2/16/2016 1:01:20 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2478, 1784, 20) in Malas: "lockpick" "25"
+2/16/2016 1:01:20 PM: 127.0.0.1: Serials: 0x40001A92; 
+2/16/2016 1:01:48 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add gold 37'
+2/16/2016 1:01:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1773, 46) in Malas: "gold" "37"
+2/16/2016 1:01:49 PM: 127.0.0.1: Serials: 0x40001AA8; 
+2/16/2016 1:02:00 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add sturdypickaxe'
+2/16/2016 1:02:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1774, 46) in Malas: "sturdypickaxe"
+2/16/2016 1:02:01 PM: 127.0.0.1: Serials: 0x40001AB8; 
+2/16/2016 1:02:18 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add ingot'
+2/16/2016 1:02:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add dullcopperingot 17'
+2/16/2016 1:02:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1775, 46) in Malas: "dullcopperingot" "17"
+2/16/2016 1:02:31 PM: 127.0.0.1: Serials: 0x40001AC0; 
+2/16/2016 1:02:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:02:38 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001AC0 (DullCopperIngot)
+2/16/2016 1:02:40 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 1:02:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1775, 46) in Malas: "spawner"
+2/16/2016 1:02:41 PM: 127.0.0.1: Serials: 0x40001AC1; 
+2/16/2016 1:02:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:02:47 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x40001AC1 (Spawner) to '0'
+2/16/2016 1:03:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:03:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:03:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:03:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001AB8 (SturdyPickaxe)
+2/16/2016 1:03:38 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 1:03:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1774, 46) in Malas: "spawner"
+2/16/2016 1:03:39 PM: 127.0.0.1: Serials: 0x40001AD6; 
+2/16/2016 1:03:50 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:03:52 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x40001AD6 (Spawner) to '0'
+2/16/2016 1:04:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:04:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:04:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001AA8 (Gold)
+2/16/2016 1:04:42 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 1:04:42 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1773, 46) in Malas: "spawner"
+2/16/2016 1:04:42 PM: 127.0.0.1: Serials: 0x40001AF4; 
+2/16/2016 1:04:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:04:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x40001AF4 (Spawner) to '0'
+2/16/2016 1:05:17 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:05:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'm remove'
+2/16/2016 1:06:00 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001AF4 (Spawner)
+2/16/2016 1:06:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001AD6 (Spawner)
+2/16/2016 1:06:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001AC1 (Spawner)
+2/16/2016 1:07:46 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add clutter'
+2/16/2016 1:07:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 1:07:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2404, 1662, 23) in Malas: "spawner"
+2/16/2016 1:07:55 PM: 127.0.0.1: Serials: 0x40001B7F; 
+2/16/2016 1:07:58 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:08:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x40001B7F (Spawner) to '0'
+2/16/2016 1:08:15 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:08:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001B83 (Bag)
+2/16/2016 1:08:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+2/16/2016 1:08:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:08:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001B7F (Spawner)
+2/16/2016 1:08:38 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 1:09:00 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 1:09:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 1:09:33 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 1:10:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 1:10:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2405, 1670, 23) in Malas: "spawner"
+2/16/2016 1:10:03 PM: 127.0.0.1: Serials: 0x40001BD1; 
+2/16/2016 1:10:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:10:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x40001BD1 (Spawner) to '0'
+2/16/2016 1:10:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:10:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:10:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001BD1 (Spawner)
+2/16/2016 1:11:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add lanter'
+2/16/2016 1:11:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2417, 1665, 20) in Malas: "Lantern"
+2/16/2016 1:11:09 PM: 127.0.0.1: Serials: 0x40001BDF; 
+2/16/2016 1:11:19 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 1:11:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2418, 1664, 23) in Malas: "spawner"
+2/16/2016 1:11:21 PM: 127.0.0.1: Serials: 0x40001BF7; 
+2/16/2016 1:11:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 1:11:26 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x40001BF7 (Spawner) to '0'
+2/16/2016 1:11:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:11:52 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001BFD (NightSightScroll)
+2/16/2016 1:11:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:11:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001BF7 (Spawner)
+2/16/2016 1:11:54 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 1:11:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001BDF (Lantern)
+2/16/2016 1:13:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 3:31:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+2/16/2016 3:31:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2343, 1763, 20) in Malas: "static" "2662" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:31:35 PM: 127.0.0.1: Serials: 0x40002DFC; 
+2/16/2016 3:31:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2664 set movable False hue 0 light Circle225'
+2/16/2016 3:31:46 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2343, 1764, 20) in Malas: "static" "2664" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:31:46 PM: 127.0.0.1: Serials: 0x40002DFD; 
+2/16/2016 3:31:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawning'
+2/16/2016 3:32:04 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2345, 1763, 20) in Malas: "SpawningClutterDresser"
+2/16/2016 3:32:04 PM: 127.0.0.1: Serials: 0x40002E0B; 
+2/16/2016 3:32:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2621 set movable False hue 0 light Circle225'
+2/16/2016 3:32:17 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2346, 1763, 20) in Malas: "static" "2621" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:32:17 PM: 127.0.0.1: Serials: 0x40002E14; 
+2/16/2016 3:32:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:32:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002E14 (Static)
+2/16/2016 3:32:26 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2628 set movable False hue 0 light Circle225'
+2/16/2016 3:32:30 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2343, 1767, 20) in Malas: "static" "2628" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:32:30 PM: 127.0.0.1: Serials: 0x40002E15; 
+2/16/2016 3:32:33 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2629 set movable False hue 0 light Circle225'
+2/16/2016 3:32:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2343, 1766, 20) in Malas: "static" "2629" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:32:34 PM: 127.0.0.1: Serials: 0x40002E1A; 
+2/16/2016 3:32:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+2/16/2016 3:32:42 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x40002E15 (Static) to (2343, 1765, 20)
+2/16/2016 3:32:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+2/16/2016 3:32:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x40002E1A (Static) to (2345, 1764, 20)
+2/16/2016 3:32:47 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+2/16/2016 3:32:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x40002E15 (Static) to (2343, 1766, 20)
+2/16/2016 3:32:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+2/16/2016 3:32:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x40002E1A (Static) to (2343, 1765, 20)
+2/16/2016 3:33:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+2/16/2016 3:33:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2346, 1763, 20) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:33:16 PM: 127.0.0.1: Serials: 0x40002E26; 
+2/16/2016 3:33:26 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2896 set movable False hue 0 light Circle225'
+2/16/2016 3:33:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2346, 1764, 20) in Malas: "static" "2896" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:33:27 PM: 127.0.0.1: Serials: 0x40002E3A; 
+2/16/2016 3:33:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 3:33:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:34:00 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002E0B (SpawningClutterDresser)
+2/16/2016 3:34:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 3:34:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2343, 1766, 25) in Malas: "spawner"
+2/16/2016 3:34:29 PM: 127.0.0.1: Serials: 0x40002E4E; 
+2/16/2016 3:34:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 3:34:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x40002E4E (Spawner) to '0'
+2/16/2016 3:34:52 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:34:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002E53 (SpawningClutterJewelryBox)
+2/16/2016 3:34:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 3:35:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:35:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002E4E (Spawner)
+2/16/2016 3:36:23 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6585 set movable False hue 0 light Circle225'
+2/16/2016 3:36:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2360, 1797, 26) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:36:24 PM: 127.0.0.1: Serials: 0x40002E75; 
+2/16/2016 3:36:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6585 set movable False hue 0 light Circle225'
+2/16/2016 3:36:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2360, 1798, 26) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:36:27 PM: 127.0.0.1: Serials: 0x40002E76; 
+2/16/2016 3:36:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6585 set movable False hue 0 light Circle225'
+2/16/2016 3:36:52 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2293, 1790, 26) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:36:52 PM: 127.0.0.1: Serials: 0x40002E82; 
+2/16/2016 3:36:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6585 set movable False hue 0 light Circle225'
+2/16/2016 3:36:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2303, 1788, 26) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:36:55 PM: 127.0.0.1: Serials: 0x40002E84; 
+2/16/2016 3:36:58 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+2/16/2016 3:36:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x40002E82 (Static) to (2292, 1789, 26)
+2/16/2016 3:37:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6585 set movable False hue 0 light Circle225'
+2/16/2016 3:37:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2292, 1790, 26) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:02 PM: 127.0.0.1: Serials: 0x40002E85; 
+2/16/2016 3:37:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6585 set movable False hue 0 light Circle225'
+2/16/2016 3:37:04 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2302, 1788, 26) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:04 PM: 127.0.0.1: Serials: 0x40002E86; 
+2/16/2016 3:37:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6585 set movable False hue 0 light Circle225'
+2/16/2016 3:37:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2304, 1788, 26) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:05 PM: 127.0.0.1: Serials: 0x40002E8D; 
+2/16/2016 3:37:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:37:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002E8D (Static)
+2/16/2016 3:37:22 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Multi Add static 6586 set movable False hue 0 light Circle225'
+2/16/2016 3:37:23 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2300, 1788, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:23 PM: 127.0.0.1: Serials: 0x40002E95; 
+2/16/2016 3:37:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2294, 1792, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:24 PM: 127.0.0.1: Serials: 0x40002E98; 
+2/16/2016 3:37:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2305, 1790, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:27 PM: 127.0.0.1: Serials: 0x40002E99; 
+2/16/2016 3:37:28 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2305, 1786, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:28 PM: 127.0.0.1: Serials: 0x40002E9A; 
+2/16/2016 3:37:30 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6583 set movable False hue 0 light Circle225'
+2/16/2016 3:37:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2296, 1787, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:31 PM: 127.0.0.1: Serials: 0x40002E9B; 
+2/16/2016 3:37:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6583 set movable False hue 0 light Circle225'
+2/16/2016 3:37:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2304, 1791, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:32 PM: 127.0.0.1: Serials: 0x40002E9C; 
+2/16/2016 3:37:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6583 set movable False hue 0 light Circle225'
+2/16/2016 3:37:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2293, 1793, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:34 PM: 127.0.0.1: Serials: 0x40002E9D; 
+2/16/2016 3:37:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6583 set movable False hue 0 light Circle225'
+2/16/2016 3:37:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2290, 1788, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:37:37 PM: 127.0.0.1: Serials: 0x40002E9E; 
+2/16/2016 3:38:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 3:38:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2298, 1777, 26) in Malas: "spawner"
+2/16/2016 3:38:12 PM: 127.0.0.1: Serials: 0x40002EB9; 
+2/16/2016 3:38:19 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 3:38:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:38:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002E5C (StoneBurrowMinesTreasureChest1)
+2/16/2016 3:38:28 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 3:38:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x40002EB9 (Spawner) to '0'
+2/16/2016 3:38:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 3:39:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:39:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002EB9 (Spawner)
+2/16/2016 3:39:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spawner'
+2/16/2016 3:39:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2303, 1777, 26) in Malas: "spawner"
+2/16/2016 3:39:25 PM: 127.0.0.1: Serials: 0x40002ECE; 
+2/16/2016 3:39:28 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 3:39:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add potion'
+2/16/2016 3:40:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add strengthpot'
+2/16/2016 3:41:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+2/16/2016 3:41:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x40002ECE (Spawner) to (2300, 1777, 26)
+2/16/2016 3:41:13 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+2/16/2016 3:41:14 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x40002ECE (Spawner) to (2301, 1777, 26)
+2/16/2016 3:41:20 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 3:41:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'HomeRange' of 0x40002ECE (Spawner) to '0'
+2/16/2016 3:41:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 3:41:50 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add strengthpot'
+2/16/2016 3:41:58 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add nightsig'
+2/16/2016 3:42:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:42:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002F0B (NightSightPotion)
+2/16/2016 3:42:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:42:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002ECE (Spawner)
+2/16/2016 3:43:14 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/16/2016 3:44:19 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 3:44:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Multi Add static 6586 set movable False hue 0 light Circle225'
+2/16/2016 3:44:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2514, 1692, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:45 PM: 127.0.0.1: Serials: 0x40002F50; 
+2/16/2016 3:44:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2507, 1701, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:45 PM: 127.0.0.1: Serials: 0x40002F51; 
+2/16/2016 3:44:46 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2515, 1702, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:46 PM: 127.0.0.1: Serials: 0x40002F52; 
+2/16/2016 3:44:46 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2520, 1695, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:46 PM: 127.0.0.1: Serials: 0x40002F53; 
+2/16/2016 3:44:47 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2510, 1695, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:47 PM: 127.0.0.1: Serials: 0x40002F54; 
+2/16/2016 3:44:47 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2512, 1700, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:47 PM: 127.0.0.1: Serials: 0x40002F55; 
+2/16/2016 3:44:48 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2516, 1697, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:48 PM: 127.0.0.1: Serials: 0x40002F56; 
+2/16/2016 3:44:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2507, 1702, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:49 PM: 127.0.0.1: Serials: 0x40002F5B; 
+2/16/2016 3:44:50 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2508, 1702, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:50 PM: 127.0.0.1: Serials: 0x40002F5C; 
+2/16/2016 3:44:54 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Multi Add static 6583 set movable False hue 0 light Circle225'
+2/16/2016 3:44:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2515, 1691, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:55 PM: 127.0.0.1: Serials: 0x40002F5E; 
+2/16/2016 3:44:57 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2517, 1697, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:57 PM: 127.0.0.1: Serials: 0x40002F5F; 
+2/16/2016 3:44:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2510, 1694, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:44:59 PM: 127.0.0.1: Serials: 0x40002F60; 
+2/16/2016 3:45:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2505, 1701, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:01 PM: 127.0.0.1: Serials: 0x40002F61; 
+2/16/2016 3:45:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2513, 1700, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:02 PM: 127.0.0.1: Serials: 0x40002F62; 
+2/16/2016 3:45:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2512, 1698, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:03 PM: 127.0.0.1: Serials: 0x40002F63; 
+2/16/2016 3:45:04 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2513, 1699, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:04 PM: 127.0.0.1: Serials: 0x40002F64; 
+2/16/2016 3:45:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Multi Add static 6585 set movable False hue 0 light Circle225'
+2/16/2016 3:45:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2513, 1698, 20) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:09 PM: 127.0.0.1: Serials: 0x40002F65; 
+2/16/2016 3:45:10 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2514, 1698, 20) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:10 PM: 127.0.0.1: Serials: 0x40002F66; 
+2/16/2016 3:45:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2514, 1699, 20) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:11 PM: 127.0.0.1: Serials: 0x40002F67; 
+2/16/2016 3:45:12 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2515, 1698, 20) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:12 PM: 127.0.0.1: Serials: 0x40002F68; 
+2/16/2016 3:45:14 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2514, 1697, 20) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:14 PM: 127.0.0.1: Serials: 0x40002F69; 
+2/16/2016 3:45:15 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2515, 1697, 20) in Malas: "static" "6585" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:15 PM: 127.0.0.1: Serials: 0x40002F6A; 
+2/16/2016 3:45:20 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6586 set movable False hue 0 light Circle225'
+2/16/2016 3:45:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2516, 1698, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:21 PM: 127.0.0.1: Serials: 0x40002F7C; 
+2/16/2016 3:45:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6586 set movable False hue 0 light Circle225'
+2/16/2016 3:45:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2513, 1697, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:25 PM: 127.0.0.1: Serials: 0x40002F7D; 
+2/16/2016 3:45:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6586 set movable False hue 0 light Circle225'
+2/16/2016 3:45:28 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2515, 1696, 20) in Malas: "static" "6586" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:28 PM: 127.0.0.1: Serials: 0x40002F7E; 
+2/16/2016 3:45:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6583 set movable False hue 0 light Circle225'
+2/16/2016 3:45:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2516, 1695, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:32 PM: 127.0.0.1: Serials: 0x40002F7F; 
+2/16/2016 3:45:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 6583 set movable False hue 0 light Circle225'
+2/16/2016 3:45:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2514, 1700, 20) in Malas: "static" "6583" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:45:35 PM: 127.0.0.1: Serials: 0x40002F80; 
+2/16/2016 3:45:57 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4014 set movable False hue 0 light Circle225'
+2/16/2016 3:46:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2519, 1702, 20) in Malas: "static" "4014" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:46:02 PM: 127.0.0.1: Serials: 0x40002F9B; 
+2/16/2016 3:46:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 3644 set movable False hue 0 light Circle225'
+2/16/2016 3:46:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2519, 1703, 20) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:46:09 PM: 127.0.0.1: Serials: 0x40002FA6; 
+2/16/2016 3:46:18 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 3644 set movable False hue 0 light Circle225'
+2/16/2016 3:46:19 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2510, 1691, 20) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:46:19 PM: 127.0.0.1: Serials: 0x40002FA7; 
+2/16/2016 3:46:23 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 3645 set movable False hue 0 light Circle225'
+2/16/2016 3:46:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2518, 1693, 20) in Malas: "static" "3645" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:46:24 PM: 127.0.0.1: Serials: 0x40002FA8; 
+2/16/2016 3:46:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Multi Add static 3644 set movable False hue 0 light Circle225'
+2/16/2016 3:47:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2477, 1669, 20) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:47:01 PM: 127.0.0.1: Serials: 0x40002FB9; 
+2/16/2016 3:47:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2477, 1669, 20) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:47:02 PM: 127.0.0.1: Serials: 0x40002FBA; 
+2/16/2016 3:47:04 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2477, 1669, 23) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:47:04 PM: 127.0.0.1: Serials: 0x40002FBB; 
+2/16/2016 3:47:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'm remove'
+2/16/2016 3:47:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002FBB (Static)
+2/16/2016 3:47:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002FBA (Static)
+2/16/2016 3:47:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Multi Add static 3644 set movable False hue 0 light Circle225'
+2/16/2016 3:47:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2477, 1669, 23) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:47:11 PM: 127.0.0.1: Serials: 0x40002FC3; 
+2/16/2016 3:47:12 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2477, 1670, 20) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:47:12 PM: 127.0.0.1: Serials: 0x40002FC4; 
+2/16/2016 3:47:15 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2477, 1672, 20) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:47:15 PM: 127.0.0.1: Serials: 0x40002FC5; 
+2/16/2016 3:47:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2477, 1673, 20) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:47:16 PM: 127.0.0.1: Serials: 0x40002FC6; 
+2/16/2016 3:47:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2477, 1672, 23) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:47:16 PM: 127.0.0.1: Serials: 0x40002FC7; 
+2/16/2016 3:47:23 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 3647 set movable False hue 0 light Circle225'
+2/16/2016 3:47:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2477, 1670, 23) in Malas: "static" "3647" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:47:27 PM: 127.0.0.1: Serials: 0x40002FC8; 
+2/16/2016 3:48:42 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/16/2016 3:49:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add earth'
+2/16/2016 3:50:26 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 3:51:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+2/16/2016 3:52:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2471, 1668, 20) in Malas: "static" "2662" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:52:08 PM: 127.0.0.1: Serials: 0x40003026; 
+2/16/2016 3:52:17 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2664 set movable False hue 0 light Circle225'
+2/16/2016 3:52:18 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2471, 1669, 20) in Malas: "static" "2664" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:52:18 PM: 127.0.0.1: Serials: 0x40003033; 
+2/16/2016 3:52:52 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4613 set movable False hue 0 light Circle225'
+2/16/2016 3:52:54 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1668, 20) in Malas: "static" "4613" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:52:54 PM: 127.0.0.1: Serials: 0x40003047; 
+2/16/2016 3:52:58 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4612 set movable False hue 0 light Circle225'
+2/16/2016 3:53:00 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2485, 1668, 20) in Malas: "static" "4612" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:53:00 PM: 127.0.0.1: Serials: 0x40003051; 
+2/16/2016 3:53:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4614 set movable False hue 0 light Circle225'
+2/16/2016 3:53:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2484, 1668, 20) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:53:06 PM: 127.0.0.1: Serials: 0x40003052; 
+2/16/2016 3:53:07 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4614 set movable False hue 0 light Circle225'
+2/16/2016 3:53:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2483, 1668, 20) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:53:08 PM: 127.0.0.1: Serials: 0x40003053; 
+2/16/2016 3:53:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4614 set movable False hue 0 light Circle225'
+2/16/2016 3:53:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2482, 1668, 20) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:53:09 PM: 127.0.0.1: Serials: 0x40003054; 
+2/16/2016 3:53:19 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Multi Add static 3644 set movable False hue 0 light Circle225'
+2/16/2016 3:53:20 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1669, 20) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:53:20 PM: 127.0.0.1: Serials: 0x40003055; 
+2/16/2016 3:53:22 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1670, 20) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:53:22 PM: 127.0.0.1: Serials: 0x40003056; 
+2/16/2016 3:53:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:53:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40003055 (Static)
+2/16/2016 3:53:28 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Multi Add static 3644 set movable False hue 0 light Circle225'
+2/16/2016 3:53:28 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1671, 20) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:53:28 PM: 127.0.0.1: Serials: 0x40003057; 
+2/16/2016 3:53:30 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2481, 1670, 23) in Malas: "static" "3644" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:53:30 PM: 127.0.0.1: Serials: 0x40003058; 
+2/16/2016 3:53:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add dress'
+2/16/2016 3:54:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2474, 1668, 20) in Malas: "SpawningClutterDresser"
+2/16/2016 3:54:01 PM: 127.0.0.1: Serials: 0x40003060; 
+2/16/2016 3:54:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 3:54:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/16/2016 3:54:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40003060 (SpawningClutterDresser)
+2/16/2016 3:54:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2620 set movable False hue 0 light Circle225'
+2/16/2016 3:55:00 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2473, 1668, 20) in Malas: "static" "2620" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:55:00 PM: 127.0.0.1: Serials: 0x40003070; 
+2/16/2016 3:55:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2621 set movable False hue 0 light Circle225'
+2/16/2016 3:55:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2472, 1668, 20) in Malas: "static" "2621" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:55:05 PM: 127.0.0.1: Serials: 0x40003071; 
+2/16/2016 3:55:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+2/16/2016 3:55:22 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2473, 1669, 20) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:55:22 PM: 127.0.0.1: Serials: 0x40003077; 
+2/16/2016 3:55:30 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2879 set movable False hue 0 light Circle225'
+2/16/2016 3:55:33 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2471, 1671, 20) in Malas: "static" "2879" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:55:33 PM: 127.0.0.1: Serials: 0x40003079; 
+2/16/2016 3:55:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2612 set movable False hue 0 light Circle225'
+2/16/2016 3:55:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2471, 1670, 20) in Malas: "static" "2612" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/16/2016 3:55:44 PM: 127.0.0.1: Serials: 0x4000307C; 
+2/16/2016 3:56:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add wandering'
+2/16/2016 3:56:40 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 2612 set movable False hue 0 light Circle225'
+2/16/2016 3:56:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/16/2016 4:04:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'freezemap '
+2/16/2016 4:04:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') invoking freeze for every item in Owner
+2/16/2016 4:04:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+2/16/2016 4:04:40 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/16/2016 4:04:40 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'save '

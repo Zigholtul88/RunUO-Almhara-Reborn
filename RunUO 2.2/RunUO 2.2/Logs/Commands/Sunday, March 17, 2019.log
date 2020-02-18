@@ -1,0 +1,759 @@
+##############################
+Log started on 3/17/2019 1:14:51 AM
+
+3/17/2019 1:17:29 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+3/17/2019 1:17:34 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add bharlim'
+3/17/2019 1:17:39 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (664, 1429, 15) in Malas: "BharlimPassageTeleporter"
+3/17/2019 1:17:39 AM: 127.0.0.1: Serials: 0x4000006D; 
+3/17/2019 1:17:53 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+3/17/2019 1:17:53 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x4000006D (BharlimPassageTeleporter)
+3/17/2019 1:17:55 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+3/17/2019 1:18:08 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'wipe '
+3/17/2019 1:18:11 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') wiping from (1295, 1496, 24) to (1301, 1498, 31) in Malas (Items, Mobiles)
+3/17/2019 1:19:06 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+3/17/2019 1:19:11 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'wipe '
+3/17/2019 1:19:14 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') wiping from (604, 1838, -10) to (609, 1842, 2) in Malas (Items, Mobiles)
+3/17/2019 1:19:19 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'wipe '
+3/17/2019 1:19:23 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') wiping from (599, 1836, -12) to (609, 1843, -9) in Malas (Items, Mobiles)
+3/17/2019 1:19:45 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+3/17/2019 1:19:49 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+3/17/2019 1:19:53 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+3/17/2019 1:19:58 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:20:06 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+3/17/2019 1:20:24 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+3/17/2019 1:20:56 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:21:52 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/17/2019 1:25:11 AM
+
+3/17/2019 1:25:19 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+3/17/2019 1:25:23 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+3/17/2019 1:25:27 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:25:35 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'wipe '
+3/17/2019 1:25:37 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') wiping from (1293, 1495, 12) to (1302, 1499, 18) in Malas (Items, Mobiles)
+3/17/2019 1:25:41 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+3/17/2019 1:25:45 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+3/17/2019 1:25:53 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:38:11 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:38:16 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:38:19 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/17/2019 1:41:00 AM
+
+3/17/2019 1:41:08 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+3/17/2019 1:41:15 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+3/17/2019 1:41:21 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:41:38 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:41:45 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:41:53 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:42:28 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:42:39 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:42:58 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:43:51 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'FactionArachnidAerials' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:44:00 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:44:08 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:44:21 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'FactionArachnidAerials' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:44:29 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:44:38 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:44:43 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:46:17 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/17/2019 1:49:06 AM
+
+3/17/2019 1:49:15 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+3/17/2019 1:49:18 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+3/17/2019 1:49:24 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'FactionArachnidAerials' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:49:44 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'FactionArachnidAerials' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:49:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'FactionGameMasterClub' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:49:49 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'FactionGameMasterClub' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:49:57 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'FactionGameMasterClub' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:50:01 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'FactionFaboilepFury' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:50:11 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'FactionFaboilepFury' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:50:14 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:50:30 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 1:50:39 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:50:44 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 1:53:37 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+3/17/2019 1:53:42 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/17/2019 1:53:45 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/17/2019 2:10:29 AM
+
+##############################
+Log started on 3/17/2019 2:31:22 AM
+
+3/17/2019 2:31:46 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+3/17/2019 2:34:39 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+3/17/2019 2:34:59 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'wipe '
+3/17/2019 2:35:00 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') wiping from (1061, 884, -5) to (1068, 888, 15) in Malas (Items, Mobiles)
+3/17/2019 2:35:16 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+3/17/2019 2:35:20 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+3/17/2019 2:36:21 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+3/17/2019 2:36:24 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+3/17/2019 2:36:28 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 2:36:32 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 2:36:57 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 2:37:03 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'True'
+3/17/2019 2:37:39 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add unicorn'
+3/17/2019 2:37:40 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1026, 1361, 0) in Tokuno: "unicorn"
+3/17/2019 2:37:41 AM: 71.208.56.129: Serials: 0x3; 
+3/17/2019 2:37:46 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+3/17/2019 2:37:47 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x3 "a unicorn" (no account)
+3/17/2019 2:37:50 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add kirin'
+3/17/2019 2:37:51 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1025, 1360, 0) in Tokuno: "kirin"
+3/17/2019 2:37:51 AM: 71.208.56.129: Serials: 0x4; 
+3/17/2019 2:37:53 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+3/17/2019 2:37:54 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x4 "a ki-rin" (no account)
+3/17/2019 2:47:49 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add zebra'
+3/17/2019 2:47:50 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (664, 1400, 15) in Malas: "zebra"
+3/17/2019 2:47:50 AM: 71.208.56.129: Serials: 0x5; 
+3/17/2019 2:47:52 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+3/17/2019 2:48:02 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+3/17/2019 2:48:03 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x5 "a zebra" (no account)
+3/17/2019 2:50:12 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+3/17/2019 2:51:40 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/17/2019 2:56:02 AM
+
+3/17/2019 2:56:10 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+3/17/2019 2:56:14 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+3/17/2019 2:56:21 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+3/17/2019 2:56:27 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 2:56:31 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 2:57:44 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/17/2019 3:00:20 AM
+
+3/17/2019 3:00:28 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+3/17/2019 3:01:21 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'tele '
+3/17/2019 3:07:54 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+3/17/2019 3:09:35 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x1A "Kryss" ('Zigholtul88') to 'False'
+3/17/2019 3:09:41 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'm remove'
+3/17/2019 3:09:44 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x4000011E (ZaythalorTicketConnectionBox)
+3/17/2019 3:09:45 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000151 (ZaythalorTicketConnectionBox)
+3/17/2019 3:09:45 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x4000014F (ZaythalorTicketConnectionBox)
+3/17/2019 3:09:46 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000150 (ZaythalorTicketConnectionBox)
+3/17/2019 3:11:30 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/17/2019 3:14:07 AM
+
+3/17/2019 3:14:15 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+3/17/2019 3:14:19 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+3/17/2019 3:15:32 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add bagofzayth'
+3/17/2019 3:15:34 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (662, 1413, 15) in Malas: "BagOfZaythalorTickets"
+3/17/2019 3:15:34 AM: 71.208.56.129: Serials: 0x40000179; 
+3/17/2019 3:22:16 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'kill '
+3/17/2019 3:22:17 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') killing 0x14 "a sand kraken" (no account)
+3/17/2019 3:25:32 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add talltree'
+3/17/2019 3:25:38 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (902, 1130, 9) in Malas: "TallTree02Addon"
+3/17/2019 3:25:38 AM: 71.208.56.129: Serials: 0x400002CA; 
+3/17/2019 3:25:53 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:25:55 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (898, 1130, 2)
+3/17/2019 3:25:57 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:25:58 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (896, 1128, 4)
+3/17/2019 3:25:59 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:26:00 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (898, 1130, 2)
+3/17/2019 3:26:02 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:26:03 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (899, 1130, 3)
+3/17/2019 3:26:05 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:26:05 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (899, 1130, 3)
+3/17/2019 3:26:07 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:26:07 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (898, 1130, 2)
+3/17/2019 3:26:08 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:26:09 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (899, 1130, 3)
+3/17/2019 3:26:10 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:26:12 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (902, 1131, 1)
+3/17/2019 3:26:14 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:26:16 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (904, 1131, 2)
+3/17/2019 3:26:19 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:26:20 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (895, 1129, 2)
+3/17/2019 3:26:24 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:26:25 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002DC (AddonComponent) to (896, 1128, 4)
+3/17/2019 3:26:32 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:26:39 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (879, 1132, 2) in Malas: "TallTree03Addon"
+3/17/2019 3:26:39 AM: 71.208.56.129: Serials: 0x400002EB; 
+3/17/2019 3:26:42 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:26:44 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002F6 (AddonComponent) to (882, 1136, 40)
+3/17/2019 3:26:47 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:26:55 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (905, 1132, 0) in Malas: "TallTree04Addon"
+3/17/2019 3:26:55 AM: 71.208.56.129: Serials: 0x40000315; 
+3/17/2019 3:27:01 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:27:03 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000327 (AddonComponent) to (906, 1132, 2)
+3/17/2019 3:27:05 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:27:07 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000327 (AddonComponent) to (905, 1131, 3)
+3/17/2019 3:27:08 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:27:09 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000327 (AddonComponent) to (906, 1132, 2)
+3/17/2019 3:27:11 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:27:12 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000327 (AddonComponent) to (907, 1132, 4)
+3/17/2019 3:27:16 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:27:17 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000327 (AddonComponent) to (908, 1132, 5)
+3/17/2019 3:27:22 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:27:29 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (911, 1145, 13) in Malas: "TallTree01Addon"
+3/17/2019 3:27:29 AM: 71.208.56.129: Serials: 0x4000033A; 
+3/17/2019 3:27:33 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:27:40 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (925, 1148, 10) in Malas: "TallTree02Addon"
+3/17/2019 3:27:41 AM: 71.208.56.129: Serials: 0x4000035E; 
+3/17/2019 3:27:46 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:27:51 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (935, 1155, 9) in Malas: "TallTree04Addon"
+3/17/2019 3:27:51 AM: 71.208.56.129: Serials: 0x4000037A; 
+3/17/2019 3:27:54 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:27:55 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000384 (AddonComponent) to (935, 1157, 19)
+3/17/2019 3:27:57 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:28:04 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (945, 1149, -2) in Malas: "TallTree01Addon"
+3/17/2019 3:28:04 AM: 71.208.56.129: Serials: 0x40000396; 
+3/17/2019 3:28:06 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:28:11 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000039F (AddonComponent) to (946, 1149, 18)
+3/17/2019 3:28:13 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:28:13 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000039F (AddonComponent) to (945, 1149, -2)
+3/17/2019 3:28:16 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:28:20 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (957, 1149, -1) in Malas: "TallTree03Addon"
+3/17/2019 3:28:20 AM: 71.208.56.129: Serials: 0x400003AF; 
+3/17/2019 3:28:23 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:28:24 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400003BA (AddonComponent) to (958, 1150, 4)
+3/17/2019 3:28:26 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:28:34 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (955, 1137, 3) in Malas: "TallTree01Addon"
+3/17/2019 3:28:34 AM: 71.208.56.129: Serials: 0x400003CA; 
+3/17/2019 3:28:41 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (963, 1129, 3) in Malas: "TallTree04Addon"
+3/17/2019 3:28:41 AM: 71.208.56.129: Serials: 0x400003DE; 
+3/17/2019 3:28:44 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:28:45 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:28:50 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (961, 1114, 8) in Malas: "TallTree02Addon"
+3/17/2019 3:28:50 AM: 71.208.56.129: Serials: 0x4000040D; 
+3/17/2019 3:28:56 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (966, 1106, 13) in Malas: "TallTree03Addon"
+3/17/2019 3:28:56 AM: 71.208.56.129: Serials: 0x40000419; 
+3/17/2019 3:28:59 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:29:01 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000041E (AddonComponent) to (967, 1107, 14)
+3/17/2019 3:29:03 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:29:03 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000422 (AddonComponent) to (966, 1107, 15)
+3/17/2019 3:29:05 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:29:05 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000422 (AddonComponent) to (967, 1106, 12)
+3/17/2019 3:29:08 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:29:09 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:29:16 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (967, 1098, 8) in Malas: "TallTree04Addon"
+3/17/2019 3:29:16 AM: 71.208.56.129: Serials: 0x4000043F; 
+3/17/2019 3:29:21 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:29:28 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (982, 1088, 7) in Malas: "TallTree01Addon"
+3/17/2019 3:29:28 AM: 71.208.56.129: Serials: 0x40000458; 
+3/17/2019 3:29:32 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:29:33 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000461 (AddonComponent) to (981, 1088, 9)
+3/17/2019 3:29:36 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:29:39 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (990, 1084, 2) in Malas: "TallTree03Addon"
+3/17/2019 3:29:39 AM: 71.208.56.129: Serials: 0x40000471; 
+3/17/2019 3:29:43 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:29:44 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000478 (AddonComponent) to (989, 1084, 3)
+3/17/2019 3:29:45 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:29:46 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000047C (AddonComponent) to (989, 1085, 2)
+3/17/2019 3:29:50 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:29:56 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (979, 1097, 0) in Malas: "TallTree04Addon"
+3/17/2019 3:29:56 AM: 71.208.56.129: Serials: 0x4000048D; 
+3/17/2019 3:29:59 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:30:04 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (998, 1085, 2) in Malas: "TallTree01Addon"
+3/17/2019 3:30:04 AM: 71.208.56.129: Serials: 0x400004A6; 
+3/17/2019 3:30:07 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:30:11 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1004, 1095, 3) in Malas: "TallTree02Addon"
+3/17/2019 3:30:11 AM: 71.208.56.129: Serials: 0x400004C0; 
+3/17/2019 3:30:13 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:30:17 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1018, 1096, 62) in Malas: "TallTree04Addon"
+3/17/2019 3:30:17 AM: 71.208.56.129: Serials: 0x400004D9; 
+3/17/2019 3:30:20 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:30:21 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400004E2 (AddonComponent) to (1019, 1098, 56)
+3/17/2019 3:30:23 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:30:24 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400004E2 (AddonComponent) to (1020, 1097, 52)
+3/17/2019 3:30:26 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:30:27 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400004E2 (AddonComponent) to (1016, 1096, 55)
+3/17/2019 3:30:31 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:30:32 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400004E2 (AddonComponent) to (1023, 1100, 51)
+3/17/2019 3:30:42 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:30:47 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1017, 1112, 16) in Malas: "TallTree03Addon"
+3/17/2019 3:30:47 AM: 71.208.56.129: Serials: 0x400004F5; 
+3/17/2019 3:30:50 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:30:51 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400004FE (AddonComponent) to (1027, 1109, 26)
+3/17/2019 3:30:57 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:31:00 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1022, 1119, 27) in Malas: "TallTree01Addon"
+3/17/2019 3:31:00 AM: 71.208.56.129: Serials: 0x4000050E; 
+3/17/2019 3:31:03 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:31:37 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1012, 1074, 5) in Malas: "TallTree01Addon"
+3/17/2019 3:31:37 AM: 71.208.56.129: Serials: 0x40000527; 
+3/17/2019 3:31:44 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1020, 1065, 26) in Malas: "TallTree03Addon"
+3/17/2019 3:31:44 AM: 71.208.56.129: Serials: 0x40000534; 
+3/17/2019 3:31:46 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:31:48 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:32:30 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1039, 1120, 34) in Malas: "TallTree03Addon"
+3/17/2019 3:32:30 AM: 71.208.56.129: Serials: 0x4000055D; 
+3/17/2019 3:32:40 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:32:41 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000566 (AddonComponent) to (1042, 1118, 8)
+3/17/2019 3:32:46 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:32:52 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1030, 1132, 2) in Malas: "TallTree01Addon"
+3/17/2019 3:32:52 AM: 71.208.56.129: Serials: 0x40000576; 
+3/17/2019 3:32:55 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:32:59 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1043, 1138, 45) in Malas: "TallTree02Addon"
+3/17/2019 3:32:59 AM: 71.208.56.129: Serials: 0x40000590; 
+3/17/2019 3:33:01 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:33:06 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1038, 1149, 37) in Malas: "TallTree04Addon"
+3/17/2019 3:33:06 AM: 71.208.56.129: Serials: 0x400005A9; 
+3/17/2019 3:33:08 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:33:13 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1053, 1151, 48) in Malas: "TallTree01Addon"
+3/17/2019 3:33:13 AM: 71.208.56.129: Serials: 0x400005C3; 
+3/17/2019 3:33:17 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1045, 1158, 0) in Malas: "TallTree03Addon"
+3/17/2019 3:33:17 AM: 71.208.56.129: Serials: 0x400005D3; 
+3/17/2019 3:33:20 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:33:22 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400005DC (AddonComponent) to (1063, 1155, 26)
+3/17/2019 3:33:23 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:33:24 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400005DC (AddonComponent) to (1064, 1153, 18)
+3/17/2019 3:33:27 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1049, 1162, 4) in Malas: "TallTree04Addon"
+3/17/2019 3:33:27 AM: 71.208.56.129: Serials: 0x400005E5; 
+3/17/2019 3:33:31 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:33:33 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:33:34 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:33:41 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1067, 1172, 3) in Malas: "TallTree04Addon"
+3/17/2019 3:33:41 AM: 71.208.56.129: Serials: 0x40000616; 
+3/17/2019 3:33:44 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:33:52 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1078, 1185, 16) in Malas: "TallTree03Addon"
+3/17/2019 3:33:52 AM: 71.208.56.129: Serials: 0x40000634; 
+3/17/2019 3:34:01 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:34:06 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1088, 1166, 2) in Malas: "TallTree04Addon"
+3/17/2019 3:34:07 AM: 71.208.56.129: Serials: 0x4000067C; 
+3/17/2019 3:34:12 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:34:23 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1095, 1191, 44) in Malas: "TallTree02Addon"
+3/17/2019 3:34:23 AM: 71.208.56.129: Serials: 0x40000698; 
+3/17/2019 3:34:29 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:34:39 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1089, 1203, 29) in Malas: "TallTree01Addon"
+3/17/2019 3:34:39 AM: 71.208.56.129: Serials: 0x400006AF; 
+3/17/2019 3:34:43 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:34:46 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400006B8 (AddonComponent) to (1091, 1201, 34)
+3/17/2019 3:34:52 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:34:58 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1110, 1197, 1) in Malas: "TallTree04Addon"
+3/17/2019 3:34:58 AM: 71.208.56.129: Serials: 0x400006C8; 
+3/17/2019 3:35:00 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:35:05 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1113, 1209, 15) in Malas: "TallTree01Addon"
+3/17/2019 3:35:05 AM: 71.208.56.129: Serials: 0x400006E1; 
+3/17/2019 3:35:10 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:35:15 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1097, 1216, 4) in Malas: "TallTree04Addon"
+3/17/2019 3:35:15 AM: 71.208.56.129: Serials: 0x400006FA; 
+3/17/2019 3:35:18 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:35:27 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1124, 1222, 17) in Malas: "TallTree04Addon"
+3/17/2019 3:35:27 AM: 71.208.56.129: Serials: 0x40000714; 
+3/17/2019 3:35:30 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:35:31 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000071C (AddonComponent) to (1125, 1223, 16)
+3/17/2019 3:35:33 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:35:33 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000071C (AddonComponent) to (1124, 1222, 17)
+3/17/2019 3:35:35 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:35:42 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1134, 1217, 4) in Malas: "TallTree01Addon"
+3/17/2019 3:35:43 AM: 71.208.56.129: Serials: 0x40000738; 
+3/17/2019 3:35:45 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:35:46 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000742 (AddonComponent) to (1136, 1219, 4)
+3/17/2019 3:35:50 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:36:01 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add mltree'
+3/17/2019 3:36:18 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1129, 1226, 17) in Malas: "MLTree23Addon"
+3/17/2019 3:36:18 AM: 71.208.56.129: Serials: 0x40000752; 
+3/17/2019 3:36:21 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:36:23 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000757 (AddonComponent) to (1132, 1226, 15)
+3/17/2019 3:36:24 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:36:25 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000758 (AddonComponent) to (1133, 1227, 8)
+3/17/2019 3:36:33 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 3:36:35 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+3/17/2019 3:36:35 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000753 (AddonComponent)
+3/17/2019 3:37:42 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+3/17/2019 3:39:47 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add talltree'
+3/17/2019 3:39:49 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (965, 177, -51) in Malas: "TallTree02Addon"
+3/17/2019 3:39:49 AM: 71.208.56.129: Serials: 0x40000764; 
+3/17/2019 3:39:56 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:40:02 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (975, 183, -30) in Malas: "TallTree02Addon"
+3/17/2019 3:40:02 AM: 71.208.56.129: Serials: 0x4000077B; 
+3/17/2019 3:40:07 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:40:12 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (961, 187, -35) in Malas: "TallTree03Addon"
+3/17/2019 3:40:12 AM: 71.208.56.129: Serials: 0x40000792; 
+3/17/2019 3:40:18 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:40:24 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (962, 199, -22) in Malas: "TallTree01Addon"
+3/17/2019 3:40:24 AM: 71.208.56.129: Serials: 0x400007AB; 
+3/17/2019 3:40:27 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:40:33 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (977, 189, -19) in Malas: "TallTree04Addon"
+3/17/2019 3:40:33 AM: 71.208.56.129: Serials: 0x400007C4; 
+3/17/2019 3:40:45 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:40:53 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (971, 207, -14) in Malas: "TallTree04Addon"
+3/17/2019 3:40:53 AM: 71.208.56.129: Serials: 0x400007DD; 
+3/17/2019 3:40:58 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:41:02 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (985, 201, -16) in Malas: "TallTree01Addon"
+3/17/2019 3:41:02 AM: 71.208.56.129: Serials: 0x400007F7; 
+3/17/2019 3:41:03 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:41:08 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (983, 216, -12) in Malas: "TallTree03Addon"
+3/17/2019 3:41:08 AM: 71.208.56.129: Serials: 0x40000810; 
+3/17/2019 3:41:10 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:41:13 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1003, 213, 4) in Malas: "TallTree01Addon"
+3/17/2019 3:41:13 AM: 71.208.56.129: Serials: 0x40000829; 
+3/17/2019 3:41:17 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:41:23 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (987, 228, -6) in Malas: "TallTree04Addon"
+3/17/2019 3:41:23 AM: 71.208.56.129: Serials: 0x4000084B; 
+3/17/2019 3:41:26 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:41:31 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (987, 243, 2) in Malas: "TallTree01Addon"
+3/17/2019 3:41:31 AM: 71.208.56.129: Serials: 0x4000089A; 
+3/17/2019 3:41:33 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:41:35 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (998, 235, 8) in Malas: "TallTree03Addon"
+3/17/2019 3:41:35 AM: 71.208.56.129: Serials: 0x400008B3; 
+3/17/2019 3:41:37 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:41:58 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (997, 251, -3) in Malas: "TallTree01Addon"
+3/17/2019 3:41:58 AM: 71.208.56.129: Serials: 0x400008D3; 
+3/17/2019 3:42:01 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 3:43:16 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'freezemap '
+3/17/2019 3:43:17 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') invoking freeze for every item in Owner
+3/17/2019 3:43:21 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+3/17/2019 3:43:24 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/17/2019 3:43:27 AM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/17/2019 10:37:52 PM
+
+3/17/2019 10:40:38 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+3/17/2019 10:40:58 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add talltree'
+3/17/2019 10:41:03 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (978, 257, -18) in Malas: "TallTree01Addon"
+3/17/2019 10:41:03 PM: 71.208.56.129: Serials: 0x4000017C; 
+3/17/2019 10:41:06 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:41:07 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000215 (AddonComponent) to (979, 256, -19)
+3/17/2019 10:41:11 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (968, 269, -14) in Malas: "TallTree03Addon"
+3/17/2019 10:41:11 PM: 71.208.56.129: Serials: 0x40000227; 
+3/17/2019 10:41:16 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:41:18 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:41:23 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (988, 286, 3) in Malas: "TallTree04Addon"
+3/17/2019 10:41:23 PM: 71.208.56.129: Serials: 0x40000287; 
+3/17/2019 10:41:25 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:41:29 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1005, 279, 1) in Malas: "TallTree03Addon"
+3/17/2019 10:41:29 PM: 71.208.56.129: Serials: 0x400002CB; 
+3/17/2019 10:41:33 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1006, 293, 5) in Malas: "TallTree01Addon"
+3/17/2019 10:41:33 PM: 71.208.56.129: Serials: 0x400002E2; 
+3/17/2019 10:41:36 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:41:38 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002EB (AddonComponent) to (1007, 293, 25)
+3/17/2019 10:41:39 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:41:40 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400002EB (AddonComponent) to (1006, 291, 5)
+3/17/2019 10:41:44 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:41:45 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:41:52 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (999, 261, -1) in Malas: "TallTree02Addon"
+3/17/2019 10:41:52 PM: 71.208.56.129: Serials: 0x40000318; 
+3/17/2019 10:41:57 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:42:03 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1006, 251, 5) in Malas: "TallTree03Addon"
+3/17/2019 10:42:03 PM: 71.208.56.129: Serials: 0x4000033B; 
+3/17/2019 10:42:06 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:42:11 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1009, 226, 8) in Malas: "TallTree01Addon"
+3/17/2019 10:42:11 PM: 71.208.56.129: Serials: 0x4000035F; 
+3/17/2019 10:42:13 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:42:15 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000036D (AddonComponent) to (1009, 226, 8)
+3/17/2019 10:42:18 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:42:21 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1017, 220, 0) in Malas: "TallTree04Addon"
+3/17/2019 10:42:21 PM: 71.208.56.129: Serials: 0x4000037F; 
+3/17/2019 10:42:24 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:42:25 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000387 (AddonComponent) to (1017, 220, 0)
+3/17/2019 10:42:27 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:42:33 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1027, 243, 6) in Malas: "TallTree03Addon"
+3/17/2019 10:42:33 PM: 71.208.56.129: Serials: 0x40000399; 
+3/17/2019 10:42:36 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:42:37 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400003A2 (AddonComponent) to (1026, 244, 8)
+3/17/2019 10:42:39 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:42:43 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1027, 260, 3) in Malas: "TallTree01Addon"
+3/17/2019 10:42:43 PM: 71.208.56.129: Serials: 0x400003B2; 
+3/17/2019 10:42:47 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1022, 268, 4) in Malas: "TallTree04Addon"
+3/17/2019 10:42:47 PM: 71.208.56.129: Serials: 0x400003C1; 
+3/17/2019 10:42:50 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:42:51 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400003BD (AddonComponent) to (1027, 260, 3)
+3/17/2019 10:42:53 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:42:55 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:43:05 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (984, 297, 1) in Malas: "TallTree02Addon"
+3/17/2019 10:43:05 PM: 71.208.56.129: Serials: 0x400003F0; 
+3/17/2019 10:43:07 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (981, 305, 1) in Malas: "TallTree01Addon"
+3/17/2019 10:43:07 PM: 71.208.56.129: Serials: 0x40000401; 
+3/17/2019 10:43:13 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:43:15 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400003F8 (AddonComponent) to (985, 296, 1)
+3/17/2019 10:43:21 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:43:23 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:43:30 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (963, 317, 1) in Malas: "TallTree01Addon"
+3/17/2019 10:43:30 PM: 71.208.56.129: Serials: 0x40000429; 
+3/17/2019 10:43:32 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:43:36 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (940, 312, -2) in Malas: "TallTree04Addon"
+3/17/2019 10:43:36 PM: 71.208.56.129: Serials: 0x40000444; 
+3/17/2019 10:43:40 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:43:41 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000044C (AddonComponent) to (937, 311, -1)
+3/17/2019 10:43:43 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:43:44 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000044C (AddonComponent) to (935, 309, -1)
+3/17/2019 10:43:47 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:43:51 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (928, 293, -4) in Malas: "TallTree03Addon"
+3/17/2019 10:43:51 PM: 71.208.56.129: Serials: 0x4000045E; 
+3/17/2019 10:43:53 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:43:56 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (943, 293, -3) in Malas: "TallTree02Addon"
+3/17/2019 10:43:56 PM: 71.208.56.129: Serials: 0x40000479; 
+3/17/2019 10:43:58 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:44:02 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (956, 295, 1) in Malas: "TallTree04Addon"
+3/17/2019 10:44:02 PM: 71.208.56.129: Serials: 0x40000491; 
+3/17/2019 10:44:04 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:44:10 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (944, 316, 0) in Malas: "TallTree02Addon"
+3/17/2019 10:44:10 PM: 71.208.56.129: Serials: 0x400004AA; 
+3/17/2019 10:44:14 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:44:19 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (958, 337, 0) in Malas: "TallTree04Addon"
+3/17/2019 10:44:19 PM: 71.208.56.129: Serials: 0x400004C2; 
+3/17/2019 10:44:21 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:44:26 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (989, 332, 2) in Malas: "TallTree01Addon"
+3/17/2019 10:44:26 PM: 71.208.56.129: Serials: 0x400004DE; 
+3/17/2019 10:44:29 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:44:30 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x400004E8 (AddonComponent) to (989, 332, 2)
+3/17/2019 10:44:33 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (996, 331, 3) in Malas: "TallTree04Addon"
+3/17/2019 10:44:33 PM: 71.208.56.129: Serials: 0x400004EC; 
+3/17/2019 10:44:36 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:44:38 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:44:43 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1006, 322, 11) in Malas: "TallTree03Addon"
+3/17/2019 10:44:43 PM: 71.208.56.129: Serials: 0x40000512; 
+3/17/2019 10:44:45 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:44:49 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1015, 330, 7) in Malas: "TallTree04Addon"
+3/17/2019 10:44:49 PM: 71.208.56.129: Serials: 0x4000052B; 
+3/17/2019 10:44:51 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:44:57 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (993, 348, -1) in Malas: "TallTree01Addon"
+3/17/2019 10:44:57 PM: 71.208.56.129: Serials: 0x40000545; 
+3/17/2019 10:45:00 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:45:01 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000054E (AddonComponent) to (996, 347, -4)
+3/17/2019 10:45:02 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:45:03 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x4000054E (AddonComponent) to (994, 347, -2)
+3/17/2019 10:45:05 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:45:11 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (971, 354, -2) in Malas: "TallTree03Addon"
+3/17/2019 10:45:11 PM: 71.208.56.129: Serials: 0x40000561; 
+3/17/2019 10:45:15 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (976, 365, -2) in Malas: "TallTree01Addon"
+3/17/2019 10:45:15 PM: 71.208.56.129: Serials: 0x4000056E; 
+3/17/2019 10:45:18 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:45:19 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:45:26 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (939, 363, -6) in Malas: "TallTree01Addon"
+3/17/2019 10:45:26 PM: 71.208.56.129: Serials: 0x40000594; 
+3/17/2019 10:45:29 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (936, 375, -6) in Malas: "TallTree04Addon"
+3/17/2019 10:45:29 PM: 71.208.56.129: Serials: 0x400005A3; 
+3/17/2019 10:45:31 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:45:32 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:45:38 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (950, 356, -6) in Malas: "TallTree04Addon"
+3/17/2019 10:45:38 PM: 71.208.56.129: Serials: 0x400005CA; 
+3/17/2019 10:45:42 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:45:48 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (961, 359, -4) in Malas: "TallTree03Addon"
+3/17/2019 10:45:48 PM: 71.208.56.129: Serials: 0x400005EA; 
+3/17/2019 10:45:50 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:45:58 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (934, 332, 6) in Malas: "TallTree01Addon"
+3/17/2019 10:45:58 PM: 71.208.56.129: Serials: 0x40000608; 
+3/17/2019 10:45:59 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:46:03 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (913, 339, -6) in Malas: "TallTree03Addon"
+3/17/2019 10:46:03 PM: 71.208.56.129: Serials: 0x4000062A; 
+3/17/2019 10:46:06 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:46:08 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (920, 343, -6) in Malas: "TallTree05Addon"
+3/17/2019 10:46:08 PM: 71.208.56.129: Serials: 0x40000656; 
+3/17/2019 10:46:09 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:46:13 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (912, 355, -4) in Malas: "TallTree03Addon"
+3/17/2019 10:46:13 PM: 71.208.56.129: Serials: 0x4000068B; 
+3/17/2019 10:46:15 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:46:20 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (898, 367, -8) in Malas: "TallTree02Addon"
+3/17/2019 10:46:20 PM: 71.208.56.129: Serials: 0x400006A7; 
+3/17/2019 10:46:22 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:46:25 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (894, 350, -8) in Malas: "TallTree01Addon"
+3/17/2019 10:46:25 PM: 71.208.56.129: Serials: 0x400006BE; 
+3/17/2019 10:46:26 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:46:31 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (869, 335, 4) in Malas: "TallTree03Addon"
+3/17/2019 10:46:31 PM: 71.208.56.129: Serials: 0x400006D7; 
+3/17/2019 10:46:32 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:46:36 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (860, 354, 1) in Malas: "TallTree04Addon"
+3/17/2019 10:46:36 PM: 71.208.56.129: Serials: 0x400006F0; 
+3/17/2019 10:46:38 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:46:44 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (901, 335, 13) in Malas: "TallTree02Addon"
+3/17/2019 10:46:44 PM: 71.208.56.129: Serials: 0x40000709; 
+3/17/2019 10:46:49 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:46:51 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000712 (AddonComponent) to (899, 335, 5)
+3/17/2019 10:46:52 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:46:53 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000712 (AddonComponent) to (898, 336, 4)
+3/17/2019 10:46:54 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:46:58 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (905, 328, 8) in Malas: "TallTree01Addon"
+3/17/2019 10:46:58 PM: 71.208.56.129: Serials: 0x40000721; 
+3/17/2019 10:46:59 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:47:03 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (910, 307, 12) in Malas: "TallTree04Addon"
+3/17/2019 10:47:03 PM: 71.208.56.129: Serials: 0x40000746; 
+3/17/2019 10:47:05 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:47:10 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (881, 301, 6) in Malas: "TallTree01Addon"
+3/17/2019 10:47:10 PM: 71.208.56.129: Serials: 0x40000766; 
+3/17/2019 10:47:12 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:47:17 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (880, 322, 2) in Malas: "TallTree04Addon"
+3/17/2019 10:47:17 PM: 71.208.56.129: Serials: 0x40000780; 
+3/17/2019 10:47:19 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:47:23 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (853, 311, 7) in Malas: "TallTree02Addon"
+3/17/2019 10:47:24 PM: 71.208.56.129: Serials: 0x40000799; 
+3/17/2019 10:47:25 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:47:27 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (861, 309, 5) in Malas: "TallTree01Addon"
+3/17/2019 10:47:27 PM: 71.208.56.129: Serials: 0x400007B0; 
+3/17/2019 10:47:32 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:47:37 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (833, 325, 4) in Malas: "TallTree03Addon"
+3/17/2019 10:47:37 PM: 71.208.56.129: Serials: 0x400007C9; 
+3/17/2019 10:47:39 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:47:43 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (851, 336, 6) in Malas: "TallTree04Addon"
+3/17/2019 10:47:43 PM: 71.208.56.129: Serials: 0x400007E2; 
+3/17/2019 10:47:45 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:47:48 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (858, 331, 2) in Malas: "TallTree02Addon"
+3/17/2019 10:47:48 PM: 71.208.56.129: Serials: 0x400007FC; 
+3/17/2019 10:48:04 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:48:06 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000804 (AddonComponent) to (859, 331, 2)
+3/17/2019 10:48:10 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:48:28 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (899, 377, 0) in Malas: "TallTree03Addon"
+3/17/2019 10:48:28 PM: 71.208.56.129: Serials: 0x40000813; 
+3/17/2019 10:48:30 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:48:34 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (886, 379, 0) in Malas: "TallTree02Addon"
+3/17/2019 10:48:34 PM: 71.208.56.129: Serials: 0x4000082C; 
+3/17/2019 10:48:35 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:48:41 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (894, 403, 4) in Malas: "TallTree01Addon"
+3/17/2019 10:48:41 PM: 71.208.56.129: Serials: 0x4000084C; 
+3/17/2019 10:48:42 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:48:47 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (898, 413, 4) in Malas: "TallTree05Addon"
+3/17/2019 10:48:47 PM: 71.208.56.129: Serials: 0x4000089B; 
+3/17/2019 10:48:49 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:48:52 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (908, 391, 4) in Malas: "TallTree04Addon"
+3/17/2019 10:48:52 PM: 71.208.56.129: Serials: 0x400008B4; 
+3/17/2019 10:48:54 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:49:00 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (925, 388, 4) in Malas: "TallTree03Addon"
+3/17/2019 10:49:00 PM: 71.208.56.129: Serials: 0x400008D4; 
+3/17/2019 10:49:02 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:49:05 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (931, 393, 3) in Malas: "TallTree05Addon"
+3/17/2019 10:49:05 PM: 71.208.56.129: Serials: 0x400008F5; 
+3/17/2019 10:49:07 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:49:14 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (899, 425, 4) in Malas: "TallTree01Addon"
+3/17/2019 10:49:14 PM: 71.208.56.129: Serials: 0x4000095A; 
+3/17/2019 10:49:17 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:49:22 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (904, 437, 4) in Malas: "TallTree04AddonDeed"
+3/17/2019 10:49:22 PM: 71.208.56.129: Serials: 0x40000981; 
+3/17/2019 10:49:25 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+3/17/2019 10:49:26 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000981 (TallTree04AddonDeed)
+3/17/2019 10:49:29 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (903, 436, 4) in Malas: "TallTree04Addon"
+3/17/2019 10:49:29 PM: 71.208.56.129: Serials: 0x40000982; 
+3/17/2019 10:49:31 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:49:33 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:49:37 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (903, 445, 2) in Malas: "TallTree03Addon"
+3/17/2019 10:49:37 PM: 71.208.56.129: Serials: 0x4000099B; 
+3/17/2019 10:49:41 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:49:43 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:49:48 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (904, 459, 2) in Malas: "TallTree04Addon"
+3/17/2019 10:49:48 PM: 71.208.56.129: Serials: 0x400009B4; 
+3/17/2019 10:49:50 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:49:55 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (934, 438, 2) in Malas: "TallTree01Addon"
+3/17/2019 10:49:55 PM: 71.208.56.129: Serials: 0x400009CD; 
+3/17/2019 10:49:58 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:50:02 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (944, 437, 2) in Malas: "TallTree03Addon"
+3/17/2019 10:50:02 PM: 71.208.56.129: Serials: 0x400009E6; 
+3/17/2019 10:50:06 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:50:11 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (937, 465, 2) in Malas: "TallTree03Addon"
+3/17/2019 10:50:11 PM: 71.208.56.129: Serials: 0x40000A00; 
+3/17/2019 10:50:14 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:50:17 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (952, 464, 2) in Malas: "TallTree05Addon"
+3/17/2019 10:50:17 PM: 71.208.56.129: Serials: 0x40000A1A; 
+3/17/2019 10:50:19 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:50:22 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (942, 474, 2) in Malas: "TallTree02Addon"
+3/17/2019 10:50:22 PM: 71.208.56.129: Serials: 0x40000A34; 
+3/17/2019 10:50:24 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:50:28 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (939, 488, 2) in Malas: "TallTree03Addon"
+3/17/2019 10:50:28 PM: 71.208.56.129: Serials: 0x40000A50; 
+3/17/2019 10:50:31 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:50:34 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (949, 487, 2) in Malas: "TallTree04Addon"
+3/17/2019 10:50:34 PM: 71.208.56.129: Serials: 0x40000A69; 
+3/17/2019 10:50:36 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:50:41 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (915, 484, 0) in Malas: "TallTree03Addon"
+3/17/2019 10:50:41 PM: 71.208.56.129: Serials: 0x40000A82; 
+3/17/2019 10:50:44 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:50:48 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (910, 466, 0) in Malas: "TallTree02Addon"
+3/17/2019 10:50:48 PM: 71.208.56.129: Serials: 0x40000A9B; 
+3/17/2019 10:50:54 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:51:03 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (965, 453, 6) in Malas: "TallTree01Addon"
+3/17/2019 10:51:03 PM: 71.208.56.129: Serials: 0x40000AB2; 
+3/17/2019 10:51:05 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:51:11 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (982, 471, 2) in Malas: "TallTree02Addon"
+3/17/2019 10:51:11 PM: 71.208.56.129: Serials: 0x40000ACC; 
+3/17/2019 10:51:13 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:51:19 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (997, 441, 10) in Malas: "TallTree03Addon"
+3/17/2019 10:51:19 PM: 71.208.56.129: Serials: 0x40000AE4; 
+3/17/2019 10:51:21 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:51:26 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1007, 421, 0) in Malas: "TallTree01Addon"
+3/17/2019 10:51:26 PM: 71.208.56.129: Serials: 0x40000AFD; 
+3/17/2019 10:51:29 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1015, 408, 0) in Malas: "TallTree03Addon"
+3/17/2019 10:51:29 PM: 71.208.56.129: Serials: 0x40000B0A; 
+3/17/2019 10:51:30 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:51:32 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:51:38 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1031, 411, 5) in Malas: "TallTree04Addon"
+3/17/2019 10:51:38 PM: 71.208.56.129: Serials: 0x40000B30; 
+3/17/2019 10:51:40 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1032, 419, 5) in Malas: "TallTree05Addon"
+3/17/2019 10:51:40 PM: 71.208.56.129: Serials: 0x40000B3D; 
+3/17/2019 10:51:43 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:51:44 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:51:47 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1043, 404, 2) in Malas: "TallTree03Addon"
+3/17/2019 10:51:47 PM: 71.208.56.129: Serials: 0x40000B64; 
+3/17/2019 10:51:49 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:51:54 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1071, 414, 10) in Malas: "TallTree04Addon"
+3/17/2019 10:51:54 PM: 71.208.56.129: Serials: 0x40000B84; 
+3/17/2019 10:51:56 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:52:01 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1055, 433, 4) in Malas: "TallTree01Addon"
+3/17/2019 10:52:01 PM: 71.208.56.129: Serials: 0x40000B9D; 
+3/17/2019 10:52:03 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1051, 442, 4) in Malas: "TallTree03Addon"
+3/17/2019 10:52:03 PM: 71.208.56.129: Serials: 0x40000BAA; 
+3/17/2019 10:52:06 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:52:07 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000BB3 (AddonComponent) to (1051, 442, 4)
+3/17/2019 10:52:08 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:52:10 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:52:13 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1038, 443, 4) in Malas: "TallTree02Addon"
+3/17/2019 10:52:13 PM: 71.208.56.129: Serials: 0x40000BD1; 
+3/17/2019 10:52:16 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:52:19 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1025, 439, 4) in Malas: "TallTree01Addon"
+3/17/2019 10:52:19 PM: 71.208.56.129: Serials: 0x40000BE8; 
+3/17/2019 10:52:22 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1026, 429, 4) in Malas: "TallTree03Addon"
+3/17/2019 10:52:22 PM: 71.208.56.129: Serials: 0x40000BF5; 
+3/17/2019 10:52:25 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:52:26 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000BFE (AddonComponent) to (1025, 429, 4)
+3/17/2019 10:52:29 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:52:30 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:52:53 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (956, 408, -12) in Malas: "TallTree01Addon"
+3/17/2019 10:52:53 PM: 71.208.56.129: Serials: 0x40000C21; 
+3/17/2019 10:52:55 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (968, 405, -11) in Malas: "TallTree04Addon"
+3/17/2019 10:52:55 PM: 71.208.56.129: Serials: 0x40000C2E; 
+3/17/2019 10:52:57 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:52:58 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:02 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (964, 428, -18) in Malas: "TallTree03Addon"
+3/17/2019 10:53:02 PM: 71.208.56.129: Serials: 0x40000C53; 
+3/17/2019 10:53:05 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (974, 425, -18) in Malas: "TallTree01Addon"
+3/17/2019 10:53:05 PM: 71.208.56.129: Serials: 0x40000C60; 
+3/17/2019 10:53:07 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'move '
+3/17/2019 10:53:08 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') moving 0x40000C69 (AddonComponent) to (974, 423, -18)
+3/17/2019 10:53:11 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:12 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:16 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (982, 414, -14) in Malas: "TallTree03Addon"
+3/17/2019 10:53:16 PM: 71.208.56.129: Serials: 0x40000C86; 
+3/17/2019 10:53:18 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (991, 413, -12) in Malas: "TallTree05Addon"
+3/17/2019 10:53:18 PM: 71.208.56.129: Serials: 0x40000C94; 
+3/17/2019 10:53:21 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:22 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:26 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (976, 391, -6) in Malas: "TallTree01Addon"
+3/17/2019 10:53:26 PM: 71.208.56.129: Serials: 0x40000CB9; 
+3/17/2019 10:53:27 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:32 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (995, 392, -8) in Malas: "TallTree03Addon"
+3/17/2019 10:53:32 PM: 71.208.56.129: Serials: 0x40000CD2; 
+3/17/2019 10:53:34 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:37 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1001, 369, -4) in Malas: "TallTree01Addon"
+3/17/2019 10:53:37 PM: 71.208.56.129: Serials: 0x40000CEB; 
+3/17/2019 10:53:40 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1009, 373, -8) in Malas: "TallTree04Addon"
+3/17/2019 10:53:40 PM: 71.208.56.129: Serials: 0x40000CF8; 
+3/17/2019 10:53:42 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:43 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:48 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1025, 386, -8) in Malas: "TallTree01Addon"
+3/17/2019 10:53:48 PM: 71.208.56.129: Serials: 0x40000D1D; 
+3/17/2019 10:53:51 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1024, 375, -8) in Malas: "TallTree02Addon"
+3/17/2019 10:53:51 PM: 71.208.56.129: Serials: 0x40000D2A; 
+3/17/2019 10:53:53 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:55 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:53:58 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1019, 363, -2) in Malas: "TallTree03Addon"
+3/17/2019 10:53:58 PM: 71.208.56.129: Serials: 0x40000D4E; 
+3/17/2019 10:54:00 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:54:05 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1041, 374, 0) in Malas: "TallTree01Addon"
+3/17/2019 10:54:05 PM: 71.208.56.129: Serials: 0x40000D68; 
+3/17/2019 10:54:08 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1052, 373, 0) in Malas: "TallTree02Addon"
+3/17/2019 10:54:08 PM: 71.208.56.129: Serials: 0x40000D75; 
+3/17/2019 10:54:11 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:54:12 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:54:14 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1045, 384, 0) in Malas: "TallTree04Addon"
+3/17/2019 10:54:14 PM: 71.208.56.129: Serials: 0x40000D9B; 
+3/17/2019 10:54:17 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:54:20 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') building at (1053, 380, 0) in Malas: "TallTree03Addon"
+3/17/2019 10:54:20 PM: 71.208.56.129: Serials: 0x40000DB4; 
+3/17/2019 10:54:25 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'addon2static '
+3/17/2019 10:54:42 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+3/17/2019 10:55:16 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'freezemap '
+3/17/2019 10:55:17 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') invoking freeze for every item in Owner
+3/17/2019 10:55:20 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+3/17/2019 10:55:24 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/17/2019 10:55:24 PM: 71.208.56.129: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '

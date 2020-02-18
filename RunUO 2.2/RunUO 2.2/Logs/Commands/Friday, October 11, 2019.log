@@ -1,0 +1,779 @@
+##############################
+Log started on 10/11/2019 2:05:05 AM
+
+10/11/2019 2:05:38 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost '
+10/11/2019 2:05:48 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'set map trammel'
+10/11/2019 2:05:49 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') set property 'map' of 0x5 "Nastlia Kensley" ('Zigholtul88') to 'Trammel'
+10/11/2019 2:05:52 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/11/2019 2:06:02 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'm tele'
+10/11/2019 2:08:45 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'where '
+10/11/2019 2:12:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'props '
+10/11/2019 2:14:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add talltre'
+10/11/2019 2:14:24 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2102, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:14:24 AM: 127.0.0.1: Serials: 0x40000073; 
+10/11/2019 2:14:29 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:14:31 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x4000007C (AddonComponent) to (5484, 2102, 0)
+10/11/2019 2:14:33 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:14:35 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x4000007C (AddonComponent) to (5484, 2101, 0)
+10/11/2019 2:14:43 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:14:50 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5493, 2095, 0) in Trammel: "TallTree08Addon"
+10/11/2019 2:14:50 AM: 127.0.0.1: Serials: 0x40000090; 
+10/11/2019 2:14:52 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:14:55 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:15:01 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2087, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:15:01 AM: 127.0.0.1: Serials: 0x400000AD; 
+10/11/2019 2:15:03 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:15:09 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5492, 2077, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:15:09 AM: 127.0.0.1: Serials: 0x400000CD; 
+10/11/2019 2:15:11 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:15:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2078, 0) in Trammel: "TallTree07Addon"
+10/11/2019 2:15:17 AM: 127.0.0.1: Serials: 0x400003DD; 
+10/11/2019 2:15:20 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:15:30 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5502, 2102, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:15:30 AM: 127.0.0.1: Serials: 0x40000444; 
+10/11/2019 2:15:36 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5508, 2102, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:15:36 AM: 127.0.0.1: Serials: 0x4000045C; 
+10/11/2019 2:15:40 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:15:42 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:15:44 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:16:02 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'wipe '
+10/11/2019 2:16:03 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') wiping from (5505, 2098, 0) to (5512, 2104, 5) in Trammel (Items, Mobiles)
+10/11/2019 2:16:11 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5509, 2102, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:16:11 AM: 127.0.0.1: Serials: 0x40000485; 
+10/11/2019 2:16:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:16:37 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'remove '
+10/11/2019 2:16:38 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') deleting 0x4000049E (Static)
+10/11/2019 2:16:40 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'remove '
+10/11/2019 2:16:41 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') deleting 0x40000478 (Static)
+10/11/2019 2:16:45 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'wipe '
+10/11/2019 2:16:47 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') wiping from (5506, 2099, 0) to (5512, 2104, 5) in Trammel (Items, Mobiles)
+10/11/2019 2:16:56 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'wipe '
+10/11/2019 2:16:57 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') wiping from (5497, 2100, 0) to (5504, 2106, 5) in Trammel (Items, Mobiles)
+10/11/2019 2:17:02 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5509, 2102, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:17:02 AM: 127.0.0.1: Serials: 0x400004AB; 
+10/11/2019 2:17:08 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5502, 2102, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:17:08 AM: 127.0.0.1: Serials: 0x400004BA; 
+10/11/2019 2:17:15 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:17:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:17:30 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5518, 2113, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:17:30 AM: 127.0.0.1: Serials: 0x400004F1; 
+10/11/2019 2:17:33 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:17:35 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x400004FE (AddonComponent) to (5518, 2113, 0)
+10/11/2019 2:17:37 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:17:47 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5502, 2112, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:17:47 AM: 127.0.0.1: Serials: 0x40000514; 
+10/11/2019 2:17:50 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:17:53 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40000529 (AddonComponent) to (5501, 2112, 0)
+10/11/2019 2:17:56 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:18:02 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5509, 2112, 0) in Trammel: "TallTree04Addon"
+10/11/2019 2:18:02 AM: 127.0.0.1: Serials: 0x40000540; 
+10/11/2019 2:18:04 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:18:06 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x4000054A (AddonComponent) to (5509, 2113, 2)
+10/11/2019 2:18:07 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:18:08 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x4000054A (AddonComponent) to (5509, 2112, 0)
+10/11/2019 2:18:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:18:18 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x4000054A (AddonComponent) to (5510, 2112, 0)
+10/11/2019 2:18:23 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:18:27 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:18:37 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5464, 2101, 2) in Trammel: "TallTree01Addon"
+10/11/2019 2:18:37 AM: 127.0.0.1: Serials: 0x40000566; 
+10/11/2019 2:18:43 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:18:52 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2120, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:18:52 AM: 127.0.0.1: Serials: 0x4000058F; 
+10/11/2019 2:19:04 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2127, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:19:04 AM: 127.0.0.1: Serials: 0x400005A1; 
+10/11/2019 2:19:08 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:19:10 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:19:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5493, 2126, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:19:17 AM: 127.0.0.1: Serials: 0x40000600; 
+10/11/2019 2:19:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5493, 2117, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:19:19 AM: 127.0.0.1: Serials: 0x4000061A; 
+10/11/2019 2:19:22 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:19:24 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:19:28 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5493, 2135, 0) in Trammel: "TallTree04Addon"
+10/11/2019 2:19:28 AM: 127.0.0.1: Serials: 0x40000660; 
+10/11/2019 2:19:30 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:19:36 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2135, 0) in Trammel: "TallTree06Addon"
+10/11/2019 2:19:36 AM: 127.0.0.1: Serials: 0x40000692; 
+10/11/2019 2:19:40 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:19:41 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x400006A4 (AddonComponent) to (5483, 2136, 0)
+10/11/2019 2:19:43 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:19:46 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2140, 0) in Trammel: "TallTree08Addon"
+10/11/2019 2:19:46 AM: 127.0.0.1: Serials: 0x400007EC; 
+10/11/2019 2:19:48 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:19:55 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5493, 2143, 0) in Trammel: "TallTree07Addon"
+10/11/2019 2:19:55 AM: 127.0.0.1: Serials: 0x4000080F; 
+10/11/2019 2:19:57 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:20:08 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5527, 2102, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:20:08 AM: 127.0.0.1: Serials: 0x4000082A; 
+10/11/2019 2:20:09 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5535, 2102, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:20:09 AM: 127.0.0.1: Serials: 0x40000839; 
+10/11/2019 2:20:14 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:20:16 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:20:22 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5550, 2102, 0) in Trammel: "TallTree04Addon"
+10/11/2019 2:20:22 AM: 127.0.0.1: Serials: 0x4000085F; 
+10/11/2019 2:20:24 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:20:35 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5594, 2114, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:20:35 AM: 127.0.0.1: Serials: 0x4000088A; 
+10/11/2019 2:20:37 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:20:44 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5614, 2114, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:20:44 AM: 127.0.0.1: Serials: 0x400008B7; 
+10/11/2019 2:20:46 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:20:51 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5615, 2122, 0) in Trammel: "TallTree08Addon"
+10/11/2019 2:20:51 AM: 127.0.0.1: Serials: 0x400008D5; 
+10/11/2019 2:20:57 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5613, 2128, 0) in Trammel: "TallTree07Addon"
+10/11/2019 2:20:57 AM: 127.0.0.1: Serials: 0x400008E3; 
+10/11/2019 2:20:59 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:21:01 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:21:11 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2103, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:21:11 AM: 127.0.0.1: Serials: 0x40000912; 
+10/11/2019 2:21:12 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5626, 2095, 2) in Trammel: "TallTree01Addon"
+10/11/2019 2:21:12 AM: 127.0.0.1: Serials: 0x40000928; 
+10/11/2019 2:21:15 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:21:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:21:22 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5628, 2081, 0) in Trammel: "TallTree04Addon"
+10/11/2019 2:21:22 AM: 127.0.0.1: Serials: 0x40000B2D; 
+10/11/2019 2:21:24 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:21:27 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5636, 2081, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:21:27 AM: 127.0.0.1: Serials: 0x40000B6C; 
+10/11/2019 2:21:30 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:21:31 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40000B7D (AddonComponent) to (5635, 2081, 0)
+10/11/2019 2:21:33 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:21:36 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:21:37 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40000B7D (AddonComponent) to (5635, 2080, 2)
+10/11/2019 2:21:41 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:21:42 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:21:46 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5642, 2081, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:21:46 AM: 127.0.0.1: Serials: 0x40000B91; 
+10/11/2019 2:21:48 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:21:55 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5636, 2092, 2) in Trammel: "TallTree04Addon"
+10/11/2019 2:21:55 AM: 127.0.0.1: Serials: 0x40000BC5; 
+10/11/2019 2:21:57 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:22:02 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5643, 2091, 0) in Trammel: "TallTree07Addon"
+10/11/2019 2:22:02 AM: 127.0.0.1: Serials: 0x40000C00; 
+10/11/2019 2:22:04 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:22:13 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5616, 2093, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:22:13 AM: 127.0.0.1: Serials: 0x40000C45; 
+10/11/2019 2:22:16 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5616, 2083, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:22:16 AM: 127.0.0.1: Serials: 0x40000C55; 
+10/11/2019 2:22:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:22:20 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:22:28 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2118, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:22:28 AM: 127.0.0.1: Serials: 0x40000C84; 
+10/11/2019 2:22:30 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:22:35 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2126, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:22:35 AM: 127.0.0.1: Serials: 0x40000DA6; 
+10/11/2019 2:22:40 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:22:44 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5613, 2138, 0) in Trammel: "TallTree04Addon"
+10/11/2019 2:22:44 AM: 127.0.0.1: Serials: 0x40000E4B; 
+10/11/2019 2:22:46 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:22:51 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5613, 2146, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:22:51 AM: 127.0.0.1: Serials: 0x40001089; 
+10/11/2019 2:22:55 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5613, 2154, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:22:55 AM: 127.0.0.1: Serials: 0x40001099; 
+10/11/2019 2:22:57 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:22:58 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:23:09 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5596, 2139, 10) in Trammel: "TallTree02Addon"
+10/11/2019 2:23:09 AM: 127.0.0.1: Serials: 0x400010C5; 
+10/11/2019 2:23:15 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5596, 2147, 10) in Trammel: "TallTree02Addon"
+10/11/2019 2:23:15 AM: 127.0.0.1: Serials: 0x400010D5; 
+10/11/2019 2:23:18 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:23:20 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:23:26 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5626, 2152, 2) in Trammel: "TallTree04Addon"
+10/11/2019 2:23:26 AM: 127.0.0.1: Serials: 0x40001103; 
+10/11/2019 2:23:27 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:23:31 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2156, 0) in Trammel: "TallTree08Addon"
+10/11/2019 2:23:31 AM: 127.0.0.1: Serials: 0x40001120; 
+10/11/2019 2:23:33 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:23:36 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2141, 0) in Trammel: "TallTree06Addon"
+10/11/2019 2:23:36 AM: 127.0.0.1: Serials: 0x40001134; 
+10/11/2019 2:23:38 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:23:46 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5644, 2134, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:23:46 AM: 127.0.0.1: Serials: 0x40001154; 
+10/11/2019 2:23:48 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:23:52 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5634, 2138, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:23:52 AM: 127.0.0.1: Serials: 0x40001B76; 
+10/11/2019 2:23:54 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:24:37 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5614, 2165, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:24:37 AM: 127.0.0.1: Serials: 0x40001B94; 
+10/11/2019 2:24:39 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5613, 2172, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:24:39 AM: 127.0.0.1: Serials: 0x40001C9A; 
+10/11/2019 2:24:41 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:24:43 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:24:49 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5614, 2182, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:24:49 AM: 127.0.0.1: Serials: 0x40001CC5; 
+10/11/2019 2:24:52 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:24:55 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5604, 2182, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:24:55 AM: 127.0.0.1: Serials: 0x40002047; 
+10/11/2019 2:24:58 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5597, 2182, 0) in Trammel: "TallTree04Addon"
+10/11/2019 2:24:58 AM: 127.0.0.1: Serials: 0x40002057; 
+10/11/2019 2:25:00 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:25:02 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:25:06 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5585, 2182, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:25:06 AM: 127.0.0.1: Serials: 0x4000208B; 
+10/11/2019 2:25:08 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:25:12 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5575, 2182, 0) in Trammel: "TallTree05Addon"
+10/11/2019 2:25:12 AM: 127.0.0.1: Serials: 0x400021B4; 
+10/11/2019 2:25:14 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5567, 2182, 0) in Trammel: "TallTree05Addon"
+10/11/2019 2:25:14 AM: 127.0.0.1: Serials: 0x400021C4; 
+10/11/2019 2:25:16 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:25:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:25:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:25:24 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5565, 2194, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:25:24 AM: 127.0.0.1: Serials: 0x400021F2; 
+10/11/2019 2:25:28 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5578, 2194, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:25:28 AM: 127.0.0.1: Serials: 0x40002202; 
+10/11/2019 2:25:30 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:25:31 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:25:35 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5589, 2195, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:25:35 AM: 127.0.0.1: Serials: 0x4000222C; 
+10/11/2019 2:25:37 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:25:41 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5602, 2194, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:25:41 AM: 127.0.0.1: Serials: 0x4000224A; 
+10/11/2019 2:25:44 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:25:45 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x4000224F (AddonComponent) to (5602, 2194, 0)
+10/11/2019 2:25:47 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:25:48 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40002254 (AddonComponent) to (5602, 2195, 2)
+10/11/2019 2:25:51 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:25:55 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5606, 2195, 2) in Trammel: "TallTree08Addon"
+10/11/2019 2:25:55 AM: 127.0.0.1: Serials: 0x40002315; 
+10/11/2019 2:25:57 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:26:00 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5611, 2194, 0) in Trammel: "TallTree07Addon"
+10/11/2019 2:26:00 AM: 127.0.0.1: Serials: 0x4000232A; 
+10/11/2019 2:26:06 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:26:08 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40002332 (AddonComponent) to (5613, 2194, 0)
+10/11/2019 2:26:09 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:26:15 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5616, 2202, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:26:15 AM: 127.0.0.1: Serials: 0x4000233E; 
+10/11/2019 2:26:18 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:26:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40002349 (AddonComponent) to (5625, 2194, 0)
+10/11/2019 2:26:21 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:26:22 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40002349 (AddonComponent) to (5625, 2193, 0)
+10/11/2019 2:26:24 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:26:29 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2184, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:26:29 AM: 127.0.0.1: Serials: 0x4000235D; 
+10/11/2019 2:26:31 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2174, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:26:31 AM: 127.0.0.1: Serials: 0x4000236A; 
+10/11/2019 2:26:34 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:26:35 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:26:40 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5629, 2165, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:26:40 AM: 127.0.0.1: Serials: 0x4000239B; 
+10/11/2019 2:26:42 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:26:47 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5641, 2161, 0) in Trammel: "TallTree04Addon"
+10/11/2019 2:26:47 AM: 127.0.0.1: Serials: 0x400023B8; 
+10/11/2019 2:26:49 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:27:01 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5602, 2102, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:27:01 AM: 127.0.0.1: Serials: 0x400023D2; 
+10/11/2019 2:27:03 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5592, 2102, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:27:03 AM: 127.0.0.1: Serials: 0x400023E0; 
+10/11/2019 2:27:08 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:27:10 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:27:15 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5577, 2102, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:27:15 AM: 127.0.0.1: Serials: 0x4000240A; 
+10/11/2019 2:27:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5566, 2102, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:27:17 AM: 127.0.0.1: Serials: 0x40002418; 
+10/11/2019 2:27:20 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:27:21 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:27:28 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5555, 2102, 0) in Trammel: "TallTree07Addon"
+10/11/2019 2:27:28 AM: 127.0.0.1: Serials: 0x40002442; 
+10/11/2019 2:27:30 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5560, 2102, 0) in Trammel: "TallTree07Addon"
+10/11/2019 2:27:30 AM: 127.0.0.1: Serials: 0x4000244D; 
+10/11/2019 2:27:33 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:27:35 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:27:46 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5532, 2114, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:27:46 AM: 127.0.0.1: Serials: 0x4000246E; 
+10/11/2019 2:27:48 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:27:56 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5517, 2132, 2) in Trammel: "TallTree03Addon"
+10/11/2019 2:27:56 AM: 127.0.0.1: Serials: 0x4000248D; 
+10/11/2019 2:27:58 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:28:03 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5518, 2120, 0) in Trammel: "TallTree07Addon"
+10/11/2019 2:28:03 AM: 127.0.0.1: Serials: 0x400024AB; 
+10/11/2019 2:28:05 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:28:12 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5518, 2143, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:28:12 AM: 127.0.0.1: Serials: 0x400024BF; 
+10/11/2019 2:28:15 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:28:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x400024CA (AddonComponent) to (5517, 2143, 2)
+10/11/2019 2:28:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:28:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x400024CA (AddonComponent) to (5518, 2143, 0)
+10/11/2019 2:28:22 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:28:27 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5518, 2150, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:28:27 AM: 127.0.0.1: Serials: 0x400024DE; 
+10/11/2019 2:28:30 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:28:31 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x400024E9 (AddonComponent) to (5517, 2151, 2)
+10/11/2019 2:28:32 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:28:34 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x400024E9 (AddonComponent) to (5518, 2150, 0)
+10/11/2019 2:28:36 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:28:42 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5532, 2154, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:28:42 AM: 127.0.0.1: Serials: 0x400024FD; 
+10/11/2019 2:28:44 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:28:47 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5532, 2143, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:28:47 AM: 127.0.0.1: Serials: 0x40002518; 
+10/11/2019 2:28:49 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:28:53 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5532, 2129, 0) in Trammel: "TallTree04Addon"
+10/11/2019 2:28:53 AM: 127.0.0.1: Serials: 0x40002536; 
+10/11/2019 2:28:55 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:29:01 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5543, 2114, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:29:01 AM: 127.0.0.1: Serials: 0x400029AE; 
+10/11/2019 2:29:04 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5551, 2114, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:29:04 AM: 127.0.0.1: Serials: 0x400029BE; 
+10/11/2019 2:29:06 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:29:07 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:29:13 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5557, 2112, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:29:13 AM: 127.0.0.1: Serials: 0x400029EA; 
+10/11/2019 2:29:15 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 2:29:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x400029F4 (AddonComponent) to (5559, 2114, 0)
+10/11/2019 2:29:19 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:29:23 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5566, 2114, 0) in Trammel: "TallTree04Addon"
+10/11/2019 2:29:23 AM: 127.0.0.1: Serials: 0x40002A06; 
+10/11/2019 2:29:25 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:29:32 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5576, 2114, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:29:32 AM: 127.0.0.1: Serials: 0x40002A28; 
+10/11/2019 2:29:34 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:29:36 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:29:50 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5462, 2113, 2) in Trammel: "TallTree02Addon"
+10/11/2019 2:29:50 AM: 127.0.0.1: Serials: 0x40002D70; 
+10/11/2019 2:29:52 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5472, 2113, 2) in Trammel: "TallTree02Addon"
+10/11/2019 2:29:52 AM: 127.0.0.1: Serials: 0x40002D7F; 
+10/11/2019 2:29:53 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:29:55 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:30:06 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5483, 2152, 2) in Trammel: "TallTree03Addon"
+10/11/2019 2:30:06 AM: 127.0.0.1: Serials: 0x40002DAA; 
+10/11/2019 2:30:09 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5483, 2160, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:30:09 AM: 127.0.0.1: Serials: 0x40002DBB; 
+10/11/2019 2:30:12 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:30:13 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:30:16 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5494, 2153, 2) in Trammel: "TallTree01Addon"
+10/11/2019 2:30:16 AM: 127.0.0.1: Serials: 0x40002DE5; 
+10/11/2019 2:30:17 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:30:21 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5493, 2159, 0) in Trammel: "TallTree04Addon"
+10/11/2019 2:30:21 AM: 127.0.0.1: Serials: 0x40002E03; 
+10/11/2019 2:30:22 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:30:26 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5483, 2166, 2) in Trammel: "TallTree05Addon"
+10/11/2019 2:30:26 AM: 127.0.0.1: Serials: 0x40002E21; 
+10/11/2019 2:30:28 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:30:32 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5493, 2166, 0) in Trammel: "TallTree03Addon"
+10/11/2019 2:30:32 AM: 127.0.0.1: Serials: 0x40002E41; 
+10/11/2019 2:30:36 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:31:15 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5550, 2195, 2) in Trammel: "TallTree02Addon"
+10/11/2019 2:31:15 AM: 127.0.0.1: Serials: 0x40002E60; 
+10/11/2019 2:31:16 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5539, 2195, 2) in Trammel: "TallTree02Addon"
+10/11/2019 2:31:16 AM: 127.0.0.1: Serials: 0x40002E6E; 
+10/11/2019 2:31:18 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:31:20 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:31:26 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5549, 2182, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:31:26 AM: 127.0.0.1: Serials: 0x40002E99; 
+10/11/2019 2:31:29 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5558, 2182, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:31:29 AM: 127.0.0.1: Serials: 0x40002EA7; 
+10/11/2019 2:31:31 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:31:33 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:31:43 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5533, 2182, 0) in Trammel: "TallTree02Addon"
+10/11/2019 2:31:43 AM: 127.0.0.1: Serials: 0x40002EF2; 
+10/11/2019 2:31:45 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:31:50 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5532, 2171, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:31:50 AM: 127.0.0.1: Serials: 0x40002F1B; 
+10/11/2019 2:31:52 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5532, 2163, 0) in Trammel: "TallTree01Addon"
+10/11/2019 2:31:52 AM: 127.0.0.1: Serials: 0x40002F2A; 
+10/11/2019 2:31:55 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:31:56 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 2:38:54 AM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'save '
+10/11/2019 4:31:25 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5517, 2160, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:31:25 PM: 127.0.0.1: Serials: 0x40006CB6; 
+10/11/2019 4:31:29 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:31:35 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5517, 2167, 2) in Trammel: "TallTree03Addon"
+10/11/2019 4:31:35 PM: 127.0.0.1: Serials: 0x40006CCD; 
+10/11/2019 4:31:40 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:31:46 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5517, 2177, 2) in Trammel: "TallTree01Addon"
+10/11/2019 4:31:46 PM: 127.0.0.1: Serials: 0x40006CE6; 
+10/11/2019 4:31:49 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:31:57 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5515, 2183, 2) in Trammel: "TallTree02Addon"
+10/11/2019 4:31:57 PM: 127.0.0.1: Serials: 0x40006CFF; 
+10/11/2019 4:31:58 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5504, 2183, 2) in Trammel: "TallTree02Addon"
+10/11/2019 4:31:58 PM: 127.0.0.1: Serials: 0x40006D0B; 
+10/11/2019 4:32:00 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5496, 2183, 2) in Trammel: "TallTree02Addon"
+10/11/2019 4:32:00 PM: 127.0.0.1: Serials: 0x40006D17; 
+10/11/2019 4:32:02 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:32:05 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:32:07 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:32:13 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5494, 2173, 2) in Trammel: "TallTree08Addon"
+10/11/2019 4:32:13 PM: 127.0.0.1: Serials: 0x40006D44; 
+10/11/2019 4:32:17 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:32:26 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5483, 2176, 2) in Trammel: "TallTree01Addon"
+10/11/2019 4:32:26 PM: 127.0.0.1: Serials: 0x40006D55; 
+10/11/2019 4:32:29 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:32:39 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5460, 2186, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:32:39 PM: 127.0.0.1: Serials: 0x40006D6E; 
+10/11/2019 4:32:42 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:32:44 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:32:52 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2195, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:32:52 PM: 127.0.0.1: Serials: 0x40006D87; 
+10/11/2019 4:32:55 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:33:00 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5491, 2193, 0) in Trammel: "TallTree03Addon"
+10/11/2019 4:33:00 PM: 127.0.0.1: Serials: 0x40006D9F; 
+10/11/2019 4:33:03 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:33:04 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40006DA8 (AddonComponent) to (5493, 2194, 0)
+10/11/2019 4:33:08 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:33:09 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40006DA8 (AddonComponent) to (5493, 2194, 0)
+10/11/2019 4:33:10 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:33:11 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40006DA8 (AddonComponent) to (5494, 2194, 0)
+10/11/2019 4:33:13 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:33:18 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5505, 2195, 2) in Trammel: "TallTree04Addon"
+10/11/2019 4:33:18 PM: 127.0.0.1: Serials: 0x40006DBC; 
+10/11/2019 4:33:23 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5516, 2194, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:33:23 PM: 127.0.0.1: Serials: 0x40006DC9; 
+10/11/2019 4:33:26 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:33:27 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:33:34 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5518, 2207, 0) in Trammel: "TallTree03Addon"
+10/11/2019 4:33:34 PM: 127.0.0.1: Serials: 0x40006DEE; 
+10/11/2019 4:33:38 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5525, 2215, 0) in Trammel: "TallTree04Addon"
+10/11/2019 4:33:38 PM: 127.0.0.1: Serials: 0x40006DFB; 
+10/11/2019 4:33:41 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:33:42 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:33:48 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5515, 2218, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:33:48 PM: 127.0.0.1: Serials: 0x40006E20; 
+10/11/2019 4:33:53 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5495, 2218, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:33:53 PM: 127.0.0.1: Serials: 0x40006E2D; 
+10/11/2019 4:33:56 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:33:58 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:34:07 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5483, 2206, 2) in Trammel: "TallTree03Addon"
+10/11/2019 4:34:07 PM: 127.0.0.1: Serials: 0x40006E53; 
+10/11/2019 4:34:09 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:34:17 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5483, 2224, 2) in Trammel: "TallTree01Addon"
+10/11/2019 4:34:17 PM: 127.0.0.1: Serials: 0x40006E6C; 
+10/11/2019 4:34:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:34:27 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5494, 2238, 0) in Trammel: "TallTree04Addon"
+10/11/2019 4:34:27 PM: 127.0.0.1: Serials: 0x40006E85; 
+10/11/2019 4:34:30 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:34:35 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5483, 2235, 2) in Trammel: "TallTree02Addon"
+10/11/2019 4:34:35 PM: 127.0.0.1: Serials: 0x40006E9E; 
+10/11/2019 4:34:39 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:34:43 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2245, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:34:43 PM: 127.0.0.1: Serials: 0x40006EB5; 
+10/11/2019 4:34:47 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:34:48 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40006EBE (AddonComponent) to (5483, 2249, 2)
+10/11/2019 4:34:50 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:34:51 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40006EBE (AddonComponent) to (5484, 2247, 0)
+10/11/2019 4:34:53 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:34:58 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2259, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:34:58 PM: 127.0.0.1: Serials: 0x40006ECE; 
+10/11/2019 4:35:00 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:35:07 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5495, 2277, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:35:07 PM: 127.0.0.1: Serials: 0x40006EE5; 
+10/11/2019 4:35:09 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:35:13 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5495, 2265, 0) in Trammel: "TallTree03Addon"
+10/11/2019 4:35:13 PM: 127.0.0.1: Serials: 0x40006F03; 
+10/11/2019 4:35:17 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5495, 2254, 0) in Trammel: "TallTree04Addon"
+10/11/2019 4:35:17 PM: 127.0.0.1: Serials: 0x40006F10; 
+10/11/2019 4:35:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:35:21 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:35:26 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5495, 2243, 0) in Trammel: "TallTree07Addon"
+10/11/2019 4:35:26 PM: 127.0.0.1: Serials: 0x40006F35; 
+10/11/2019 4:35:30 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:35:32 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:35:37 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2272, 0) in Trammel: "TallTree08Addon"
+10/11/2019 4:35:37 PM: 127.0.0.1: Serials: 0x40006F46; 
+10/11/2019 4:35:39 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2265, 0) in Trammel: "TallTree08Addon"
+10/11/2019 4:35:39 PM: 127.0.0.1: Serials: 0x40006F52; 
+10/11/2019 4:35:42 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:35:43 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:35:50 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5484, 2282, 0) in Trammel: "TallTree06Addon"
+10/11/2019 4:35:50 PM: 127.0.0.1: Serials: 0x40006F6B; 
+10/11/2019 4:35:52 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:35:55 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40006F74 (AddonComponent) to (5483, 2283, 2)
+10/11/2019 4:35:58 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:36:07 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5507, 2277, 0) in Trammel: "TallTree06Addon"
+10/11/2019 4:36:07 PM: 127.0.0.1: Serials: 0x40006F85; 
+10/11/2019 4:36:10 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:36:16 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5518, 2276, 2) in Trammel: "TallTree01Addon"
+10/11/2019 4:36:16 PM: 127.0.0.1: Serials: 0x40006F9C; 
+10/11/2019 4:36:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:36:23 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40006FA5 (AddonComponent) to (5519, 2278, 0)
+10/11/2019 4:36:24 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:36:27 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40006FA5 (AddonComponent) to (5519, 2278, 0)
+10/11/2019 4:36:28 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:36:29 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40006FA5 (AddonComponent) to (5519, 2278, 0)
+10/11/2019 4:36:31 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:36:33 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x40006FA5 (AddonComponent) to (5519, 2278, 20)
+10/11/2019 4:36:37 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:37:08 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5530, 2278, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:37:08 PM: 127.0.0.1: Serials: 0x40006FB5; 
+10/11/2019 4:37:10 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:37:12 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:37:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5531, 2267, 0) in Trammel: "TallTree03Addon"
+10/11/2019 4:37:19 PM: 127.0.0.1: Serials: 0x40006FCC; 
+10/11/2019 4:37:23 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5531, 2257, 0) in Trammel: "TallTree04Addon"
+10/11/2019 4:37:23 PM: 127.0.0.1: Serials: 0x40006FD9; 
+10/11/2019 4:37:25 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:37:27 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:37:35 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5532, 2238, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:37:35 PM: 127.0.0.1: Serials: 0x40006FFE; 
+10/11/2019 4:37:38 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5524, 2238, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:37:38 PM: 127.0.0.1: Serials: 0x4000700B; 
+10/11/2019 4:37:40 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:37:41 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:37:47 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5516, 2238, 0) in Trammel: "TallTree07Addon"
+10/11/2019 4:37:47 PM: 127.0.0.1: Serials: 0x40007030; 
+10/11/2019 4:37:50 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5510, 2238, 0) in Trammel: "TallTree06Addon"
+10/11/2019 4:37:50 PM: 127.0.0.1: Serials: 0x40007039; 
+10/11/2019 4:37:52 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:37:54 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:37:59 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5502, 2238, 0) in Trammel: "TallTree08Addon"
+10/11/2019 4:37:59 PM: 127.0.0.1: Serials: 0x40007058; 
+10/11/2019 4:38:01 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:38:03 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:38:10 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5503, 2219, 0) in Trammel: "TallTree08Addon"
+10/11/2019 4:38:10 PM: 127.0.0.1: Serials: 0x40007069; 
+10/11/2019 4:38:12 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:38:26 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5544, 2238, 0) in Trammel: "TallTree08Addon"
+10/11/2019 4:38:26 PM: 127.0.0.1: Serials: 0x4000707A; 
+10/11/2019 4:38:30 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5551, 2238, 0) in Trammel: "TallTree07Addon"
+10/11/2019 4:38:30 PM: 127.0.0.1: Serials: 0x40007083; 
+10/11/2019 4:38:33 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:38:36 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:38:41 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5558, 2238, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:38:41 PM: 127.0.0.1: Serials: 0x4000709E; 
+10/11/2019 4:38:48 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:38:58 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5615, 2238, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:38:58 PM: 127.0.0.1: Serials: 0x400070B7; 
+10/11/2019 4:39:03 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'move '
+10/11/2019 4:39:05 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') moving 0x400070C0 (AddonComponent) to (5613, 2238, 0)
+10/11/2019 4:39:08 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:39:12 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5598, 2238, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:39:12 PM: 127.0.0.1: Serials: 0x400070D0; 
+10/11/2019 4:39:16 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5588, 2238, 0) in Trammel: "TallTree04Addon"
+10/11/2019 4:39:16 PM: 127.0.0.1: Serials: 0x400070DC; 
+10/11/2019 4:39:18 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:39:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:39:25 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5577, 2238, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:39:25 PM: 127.0.0.1: Serials: 0x40007103; 
+10/11/2019 4:39:30 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:39:31 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:39:35 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5567, 2238, 0) in Trammel: "TallTree07Addon"
+10/11/2019 4:39:35 PM: 127.0.0.1: Serials: 0x4000711A; 
+10/11/2019 4:39:39 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:39:50 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5613, 2250, 0) in Trammel: "TallTree06Addon"
+10/11/2019 4:39:50 PM: 127.0.0.1: Serials: 0x4000712B; 
+10/11/2019 4:39:55 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5614, 2240, 0) in Trammel: "TallTree08Addon"
+10/11/2019 4:39:55 PM: 127.0.0.1: Serials: 0x40007138; 
+10/11/2019 4:39:59 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:40:01 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:40:08 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5615, 2260, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:40:08 PM: 127.0.0.1: Serials: 0x40007157; 
+10/11/2019 4:40:12 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5614, 2278, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:40:12 PM: 127.0.0.1: Serials: 0x40007163; 
+10/11/2019 4:40:15 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:40:18 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:40:25 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5601, 2277, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:40:25 PM: 127.0.0.1: Serials: 0x40007185; 
+10/11/2019 4:40:29 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:40:31 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:40:38 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5591, 2278, 0) in Trammel: "TallTree03Addon"
+10/11/2019 4:40:38 PM: 127.0.0.1: Serials: 0x4000719E; 
+10/11/2019 4:40:43 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:40:46 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5578, 2278, 0) in Trammel: "TallTree04Addon"
+10/11/2019 4:40:46 PM: 127.0.0.1: Serials: 0x400071B7; 
+10/11/2019 4:40:49 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5563, 2278, 0) in Trammel: "TallTree04Addon"
+10/11/2019 4:40:49 PM: 127.0.0.1: Serials: 0x400071C4; 
+10/11/2019 4:40:53 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:40:54 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:41:01 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5551, 2278, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:41:01 PM: 127.0.0.1: Serials: 0x400071E9; 
+10/11/2019 4:41:06 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:41:12 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5541, 2278, 0) in Trammel: "TallTree07Addon"
+10/11/2019 4:41:12 PM: 127.0.0.1: Serials: 0x40007202; 
+10/11/2019 4:41:15 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:41:28 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5551, 2255, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:41:28 PM: 127.0.0.1: Serials: 0x40007213; 
+10/11/2019 4:41:31 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:41:50 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5651, 2255, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:41:50 PM: 127.0.0.1: Serials: 0x4000723A; 
+10/11/2019 4:41:55 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5645, 2265, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:41:55 PM: 127.0.0.1: Serials: 0x40007247; 
+10/11/2019 4:41:58 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:41:59 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:42:05 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5651, 2262, 0) in Trammel: "TallTree07Addon"
+10/11/2019 4:42:06 PM: 127.0.0.1: Serials: 0x4000726B; 
+10/11/2019 4:42:09 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:42:13 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5634, 2254, 0) in Trammel: "TallTree07Addon"
+10/11/2019 4:42:13 PM: 127.0.0.1: Serials: 0x4000727C; 
+10/11/2019 4:42:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5629, 2265, 0) in Trammel: "TallTree03Addon"
+10/11/2019 4:42:19 PM: 127.0.0.1: Serials: 0x40007285; 
+10/11/2019 4:42:22 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:42:23 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:43:37 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5626, 2204, 2) in Trammel: "TallTree01Addon"
+10/11/2019 4:43:37 PM: 127.0.0.1: Serials: 0x400072A6; 
+10/11/2019 4:43:39 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:43:45 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5616, 2213, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:43:45 PM: 127.0.0.1: Serials: 0x400072C3; 
+10/11/2019 4:43:47 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:43:52 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5616, 2200, 0) in Trammel: "TallTree07Addon"
+10/11/2019 4:43:52 PM: 127.0.0.1: Serials: 0x400072DA; 
+10/11/2019 4:43:56 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:44:03 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5616, 2224, 0) in Trammel: "TallTree08Addon"
+10/11/2019 4:44:03 PM: 127.0.0.1: Serials: 0x400072EB; 
+10/11/2019 4:44:04 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:44:09 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2226, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:44:09 PM: 127.0.0.1: Serials: 0x400072FC; 
+10/11/2019 4:44:12 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:44:17 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2234, 0) in Trammel: "TallTree04Addon"
+10/11/2019 4:44:17 PM: 127.0.0.1: Serials: 0x40007313; 
+10/11/2019 4:44:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:44:29 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2290, 0) in Trammel: "TallTree03Addon"
+10/11/2019 4:44:29 PM: 127.0.0.1: Serials: 0x4000732D; 
+10/11/2019 4:44:31 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:44:34 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5615, 2290, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:44:34 PM: 127.0.0.1: Serials: 0x40007346; 
+10/11/2019 4:44:37 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:44:41 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5601, 2294, 38) in Trammel: "TallTree02Addon"
+10/11/2019 4:44:41 PM: 127.0.0.1: Serials: 0x4000735F; 
+10/11/2019 4:44:43 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5584, 2290, 0) in Trammel: "TallTree02Addon"
+10/11/2019 4:44:43 PM: 127.0.0.1: Serials: 0x4000736B; 
+10/11/2019 4:44:46 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:44:50 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:44:54 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5565, 2291, 4) in Trammel: "TallTree03Addon"
+10/11/2019 4:44:54 PM: 127.0.0.1: Serials: 0x4000738D; 
+10/11/2019 4:44:59 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5553, 2291, 6) in Trammel: "TallTree04Addon"
+10/11/2019 4:44:59 PM: 127.0.0.1: Serials: 0x4000739A; 
+10/11/2019 4:45:01 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:45:03 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:45:07 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5540, 2290, 0) in Trammel: "TallTree01Addon"
+10/11/2019 4:45:07 PM: 127.0.0.1: Serials: 0x400073BF; 
+10/11/2019 4:45:10 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5532, 2294, 38) in Trammel: "TallTree01Addon"
+10/11/2019 4:45:10 PM: 127.0.0.1: Serials: 0x400073CC; 
+10/11/2019 4:45:12 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:45:14 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:45:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5520, 2294, 36) in Trammel: "TallTree03Addon"
+10/11/2019 4:45:19 PM: 127.0.0.1: Serials: 0x400073F1; 
+10/11/2019 4:45:26 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:45:31 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5506, 2291, 6) in Trammel: "TallTree02Addon"
+10/11/2019 4:45:31 PM: 127.0.0.1: Serials: 0x4000740F; 
+10/11/2019 4:45:34 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:45:56 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5625, 2273, 0) in Trammel: "TallTree07Addon"
+10/11/2019 4:45:56 PM: 127.0.0.1: Serials: 0x40007426; 
+10/11/2019 4:45:59 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:46:05 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5614, 2266, 0) in Trammel: "TallTree07Addon"
+10/11/2019 4:46:05 PM: 127.0.0.1: Serials: 0x40007437; 
+10/11/2019 4:46:08 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:46:17 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5626, 2214, 2) in Trammel: "TallTree07Addon"
+10/11/2019 4:46:17 PM: 127.0.0.1: Serials: 0x40007448; 
+10/11/2019 4:46:22 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'addon2static '
+10/11/2019 4:49:39 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'freezemap '
+10/11/2019 4:49:41 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') invoking freeze for every item in Owner
+10/11/2019 4:49:50 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'admin '
+10/11/2019 4:49:55 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'decorate '
+10/11/2019 4:50:01 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/11/2019 4:50:02 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/11/2019 5:06:35 PM
+
+10/11/2019 5:06:43 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost '
+10/11/2019 5:06:55 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'props '
+10/11/2019 5:09:12 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'admin '
+10/11/2019 5:09:16 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/11/2019 5:09:22 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/11/2019 5:17:55 PM
+
+10/11/2019 5:18:13 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost '
+10/11/2019 5:19:12 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/11/2019 5:22:13 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'where '
+10/11/2019 5:22:27 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'set map malas'
+10/11/2019 5:22:28 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') set property 'map' of 0x5 "Nastlia Kensley" ('Zigholtul88') to 'Malas'
+10/11/2019 5:22:30 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/11/2019 5:23:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'remove '
+10/11/2019 5:23:20 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') deleting 0x4000479A (MoongateTeleporter)
+10/11/2019 5:23:38 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'where '
+10/11/2019 5:23:40 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'where '
+10/11/2019 5:25:09 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'admin '
+10/11/2019 5:25:12 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'decorate '
+10/11/2019 5:25:31 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'where '
+10/11/2019 5:25:58 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'remove '
+10/11/2019 5:25:58 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') deleting 0x4000204C (MoongateTeleporter)
+10/11/2019 5:26:00 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/11/2019 5:26:05 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'set map trammel'
+10/11/2019 5:26:06 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') set property 'map' of 0x5 "Nastlia Kensley" ('Zigholtul88') to 'Trammel'
+10/11/2019 5:26:08 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/11/2019 5:26:25 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'remove '
+10/11/2019 5:26:25 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') deleting 0x4000001F (MoongateTeleporter)
+10/11/2019 5:26:26 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'admin '
+10/11/2019 5:26:29 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'decorate '
+10/11/2019 5:26:40 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'where '
+10/11/2019 7:04:11 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'admin '
+10/11/2019 7:04:17 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/11/2019 7:04:23 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/11/2019 7:37:08 PM
+
+10/11/2019 7:37:57 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost '
+10/11/2019 7:38:08 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'set map malas'
+10/11/2019 7:38:09 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') set property 'map' of 0x5 "Nastlia Kensley" ('Zigholtul88') to 'Malas'
+10/11/2019 7:38:11 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/11/2019 7:45:05 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'go '
+10/11/2019 7:56:26 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'tele '
+10/11/2019 8:00:09 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'tele '
+10/11/2019 8:00:17 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'tele '
+10/11/2019 8:00:33 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'tele '
+10/11/2019 8:00:59 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'tele '
+10/11/2019 8:01:04 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'tele '
+##############################
+Log started on 10/11/2019 8:34:51 PM
+
+10/11/2019 8:35:00 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost '
+10/11/2019 8:35:06 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'where '
+10/11/2019 8:51:02 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'admin '
+10/11/2019 8:51:06 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/11/2019 8:51:10 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/11/2019 8:56:58 PM
+
+10/11/2019 8:57:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost '
+10/11/2019 9:52:33 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add houseplac'
+10/11/2019 9:52:35 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5564, 2082, 10) in Trammel: "HousePlacementTool"
+10/11/2019 9:52:35 PM: 127.0.0.1: Serials: 0x40000033; 
+10/11/2019 10:06:20 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'admin '
+10/11/2019 10:06:24 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/11/2019 10:06:30 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/11/2019 10:40:59 PM
+
+10/11/2019 10:41:11 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'speedboost '
+10/11/2019 10:42:10 PM: 127.0.0.1: Player 0x55 "Touch Me" ('Yugitashi') used command 'hunger '
+10/11/2019 10:42:13 PM: 127.0.0.1: Player 0x55 "Touch Me" ('Yugitashi') used command 'hunger '
+10/11/2019 10:42:22 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'who '
+10/11/2019 10:42:26 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') bringing 0x55 "Touch Me" ('Yugitashi') to Location (5535, 2107, 0), Map Trammel
+10/11/2019 10:42:29 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'bank '
+10/11/2019 10:42:31 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') opening bank box of 0x55 "Touch Me" ('Yugitashi')
+10/11/2019 10:42:35 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add gold 60000'
+10/11/2019 10:42:37 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5532, 2108, 0) in Trammel: "gold" "60000"
+10/11/2019 10:42:37 PM: 127.0.0.1: Serials: 0x40000043; 
+10/11/2019 10:42:38 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add gold 60000'
+10/11/2019 10:42:38 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5532, 2107, 0) in Trammel: "gold" "60000"
+10/11/2019 10:42:38 PM: 127.0.0.1: Serials: 0x40000044; 
+10/11/2019 10:42:40 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add gold 60000'
+10/11/2019 10:42:40 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5533, 2106, 0) in Trammel: "gold" "60000"
+10/11/2019 10:42:40 PM: 127.0.0.1: Serials: 0x40000045; 
+10/11/2019 10:42:47 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'bank '
+10/11/2019 10:42:49 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') opening bank box of 0x55 "Touch Me" ('Yugitashi')
+10/11/2019 10:43:00 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'add houseplacementtool'
+10/11/2019 10:43:02 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') building at (5533, 2108, 0) in Trammel: "houseplacementtool"
+10/11/2019 10:43:02 PM: 127.0.0.1: Serials: 0x40000046; 
+10/11/2019 10:46:18 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'props '
+10/11/2019 10:55:19 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'where '
+10/11/2019 11:07:01 PM: 127.0.0.1: Owner 0x5 "Nastlia Kensley" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/11/2019 11:25:19 PM
+
+##############################
+Log started on 10/11/2019 11:33:00 PM
+
+##############################
+Log started on 10/11/2019 11:41:11 PM
+
+##############################
+Log started on 10/11/2019 11:46:58 PM
+
+##############################
+Log started on 10/11/2019 11:51:32 PM
+
+##############################
+Log started on 10/11/2019 11:55:58 PM
+

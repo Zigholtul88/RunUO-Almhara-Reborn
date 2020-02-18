@@ -1,0 +1,803 @@
+##############################
+Log started on 6/3/2019 6:12:41 AM
+
+6/3/2019 6:13:02 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+6/3/2019 6:13:11 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/3/2019 6:13:25 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add testmob'
+6/3/2019 6:13:31 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (672, 1359, 20) in Malas: "TestMob1A"
+6/3/2019 6:13:32 AM: 127.0.0.1: Serials: 0x2D; 
+6/3/2019 6:14:32 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (666, 1359, 11) in Malas: "TestMob1B"
+6/3/2019 6:14:33 AM: 127.0.0.1: Serials: 0x2F; 
+6/3/2019 6:17:41 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'kill '
+6/3/2019 6:17:42 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') killing 0x1A "Tobe Faire" ('Zigholtul88')
+6/3/2019 6:17:48 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'res '
+6/3/2019 6:17:49 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') resurrecting 0x1A "Tobe Faire" ('Zigholtul88')
+6/3/2019 6:33:42 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/3/2019 6:38:26 AM
+
+6/3/2019 6:38:35 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+6/3/2019 6:38:48 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add testmob'
+6/3/2019 6:38:51 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (671, 1368, 12) in Malas: "TestMob1C"
+6/3/2019 6:38:52 AM: 127.0.0.1: Serials: 0x2D; 
+6/3/2019 6:42:11 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'props '
+6/3/2019 6:42:13 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') hiding 0x1A "Tobe Faire" ('Zigholtul88')
+6/3/2019 6:42:13 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'Self Hide'
+6/3/2019 6:42:25 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'Kills' of 0x1A "Tobe Faire" ('Zigholtul88') to '0'
+6/3/2019 6:42:28 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') unhiding 0x1A "Tobe Faire" ('Zigholtul88')
+6/3/2019 6:42:28 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'Self Unhide'
+6/3/2019 6:42:33 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/3/2019 6:42:33 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x48 "Dominique" (no account)
+6/3/2019 6:45:46 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/3/2019 6:46:00 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/3/2019 6:46:00 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x2D "Bob" (no account)
+6/3/2019 6:46:23 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/3/2019 6:46:27 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/3/2019 6:46:30 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '
+##############################
+Log started on 6/3/2019 7:05:07 AM
+
+6/3/2019 7:05:26 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+6/3/2019 7:07:35 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add blackant'
+6/3/2019 7:07:37 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1084, 1157, 7) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:07:37 AM: 127.0.0.1: Serials: 0x5B; 
+6/3/2019 7:08:54 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add blackant'
+6/3/2019 7:08:57 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1084, 1156, 9) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:08:57 AM: 127.0.0.1: Serials: 0x5C; 
+6/3/2019 7:08:57 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1084, 1156, 9) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:08:57 AM: 127.0.0.1: Serials: 0x5D; 
+6/3/2019 7:08:57 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1084, 1156, 9) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:08:57 AM: 127.0.0.1: Serials: 0x5E; 
+6/3/2019 7:08:57 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1084, 1156, 9) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:08:57 AM: 127.0.0.1: Serials: 0x5F; 
+6/3/2019 7:08:58 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1085, 1155, 10) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:08:58 AM: 127.0.0.1: Serials: 0x60; 
+6/3/2019 7:08:58 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1084, 1156, 9) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:08:58 AM: 127.0.0.1: Serials: 0x61; 
+6/3/2019 7:08:58 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1085, 1156, 9) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:08:58 AM: 127.0.0.1: Serials: 0x62; 
+6/3/2019 7:09:37 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 700'
+6/3/2019 7:09:37 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '700'
+6/3/2019 7:09:43 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+6/3/2019 7:09:46 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (1082, 1134, 19) to (1094, 1163, 46) in Malas (Items, Mobiles)
+6/3/2019 7:09:48 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+6/3/2019 7:09:49 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (1079, 1142, 8) to (1084, 1152, 19) in Malas (Items, Mobiles)
+6/3/2019 7:10:03 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add runningpants'
+6/3/2019 7:10:04 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1089, 1149, 8) in Malas: "runningpants"
+6/3/2019 7:10:04 AM: 127.0.0.1: Serials: 0x64; 
+6/3/2019 7:10:43 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/3/2019 7:10:50 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add madpumpk'
+6/3/2019 7:10:52 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1067, 1031, 16) in Malas: "MadPumpkinSpirit"
+6/3/2019 7:10:52 AM: 127.0.0.1: Serials: 0x65; 
+6/3/2019 7:11:10 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1074, 1051, 48) in Malas: "MadPumpkinSpirit"
+6/3/2019 7:11:10 AM: 127.0.0.1: Serials: 0x67; 
+6/3/2019 7:11:10 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1073, 1050, 49) in Malas: "MadPumpkinSpirit"
+6/3/2019 7:11:10 AM: 127.0.0.1: Serials: 0x6A; 
+6/3/2019 7:11:10 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1074, 1051, 48) in Malas: "MadPumpkinSpirit"
+6/3/2019 7:11:10 AM: 127.0.0.1: Serials: 0x6B; 
+6/3/2019 7:11:10 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1073, 1051, 49) in Malas: "MadPumpkinSpirit"
+6/3/2019 7:11:10 AM: 127.0.0.1: Serials: 0x6D; 
+6/3/2019 7:11:10 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1074, 1051, 48) in Malas: "MadPumpkinSpirit"
+6/3/2019 7:11:10 AM: 127.0.0.1: Serials: 0x6F; 
+6/3/2019 7:11:10 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1075, 1052, 42) in Malas: "MadPumpkinSpirit"
+6/3/2019 7:11:10 AM: 127.0.0.1: Serials: 0x72; 
+6/3/2019 7:11:50 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+6/3/2019 7:11:51 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (1064, 1041, 10) to (1072, 1052, 31) in Malas (Items, Mobiles)
+6/3/2019 7:11:58 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:11:59 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:12:03 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add blacklizard'
+6/3/2019 7:12:04 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1074, 1050, 47) in Malas: "blacklizard"
+6/3/2019 7:12:04 AM: 127.0.0.1: Serials: 0x7B; 
+6/3/2019 7:13:02 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'setskill magicresist 0'
+6/3/2019 7:13:02 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'MagicResist.Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '0'
+6/3/2019 7:13:08 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add blacklizard'
+6/3/2019 7:13:08 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1073, 1052, 48) in Malas: "blacklizard"
+6/3/2019 7:13:08 AM: 127.0.0.1: Serials: 0x7D; 
+6/3/2019 7:14:25 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/3/2019 7:14:25 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x7D "a black lizard" (no account)
+6/3/2019 7:14:29 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add raiju'
+6/3/2019 7:14:30 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1065, 1050, 32) in Malas: "raiju"
+6/3/2019 7:14:30 AM: 127.0.0.1: Serials: 0x7F; 
+6/3/2019 7:14:45 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:14:45 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:14:57 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/3/2019 7:14:57 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x7F "a Rai-Ju" (no account)
+6/3/2019 7:15:28 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add fandancer'
+6/3/2019 7:15:28 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1066, 1044, 26) in Malas: "fandancer"
+6/3/2019 7:15:28 AM: 127.0.0.1: Serials: 0x81; 
+6/3/2019 7:15:40 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:15:40 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:16:03 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:16:04 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:18:37 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add wyver'
+6/3/2019 7:18:39 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1065, 1063, 7) in Malas: "WyvernYoungling"
+6/3/2019 7:18:39 AM: 127.0.0.1: Serials: 0x89; 
+6/3/2019 7:19:10 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/3/2019 7:19:11 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x7C "Vanya" (no account)
+6/3/2019 7:19:13 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1066, 1066, 2) in Malas: "WyvernYoungling"
+6/3/2019 7:19:13 AM: 127.0.0.1: Serials: 0x8A; 
+6/3/2019 7:19:14 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1068, 1066, 1) in Malas: "WyvernYoungling"
+6/3/2019 7:19:14 AM: 127.0.0.1: Serials: 0x8B; 
+6/3/2019 7:19:36 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:19:37 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:20:02 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1067, 1065, 2) in Malas: "WyvernYoungling"
+6/3/2019 7:20:02 AM: 127.0.0.1: Serials: 0x8C; 
+6/3/2019 7:20:03 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1067, 1065, 2) in Malas: "WyvernYoungling"
+6/3/2019 7:20:03 AM: 127.0.0.1: Serials: 0x8D; 
+6/3/2019 7:20:13 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:20:13 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:20:25 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+6/3/2019 7:20:27 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (1059, 1057, 1) to (1071, 1067, 2) in Malas (Items, Mobiles)
+6/3/2019 7:20:33 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add fandance'
+6/3/2019 7:20:38 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:20:38 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:20:40 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1067, 1065, 2) in Malas: "FanDancer"
+6/3/2019 7:20:40 AM: 127.0.0.1: Serials: 0x8F; 
+6/3/2019 7:20:40 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1067, 1064, 5) in Malas: "FanDancer"
+6/3/2019 7:20:40 AM: 127.0.0.1: Serials: 0x90; 
+6/3/2019 7:20:40 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1067, 1065, 2) in Malas: "FanDancer"
+6/3/2019 7:20:40 AM: 127.0.0.1: Serials: 0x91; 
+6/3/2019 7:20:41 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1067, 1065, 2) in Malas: "FanDancer"
+6/3/2019 7:20:41 AM: 127.0.0.1: Serials: 0x92; 
+6/3/2019 7:20:41 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1067, 1065, 2) in Malas: "FanDancer"
+6/3/2019 7:20:41 AM: 127.0.0.1: Serials: 0x93; 
+6/3/2019 7:20:58 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:20:58 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:21:06 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:21:06 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:21:14 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+6/3/2019 7:21:16 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (1056, 1061, 2) to (1074, 1067, 36) in Malas (Items, Mobiles)
+6/3/2019 7:21:18 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+6/3/2019 7:21:18 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (1061, 1061, 5) to (1074, 1065, 36) in Malas (Items, Mobiles)
+6/3/2019 7:21:20 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+6/3/2019 7:21:21 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (1064, 1058, 11) to (1065, 1060, 18) in Malas (Items, Mobiles)
+6/3/2019 7:21:22 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+6/3/2019 7:21:23 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (1066, 1059, 13) to (1066, 1059, 13) in Malas (Items, Mobiles)
+6/3/2019 7:21:29 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/3/2019 7:27:30 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/3/2019 7:27:33 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/3/2019 7:27:37 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '
+##############################
+Log started on 6/3/2019 7:50:37 AM
+
+6/3/2019 7:56:03 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+6/3/2019 7:56:15 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add blackant'
+6/3/2019 7:56:20 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1159, 1484, -20) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:56:20 AM: 127.0.0.1: Serials: 0x2D; 
+6/3/2019 7:56:20 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1159, 1484, -20) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:56:20 AM: 127.0.0.1: Serials: 0x48; 
+6/3/2019 7:56:28 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1162, 1473, -10) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:56:28 AM: 127.0.0.1: Serials: 0x4A; 
+6/3/2019 7:56:29 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1164, 1474, -10) in Malas: "BlackAntZaythalorForest"
+6/3/2019 7:56:29 AM: 127.0.0.1: Serials: 0x4B; 
+6/3/2019 7:56:52 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:56:53 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:57:18 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+6/3/2019 7:57:21 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (1155, 1471, -15) to (1161, 1482, -12) in Malas (Items, Mobiles)
+6/3/2019 7:57:26 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/3/2019 7:58:17 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 7:58:17 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 7:58:48 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/3/2019 7:58:53 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/3/2019 7:58:58 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '
+##############################
+Log started on 6/3/2019 8:12:13 AM
+
+6/3/2019 8:12:29 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+6/3/2019 8:12:39 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add wyvern'
+6/3/2019 8:12:42 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add wyver'
+6/3/2019 8:12:50 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1378, 1150, 2) in Malas: "wyvern"
+6/3/2019 8:12:50 AM: 127.0.0.1: Serials: 0x2D; 
+6/3/2019 8:12:54 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/3/2019 8:12:57 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/3/2019 8:12:57 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x2D "a wyvern" (no account)
+6/3/2019 8:13:03 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1376, 1157, 2) in Malas: "WyvernYoungling"
+6/3/2019 8:13:04 AM: 127.0.0.1: Serials: 0x48; 
+6/3/2019 8:13:04 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1377, 1159, 2) in Malas: "WyvernYoungling"
+6/3/2019 8:13:04 AM: 127.0.0.1: Serials: 0x4A; 
+6/3/2019 8:13:30 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1379, 1160, 2) in Malas: "WyvernYoungling"
+6/3/2019 8:13:30 AM: 127.0.0.1: Serials: 0x4B; 
+6/3/2019 8:14:08 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 8:14:09 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 8:14:45 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+6/3/2019 8:14:47 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (1373, 1154, 2) to (1381, 1163, 2) in Malas (Items, Mobiles)
+6/3/2019 8:15:01 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/3/2019 8:15:07 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/3/2019 8:15:11 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '
+##############################
+Log started on 6/3/2019 6:28:38 PM
+
+6/3/2019 6:30:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+6/3/2019 6:31:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/3/2019 6:35:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 6:35:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 6:46:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 6:46:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 6:47:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 6:47:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 6:47:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 6:47:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 6:54:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') unhiding 0x1A "Tobe Faire" ('Zigholtul88')
+6/3/2019 6:54:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'Self Unhide'
+6/3/2019 7:07:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/3/2019 7:07:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/3/2019 7:07:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '
+##############################
+Log started on 6/3/2019 10:41:16 PM
+
+6/3/2019 10:41:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+6/3/2019 10:41:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add bong'
+6/3/2019 10:41:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (519, 738, 26) in Malas: "MovableKarmaBong"
+6/3/2019 10:41:53 PM: 127.0.0.1: Serials: 0x400002CB; 
+6/3/2019 10:42:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+6/3/2019 10:42:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x400002CB (MovableKarmaBong)
+6/3/2019 10:42:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'quest '
+6/3/2019 10:42:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/3/2019 10:42:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'quest '
+6/3/2019 10:42:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'quest '
+6/3/2019 10:43:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'quest '
+6/3/2019 10:43:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'quest '
+6/3/2019 10:44:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'props '
+6/3/2019 10:56:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+6/3/2019 10:58:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost off'
+6/3/2019 11:01:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') unhiding 0x1A "Tobe Faire" ('Zigholtul88')
+6/3/2019 11:01:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'Self Unhide'
+6/3/2019 11:02:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'bank '
+6/3/2019 11:02:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') opening bank box of 0x1A "Tobe Faire" ('Zigholtul88')
+6/3/2019 11:19:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/3/2019 11:20:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add runningpant'
+6/3/2019 11:20:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2524, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:20 PM: 127.0.0.1: Serials: 0x57; 
+6/3/2019 11:20:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2523, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:22 PM: 127.0.0.1: Serials: 0x58; 
+6/3/2019 11:20:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2524, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:22 PM: 127.0.0.1: Serials: 0x5B; 
+6/3/2019 11:20:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2520, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:27 PM: 127.0.0.1: Serials: 0x61; 
+6/3/2019 11:20:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2522, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:27 PM: 127.0.0.1: Serials: 0x62; 
+6/3/2019 11:20:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2522, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:28 PM: 127.0.0.1: Serials: 0x64; 
+6/3/2019 11:20:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2522, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:28 PM: 127.0.0.1: Serials: 0x65; 
+6/3/2019 11:20:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2522, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:28 PM: 127.0.0.1: Serials: 0x66; 
+6/3/2019 11:20:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2526, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:28 PM: 127.0.0.1: Serials: 0x67; 
+6/3/2019 11:20:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2522, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:28 PM: 127.0.0.1: Serials: 0x6B; 
+6/3/2019 11:20:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2524, 1988, 0) in Malas: "RunningPants"
+6/3/2019 11:20:29 PM: 127.0.0.1: Serials: 0x6D; 
+6/3/2019 11:20:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2524, 1988, 0) in Malas: "RunningPants"
+6/3/2019 11:20:29 PM: 127.0.0.1: Serials: 0x6F; 
+6/3/2019 11:20:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2522, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:29 PM: 127.0.0.1: Serials: 0x72; 
+6/3/2019 11:20:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2524, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:20:29 PM: 127.0.0.1: Serials: 0x74; 
+6/3/2019 11:20:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2525, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:20:29 PM: 127.0.0.1: Serials: 0x7B; 
+6/3/2019 11:20:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2526, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:30 PM: 127.0.0.1: Serials: 0x7C; 
+6/3/2019 11:20:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2527, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:30 PM: 127.0.0.1: Serials: 0x7D; 
+6/3/2019 11:20:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2525, 1988, 0) in Malas: "RunningPants"
+6/3/2019 11:20:30 PM: 127.0.0.1: Serials: 0x7E; 
+6/3/2019 11:20:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2523, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:30 PM: 127.0.0.1: Serials: 0x7F; 
+6/3/2019 11:20:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2524, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:30 PM: 127.0.0.1: Serials: 0x81; 
+6/3/2019 11:20:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2525, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:20:31 PM: 127.0.0.1: Serials: 0x82; 
+6/3/2019 11:20:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2534, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:20:45 PM: 127.0.0.1: Serials: 0x89; 
+6/3/2019 11:20:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2534, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:20:45 PM: 127.0.0.1: Serials: 0x8A; 
+6/3/2019 11:20:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2534, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:20:45 PM: 127.0.0.1: Serials: 0x8B; 
+6/3/2019 11:20:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2534, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:20:45 PM: 127.0.0.1: Serials: 0x8C; 
+6/3/2019 11:20:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2536, 1991, 0) in Malas: "RunningPants"
+6/3/2019 11:20:46 PM: 127.0.0.1: Serials: 0x8D; 
+6/3/2019 11:20:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2535, 1991, 0) in Malas: "RunningPants"
+6/3/2019 11:20:46 PM: 127.0.0.1: Serials: 0x8F; 
+6/3/2019 11:20:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2535, 1991, 0) in Malas: "RunningPants"
+6/3/2019 11:20:46 PM: 127.0.0.1: Serials: 0x90; 
+6/3/2019 11:20:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2537, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:20:46 PM: 127.0.0.1: Serials: 0x91; 
+6/3/2019 11:20:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2527, 1991, 0) in Malas: "RunningPants"
+6/3/2019 11:20:51 PM: 127.0.0.1: Serials: 0x92; 
+6/3/2019 11:20:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2527, 1991, 0) in Malas: "RunningPants"
+6/3/2019 11:20:52 PM: 127.0.0.1: Serials: 0x93; 
+6/3/2019 11:20:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1993, 0) in Malas: "RunningPants"
+6/3/2019 11:20:52 PM: 127.0.0.1: Serials: 0x95; 
+6/3/2019 11:20:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2527, 1991, 0) in Malas: "RunningPants"
+6/3/2019 11:20:52 PM: 127.0.0.1: Serials: 0x96; 
+6/3/2019 11:20:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1992, 0) in Malas: "RunningPants"
+6/3/2019 11:20:52 PM: 127.0.0.1: Serials: 0x97; 
+6/3/2019 11:20:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2527, 1991, 0) in Malas: "RunningPants"
+6/3/2019 11:20:52 PM: 127.0.0.1: Serials: 0x98; 
+6/3/2019 11:20:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:20:53 PM: 127.0.0.1: Serials: 0x99; 
+6/3/2019 11:21:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:01 PM: 127.0.0.1: Serials: 0x9A; 
+6/3/2019 11:21:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:01 PM: 127.0.0.1: Serials: 0x9B; 
+6/3/2019 11:21:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1993, 0) in Malas: "RunningPants"
+6/3/2019 11:21:01 PM: 127.0.0.1: Serials: 0x9C; 
+6/3/2019 11:21:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1992, 0) in Malas: "RunningPants"
+6/3/2019 11:21:01 PM: 127.0.0.1: Serials: 0x9D; 
+6/3/2019 11:21:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2530, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:01 PM: 127.0.0.1: Serials: 0x9E; 
+6/3/2019 11:21:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2531, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:02 PM: 127.0.0.1: Serials: 0x9F; 
+6/3/2019 11:21:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1991, 0) in Malas: "RunningPants"
+6/3/2019 11:21:02 PM: 127.0.0.1: Serials: 0xA0; 
+6/3/2019 11:21:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2530, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:02 PM: 127.0.0.1: Serials: 0xA1; 
+6/3/2019 11:21:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2530, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:02 PM: 127.0.0.1: Serials: 0xA2; 
+6/3/2019 11:21:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2532, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:02 PM: 127.0.0.1: Serials: 0xA3; 
+6/3/2019 11:21:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2530, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:03 PM: 127.0.0.1: Serials: 0xA4; 
+6/3/2019 11:21:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2530, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:03 PM: 127.0.0.1: Serials: 0xA5; 
+6/3/2019 11:21:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2530, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:03 PM: 127.0.0.1: Serials: 0xA6; 
+6/3/2019 11:21:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1993, 0) in Malas: "RunningPants"
+6/3/2019 11:21:03 PM: 127.0.0.1: Serials: 0xA7; 
+6/3/2019 11:21:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1993, 0) in Malas: "RunningPants"
+6/3/2019 11:21:04 PM: 127.0.0.1: Serials: 0xA8; 
+6/3/2019 11:21:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1993, 0) in Malas: "RunningPants"
+6/3/2019 11:21:04 PM: 127.0.0.1: Serials: 0xAF; 
+6/3/2019 11:21:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1993, 0) in Malas: "RunningPants"
+6/3/2019 11:21:04 PM: 127.0.0.1: Serials: 0xB1; 
+6/3/2019 11:21:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1993, 0) in Malas: "RunningPants"
+6/3/2019 11:21:04 PM: 127.0.0.1: Serials: 0xB3; 
+6/3/2019 11:21:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1991, 0) in Malas: "RunningPants"
+6/3/2019 11:21:04 PM: 127.0.0.1: Serials: 0xB4; 
+6/3/2019 11:21:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1993, 0) in Malas: "RunningPants"
+6/3/2019 11:21:05 PM: 127.0.0.1: Serials: 0xB6; 
+6/3/2019 11:21:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1992, 0) in Malas: "RunningPants"
+6/3/2019 11:21:05 PM: 127.0.0.1: Serials: 0xB7; 
+6/3/2019 11:21:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1991, 0) in Malas: "RunningPants"
+6/3/2019 11:21:05 PM: 127.0.0.1: Serials: 0xB8; 
+6/3/2019 11:21:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1992, 0) in Malas: "RunningPants"
+6/3/2019 11:21:06 PM: 127.0.0.1: Serials: 0x11C; 
+6/3/2019 11:21:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1992, 0) in Malas: "RunningPants"
+6/3/2019 11:21:06 PM: 127.0.0.1: Serials: 0x11D; 
+6/3/2019 11:21:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1993, 0) in Malas: "RunningPants"
+6/3/2019 11:21:06 PM: 127.0.0.1: Serials: 0x11E; 
+6/3/2019 11:21:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1993, 0) in Malas: "RunningPants"
+6/3/2019 11:21:06 PM: 127.0.0.1: Serials: 0x123; 
+6/3/2019 11:21:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2527, 1994, 0) in Malas: "RunningPants"
+6/3/2019 11:21:06 PM: 127.0.0.1: Serials: 0x125; 
+6/3/2019 11:21:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2527, 1994, 0) in Malas: "RunningPants"
+6/3/2019 11:21:07 PM: 127.0.0.1: Serials: 0x126; 
+6/3/2019 11:21:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1996, 0) in Malas: "RunningPants"
+6/3/2019 11:21:07 PM: 127.0.0.1: Serials: 0x127; 
+6/3/2019 11:21:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1995, 0) in Malas: "RunningPants"
+6/3/2019 11:21:07 PM: 127.0.0.1: Serials: 0x128; 
+6/3/2019 11:21:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1997, 0) in Malas: "RunningPants"
+6/3/2019 11:21:07 PM: 127.0.0.1: Serials: 0x129; 
+6/3/2019 11:21:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1997, 0) in Malas: "RunningPants"
+6/3/2019 11:21:08 PM: 127.0.0.1: Serials: 0x12A; 
+6/3/2019 11:21:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1997, 0) in Malas: "RunningPants"
+6/3/2019 11:21:08 PM: 127.0.0.1: Serials: 0x135; 
+6/3/2019 11:21:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2529, 1997, 0) in Malas: "RunningPants"
+6/3/2019 11:21:08 PM: 127.0.0.1: Serials: 0x136; 
+6/3/2019 11:21:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2528, 1996, 0) in Malas: "RunningPants"
+6/3/2019 11:21:08 PM: 127.0.0.1: Serials: 0x137; 
+6/3/2019 11:21:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2516, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:09 PM: 127.0.0.1: Serials: 0x138; 
+6/3/2019 11:21:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2516, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:09 PM: 127.0.0.1: Serials: 0x2E4; 
+6/3/2019 11:21:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2516, 1988, 0) in Malas: "RunningPants"
+6/3/2019 11:21:10 PM: 127.0.0.1: Serials: 0x301; 
+6/3/2019 11:21:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2516, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:10 PM: 127.0.0.1: Serials: 0x310; 
+6/3/2019 11:21:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2516, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:10 PM: 127.0.0.1: Serials: 0x313; 
+6/3/2019 11:21:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2516, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:10 PM: 127.0.0.1: Serials: 0x33B; 
+6/3/2019 11:21:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2516, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:11 PM: 127.0.0.1: Serials: 0x33C; 
+6/3/2019 11:21:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:11 PM: 127.0.0.1: Serials: 0x33D; 
+6/3/2019 11:21:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "RunningPants"
+6/3/2019 11:21:11 PM: 127.0.0.1: Serials: 0x367; 
+6/3/2019 11:21:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:11 PM: 127.0.0.1: Serials: 0x36A; 
+6/3/2019 11:21:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2519, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:11 PM: 127.0.0.1: Serials: 0x36F; 
+6/3/2019 11:21:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2519, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:12 PM: 127.0.0.1: Serials: 0x371; 
+6/3/2019 11:21:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2519, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:12 PM: 127.0.0.1: Serials: 0x373; 
+6/3/2019 11:21:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:12 PM: 127.0.0.1: Serials: 0x374; 
+6/3/2019 11:21:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "RunningPants"
+6/3/2019 11:21:13 PM: 127.0.0.1: Serials: 0x375; 
+6/3/2019 11:21:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "RunningPants"
+6/3/2019 11:21:13 PM: 127.0.0.1: Serials: 0x378; 
+6/3/2019 11:21:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2518, 1988, 0) in Malas: "RunningPants"
+6/3/2019 11:21:13 PM: 127.0.0.1: Serials: 0x383; 
+6/3/2019 11:21:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2519, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:13 PM: 127.0.0.1: Serials: 0x3C4; 
+6/3/2019 11:21:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2519, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:14 PM: 127.0.0.1: Serials: 0x3C9; 
+6/3/2019 11:21:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2518, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:14 PM: 127.0.0.1: Serials: 0x3D7; 
+6/3/2019 11:21:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2516, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:14 PM: 127.0.0.1: Serials: 0x3DA; 
+6/3/2019 11:21:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2516, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:15 PM: 127.0.0.1: Serials: 0x3DB; 
+6/3/2019 11:21:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2517, 1989, 0) in Malas: "RunningPants"
+6/3/2019 11:21:15 PM: 127.0.0.1: Serials: 0x3DC; 
+6/3/2019 11:21:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2516, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:15 PM: 127.0.0.1: Serials: 0x3DD; 
+6/3/2019 11:21:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2519, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:15 PM: 127.0.0.1: Serials: 0x42B; 
+6/3/2019 11:21:16 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2519, 1990, 0) in Malas: "RunningPants"
+6/3/2019 11:21:16 PM: 127.0.0.1: Serials: 0x538; 
+6/3/2019 11:22:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2518, 2015, 0) in Malas: "RunningPants"
+6/3/2019 11:22:06 PM: 127.0.0.1: Serials: 0x6A9; 
+6/3/2019 11:22:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2518, 2015, 0) in Malas: "RunningPants"
+6/3/2019 11:22:07 PM: 127.0.0.1: Serials: 0x7B5; 
+6/3/2019 11:22:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2518, 2009, 0) in Malas: "RunningPants"
+6/3/2019 11:22:07 PM: 127.0.0.1: Serials: 0x7B6; 
+6/3/2019 11:22:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2520, 2010, 0) in Malas: "RunningPants"
+6/3/2019 11:22:07 PM: 127.0.0.1: Serials: 0x7B8; 
+6/3/2019 11:22:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2518, 2014, 0) in Malas: "RunningPants"
+6/3/2019 11:22:08 PM: 127.0.0.1: Serials: 0x7BA; 
+6/3/2019 11:22:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2514, 2013, 0) in Malas: "RunningPants"
+6/3/2019 11:22:09 PM: 127.0.0.1: Serials: 0x7BD; 
+6/3/2019 11:22:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2509, 2014, 0) in Malas: "RunningPants"
+6/3/2019 11:22:13 PM: 127.0.0.1: Serials: 0x7BE; 
+6/3/2019 11:22:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2509, 2017, 0) in Malas: "RunningPants"
+6/3/2019 11:22:14 PM: 127.0.0.1: Serials: 0x7BF; 
+6/3/2019 11:22:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2511, 2010, 0) in Malas: "RunningPants"
+6/3/2019 11:22:14 PM: 127.0.0.1: Serials: 0x802; 
+6/3/2019 11:22:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2510, 2014, 0) in Malas: "RunningPants"
+6/3/2019 11:22:15 PM: 127.0.0.1: Serials: 0x803; 
+6/3/2019 11:22:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2514, 2014, 0) in Malas: "RunningPants"
+6/3/2019 11:22:15 PM: 127.0.0.1: Serials: 0x804; 
+6/3/2019 11:24:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:24:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:25:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:41 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:26:56 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:27:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:28:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:28:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:28:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:28:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:28:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add madpumpki'
+6/3/2019 11:28:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:28:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2522, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:39 PM: 127.0.0.1: Serials: 0x805; 
+6/3/2019 11:28:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2522, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:40 PM: 127.0.0.1: Serials: 0x806; 
+6/3/2019 11:28:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2523, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:40 PM: 127.0.0.1: Serials: 0x807; 
+6/3/2019 11:28:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2523, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:40 PM: 127.0.0.1: Serials: 0x808; 
+6/3/2019 11:28:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2523, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:40 PM: 127.0.0.1: Serials: 0x809; 
+6/3/2019 11:28:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2524, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:40 PM: 127.0.0.1: Serials: 0x80A; 
+6/3/2019 11:28:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2525, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:40 PM: 127.0.0.1: Serials: 0x80B; 
+6/3/2019 11:28:41 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2524, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:41 PM: 127.0.0.1: Serials: 0x80C; 
+6/3/2019 11:28:41 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2525, 1988, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:41 PM: 127.0.0.1: Serials: 0x80D; 
+6/3/2019 11:28:41 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2522, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:41 PM: 127.0.0.1: Serials: 0x80E; 
+6/3/2019 11:28:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2511, 1997, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:42 PM: 127.0.0.1: Serials: 0x80F; 
+6/3/2019 11:28:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2510, 1995, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:42 PM: 127.0.0.1: Serials: 0x810; 
+6/3/2019 11:28:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2511, 1997, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:43 PM: 127.0.0.1: Serials: 0x811; 
+6/3/2019 11:28:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2510, 1997, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:43 PM: 127.0.0.1: Serials: 0x812; 
+6/3/2019 11:28:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2511, 1997, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:43 PM: 127.0.0.1: Serials: 0x813; 
+6/3/2019 11:28:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2511, 1997, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:43 PM: 127.0.0.1: Serials: 0x814; 
+6/3/2019 11:28:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2511, 1995, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:43 PM: 127.0.0.1: Serials: 0x815; 
+6/3/2019 11:28:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2510, 1996, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:43 PM: 127.0.0.1: Serials: 0x816; 
+6/3/2019 11:28:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2511, 1998, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:44 PM: 127.0.0.1: Serials: 0x817; 
+6/3/2019 11:28:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2511, 1997, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:44 PM: 127.0.0.1: Serials: 0x818; 
+6/3/2019 11:28:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2518, 1989, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:44 PM: 127.0.0.1: Serials: 0x819; 
+6/3/2019 11:28:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2518, 1989, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:45 PM: 127.0.0.1: Serials: 0x81A; 
+6/3/2019 11:28:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:45 PM: 127.0.0.1: Serials: 0x81B; 
+6/3/2019 11:28:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:45 PM: 127.0.0.1: Serials: 0x81C; 
+6/3/2019 11:28:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2525, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:46 PM: 127.0.0.1: Serials: 0x81D; 
+6/3/2019 11:28:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2521, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:46 PM: 127.0.0.1: Serials: 0x81E; 
+6/3/2019 11:28:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2521, 1990, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:46 PM: 127.0.0.1: Serials: 0x81F; 
+6/3/2019 11:28:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2522, 1989, 0) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:28:46 PM: 127.0.0.1: Serials: 0x820; 
+6/3/2019 11:29:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (2517, 1991, -2) in Malas: "MadPumpkinSpirit"
+6/3/2019 11:29:10 PM: 127.0.0.1: Serials: 0x821; 
+6/3/2019 11:29:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add madpumpki'
+6/3/2019 11:30:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:16 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:41 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:30:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:31:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'where '
+6/3/2019 11:31:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/3/2019 11:31:38 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set map tokuno'
+6/3/2019 11:31:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'map' of 0x1A "Tobe Faire" ('Zigholtul88') to 'Tokuno'
+6/3/2019 11:31:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/3/2019 11:31:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (960, 140, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:31:52 PM: 127.0.0.1: Serials: 0x822; 
+6/3/2019 11:31:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (960, 140, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:31:53 PM: 127.0.0.1: Serials: 0x823; 
+6/3/2019 11:31:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (959, 140, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:31:53 PM: 127.0.0.1: Serials: 0x824; 
+6/3/2019 11:31:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (960, 140, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:31:53 PM: 127.0.0.1: Serials: 0x825; 
+6/3/2019 11:31:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (960, 140, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:31:53 PM: 127.0.0.1: Serials: 0x826; 
+6/3/2019 11:31:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (960, 140, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:31:53 PM: 127.0.0.1: Serials: 0x827; 
+6/3/2019 11:31:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (960, 140, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:31:53 PM: 127.0.0.1: Serials: 0x828; 
+6/3/2019 11:32:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (967, 116, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:02 PM: 127.0.0.1: Serials: 0x829; 
+6/3/2019 11:32:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (966, 116, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:02 PM: 127.0.0.1: Serials: 0x82A; 
+6/3/2019 11:32:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (967, 117, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:03 PM: 127.0.0.1: Serials: 0x82B; 
+6/3/2019 11:32:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (967, 117, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:03 PM: 127.0.0.1: Serials: 0x82C; 
+6/3/2019 11:32:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (968, 117, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:03 PM: 127.0.0.1: Serials: 0x82D; 
+6/3/2019 11:32:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (970, 118, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:03 PM: 127.0.0.1: Serials: 0x82E; 
+6/3/2019 11:32:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (970, 118, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:04 PM: 127.0.0.1: Serials: 0x82F; 
+6/3/2019 11:32:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (971, 119, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:04 PM: 127.0.0.1: Serials: 0x830; 
+6/3/2019 11:32:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (972, 119, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:04 PM: 127.0.0.1: Serials: 0x831; 
+6/3/2019 11:32:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (972, 119, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:04 PM: 127.0.0.1: Serials: 0x832; 
+6/3/2019 11:32:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (972, 119, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:04 PM: 127.0.0.1: Serials: 0x833; 
+6/3/2019 11:32:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (972, 118, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:04 PM: 127.0.0.1: Serials: 0x834; 
+6/3/2019 11:32:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (972, 119, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:05 PM: 127.0.0.1: Serials: 0x835; 
+6/3/2019 11:32:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (973, 119, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:05 PM: 127.0.0.1: Serials: 0x836; 
+6/3/2019 11:32:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (972, 119, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:05 PM: 127.0.0.1: Serials: 0x837; 
+6/3/2019 11:32:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (973, 118, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:05 PM: 127.0.0.1: Serials: 0x838; 
+6/3/2019 11:32:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (974, 121, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:05 PM: 127.0.0.1: Serials: 0x839; 
+6/3/2019 11:32:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (973, 121, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:05 PM: 127.0.0.1: Serials: 0x83A; 
+6/3/2019 11:32:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (972, 121, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:06 PM: 127.0.0.1: Serials: 0x83B; 
+6/3/2019 11:32:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (972, 119, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:06 PM: 127.0.0.1: Serials: 0x83C; 
+6/3/2019 11:32:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (973, 118, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:06 PM: 127.0.0.1: Serials: 0x83D; 
+6/3/2019 11:32:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (976, 122, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:06 PM: 127.0.0.1: Serials: 0x83E; 
+6/3/2019 11:32:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (972, 124, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:06 PM: 127.0.0.1: Serials: 0x83F; 
+6/3/2019 11:32:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (975, 121, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:06 PM: 127.0.0.1: Serials: 0x840; 
+6/3/2019 11:32:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (975, 121, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:07 PM: 127.0.0.1: Serials: 0x841; 
+6/3/2019 11:32:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (974, 120, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:07 PM: 127.0.0.1: Serials: 0x842; 
+6/3/2019 11:32:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (974, 119, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:07 PM: 127.0.0.1: Serials: 0x843; 
+6/3/2019 11:32:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (975, 120, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:32:07 PM: 127.0.0.1: Serials: 0x844; 
+6/3/2019 11:32:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'res '
+6/3/2019 11:32:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') resurrecting 0x1A "Tobe Faire" ('Zigholtul88')
+6/3/2019 11:33:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:33:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:33:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:33:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:33:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (932, 75, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:31 PM: 127.0.0.1: Serials: 0x845; 
+6/3/2019 11:33:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (931, 74, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:31 PM: 127.0.0.1: Serials: 0x846; 
+6/3/2019 11:33:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (932, 75, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:31 PM: 127.0.0.1: Serials: 0x847; 
+6/3/2019 11:33:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (931, 74, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:31 PM: 127.0.0.1: Serials: 0x848; 
+6/3/2019 11:33:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (931, 73, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:31 PM: 127.0.0.1: Serials: 0x849; 
+6/3/2019 11:33:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (932, 75, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:31 PM: 127.0.0.1: Serials: 0x84A; 
+6/3/2019 11:33:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (931, 75, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:32 PM: 127.0.0.1: Serials: 0x84B; 
+6/3/2019 11:33:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (930, 73, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:32 PM: 127.0.0.1: Serials: 0x84C; 
+6/3/2019 11:33:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (929, 78, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:32 PM: 127.0.0.1: Serials: 0x84D; 
+6/3/2019 11:33:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (932, 75, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:32 PM: 127.0.0.1: Serials: 0x84E; 
+6/3/2019 11:33:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (931, 76, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:32 PM: 127.0.0.1: Serials: 0x84F; 
+6/3/2019 11:33:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (931, 78, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:32 PM: 127.0.0.1: Serials: 0x850; 
+6/3/2019 11:33:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (932, 75, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:33 PM: 127.0.0.1: Serials: 0x851; 
+6/3/2019 11:33:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (933, 74, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:33 PM: 127.0.0.1: Serials: 0x852; 
+6/3/2019 11:33:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (931, 79, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:33 PM: 127.0.0.1: Serials: 0x853; 
+6/3/2019 11:33:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (934, 78, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:33 PM: 127.0.0.1: Serials: 0x854; 
+6/3/2019 11:33:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (932, 78, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:33 PM: 127.0.0.1: Serials: 0x855; 
+6/3/2019 11:33:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (934, 76, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:34 PM: 127.0.0.1: Serials: 0x856; 
+6/3/2019 11:33:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (934, 81, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:34 PM: 127.0.0.1: Serials: 0x857; 
+6/3/2019 11:33:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (936, 77, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:34 PM: 127.0.0.1: Serials: 0x858; 
+6/3/2019 11:33:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (935, 77, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:34 PM: 127.0.0.1: Serials: 0x859; 
+6/3/2019 11:33:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (937, 78, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:34 PM: 127.0.0.1: Serials: 0x85A; 
+6/3/2019 11:33:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (932, 75, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:34 PM: 127.0.0.1: Serials: 0x85B; 
+6/3/2019 11:33:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (936, 78, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:35 PM: 127.0.0.1: Serials: 0x85C; 
+6/3/2019 11:33:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (935, 77, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:35 PM: 127.0.0.1: Serials: 0x85D; 
+6/3/2019 11:33:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (934, 73, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:35 PM: 127.0.0.1: Serials: 0x85E; 
+6/3/2019 11:33:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (934, 73, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:35 PM: 127.0.0.1: Serials: 0x85F; 
+6/3/2019 11:33:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (934, 72, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:35 PM: 127.0.0.1: Serials: 0x860; 
+6/3/2019 11:33:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (934, 76, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:35 PM: 127.0.0.1: Serials: 0x861; 
+6/3/2019 11:33:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (932, 76, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:36 PM: 127.0.0.1: Serials: 0x862; 
+6/3/2019 11:33:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (933, 77, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:36 PM: 127.0.0.1: Serials: 0x863; 
+6/3/2019 11:33:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (934, 76, 4) in Tokuno: "MadPumpkinSpirit"
+6/3/2019 11:33:36 PM: 127.0.0.1: Serials: 0x864; 
+6/3/2019 11:33:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:33:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:33:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:33:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:23 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:23 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:34:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:34:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:35:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:35:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:35:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:35:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+6/3/2019 11:36:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+6/3/2019 11:36:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:16 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:36:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:37:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:37:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:37:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:38:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:38:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:38:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:38:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:38:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:38:23 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:38:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:38:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:38:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:39:16 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:40:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:40:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:40:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:40:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:40:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:40:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:41:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'flamewave '
+6/3/2019 11:41:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') starting facet clear of Tokuno (1606 objects)
+6/3/2019 11:41:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'clearfacet '
+6/3/2019 11:41:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 1606 objects
+6/4/2019 5:33:29 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/4/2019 5:33:36 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'clearfacet '
+6/4/2019 5:33:45 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/4/2019 5:33:46 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '

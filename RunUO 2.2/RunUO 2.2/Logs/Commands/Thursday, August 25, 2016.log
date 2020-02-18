@@ -1,0 +1,203 @@
+##############################
+Log started on 8/25/2016 1:05:20 AM
+
+8/25/2016 1:06:02 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 1:06:15 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add regioncontr'
+8/25/2016 1:06:18 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (2516, 1971, 0) in Malas: "RegionControl"
+8/25/2016 1:06:18 AM: 127.0.0.1: Serials: 0x40000384; 
+8/25/2016 1:06:21 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 1:06:25 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'CanEnter' of 0x40000384 (RegionControl) to 'True'
+8/25/2016 1:06:41 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 1:07:05 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'Music' of 0x40000384 (RegionControl) to 'Invalid'
+8/25/2016 1:07:23 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'Music' of 0x40000384 (RegionControl) to 'Tavern04'
+8/25/2016 1:07:55 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'Music' of 0x40000384 (RegionControl) to 'InTown01'
+8/25/2016 1:14:15 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/25/2016 1:14:18 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/25/2016 1:14:19 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/25/2016 1:16:45 AM
+
+8/25/2016 1:17:16 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 1:17:40 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'Music' of 0x40000384 (RegionControl) to 'ValoriaShips'
+8/25/2016 1:18:02 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'Music' of 0x40000384 (RegionControl) to 'Create1'
+8/25/2016 1:27:15 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'sound '
+8/25/2016 1:34:50 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/25/2016 1:34:53 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/25/2016 1:34:54 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/25/2016 1:40:33 AM
+
+8/25/2016 1:43:21 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map trammel'
+8/25/2016 1:43:22 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Trammel'
+8/25/2016 1:43:25 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 1:43:46 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 1:44:12 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 1:44:15 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 1:44:30 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'X' of 0xE "Itta Pupu" ('Zigholtul88') to '6984'
+8/25/2016 1:44:38 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'Y' of 0xE "Itta Pupu" ('Zigholtul88') to '337'
+8/25/2016 1:45:13 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map felucca'
+8/25/2016 1:45:14 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Felucca'
+8/25/2016 1:46:19 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 1:46:59 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map trammel'
+8/25/2016 1:47:00 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Trammel'
+8/25/2016 1:47:12 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add nightsightscroll 100'
+8/25/2016 1:47:13 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1416, 1679, 3) in Trammel: "nightsightscroll" "100"
+8/25/2016 1:47:13 AM: 127.0.0.1: Serials: 0x4000064F; 
+8/25/2016 1:47:59 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map telmur'
+8/25/2016 1:48:04 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map tel mur'
+8/25/2016 1:48:09 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map telmur'
+8/25/2016 1:48:17 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 1:48:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'Map' of 0xE "Itta Pupu" ('Zigholtul88') to 'TerMur'
+8/25/2016 1:48:30 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+##############################
+Log started on 8/25/2016 2:27:47 AM
+
+8/25/2016 2:28:04 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map malas'
+8/25/2016 2:28:06 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Malas'
+8/25/2016 2:28:08 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 2:28:18 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'X' of 0xE "Itta Pupu" ('Zigholtul88') to '2'
+8/25/2016 2:28:22 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'Y' of 0xE "Itta Pupu" ('Zigholtul88') to '1'
+8/25/2016 2:28:36 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'tele '
+8/25/2016 2:28:40 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'tele '
+8/25/2016 2:28:44 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add boat'
+8/25/2016 2:28:49 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (11, 11, -5) in Malas: "SmallBoatDeed"
+8/25/2016 2:28:49 AM: 127.0.0.1: Serials: 0x40000636; 
+8/25/2016 2:29:03 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'waterwalk '
+8/25/2016 2:29:25 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/25/2016 2:29:26 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x4000064A (WaterWalk)
+8/25/2016 2:29:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 2:30:17 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map malas'
+8/25/2016 2:30:18 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Malas'
+8/25/2016 2:30:25 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map trammel'
+8/25/2016 2:30:26 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Trammel'
+8/25/2016 2:31:26 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map malas'
+8/25/2016 2:31:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Malas'
+8/25/2016 2:31:50 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'm tele'
+8/25/2016 2:33:58 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/25/2016 2:34:04 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/25/2016 2:34:04 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/25/2016 2:36:58 AM
+
+##############################
+Log started on 8/25/2016 2:48:17 AM
+
+8/25/2016 2:50:17 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 8/25/2016 2:53:59 AM
+
+8/25/2016 2:59:08 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'where '
+8/25/2016 3:00:41 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 8/25/2016 3:03:38 AM
+
+8/25/2016 3:04:01 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/25/2016 3:04:02 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40000636 (SmallBoatDeed)
+8/25/2016 3:04:04 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add boat'
+8/25/2016 3:04:07 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (729, 450, 1) in Malas: "LargeBoatDeed"
+8/25/2016 3:04:07 AM: 127.0.0.1: Serials: 0x40000782; 
+8/25/2016 3:05:45 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 3:10:28 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map ilshenar'
+8/25/2016 3:10:29 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Ilshenar'
+8/25/2016 3:10:32 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 3:14:21 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/25/2016 3:14:25 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/25/2016 3:14:25 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/25/2016 3:26:10 AM
+
+8/25/2016 3:27:25 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map malas'
+8/25/2016 3:27:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Malas'
+8/25/2016 3:27:30 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 3:27:57 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 3:34:06 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 8/25/2016 3:38:21 AM
+
+8/25/2016 3:38:42 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 3:42:39 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 8/25/2016 3:45:01 AM
+
+8/25/2016 3:45:57 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map ilshenar'
+8/25/2016 3:45:59 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Ilshenar'
+8/25/2016 3:46:10 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 3:47:08 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/25/2016 3:47:09 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40001708 (LargeDockedBoat)
+8/25/2016 3:47:12 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add boat'
+8/25/2016 3:47:15 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1252, 1095, -12) in Ilshenar: "LargeBoatDeed"
+8/25/2016 3:47:15 AM: 127.0.0.1: Serials: 0x40001B11; 
+8/25/2016 3:47:43 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map trammel'
+8/25/2016 3:47:44 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Trammel'
+8/25/2016 3:47:46 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 3:48:16 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add boat'
+8/25/2016 3:48:19 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (2760, 2166, -2) in Trammel: "SmallBoatDeed"
+8/25/2016 3:48:19 AM: 127.0.0.1: Serials: 0x40001C46; 
+8/25/2016 3:48:30 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/25/2016 3:48:33 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/25/2016 3:48:34 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/25/2016 3:59:28 AM
+
+8/25/2016 4:00:25 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map ilshenar'
+8/25/2016 4:00:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Ilshenar'
+8/25/2016 4:00:29 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 4:01:00 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add boat'
+8/25/2016 4:01:05 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1236, 1132, -24) in Ilshenar: "SmallDragonBoatDeed"
+8/25/2016 4:01:05 AM: 127.0.0.1: Serials: 0x40001B39; 
+8/25/2016 4:01:14 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:02:12 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 8/25/2016 4:05:54 AM
+
+8/25/2016 4:06:30 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map malas'
+8/25/2016 4:06:32 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Malas'
+8/25/2016 4:06:35 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 4:07:26 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map trammel'
+8/25/2016 4:07:27 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Trammel'
+8/25/2016 4:07:38 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map malas'
+8/25/2016 4:07:38 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Malas'
+8/25/2016 4:08:02 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:08:09 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map trammel'
+8/25/2016 4:08:09 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Trammel'
+8/25/2016 4:08:11 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:08:14 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:09:08 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:09:52 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map malas'
+8/25/2016 4:09:52 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Malas'
+8/25/2016 4:10:01 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'm tele'
+8/25/2016 4:10:05 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:10:07 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:11:16 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'm tele'
+8/25/2016 4:11:20 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 8/25/2016 4:14:00 AM
+
+8/25/2016 4:14:50 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:14:55 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:15:01 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:15:03 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:15:44 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map ilshenar'
+8/25/2016 4:15:45 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Ilshenar'
+8/25/2016 4:15:49 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 4:15:59 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:16:07 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'tele '
+8/25/2016 4:16:18 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'tele '
+8/25/2016 4:16:28 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/25/2016 4:16:29 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40001ADC (TillerMan)
+8/25/2016 4:16:40 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/25/2016 4:16:42 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40001AE5 (Key)
+8/25/2016 4:17:18 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:30:36 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map trammel'
+8/25/2016 4:30:37 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Trammel'
+8/25/2016 4:30:40 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 4:31:01 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set map malas'
+8/25/2016 4:31:02 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'map' of 0xE "Itta Pupu" ('Zigholtul88') to 'Malas'
+8/25/2016 4:31:03 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 4:41:15 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 4:41:42 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:42:25 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/25/2016 4:46:24 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/25/2016 4:52:31 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/25/2016 4:52:35 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/25/2016 4:52:36 AM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '

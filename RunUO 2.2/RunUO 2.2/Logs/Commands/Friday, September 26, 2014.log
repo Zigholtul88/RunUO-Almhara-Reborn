@@ -1,0 +1,136 @@
+##############################
+Log started on 9/26/2014 12:37:40 AM
+
+9/26/2014 12:52:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+9/26/2014 12:53:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+9/26/2014 12:53:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+9/26/2014 12:55:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+9/26/2014 12:57:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+9/26/2014 12:57:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+9/26/2014 12:58:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+9/26/2014 12:58:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+9/26/2014 12:58:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+9/26/2014 12:59:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add door'
+9/26/2014 12:59:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add door facing'
+9/26/2014 12:59:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'adddoor '
+9/26/2014 1:00:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor westcw'
+9/26/2014 1:00:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2281, 985, 0) in Malas: "metaldoor" "westcw"
+9/26/2014 1:00:08 AM: 127.0.0.1: Serials: 0x400006DA; 
+9/26/2014 1:00:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/26/2014 1:00:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400006DA (MetalDoor)
+9/26/2014 1:00:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor westcw'
+9/26/2014 1:00:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2274, 1005, 0) in Malas: "metaldoor" "westcw"
+9/26/2014 1:00:17 AM: 127.0.0.1: Serials: 0x400006DB; 
+9/26/2014 1:00:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor westcw'
+9/26/2014 1:00:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:01:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor westcw'
+9/26/2014 1:01:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2274, 1020, 0) in Malas: "metaldoor" "westcw"
+9/26/2014 1:01:08 AM: 127.0.0.1: Serials: 0x400006F9; 
+9/26/2014 1:01:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:01:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor westcw'
+9/26/2014 1:01:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2299, 1003, 0) in Malas: "metaldoor" "westcw"
+9/26/2014 1:01:35 AM: 127.0.0.1: Serials: 0x400006FE; 
+9/26/2014 1:01:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:02:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor eastccw'
+9/26/2014 1:02:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2282, 983, 0) in Malas: "metaldoor" "eastccw"
+9/26/2014 1:02:22 AM: 127.0.0.1: Serials: 0x4000072F; 
+9/26/2014 1:02:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/26/2014 1:02:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000072F (MetalDoor)
+9/26/2014 1:02:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor eastccw'
+9/26/2014 1:02:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2275, 1005, 0) in Malas: "metaldoor" "eastccw"
+9/26/2014 1:02:31 AM: 127.0.0.1: Serials: 0x40000737; 
+9/26/2014 1:02:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:03:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor eastccw'
+9/26/2014 1:03:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2300, 985, 0) in Malas: "metaldoor" "eastccw"
+9/26/2014 1:03:14 AM: 127.0.0.1: Serials: 0x40000742; 
+9/26/2014 1:03:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:03:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor eastccw'
+9/26/2014 1:03:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2275, 1020, 0) in Malas: "metaldoor" "eastccw"
+9/26/2014 1:03:40 AM: 127.0.0.1: Serials: 0x4000074A; 
+9/26/2014 1:03:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:04:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockeddoor'
+9/26/2014 1:04:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add locked'
+9/26/2014 1:05:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pickabledoor'
+9/26/2014 1:05:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2291, 984, 0) in Malas: "pickabledoor"
+9/26/2014 1:05:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pickabledoor northcw'
+9/26/2014 1:05:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2290, 983, 0) in Malas: "pickabledoor" "northcw"
+9/26/2014 1:05:18 AM: 127.0.0.1: Serials: 0x4000075D; 
+9/26/2014 1:05:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/26/2014 1:05:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000075D (PickableDoor)
+9/26/2014 1:05:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pickabledoor northcw'
+9/26/2014 1:05:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2294, 982, 0) in Malas: "pickabledoor" "northcw"
+9/26/2014 1:05:27 AM: 127.0.0.1: Serials: 0x4000075E; 
+9/26/2014 1:05:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:05:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor northcw'
+9/26/2014 1:05:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2289, 983, 0) in Malas: "metaldoor" "northcw"
+9/26/2014 1:05:46 AM: 127.0.0.1: Serials: 0x40000765; 
+9/26/2014 1:05:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'LockLevel' of 0x4000075E (PickableDoor) to '0'
+9/26/2014 1:05:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MaxLockLevel' of 0x4000075E (PickableDoor) to '0'
+9/26/2014 1:06:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:06:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Locked' of 0x4000075E (PickableDoor) to 'False'
+9/26/2014 1:06:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'LockLevel' of 0x4000075E (PickableDoor) to '10'
+9/26/2014 1:06:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MaxLockLevel' of 0x4000075E (PickableDoor) to '10'
+9/26/2014 1:06:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:06:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/26/2014 1:06:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000765 (MetalDoor)
+9/26/2014 1:06:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor northccw'
+9/26/2014 1:06:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2289, 983, 0) in Malas: "metaldoor" "northccw"
+9/26/2014 1:06:31 AM: 127.0.0.1: Serials: 0x40000783; 
+9/26/2014 1:06:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:06:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set itemid 1663'
+9/26/2014 1:06:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'itemid' of 0x4000075E (PickableDoor) to '1663'
+9/26/2014 1:06:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:06:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'RequiredSkill' of 0x4000075E (PickableDoor) to '10'
+9/26/2014 1:06:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Locked' of 0x4000075E (PickableDoor) to 'False'
+9/26/2014 1:07:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:07:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setskill lockpicking 10'
+9/26/2014 1:07:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Lockpicking.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '10'
+9/26/2014 1:07:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:07:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:08:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'ClosedID' of 0x4000075E (PickableDoor) to '1663'
+9/26/2014 1:08:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'ItemID' of 0x4000075E (PickableDoor) to '1663'
+9/26/2014 1:08:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:08:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'OpenedID' of 0x4000075E (PickableDoor) to '1664'
+9/26/2014 1:23:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+9/26/2014 1:23:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000783 (MetalDoor)
+9/26/2014 1:24:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:24:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/26/2014 1:24:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000075E (PickableDoor)
+9/26/2014 1:24:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:24:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/26/2014 1:24:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000742 (MetalDoor)
+9/26/2014 1:27:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor southcw'
+9/26/2014 1:27:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2283, 1025, 0) in Malas: "metaldoor" "southcw"
+9/26/2014 1:27:35 AM: 127.0.0.1: Serials: 0x400009EA; 
+9/26/2014 1:27:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor southcw'
+9/26/2014 1:27:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2280, 1025, 0) in Malas: "metaldoor" "southcw"
+9/26/2014 1:27:38 AM: 127.0.0.1: Serials: 0x400009EB; 
+9/26/2014 1:27:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/26/2014 1:27:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400009EA (MetalDoor)
+9/26/2014 1:27:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor southcw'
+9/26/2014 1:28:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:28:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor southcw'
+9/26/2014 1:28:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2317, 975, 0) in Malas: "metaldoor" "southcw"
+9/26/2014 1:28:32 AM: 127.0.0.1: Serials: 0x400009F3; 
+9/26/2014 1:28:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:29:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+9/26/2014 1:30:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+9/26/2014 1:30:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+9/26/2014 1:31:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+9/26/2014 1:32:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor northccw'
+9/26/2014 1:32:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2280, 1024, 0) in Malas: "metaldoor" "northccw"
+9/26/2014 1:32:29 AM: 127.0.0.1: Serials: 0x40000A89; 
+9/26/2014 1:32:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add metaldoor northccw'
+9/26/2014 1:32:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/26/2014 1:37:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+9/26/2014 1:37:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400006DB (MetalDoor)
+9/26/2014 1:37:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000737 (MetalDoor)
+9/26/2014 1:37:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400006F9 (MetalDoor)
+9/26/2014 1:37:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000074A (MetalDoor)
+9/26/2014 1:37:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000A89 (MetalDoor)
+9/26/2014 1:37:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400009EB (MetalDoor)
+9/26/2014 1:38:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400006FE (MetalDoor)
+9/26/2014 1:38:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400009F3 (MetalDoor)
+9/26/2014 2:04:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+9/26/2014 2:04:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+9/26/2014 2:04:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

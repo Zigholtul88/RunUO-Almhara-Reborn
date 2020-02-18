@@ -1,0 +1,112 @@
+##############################
+Log started on 1/1/2019 7:08:29 AM
+
+1/1/2019 7:08:59 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+1/1/2019 7:09:06 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+1/1/2019 7:09:07 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40003DC6 (LocalizedAddonComponent)
+1/1/2019 7:09:08 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400037FE (LocalizedAddonComponent)
+1/1/2019 7:09:10 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/1/2019 7:09:15 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+1/1/2019 7:10:10 AM: 71.208.10.79: Crafting 0x40002C10 (CoffeeKeg) with craft system DefBrewing
+1/1/2019 7:10:22 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/1/2019 7:13:31 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add mug'
+1/1/2019 7:13:35 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1659, 1931, 10) in Malas: "MugOfCoffee"
+1/1/2019 7:13:35 AM: 71.208.10.79: Serials: 0x40002C11; 
+1/1/2019 7:13:44 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1658, 1931, 10) in Malas: "GlassMug"
+1/1/2019 7:13:44 AM: 71.208.10.79: Serials: 0x40002C13; 
+1/1/2019 7:14:53 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'AllowBottling' of 0x40002C10 (CoffeeKeg) to 'True'
+1/1/2019 7:15:34 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+1/1/2019 7:15:38 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000408D (Grinder)
+1/1/2019 7:15:44 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/1/2019 7:15:48 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/1/2019 7:15:51 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/1/2019 7:30:10 AM
+
+1/1/2019 7:30:31 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+1/1/2019 7:31:03 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pewter'
+1/1/2019 7:31:18 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/1/2019 7:31:24 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/1/2019 7:37:22 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add jug'
+1/1/2019 7:37:23 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1658, 1931, 10) in Malas: "jug"
+1/1/2019 7:37:28 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ju'
+1/1/2019 7:37:45 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add  pewtermug'
+1/1/2019 7:37:46 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1658, 1931, 10) in Malas: "pewtermug"
+1/1/2019 7:37:46 AM: 71.208.10.79: Serials: 0x4000001E; 
+1/1/2019 7:37:49 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/1/2019 7:37:50 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001E (PewterMug)
+1/1/2019 7:38:04 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ceramicmug'
+1/1/2019 7:38:06 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1658, 1931, 10) in Malas: "ceramicmug"
+1/1/2019 7:38:06 AM: 71.208.10.79: Serials: 0x4000001F; 
+1/1/2019 7:38:19 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/1/2019 7:38:45 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/1/2019 7:39:18 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add goblet'
+1/1/2019 7:39:19 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1658, 1931, 10) in Malas: "goblet"
+1/1/2019 7:39:19 AM: 71.208.10.79: Serials: 0x4000003B; 
+1/1/2019 7:39:22 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/1/2019 7:39:49 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/1/2019 7:39:50 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000003B (Goblet)
+1/1/2019 7:40:04 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add glassmug'
+1/1/2019 7:40:05 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1658, 1931, 10) in Malas: "glassmug"
+1/1/2019 7:40:06 AM: 71.208.10.79: Serials: 0x4000003C; 
+1/1/2019 7:40:10 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/1/2019 7:40:13 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/1/2019 7:40:43 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/1/2019 7:40:44 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000003C (GlassMug)
+1/1/2019 7:40:57 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pitcher'
+1/1/2019 7:40:59 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1657, 1931, 10) in Malas: "pitcher"
+1/1/2019 7:40:59 AM: 71.208.10.79: Serials: 0x40000053; 
+1/1/2019 7:41:03 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/1/2019 7:41:05 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/1/2019 7:41:31 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/1/2019 7:41:32 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000053 (Pitcher)
+1/1/2019 7:41:43 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/1/2019 7:41:47 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/1/2019 7:41:50 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/1/2019 7:55:02 AM
+
+1/1/2019 7:55:11 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+1/1/2019 7:55:15 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add large'
+1/1/2019 7:55:43 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1657, 1937, 5) in Malas: "LargeGrandfatherClockEast"
+1/1/2019 7:55:43 AM: 71.208.10.79: Serials: 0x40000073; 
+1/1/2019 7:55:47 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1658, 1937, 5) in Malas: "LargeGrandfatherClockSouth"
+1/1/2019 7:55:47 AM: 71.208.10.79: Serials: 0x40000074; 
+1/1/2019 7:56:38 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/1/2019 7:56:40 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000073 (LargeGrandfatherClockEast)
+1/1/2019 7:56:41 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/1/2019 7:56:41 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000074 (LargeGrandfatherClockSouth)
+1/1/2019 7:57:39 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add large'
+1/1/2019 7:57:42 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add largegra'
+1/1/2019 7:57:44 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1596, 1893, 10) in Malas: "LargeGrandfatherClockEast"
+1/1/2019 7:57:44 AM: 71.208.10.79: Serials: 0x40000082; 
+1/1/2019 7:58:34 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+1/1/2019 7:58:48 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/1/2019 7:58:49 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000082 (LargeGrandfatherClockEast)
+1/1/2019 7:58:51 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/1/2019 7:58:55 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+1/1/2019 8:00:07 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+1/1/2019 8:00:21 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/1/2019 8:00:24 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+1/1/2019 8:01:40 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+1/1/2019 8:01:58 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/1/2019 8:02:00 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+1/1/2019 8:02:13 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:18 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:19 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:32 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:39 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:42 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:43 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:43 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:44 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:44 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:44 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:44 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:45 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:45 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:45 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 8:02:45 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'time '
+1/1/2019 11:36:32 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/1/2019 11:36:36 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/1/2019 11:36:37 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

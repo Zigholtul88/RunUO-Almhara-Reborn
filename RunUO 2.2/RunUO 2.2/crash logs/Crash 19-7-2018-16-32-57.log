@@ -1,0 +1,25 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8933
+Time: 7/19/2018 4:32:57 PM
+Mobiles: 2286
+Items: 16480
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Mobiles.CavernMongbatElder.AwardLoot()
+   at Server.Mobiles.CavernMongbatElder.OnBeforeDeath()
+   at Server.Mobile.Kill()
+   at Server.Mobile.Damage(Int32 amount, Mobile from, Boolean informMount)
+   at Server.Mobiles.BaseCreature.Damage(Int32 amount, Mobile from)
+   at Server.AOS.Damage(Mobile m, Mobile from, Int32 damage, Boolean ignoreArmor, Int32 phys, Int32 fire, Int32 cold, Int32 pois, Int32 nrgy, Int32 chaos, Int32 direct, Boolean keepAlive, Boolean archer, Boolean deathStrike)
+   at Server.Spells.SpellHelper.SpellDamageTimerAOS.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 2
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x4E9 'Tuuti')
++ 127.0.0.1: (account = Yugitashi2) (mobile = 0x68C 'Bob')

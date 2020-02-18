@@ -1,0 +1,1033 @@
+##############################
+Log started on 3/9/2017 5:07:00 AM
+
+3/9/2017 5:07:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (7823 objects)
+3/9/2017 5:07:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/9/2017 5:07:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 7823 objects
+3/9/2017 5:07:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 5:07:49 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 5:25:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hits 500'
+3/9/2017 5:25:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hits' of 0xB3 "Elandria" ('Zigholtul88') to '500'
+3/9/2017 5:29:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hits 530'
+3/9/2017 5:29:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hits' of 0xB3 "Elandria" ('Zigholtul88') to '530'
+3/9/2017 5:31:14 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 5:31:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 5:31:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 5:31:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 2974'
+3/9/2017 5:31:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (717, 788, 10) in Malas: "static" "2974"
+3/9/2017 5:31:48 AM: 127.0.0.1: Serials: 0x400028AA; 
+3/9/2017 5:32:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 5:32:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 2974'
+3/9/2017 5:32:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (605, 687, 0) in Malas: "static" "2974"
+3/9/2017 5:32:25 AM: 127.0.0.1: Serials: 0x400028B0; 
+3/9/2017 5:32:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:33:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:33:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 5:33:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:33:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 2973'
+3/9/2017 5:33:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1628, 530, 0) in Malas: "static" "2973"
+3/9/2017 5:33:33 AM: 127.0.0.1: Serials: 0x400028C8; 
+3/9/2017 5:33:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 2973'
+3/9/2017 5:33:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1628, 521, 0) in Malas: "static" "2973"
+3/9/2017 5:33:39 AM: 127.0.0.1: Serials: 0x400028C9; 
+3/9/2017 5:33:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 2973'
+3/9/2017 5:33:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1628, 522, 0) in Malas: "static" "2973"
+3/9/2017 5:33:42 AM: 127.0.0.1: Serials: 0x400028CA; 
+3/9/2017 5:33:45 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 5:33:45 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400028CA (Static)
+3/9/2017 5:33:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 5:33:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400028C9 (Static)
+3/9/2017 5:33:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 2973'
+3/9/2017 5:33:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1628, 528, 0) in Malas: "static" "2973"
+3/9/2017 5:33:55 AM: 127.0.0.1: Serials: 0x400028CB; 
+3/9/2017 5:34:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 2973'
+3/9/2017 5:34:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1628, 524, 0) in Malas: "static" "2973"
+3/9/2017 5:34:00 AM: 127.0.0.1: Serials: 0x400028CC; 
+3/9/2017 5:34:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 2973'
+3/9/2017 5:34:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1628, 527, 0) in Malas: "static" "2973"
+3/9/2017 5:34:11 AM: 127.0.0.1: Serials: 0x400028CD; 
+3/9/2017 5:34:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 5:34:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400028CD (Static)
+3/9/2017 5:34:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 5:34:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400028C8 (Static)
+3/9/2017 5:34:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:34:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 2973'
+3/9/2017 5:34:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1822, 396, 45) in Malas: "static" "2973"
+3/9/2017 5:34:47 AM: 127.0.0.1: Serials: 0x400028D4; 
+3/9/2017 5:34:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 2973'
+3/9/2017 5:34:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1822, 391, 45) in Malas: "static" "2973"
+3/9/2017 5:34:51 AM: 127.0.0.1: Serials: 0x400028D5; 
+3/9/2017 5:35:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:35:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'freezemap '
+3/9/2017 5:35:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') invoking freeze for every item in Owner
+3/9/2017 5:35:29 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 5:35:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 5:35:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 5:36:54 AM
+
+3/9/2017 5:42:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:43:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:43:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 5:44:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:44:19 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 3005'
+3/9/2017 5:44:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1631, 522, 0) in Malas: "static" "3005"
+3/9/2017 5:44:20 AM: 127.0.0.1: Serials: 0x4000041C; 
+3/9/2017 5:44:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 5:44:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000041C (Static)
+3/9/2017 5:44:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 3005'
+3/9/2017 5:44:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1628, 524, 0) in Malas: "static" "3005"
+3/9/2017 5:44:31 AM: 127.0.0.1: Serials: 0x4000041D; 
+3/9/2017 5:45:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 5:46:45 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 5:47:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 5:47:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000041D (Static)
+3/9/2017 5:49:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 5:49:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000061D (PaperSlidingDoor)
+3/9/2017 5:49:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000061E (DarkWoodGate)
+3/9/2017 5:49:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000061F (DarkWoodGate)
+3/9/2017 5:49:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000620 (ArcheryButte)
+3/9/2017 5:49:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 5:50:15 AM
+
+3/9/2017 5:50:27 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 5:50:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 5:50:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 5:53:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:55:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:56:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 0x1f28'
+3/9/2017 5:56:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (816, 1085, 0) in Malas: "static" "0x1f28"
+3/9/2017 5:56:00 AM: 127.0.0.1: Serials: 0x40002E5E; 
+3/9/2017 5:56:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 0x1f28'
+3/9/2017 5:56:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (818, 1082, 0) in Malas: "static" "0x1f28"
+3/9/2017 5:56:04 AM: 127.0.0.1: Serials: 0x40002E5F; 
+3/9/2017 5:56:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 5:56:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E5F (Static)
+3/9/2017 5:56:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 5:56:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'ItemID' of 0x40002E5E (Static) to '7976'
+3/9/2017 5:56:19 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'ItemID' of 0x40002E5E (Static) to '7975'
+3/9/2017 5:56:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'ItemID' of 0x40002E5E (Static) to '7977'
+3/9/2017 5:56:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'ItemID' of 0x40002E5E (Static) to '7978'
+3/9/2017 5:56:50 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 5:56:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E5E (Static)
+3/9/2017 5:56:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:57:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 5:57:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 5:57:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 3024'
+3/9/2017 5:57:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (818, 1082, 0) in Malas: "static" "3024"
+3/9/2017 5:57:43 AM: 127.0.0.1: Serials: 0x40002E63; 
+3/9/2017 5:57:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 5:58:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 5:58:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E63 (Static)
+3/9/2017 5:59:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add strongwooddoor westcw'
+3/9/2017 5:59:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (821, 1081, 0) in Malas: "strongwooddoor" "westcw"
+3/9/2017 5:59:12 AM: 127.0.0.1: Serials: 0x40002E6A; 
+3/9/2017 5:59:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 5:59:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E6A (StrongWoodDoor)
+3/9/2017 5:59:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add strongwooddoor westccw'
+3/9/2017 5:59:27 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (821, 1081, 0) in Malas: "strongwooddoor" "westccw"
+3/9/2017 5:59:27 AM: 127.0.0.1: Serials: 0x40002E6B; 
+3/9/2017 5:59:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 6:00:14 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add strongwooddoor eastcw'
+3/9/2017 6:00:14 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (822, 1081, 0) in Malas: "strongwooddoor" "eastcw"
+3/9/2017 6:00:14 AM: 127.0.0.1: Serials: 0x40002E75; 
+3/9/2017 6:00:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 6:00:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add strongwooddoor eastcw'
+3/9/2017 6:00:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 6:01:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 6:01:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E75 (StrongWoodDoor)
+3/9/2017 6:01:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add strongwooddoor eastcw'
+3/9/2017 6:01:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (822, 1081, 0) in Malas: "strongwooddoor" "eastcw"
+3/9/2017 6:01:25 AM: 127.0.0.1: Serials: 0x40002E76; 
+3/9/2017 6:01:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 6:01:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 6:01:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E6B (StrongWoodDoor)
+3/9/2017 6:01:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add strongwooddoor westccw'
+3/9/2017 6:01:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (821, 1081, 0) in Malas: "strongwooddoor" "westccw"
+3/9/2017 6:01:46 AM: 127.0.0.1: Serials: 0x40002E79; 
+3/9/2017 6:01:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 6:02:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 6:02:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 6:02:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E79 (StrongWoodDoor)
+3/9/2017 6:03:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E76 (StrongWoodDoor)
+3/9/2017 6:03:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add strongwooddoor westccw'
+3/9/2017 6:03:15 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (825, 1077, 20) in Malas: "strongwooddoor" "westccw"
+3/9/2017 6:03:15 AM: 127.0.0.1: Serials: 0x40002E83; 
+3/9/2017 6:03:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 6:03:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 6:03:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E83 (StrongWoodDoor)
+3/9/2017 6:03:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add strongwooddoor westcw'
+3/9/2017 6:03:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (829, 1081, 20) in Malas: "strongwooddoor" "westcw"
+3/9/2017 6:03:48 AM: 127.0.0.1: Serials: 0x40002E86; 
+3/9/2017 6:03:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 6:04:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add strongwooddoor westcw'
+3/9/2017 6:04:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 6:04:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E86 (StrongWoodDoor)
+3/9/2017 6:29:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 6:29:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 6:30:13 AM
+
+3/9/2017 6:43:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 6:43:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 6:51:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (4560 objects)
+3/9/2017 6:51:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/9/2017 6:51:35 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 4560 objects
+3/9/2017 6:52:44 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 6:53:04 AM
+
+3/9/2017 6:53:15 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 6:53:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 6:55:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:55:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (725, 1237, 23)
+3/9/2017 6:55:44 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 6:55:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:56:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (754, 1244, 23)
+3/9/2017 6:56:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:56:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (754, 1245, 20)
+3/9/2017 6:56:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:56:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (757, 1245, 20)
+3/9/2017 6:56:52 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:56:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (758, 1245, 23)
+3/9/2017 6:57:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:57:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (751, 1249, 20)
+3/9/2017 6:57:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:57:27 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:57:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (750, 1250, 23)
+3/9/2017 6:57:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:57:45 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (754, 1253, 23)
+3/9/2017 6:58:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:58:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (755, 1253, 20)
+3/9/2017 6:58:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 6:58:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (754, 1252, 20)
+3/9/2017 6:59:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 6:59:35 AM
+
+3/9/2017 6:59:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 6:59:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 7:05:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 7:07:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add gnarledstaff'
+3/9/2017 7:07:49 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (736, 1230, 20) in Malas: "gnarledstaff"
+3/9/2017 7:07:49 AM: 127.0.0.1: Serials: 0x40002D16; 
+3/9/2017 7:07:56 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add wildstaff'
+3/9/2017 7:07:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (737, 1229, 20) in Malas: "wildstaff"
+3/9/2017 7:07:57 AM: 127.0.0.1: Serials: 0x40002D17; 
+3/9/2017 7:08:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 7:08:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002D17 (WildStaff)
+3/9/2017 7:08:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 7:08:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002D16 (GnarledStaff)
+3/9/2017 7:08:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 7:08:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 7:08:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 7:16:39 AM
+
+3/9/2017 7:21:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 7:21:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 7:21:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x212 "Tirananniel" (no account)
+3/9/2017 7:21:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 7:23:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 7:25:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 7:27:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 7:29:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add largecrat'
+3/9/2017 7:30:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 7:30:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (763, 597, 3)
+3/9/2017 7:30:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 7:30:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 7:30:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 7:30:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (764, 597, 3)
+3/9/2017 7:30:42 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 7:30:45 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (769, 597, 3)
+3/9/2017 7:30:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 7:31:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (770, 597, 3)
+3/9/2017 7:31:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 7:31:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (771, 597, 6)
+3/9/2017 7:31:19 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 7:31:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (772, 597, 0)
+3/9/2017 7:32:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 7:32:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (796, 617, 3)
+3/9/2017 7:32:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 7:33:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/9/2017 7:33:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400016AD (BlankScroll) to (795, 617, 0)
+3/9/2017 7:33:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 7:35:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 7:35:40 AM
+
+3/9/2017 7:35:52 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 7:35:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 7:36:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 8:01:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 8:02:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 8:03:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (6712 objects)
+3/9/2017 8:03:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/9/2017 8:03:14 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 6712 objects
+3/9/2017 8:04:44 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 8:05:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 8:05:38 AM
+
+3/9/2017 8:05:56 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 8:06:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 8:06:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 8:07:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add spawner'
+3/9/2017 8:07:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1027, 904, 17) in Malas: "spawner"
+3/9/2017 8:07:40 AM: 127.0.0.1: Serials: 0x400029AF; 
+3/9/2017 8:08:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 8:08:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400029AF (Spawner)
+3/9/2017 8:08:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 8:08:27 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 8:08:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000ED1 (Spawner)
+3/9/2017 8:08:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 8:09:00 AM
+
+3/9/2017 8:09:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 8:09:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 8:09:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (4748 objects)
+3/9/2017 8:09:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/9/2017 8:09:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 4748 objects
+3/9/2017 8:14:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 8:14:52 AM
+
+3/9/2017 8:15:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 8:15:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 8:16:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 8:16:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 8:16:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (4782 objects)
+3/9/2017 8:16:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/9/2017 8:16:52 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 4782 objects
+3/9/2017 8:17:19 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 8:17:40 AM
+
+3/9/2017 8:17:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 8:17:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 8:18:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 8:18:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 8:19:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (6216 objects)
+3/9/2017 8:19:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/9/2017 8:19:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 6216 objects
+3/9/2017 8:19:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 8:19:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:20:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:20:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:20:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:20:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:20:49 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:21:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:21:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:21:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:21:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:21:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:21:49 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 8:22:09 AM
+
+3/9/2017 8:22:29 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 8:22:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 8:22:35 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 8:23:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 8:23:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400003D6 (WaterWalk)
+3/9/2017 8:23:27 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 8:34:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 8:34:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 8:34:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 8:51:49 AM
+
+3/9/2017 8:58:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 8:59:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 9:00:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 9:03:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 9:06:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 9:06:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') adding new account: Yugitashi
+3/9/2017 9:24:00 AM: 127.0.0.1: Player 0x397 "Nastlia Kensley" ('Yugitashi') used command 'emote '
+3/9/2017 10:12:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 10:12:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 10:12:42 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 10:14:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 10:15:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 10:15:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 10:15:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 10:15:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 10:15:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 10:15:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 10:16:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003361 (WaterWalk)
+3/9/2017 10:16:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 10:17:08 AM
+
+3/9/2017 10:17:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 10:17:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 10:18:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (7013 objects)
+3/9/2017 10:18:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/9/2017 10:18:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 7013 objects
+3/9/2017 10:18:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 10:19:18 AM
+
+3/9/2017 10:19:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 10:19:42 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 10:20:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 10:21:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 10:21:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 10:21:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002A44 (WaterWalk)
+3/9/2017 10:22:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 10:22:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 10:25:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 10:30:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 10:30:27 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 10:31:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 10:31:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 10:31:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 10:32:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 10:32:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400035D3 (WaterWalk)
+3/9/2017 10:32:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 10:32:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+3/9/2017 10:32:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 10:32:55 AM
+
+3/9/2017 10:33:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 10:33:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 10:35:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (7700 objects)
+3/9/2017 10:35:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/9/2017 10:35:44 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 7700 objects
+3/9/2017 10:43:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 10:43:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 10:44:03 AM
+
+3/9/2017 10:44:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 10:44:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 10:44:56 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (4428 objects)
+3/9/2017 10:44:56 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/9/2017 10:44:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 4428 objects
+3/9/2017 10:47:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add blackpearl 3'
+3/9/2017 10:47:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (906, 900, 0) in Malas: "blackpearl" "3"
+3/9/2017 10:47:32 AM: 127.0.0.1: Serials: 0x400028D2; 
+3/9/2017 10:47:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 10:47:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400028D2 (BlackPearl)
+3/9/2017 10:49:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 10:49:50 AM
+
+3/9/2017 10:50:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 10:50:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 10:50:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 10:50:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 10:50:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000ED5 (Spawner)
+3/9/2017 10:51:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 10:52:07 AM
+
+3/9/2017 10:52:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 10:52:44 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 10:52:52 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 11:17:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 11:17:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 11:18:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/9/2017 11:18:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') wiping from (910, 895, 0) to (921, 904, 0) in Malas (Items, Mobiles)
+3/9/2017 11:20:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 11:20:47 AM
+
+3/9/2017 11:21:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 11:21:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 11:22:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/9/2017 11:22:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') wiping from (916, 895, 0) to (921, 898, 0) in Malas (Items, Mobiles)
+3/9/2017 11:22:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 11:22:40 AM
+
+3/9/2017 11:22:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 11:23:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 11:23:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 11:23:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 11:23:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400003E4 (WaterWalk)
+3/9/2017 11:23:35 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 11:26:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'kill '
+3/9/2017 11:26:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') killing 0x364 "a faerie beetle collector" (no account)
+3/9/2017 11:26:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (8887 objects)
+3/9/2017 11:26:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/9/2017 11:26:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 8887 objects
+3/9/2017 11:46:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 11:50:29 AM
+
+3/9/2017 11:50:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 11:50:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 11:51:42 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 12:06:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 12:10:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:12:04 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:13:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:14:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:15:02 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:16:10 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:16:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:17:24 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:17:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:18:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:18:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:19:28 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:21:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:23:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 12:27:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 1:14:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 1:14:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 1:14:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 1:14:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 1:15:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 1:15:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 1:16:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:02:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 2:06:55 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 2:07:23 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add dragon'
+3/9/2017 2:07:24 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1797, 982, 10) in Malas: "dragon"
+3/9/2017 2:07:24 PM: 127.0.0.1: Serials: 0x435; 
+3/9/2017 2:07:28 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'kill '
+3/9/2017 2:07:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') killing 0x435 "a dragon" (no account)
+3/9/2017 2:07:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 2:07:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002E5C (Corpse)
+3/9/2017 2:09:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:09:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:10:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 2:10:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 2:10:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 2:47:01 PM
+
+3/9/2017 2:47:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:48:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:48:02 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:48:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:48:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:48:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:48:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:48:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:48:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 2:48:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 2:48:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 2:50:55 PM
+
+3/9/2017 2:51:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:52:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 2:52:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 2:53:23 PM
+
+3/9/2017 2:53:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 2:53:55 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 2:54:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 2:55:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 2:55:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x435 "a dragon" (no account)
+3/9/2017 2:55:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x437 "a dragon" (no account)
+3/9/2017 2:55:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x436 "a dragon" (no account)
+3/9/2017 2:55:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400029F2 (Spawner)
+3/9/2017 2:55:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x35B "a dragon" (no account)
+3/9/2017 2:55:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x33B "a dragon" (no account)
+3/9/2017 2:55:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x31F "a dragon" (no account)
+3/9/2017 2:56:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400029F1 (Spawner)
+3/9/2017 2:56:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 2:57:03 PM
+
+3/9/2017 2:57:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 2:57:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 2:57:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 2:58:33 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 2:58:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400029F3 (Spawner)
+3/9/2017 2:58:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x438 "a dragon" (no account)
+3/9/2017 2:58:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400029F4 (Spawner)
+3/9/2017 2:58:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x439 "a dragon" (no account)
+3/9/2017 2:58:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x435 "a dragon" (no account)
+3/9/2017 2:59:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 3:00:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 3:00:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/9/2017 3:01:00 PM
+
+3/9/2017 3:01:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 3:01:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 3:01:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/9/2017 3:15:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 3:15:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x43B "a dragon" (no account)
+3/9/2017 3:16:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 3:16:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 3:16:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 3:39:16 PM
+
+3/9/2017 3:40:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 3:40:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 3:40:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 3:40:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 3:41:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 3:44:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 3:44:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000041D (WaterWalk)
+3/9/2017 3:44:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 3:44:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 3:44:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 3:44:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003305 (Static)
+3/9/2017 3:44:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 3:44:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000345E (Static)
+3/9/2017 3:46:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 3:46:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 3:54:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 3:55:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 3:55:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 3:55:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 3:55:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003B73 (WaterWalk)
+3/9/2017 3:55:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 3:56:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 3:58:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 3:58:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 3:58:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 4:08:32 PM
+
+3/9/2017 4:09:02 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 4:10:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:10:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 4:10:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:10:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036DD (Static)
+3/9/2017 4:10:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:10:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036E9 (Static)
+3/9/2017 4:10:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:10:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036DB (Static)
+3/9/2017 4:10:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:10:55 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036E7 (Static)
+3/9/2017 4:10:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:10:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036CF (Static)
+3/9/2017 4:11:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036C3 (Static)
+3/9/2017 4:11:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036D1 (Static)
+3/9/2017 4:11:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036C2 (Static)
+3/9/2017 4:11:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036C0 (Static)
+3/9/2017 4:11:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003700 (Static)
+3/9/2017 4:11:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000370C (Static)
+3/9/2017 4:11:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003717 (Static)
+3/9/2017 4:11:21 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:21 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003702 (Static)
+3/9/2017 4:11:24 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003645 (Static)
+3/9/2017 4:11:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003651 (Static)
+3/9/2017 4:11:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000365D (Static)
+3/9/2017 4:11:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003669 (Static)
+3/9/2017 4:11:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003675 (Static)
+3/9/2017 4:11:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003682 (Static)
+3/9/2017 4:11:33 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:33 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000368E (Static)
+3/9/2017 4:11:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000369A (Static)
+3/9/2017 4:11:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036A7 (Static)
+3/9/2017 4:11:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036CB (Static)
+3/9/2017 4:11:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000370D (Static)
+3/9/2017 4:11:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036D7 (Static)
+3/9/2017 4:11:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036E2 (Static)
+3/9/2017 4:11:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:11:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036EE (Static)
+3/9/2017 4:12:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036FB (Static)
+3/9/2017 4:12:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003708 (Static)
+3/9/2017 4:12:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003714 (Static)
+3/9/2017 4:12:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003724 (Static)
+3/9/2017 4:12:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003743 (Static)
+3/9/2017 4:12:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003736 (Static)
+3/9/2017 4:12:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003751 (Static)
+3/9/2017 4:12:28 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:28 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000375E (Static)
+3/9/2017 4:12:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000376B (Static)
+3/9/2017 4:12:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000377B (Static)
+3/9/2017 4:12:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003787 (Static)
+3/9/2017 4:12:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003793 (Static)
+3/9/2017 4:12:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000379F (Static)
+3/9/2017 4:12:44 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037AB (Static)
+3/9/2017 4:12:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037B7 (Static)
+3/9/2017 4:12:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037C3 (Static)
+3/9/2017 4:12:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:12:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037D1 (Static)
+3/9/2017 4:12:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:13:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:13:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037C8 (Static)
+3/9/2017 4:13:02 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:13:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037CB (Static)
+3/9/2017 4:13:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:13:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037CE (Static)
+3/9/2017 4:14:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 4:14:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036F3 (Static)
+3/9/2017 4:14:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036F5 (Static)
+3/9/2017 4:14:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000373B (Static)
+3/9/2017 4:14:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003749 (Static)
+3/9/2017 4:14:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003756 (Static)
+3/9/2017 4:14:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003763 (Static)
+3/9/2017 4:14:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000376F (Static)
+3/9/2017 4:14:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000377F (Static)
+3/9/2017 4:14:44 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000378B (Static)
+3/9/2017 4:14:44 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000378D (Static)
+3/9/2017 4:14:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003781 (Static)
+3/9/2017 4:14:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003771 (Static)
+3/9/2017 4:14:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003765 (Static)
+3/9/2017 4:14:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003758 (Static)
+3/9/2017 4:14:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000374B (Static)
+3/9/2017 4:14:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000373D (Static)
+3/9/2017 4:14:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 4:14:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000371C (Static)
+3/9/2017 4:14:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000370F (Static)
+3/9/2017 4:14:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003704 (Static)
+3/9/2017 4:14:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 4:14:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036F7 (Static)
+3/9/2017 4:14:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 4:14:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036EA (Static)
+3/9/2017 4:15:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036F9 (Static)
+3/9/2017 4:15:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003706 (Static)
+3/9/2017 4:15:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003712 (Static)
+3/9/2017 4:15:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003722 (Static)
+3/9/2017 4:15:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000371F (Static)
+3/9/2017 4:15:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000373F (Static)
+3/9/2017 4:15:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000374D (Static)
+3/9/2017 4:15:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000375A (Static)
+3/9/2017 4:15:20 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:21 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003767 (Static)
+3/9/2017 4:15:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:23 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000375C (Static)
+3/9/2017 4:15:24 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000374F (Static)
+3/9/2017 4:15:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003773 (Static)
+3/9/2017 4:15:28 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003779 (Static)
+3/9/2017 4:15:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003783 (Static)
+3/9/2017 4:15:31 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:31 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000378F (Static)
+3/9/2017 4:15:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 4:15:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003785 (Static)
+3/9/2017 4:15:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003791 (Static)
+3/9/2017 4:15:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000379D (Static)
+3/9/2017 4:15:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037A9 (Static)
+3/9/2017 4:15:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037C1 (Static)
+3/9/2017 4:15:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037B5 (Static)
+3/9/2017 4:15:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037A7 (Static)
+3/9/2017 4:15:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000379B (Static)
+3/9/2017 4:15:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003799 (Static)
+3/9/2017 4:15:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003797 (Static)
+3/9/2017 4:15:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037A3 (Static)
+3/9/2017 4:15:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037A5 (Static)
+3/9/2017 4:15:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037AF (Static)
+3/9/2017 4:15:44 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037BB (Static)
+3/9/2017 4:15:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037BD (Static)
+3/9/2017 4:15:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037B1 (Static)
+3/9/2017 4:15:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037B3 (Static)
+3/9/2017 4:15:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400037BF (Static)
+3/9/2017 4:15:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036EC (Static)
+3/9/2017 4:15:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036DE (Static)
+3/9/2017 4:15:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036D3 (Static)
+3/9/2017 4:15:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036E0 (Static)
+3/9/2017 4:15:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036D5 (Static)
+3/9/2017 4:15:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036C9 (Static)
+3/9/2017 4:15:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036C6 (Static)
+3/9/2017 4:15:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:15:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036C5 (Static)
+3/9/2017 4:16:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036C8 (Static)
+3/9/2017 4:16:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036B2 (Static)
+3/9/2017 4:16:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036AF (Static)
+3/9/2017 4:16:07 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036AC (Static)
+3/9/2017 4:16:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:10 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036BF (Static)
+3/9/2017 4:16:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003635 (Static)
+3/9/2017 4:16:17 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:17 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003643 (Static)
+3/9/2017 4:16:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003632 (Static)
+3/9/2017 4:16:21 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:21 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000362F (Static)
+3/9/2017 4:16:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003641 (Static)
+3/9/2017 4:16:23 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:24 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000362C (Static)
+3/9/2017 4:16:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000363D (Static)
+3/9/2017 4:16:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000363F (Static)
+3/9/2017 4:16:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003649 (Static)
+3/9/2017 4:16:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000364F (Static)
+3/9/2017 4:16:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:31 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000364D (Static)
+3/9/2017 4:16:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000364B (Static)
+3/9/2017 4:16:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/9/2017 4:16:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003655 (Static)
+3/9/2017 4:16:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003661 (Static)
+3/9/2017 4:16:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000366D (Static)
+3/9/2017 4:16:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000367A (Static)
+3/9/2017 4:16:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003686 (Static)
+3/9/2017 4:16:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003692 (Static)
+3/9/2017 4:16:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000369F (Static)
+3/9/2017 4:16:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036A1 (Static)
+3/9/2017 4:16:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036A3 (Static)
+3/9/2017 4:16:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036A5 (Static)
+3/9/2017 4:16:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003694 (Static)
+3/9/2017 4:16:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003688 (Static)
+3/9/2017 4:16:44 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000367C (Static)
+3/9/2017 4:16:44 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000366F (Static)
+3/9/2017 4:16:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003663 (Static)
+3/9/2017 4:16:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003657 (Static)
+3/9/2017 4:16:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003659 (Static)
+3/9/2017 4:16:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003665 (Static)
+3/9/2017 4:16:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000365B (Static)
+3/9/2017 4:16:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003667 (Static)
+3/9/2017 4:16:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003671 (Static)
+3/9/2017 4:16:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000367E (Static)
+3/9/2017 4:16:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003680 (Static)
+3/9/2017 4:16:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003673 (Static)
+3/9/2017 4:16:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:55 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003696 (Static)
+3/9/2017 4:16:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000368A (Static)
+3/9/2017 4:16:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:16:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003698 (Static)
+3/9/2017 4:16:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:17:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000368C (Static)
+3/9/2017 4:17:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 4:17:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+3/9/2017 4:17:55 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 4:18:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 4:18:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 1339 hue 286'
+3/9/2017 4:18:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (617, 1700, -15) in Malas: "static" "1339" "hue" "286"
+3/9/2017 4:18:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add static 1339'
+3/9/2017 4:18:20 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (617, 1700, -15) in Malas: "static" "1339"
+3/9/2017 4:18:20 PM: 127.0.0.1: Serials: 0x40003818; 
+3/9/2017 4:18:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 4:18:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Hue' of 0x40003818 (Static) to '286'
+3/9/2017 4:18:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:18:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036B5 (Static)
+3/9/2017 4:18:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:18:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400036B9 (Static)
+3/9/2017 4:18:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:18:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003729 (Static)
+3/9/2017 4:18:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:18:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003730 (Static)
+3/9/2017 4:19:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 4:19:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 4:19:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Hue' of 0x400014E6 (Static) to '286'
+3/9/2017 4:19:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hue 286'
+3/9/2017 4:19:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hue' of 0x4000135F (Static) to '286'
+3/9/2017 4:19:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hue 286'
+3/9/2017 4:19:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hue' of 0x400013A8 (Static) to '286'
+3/9/2017 4:19:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hue 286'
+3/9/2017 4:19:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hue' of 0x40001362 (Static) to '286'
+3/9/2017 4:19:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hue 286'
+3/9/2017 4:19:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hue' of 0x40001364 (Static) to '286'
+3/9/2017 4:19:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hue 286'
+3/9/2017 4:19:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hue' of 0x400013C3 (Static) to '286'
+3/9/2017 4:19:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hue 286'
+3/9/2017 4:19:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hue' of 0x400013C5 (Static) to '286'
+3/9/2017 4:19:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hue 286'
+3/9/2017 4:19:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hue' of 0x400014E9 (Static) to '286'
+3/9/2017 4:19:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hue 286'
+3/9/2017 4:19:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hue' of 0x400014EC (Static) to '286'
+3/9/2017 4:19:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hue 286'
+3/9/2017 4:19:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hue' of 0x40002843 (Static) to '286'
+3/9/2017 4:19:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hue 286'
+3/9/2017 4:19:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hue' of 0x40002846 (Static) to '286'
+3/9/2017 4:20:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 4:20:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Z' of 0x40003019 (Static) to '-14'
+3/9/2017 4:20:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 4:20:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Z' of 0x40001FBC (Static) to '-14'
+3/9/2017 4:20:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 4:21:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Z' of 0x40003016 (Static) to '-14'
+3/9/2017 4:21:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 4:21:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Z' of 0x40003134 (Static) to '-14'
+3/9/2017 4:22:31 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'freezemap '
+3/9/2017 4:22:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') invoking freeze for every item in Owner
+3/9/2017 4:22:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 4:22:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 4:22:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 4:33:21 PM
+
+3/9/2017 4:36:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 4:36:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:36:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set z 10'
+3/9/2017 4:36:31 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'z' of 0xB3 "Elandria" ('Zigholtul88') to '10'
+3/9/2017 4:36:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 4:37:07 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:37:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000FFE (WaterWalk)
+3/9/2017 4:37:10 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 4:37:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 4:37:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 4:37:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set z 10'
+3/9/2017 4:37:33 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'z' of 0xB3 "Elandria" ('Zigholtul88') to '10'
+3/9/2017 4:37:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 4:38:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 10 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:38:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:38:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000111A (WaterWalk)
+3/9/2017 4:38:20 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 10 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:38:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building from (593, 1695, 10) to (637, 1709, 10) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:38:46 PM: 127.0.0.1: Serials: 0x40001147; 0x40001148; 0x40001149; 0x4000114A; 0x4000114B; 0x4000114C; 0x4000114D; 0x4000114E; 0x4000114F; 0x40001150; 0x40001151; 0x40001152; 0x40001153; 0x40001154; 0x40001155; 0x40001156; 0x40001157; 0x40001158; 0x40001159; 0x4000119D; 0x4000119E; 0x4000119F; 0x400011A0; 0x400011A1; 0x400011A2; 0x400011A3; 0x400011A4; 0x400011A5; 0x400011A6; 0x400011A7; 0x400011A8; 0x400011A9; 0x400011AA; 0x400011AB; 0x400011AC; 0x400011AD; 0x400011AE; 0x400011AF; 0x400011B0; 0x400011B1; 0x400011B2; 0x400011B3; 0x400011B4; 0x400011B5; 0x400011B6; 0x400011B7; 0x400011B8; 0x400011B9; 0x400011BA; 0x400011BB; 0x400011BC; 0x400011BD; 0x400011BE; 0x400011BF; 0x400011C0; 0x400011C1; 0x400011C2; 0x400011C3; 0x400011C4; 0x400011C5; 0x400011C6; 0x400011C7; 0x400011C8; 0x400011C9; 0x400011CA; 0x400011CB; 0x400011CC; 0x400011CD; 0x400011CE; 0x400011CF; 0x400011D0; 0x400011D1; 0x400011D2; 0x400011D3; 0x400011D4; 0x400011D5; 0x400011D6; 0x400011D7; 0x400011D8; 0x400011D9; 0x400011DA; 0x400011DB; 0x40001341; 0x40001342; 0x40001343; 0x40001344; 0x40001345; 0x40001346; 0x40001347; 0x40001348; 0x40001349; 0x4000134A; 0x4000134B; 0x4000134C; 0x4000134D; 0x4000134E; 0x4000134F; 0x40001350; 0x40001351; 0x40001352; 0x40001353; 0x40001354; 0x40001355; 0x40001356; 0x4000135C; 0x4000135D; 0x4000135E; 0x4000135F; 0x40001360; 0x40001361; 0x40001362; 0x40001363; 0x40001364; 0x4000136E; 0x4000136F; 0x40001370; 0x40001371; 0x40001372; 0x40001373; 0x40001374; 0x40001375; 0x40001376; 0x40001380; 0x40001381; 0x40001382; 0x40001383; 0x40001384; 0x40001385; 0x40001386; 0x40001387; 0x40001388; 0x400013A4; 0x400013A5; 0x400013A6; 0x400013A7; 0x400013A8; 0x400013A9; 0x400013C2; 0x400013C3; 0x400013C4; 0x400013C5; 0x400013C6; 0x400013C7; 0x400013C8; 0x400013C9; 0x400013D2; 0x400013D3; 0x400013D4; 0x400013D5; 0x400013D6; 0x400013D7; 0x400013D8; 0x400013D9; 0x400013DA; 0x400013DB; 0x400013DC; 0x400013DD; 0x400013DE; 0x400013DF; 0x400013E0; 0x400013E1; 0x400013E2; 0x400013E3; 0x400013E4; 0x400013E5; 0x400013E6; 0x400013E7; 0x400013E8; 0x400013E9; 0x400013EA; 0x400013EB; 0x400013EC; 0x400013ED; 0x400013EE; 0x400013EF; 0x400013F0; 0x400013F1; 0x4000148D; 0x4000148F; 0x40001497; 0x4000149F; 0x400014BC; 0x400014C4; 0x400014CC; 0x400014D4; 0x400014D7; 0x400014D8; 0x400014D9; 0x400014DA; 0x400014DC; 0x400014DD; 0x400014DE; 0x400014DF; 0x400014E1; 0x400014E2; 0x400014E3; 0x400014E4; 0x400014E6; 0x400014E7; 0x400014E8; 0x400014E9; 0x400014EB; 0x400014EC; 0x400014ED; 0x400014EE; 0x4000153A; 0x4000153B; 0x4000153C; 0x4000153D; 0x4000153E; 0x4000153F; 0x40001540; 0x40001541; 0x40001542; 0x40001543; 0x40001544; 0x40001545; 0x40001546; 0x40001547; 0x40001548; 0x40001549; 0x4000154A; 0x4000154B; 0x4000154C; 0x4000154D; 0x4000154E; 0x4000154F; 0x40001550; 0x40001551; 0x40001552; 0x40001553; 0x40001554; 0x40001555; 0x40001556; 0x40001557; 0x40001558; 0x40001559; 0x4000155A; 0x4000155B; 0x4000155C; 0x4000155D; 0x4000155E; 0x4000157D; 0x4000157E; 0x4000157F; 0x40001580; 0x40001581; 0x40001582; 0x4000168C; 0x4000168D; 0x4000168E; 0x4000168F; 0x40001690; 0x40001691; 0x40001692; 0x40001693; 0x40001694; 0x40001695; 0x40001696; 0x40001697; 0x40001698; 0x40001699; 0x4000169A; 0x4000169B; 0x4000169C; 0x4000169D; 0x4000169E; 0x4000169F; 0x400016A0; 0x400016A1; 0x400016A2; 0x400016A3; 0x400016A4; 0x400016A5; 0x400016A6; 0x400016A7; 0x400016A8; 0x400016AA; 0x400016AB; 0x400016AC; 0x400016AE; 0x400016AF; 0x400016B0; 0x400016B1; 0x400016B2; 0x400016B3; 0x400016B4; 0x400016B5; 0x400016B6; 0x400016B7; 0x400016B8; 0x400016B9; 0x400016BA; 0x400016BB; 0x400016BC; 0x400016BD; 0x400016BE; 0x400016BF; 0x400016C0; 0x400016C1; 0x400016C2; 0x400016C5; 0x400016C7; 0x400016C8; 0x400016C9; 0x400016CA; 0x400016CB; 0x400016CC; 0x400016CD; 0x400016CE; 0x400016CF; 0x400016D0; 0x400016D1; 0x400016D2; 0x400016D3; 0x400016D4; 0x400016D5; 0x400016D6; 0x400016D7; 0x400016D8; 0x400016D9; 0x400016DA; 0x400016DB; 0x400016DC; 0x400016DD; 0x400016DE; 0x40001713; 0x40001714; 0x40001715; 0x40001716; 0x40001717; 0x40001718; 0x40001719; 0x4000171A; 0x4000171B; 0x4000171C; 0x40001735; 0x40001736; 0x40001737; 0x40001738; 0x40001739; 0x4000173A; 0x4000173B; 0x4000173C; 0x4000173D; 0x4000173E; 0x40001770; 0x40001771; 0x40001772; 0x40001773; 0x40001774; 0x40001775; 0x40001776; 0x40001777; 0x40001778; 0x40001779; 0x4000177A; 0x4000177B; 0x4000177C; 0x4000177D; 0x4000177E; 0x4000177F; 0x40001780; 0x40001781; 0x40001782; 0x40001783; 0x40001784; 0x40001785; 0x40001786; 0x40001787; 0x40001788; 0x40001789; 0x4000178A; 0x4000178B; 0x4000178C; 0x4000178D; 0x4000178E; 0x4000178F; 0x40001790; 0x40001791; 0x40001792; 0x40001793; 0x40001794; 0x40001795; 0x40001796; 0x40001797; 0x40001798; 0x40001799; 0x4000179A; 0x4000179F; 0x400017A0; 0x400017A1; 0x400017A2; 0x400017A3; 0x400017AC; 0x400017AD; 0x400017AE; 0x400017AF; 0x400017B0; 0x400017B1; 0x400017B2; 0x400017B3; 0x400017B4; 0x400017B5; 0x400017B6; 0x400017B7; 0x400017B8; 0x400017B9; 0x400017BA; 0x400017BB; 0x400017BC; 0x400017BD; 0x400017BE; 0x400017BF; 0x400017C0; 0x400017C1; 0x400017C6; 0x400017C7; 0x400017C8; 0x400017C9; 0x400017CA; 0x400017CB; 0x400017CC; 0x400017CD; 0x400017CE; 0x400017CF; 0x400017D0; 0x400017D5; 0x400017D6; 0x400017D7; 0x400017D8; 0x400017D9; 0x400017DA; 0x400017DB; 0x400017DC; 0x400017DD; 0x400017DE; 0x400017DF; 0x400017EE; 0x400017EF; 0x400017F0; 0x400017F1; 0x400017F4; 0x400017F5; 0x400017F6; 0x400017F7; 0x400017F8; 0x400017F9; 0x400017FA; 0x400017FB; 0x400017FC; 0x400017FD; 0x400017FE; 0x40001807; 0x40001808; 0x40001809; 0x4000180A; 0x4000180B; 0x4000180D; 0x4000180F; 0x40001810; 0x40001811; 0x40001812; 0x40001813; 0x40001814; 0x40001815; 0x40001816; 0x40001817; 0x40001818; 0x40001819; 0x4000181A; 0x40001896; 0x40001897; 0x40001898; 0x40001899; 0x4000189A; 0x4000189B; 0x4000189C; 0x4000189D; 0x4000189E; 0x4000189F; 0x400018A0; 0x400018A1; 0x400018A2; 0x400018CA; 0x400018CB; 0x400018CC; 0x400018CD; 0x40001A65; 0x40001A66; 0x40001A67; 0x40001A68; 0x40001A69; 0x40001A6A; 0x40001A6B; 0x40001A6C; 0x40001A6D; 0x40001A6E; 0x40001A6F; 0x40001A70; 0x40001A71; 0x40001A72; 0x40001A73; 0x40001A75; 0x40001A76; 0x40001A77; 0x40001A78; 0x40001A79; 0x40001A7A; 0x40001A7B; 0x40001A7C; 0x40001A7D; 0x40001A7E; 0x40001A7F; 0x40001A80; 0x40001A81; 0x40001A82; 0x40001A83; 0x40001A84; 0x40001A85; 0x40001A86; 0x40001A87; 0x40001A88; 0x40001A89; 0x40001A8A; 0x40001A8B; 0x40001A8C; 0x40001A8D; 0x40001A8E; 0x40001A8F; 0x40001A90; 0x40001A91; 0x40001A92; 0x40001A93; 0x40001A94; 0x40001A95; 0x40001A96; 0x40001A97; 0x40001A98; 0x40001A99; 0x40001A9A; 0x40001A9B; 0x40001A9C; 0x40001A9D; 0x40001A9E; 0x40001A9F; 0x40001AA0; 0x40001AA1; 0x40001AA2; 0x40001AA3; 0x40001AA4; 0x40001AA5; 0x40001AA6; 0x40001AA7; 0x40001AA8; 0x40001AA9; 0x40001AAA; 0x40001AAB; 0x40001AAC; 0x40001AAD; 0x40001AAE; 0x40001AAF; 0x40001AB0; 0x40001AB1; 0x40001AB2; 0x40001AB3; 0x40001AB4; 0x40001AB5; 0x40001AB6; 0x40001AB7; 0x40001AB8; 0x40001AB9; 0x40001ABA; 0x40001ABB; 0x40001ABC; 0x40001ABD; 0x40001ABE; 0x40001ABF; 0x40001AC0; 0x40001AC1; 0x40001AC2; 0x40001AC3; 0x40001AC4; 0x40001AC5; 0x40001AC6; 0x40001AC7; 0x40001AC8; 0x40001AC9; 0x40001ACA; 0x40001ACB; 0x40001ACC; 0x40001ACD; 0x40001ACE; 0x40001ACF; 0x40001AD0; 0x40001AD1; 0x40001AD2; 0x40001AD3; 0x40001AD4; 0x40001AD5; 0x40001AD6; 0x40001AD7; 0x40001AD8; 0x40001AD9; 0x40001ADB; 0x40001ADC; 0x40001ADD; 0x40001ADE; 0x40001ADF; 0x40001AE0; 0x40001AE1; 0x40001AE2; 0x40001AE3; 0x40001AE4; 0x40001AE5; 0x40001AE6; 0x40001AE7; 0x40001AE8; 0x40001AE9; 0x40001AEA; 0x40001AEB; 0x40001AEC; 0x40001AED; 0x40001AEE; 0x40001AEF; 0x40001AF0; 0x40001AF1; 0x40001AF2; 0x40001AF3; 0x40001AF4; 0x40001AF5; 0x40001AF6; 0x40001AF7; 0x40001AF8; 0x40001AF9; 0x40001AFA; 0x40001B09; 0x40001B0A; 0x40001B0B; 0x40001B0C; 0x40001B33; 0x40001B50; 0x40001B51; 0x40001B52; 0x40001B53; 0x40001B54; 0x40001B55; 0x40001B56; 0x40001B57; 0x40001B58; 0x40001B59; 0x40001B5A; 0x40001B5B; 0x40001B5C; 0x40001B5D; 0x40001B5E; 0x40001B5F; 0x40001B60; 0x40001B61; 0x40001B62; 0x40001B63; 0x40001B64; 0x40001B65; 0x40001B66; 0x40001B67; 0x40001B68; 0x40001B69; 0x40001B6A; 0x40001B6B; 0x40001B6C; 0x40001B6D; 0x40001B6E; 0x40001B6F; 0x40001B70; 0x40001B71; 
+3/9/2017 4:38:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 4:39:10 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/9/2017 4:39:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 4:39:20 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/9/2017 4:39:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') wiping from (593, 1695, 11) to (637, 1700, 11) in Malas (Items, Mobiles)
+3/9/2017 4:39:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:39:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 4:39:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/9/2017 4:39:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/9/2017 4:39:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') wiping from (624, 1701, 11) to (637, 1709, 11) in Malas (Items, Mobiles)
+3/9/2017 4:39:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:39:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/9/2017 4:39:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') wiping from (615, 1701, 11) to (623, 1709, 11) in Malas (Items, Mobiles)
+3/9/2017 4:39:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:39:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:40:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/9/2017 4:40:02 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') wiping from (598, 1701, 11) to (614, 1709, 11) in Malas (Items, Mobiles)
+3/9/2017 4:40:04 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:40:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/9/2017 4:40:07 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') wiping from (593, 1701, 11) to (597, 1709, 11) in Malas (Items, Mobiles)
+3/9/2017 4:40:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 4:40:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 4:40:31 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:40:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:40:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building from (593, 1695, 6) to (606, 1703, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:40:39 PM: 127.0.0.1: Serials: 0x40001C04; 0x40001C05; 0x40001C06; 0x40001C07; 0x40001C08; 0x40001C09; 0x40001C0A; 0x40001C0B; 0x40001C0C; 0x40001C0D; 0x40001C0E; 0x40001C0F; 0x40001C10; 0x40001C11; 0x40001C12; 0x40001C13; 0x40001C14; 0x40001C15; 0x40001C16; 0x40001C17; 0x40001C18; 0x40001C19; 0x40001C2A; 0x40001C2B; 0x40001C2C; 0x40001C2D; 0x40001C58; 0x40001C59; 0x40001C5A; 0x40001C5B; 0x40001C5C; 0x40001C5D; 0x40001C5E; 0x40001C5F; 0x40001C60; 0x40001C61; 0x40001C62; 0x40001C63; 0x40001C64; 0x40001C65; 0x40001C66; 0x40001C67; 0x40001C68; 0x40001C69; 0x40001C6A; 0x40001C6B; 0x40001C6C; 0x40001C6D; 0x40001C6E; 0x40001C6F; 0x40001C70; 0x40001C71; 0x40001C72; 0x40001C73; 0x40001C74; 0x40001C75; 0x40001C76; 0x40001C77; 0x40001C78; 0x40001C79; 0x40001C7A; 0x40001C7B; 0x40001C7C; 0x40001C7D; 0x40001C7E; 0x40001C7F; 0x40001C80; 0x40001C81; 0x40001C82; 0x40001C83; 0x40001C84; 0x40001C85; 0x40001C86; 0x40001C87; 0x40001C88; 0x40001C89; 0x40001C8A; 0x40001C8B; 0x40001C8C; 0x40001C8D; 0x40001C8E; 0x40001C8F; 0x40001C90; 0x40001C91; 0x40001C92; 0x40001C93; 0x40001C94; 0x40001C95; 0x40001C96; 0x40001C97; 0x40001CB5; 0x40001CB6; 0x40001CB7; 0x40001CB8; 0x40001CB9; 0x40001CBA; 0x40001CBB; 0x40001CBC; 0x40001CBD; 0x40001CBE; 0x40001CBF; 0x40001CC0; 0x40001CC1; 0x40001CC2; 0x40001CC3; 0x40001CC4; 0x40001CC5; 0x40001CC6; 0x40001CC7; 0x40001CC8; 0x40001CC9; 0x40001CCA; 0x40001CCB; 0x40001CCC; 0x40001CCD; 0x40001CCE; 0x40001CCF; 0x40001CD0; 0x40001CD1; 0x40001CD2; 0x40001CD3; 0x40001CD4; 0x40001CD5; 0x40001CD6; 0x40001CD7; 0x40001CD8; 
+3/9/2017 4:40:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/9/2017 4:40:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') wiping from (593, 1695, 7) to (607, 1703, 11) in Malas (Items, Mobiles)
+3/9/2017 4:41:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:41:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 4:41:20 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:41:44 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building from (588, 1694, 6) to (636, 1721, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:41:45 PM: 127.0.0.1: Serials: 0x40001D05; 0x40001D06; 0x40001D07; 0x40001D08; 0x40001D09; 0x40001D0A; 0x40001D0B; 0x40001D0C; 0x40001D0D; 0x40001D0E; 0x40001D0F; 0x40001D10; 0x40001D11; 0x40001D12; 0x40001D13; 0x40001D14; 0x40001D15; 0x40001D16; 0x40001D17; 0x40001D18; 0x40001D19; 0x40001D1A; 0x40001D1B; 0x40001D1C; 0x40001D1D; 0x40001D1E; 0x40001D1F; 0x40001D20; 0x40001D21; 0x40001D22; 0x40001D23; 0x40001D24; 0x40001D4C; 0x40001D4D; 0x40001D4E; 0x40001D4F; 0x40001D50; 0x40001D51; 0x40001D52; 0x40001D53; 0x40001D54; 0x40001D55; 0x40001D56; 0x40001D57; 0x40001D58; 0x40001D59; 0x40001D5A; 0x40001D5B; 0x40001D5C; 0x40001D5D; 0x40001D5E; 0x40001D5F; 0x40001D60; 0x40001D61; 0x40001D62; 0x40001D63; 0x40001D64; 0x40001D65; 0x40001D66; 0x40001D67; 0x40001D68; 0x40001D69; 0x40001D6A; 0x40001D6B; 0x40001D6C; 0x40001D6D; 0x40001D6E; 0x40001D6F; 0x40001D70; 0x40001D71; 0x40001D72; 0x40001D73; 0x40001D74; 0x40001D75; 0x40001D76; 0x40001D77; 0x40001D78; 0x40001D79; 0x40001D7A; 0x40001D8C; 0x40001D8D; 0x40001D8E; 0x40001D8F; 0x40001D90; 0x40001D91; 0x40001D92; 0x40001D93; 0x40001D94; 0x40001D95; 0x40001D96; 0x40001D97; 0x40001D98; 0x40001D99; 0x40001D9A; 0x40001D9B; 0x40001D9C; 0x40001D9D; 0x40001D9E; 0x40001D9F; 0x40001DA0; 0x40001DA1; 0x40001DA2; 0x40001DA3; 0x40001DA4; 0x40001DA5; 0x40001DA6; 0x40001DA7; 0x40001DA8; 0x40001DA9; 0x40001DAA; 0x40001DAB; 0x40001DAC; 0x40001DAD; 0x40001DAE; 0x40001DAF; 0x40001DB0; 0x40001DB1; 0x40001DB2; 0x40001DB3; 0x40001DB4; 0x40001DB5; 0x40001DB6; 0x40001DB7; 0x40001DB8; 0x40001DB9; 0x40001DBA; 0x40001DBB; 0x40001DBC; 0x40001DBD; 0x40001DBE; 0x40001DBF; 0x40001DC0; 0x40001DC1; 0x40001DE6; 0x40001DE7; 0x40001DE8; 0x40001DE9; 0x40001DEA; 0x40001DEB; 0x40001DEC; 0x40001DED; 0x40001DEE; 0x40001DEF; 0x40001DF0; 0x40001DF1; 0x40001DF2; 0x40001DF3; 0x40001DF4; 0x40001DF5; 0x40001DF6; 0x40001DF7; 0x40001DF8; 0x40001DF9; 0x40001DFA; 0x40001DFB; 0x40001DFC; 0x40001DFD; 0x40001DFE; 0x40001DFF; 0x40001E00; 0x40001E01; 0x40001E02; 0x40001E03; 0x40001E04; 0x40001E05; 0x40001E06; 0x40001E07; 0x40001E08; 0x40001E09; 0x40001E0A; 0x40001E0B; 0x40001E0C; 0x40001E0D; 0x40001E0E; 0x40001E0F; 0x40001E10; 0x40001E11; 0x40001E12; 0x40001E13; 0x40001E14; 0x40001E15; 0x40001E16; 0x40001E17; 0x40001E18; 0x40001E19; 0x40001E1A; 0x40001E1B; 0x40001E1C; 0x40001E1D; 0x40001E1E; 0x40001E1F; 0x40001E20; 0x40001E21; 0x40001E22; 0x40001E23; 0x40001E24; 0x40001E25; 0x40001E26; 0x40001E27; 0x40001E28; 0x40001E29; 0x40001E2A; 0x40001E2B; 0x40001E2C; 0x40001E2D; 0x40001E2E; 0x40001E2F; 0x40001E30; 0x40001E31; 0x40001E32; 0x40001E33; 0x40001E34; 0x40001E35; 0x40001E36; 0x40001E37; 0x40001E38; 0x40001E39; 0x40001E46; 0x40001E47; 0x40001E48; 0x40001E49; 0x40001E4A; 0x40001E4B; 0x40001E4C; 0x40001E4D; 0x40001E4E; 0x40001E4F; 0x40001E50; 0x40001E51; 0x40001E52; 0x40001E53; 0x40001E54; 0x40001E55; 0x40001E56; 0x40001E57; 0x40001E58; 0x40001E59; 0x40001E5A; 0x40001E5B; 0x40001E5C; 0x40001E5D; 0x40001E5E; 0x40001E5F; 0x40001E60; 0x40001E61; 0x40001E62; 0x40001E72; 0x40001E73; 0x40001E74; 0x40001E75; 0x40001E76; 0x40001E77; 0x40001E78; 0x40001E79; 0x40001E7A; 0x40001E7B; 0x40001E7C; 0x40001E7D; 0x40001E7E; 0x40001E7F; 0x40001E80; 0x40001E81; 0x40001E82; 0x40001E83; 0x40001E84; 0x40001E85; 0x40001E86; 0x40001E87; 0x40001E88; 0x40001E89; 0x40001E8A; 0x40001E8B; 0x40001E8C; 0x40001E8D; 0x40001E8E; 0x40001E8F; 0x40001E90; 0x40001E91; 0x40001E92; 0x40001E93; 0x40001E94; 0x40001E95; 0x40001E96; 0x40001E97; 0x40001E98; 0x40001E99; 0x40001E9A; 0x40001E9B; 0x40001E9C; 0x40001E9D; 0x40001E9E; 0x40001E9F; 0x40001EA0; 0x40001EA1; 0x40001EA2; 0x40001EA3; 0x40001EA4; 0x40001EA5; 0x40001EA6; 0x40001EA7; 0x40001EA8; 0x40001EA9; 0x40001EAA; 0x40001EAB; 0x40001EAC; 0x40001EAD; 0x40001EAE; 0x40001EAF; 0x40001EB0; 0x40001EB1; 0x40001EB2; 0x40001EB3; 0x40001EB4; 0x40001EB5; 0x40001EB6; 0x40001EB7; 0x40001EB8; 0x40001EB9; 0x40001EBA; 0x40001EBB; 0x40001EBC; 0x40001EBD; 0x40001EBE; 0x40001EBF; 0x40001EC0; 0x40001EC1; 0x40001EC2; 0x40001EC3; 0x40001EC4; 0x40001EC5; 0x40001EC6; 0x40001EC7; 0x40001EC8; 0x40001EC9; 0x40001ECA; 0x40001ECB; 0x40001ECC; 0x40001ECD; 0x40001ECE; 0x40001ECF; 0x40001ED0; 0x40001ED1; 0x40001ED2; 0x40001ED3; 0x40001ED4; 0x40001ED5; 0x40001ED6; 0x40001ED7; 0x40001ED8; 0x40001ED9; 0x40001EDA; 0x40001EDB; 0x40001EDC; 0x40001EDD; 0x40001EDE; 0x40001EDF; 0x40001EE0; 0x40001EE1; 0x40001EE2; 0x40001EE3; 0x40001EE4; 0x40001EE5; 0x40001EE6; 0x40001EE7; 0x40001EE8; 0x40001EE9; 0x40001EEA; 0x40001EEB; 0x40001EEC; 0x40001EED; 0x40001EEE; 0x40001EEF; 0x40001EF0; 0x40001EF1; 0x40001EF2; 0x40001EF3; 0x40001EF4; 0x40001EF5; 0x40001EF6; 0x40001EF7; 0x40001EF8; 0x40001EF9; 0x40001EFA; 0x40001EFB; 0x40001EFC; 0x40001EFD; 0x40001EFE; 0x40001EFF; 0x40001F00; 0x40001F01; 0x40001F02; 0x40001F03; 0x40001F04; 0x40001F05; 0x40001F06; 0x40001F07; 0x40001F08; 0x40001F09; 0x40001F0A; 0x40001F0B; 0x40001F0C; 0x40001F0D; 0x40001F0E; 0x40001F0F; 0x40001F10; 0x40001F11; 0x40001F12; 0x40001F13; 0x40001F14; 0x40001F15; 0x40001F16; 0x40001F17; 0x40001F18; 0x40001F19; 0x40001F1A; 0x40001F1B; 0x40001F1C; 0x40001F1D; 0x40001F1E; 0x40001F1F; 0x40001F2F; 0x40001F30; 0x40001F31; 0x40001F32; 0x40001F33; 0x40001F34; 0x40001F35; 0x40001F36; 0x40001F37; 0x40001F38; 0x40001F39; 0x40001F3A; 0x40001F3B; 0x40001F3C; 0x40001F3D; 0x40001F3E; 0x40001F3F; 0x40001F40; 0x40001F41; 0x40001F42; 0x40001F43; 0x40001F44; 0x40001F45; 0x40001F46; 0x40001F47; 0x40001F48; 0x40001F49; 0x40001F4A; 0x40001F4B; 0x40001F4C; 0x40001F5C; 0x40001F5D; 0x40001F5E; 0x40001F5F; 0x40001F60; 0x40001F61; 0x40001F62; 0x40001F63; 0x40001F64; 0x40001F65; 0x40001F66; 0x40001F67; 0x40001F68; 0x40001F69; 0x40001F6A; 0x40001F6B; 0x40001F6C; 0x40001F6D; 0x40001F6E; 0x40001F6F; 0x40001F70; 0x40001F71; 0x40001F72; 0x40001F73; 0x40001F74; 0x40001F75; 0x40001F76; 0x40001F77; 0x40001F78; 0x40001F79; 0x40001F7A; 0x40001F7B; 0x40001F7C; 0x40001F7D; 0x40001F7E; 0x40001F7F; 0x40001F80; 0x40001F81; 0x40001F82; 0x40001F83; 0x40001F84; 0x40001F85; 0x40001F86; 0x40001F87; 0x40001F88; 0x40001F89; 0x40001F8A; 0x40001F8B; 0x40001F8C; 0x40001F8D; 0x40001F8E; 0x40001F8F; 0x40001F90; 0x40001F91; 0x40001F92; 0x40001F93; 0x40001F94; 0x40001F95; 0x40001F96; 0x40001F97; 0x40001F98; 0x40001F99; 0x40001F9A; 0x40001F9B; 0x40001F9C; 0x40001F9D; 0x40001F9E; 0x40001F9F; 0x40001FA0; 0x40001FA1; 0x40001FA2; 0x40001FA3; 0x40001FA4; 0x40001FA5; 0x40001FA6; 0x40001FA7; 0x40001FA8; 0x40001FA9; 0x40001FAA; 0x40001FAB; 0x40001FAC; 0x40001FAD; 0x40001FAE; 0x40001FAF; 0x40001FB0; 0x40001FB1; 0x40001FB2; 0x40001FB3; 0x40001FB4; 0x40001FB5; 0x40001FB6; 0x40001FB7; 0x40001FB8; 0x40001FB9; 0x40001FBA; 0x40001FBB; 0x40001FBC; 0x40001FBD; 0x40001FBE; 0x40001FBF; 0x40001FC0; 0x40001FC1; 0x40001FC2; 0x40001FC3; 0x40001FC4; 0x40001FC5; 0x40001FC6; 0x40001FC7; 0x40001FC8; 0x40001FC9; 0x40001FCA; 0x40001FCB; 0x40001FCC; 0x40001FCD; 0x40001FCE; 0x40001FCF; 0x40001FD0; 0x40001FD1; 0x40001FD2; 0x40001FD3; 0x40001FD4; 0x40001FD5; 0x40001FD6; 0x40001FD7; 0x40001FD8; 0x40001FD9; 0x40001FDA; 0x40001FDB; 0x40001FDC; 0x40001FDD; 0x40001FDE; 0x40001FDF; 0x40001FE0; 0x40001FE1; 0x40001FE2; 0x40001FE3; 0x40001FE4; 0x40001FE5; 0x40001FE6; 0x40001FE7; 0x40001FE8; 0x40001FE9; 0x40001FEA; 0x40001FEB; 0x40001FEC; 0x40001FED; 0x40001FEE; 0x40001FEF; 0x40001FF0; 0x40001FF1; 0x40001FF2; 0x40001FF3; 0x40001FF4; 0x40001FF5; 0x40001FF6; 0x40001FF7; 0x40001FF8; 0x40001FF9; 0x40001FFA; 0x40001FFB; 0x40001FFC; 0x40001FFD; 0x40001FFE; 0x40001FFF; 0x40002000; 0x40002001; 0x40002002; 0x40002003; 0x40002004; 0x40002005; 0x40002006; 0x40002007; 0x40002008; 0x40002009; 0x4000200A; 0x4000200B; 0x4000200C; 0x4000200D; 0x4000200E; 0x4000200F; 0x40002010; 0x40002011; 0x4000210B; 0x4000210C; 0x40002126; 0x40002127; 0x40002128; 0x40002129; 0x4000212A; 0x4000212B; 0x40002145; 0x40002146; 0x40002147; 0x40002148; 0x40002195; 0x40002196; 0x40002197; 0x40002198; 0x40002199; 0x4000219A; 0x400021A7; 0x400021A8; 0x400021A9; 0x400021C4; 0x400021C5; 0x400021C6; 0x400021C7; 0x400021C8; 0x400021C9; 0x400021CA; 0x400021CB; 0x400021CC; 0x400021CD; 0x400021CE; 0x400021CF; 0x400021D0; 0x400021D1; 0x400021D2; 0x400021D3; 0x400021D4; 0x400021D5; 0x400021D6; 0x400021D7; 0x400021D8; 0x400021D9; 0x400021DA; 0x400021DB; 0x400021E2; 0x400021E3; 0x400021E4; 0x400021E5; 0x400021E6; 0x400021E7; 0x400021E8; 0x400021E9; 0x400021EA; 0x400021EB; 0x400021EC; 0x400021ED; 0x400021EE; 0x400021EF; 0x400021F0; 0x400021F8; 0x400021F9; 0x400021FA; 0x400021FB; 0x400021FC; 0x400021FD; 0x400021FE; 0x400021FF; 0x40002200; 0x40002201; 0x40002202; 0x40002203; 0x40002204; 0x40002205; 0x40002206; 0x40002207; 0x40002208; 0x40002209; 0x4000220A; 0x4000220B; 0x4000220C; 0x4000220D; 0x4000220E; 0x4000220F; 0x40002210; 0x40002211; 0x40002212; 0x40002213; 0x40002214; 0x40002215; 0x40002216; 0x40002229; 0x4000222A; 0x4000223D; 0x4000223E; 0x4000223F; 0x40002240; 0x40002241; 0x40002242; 0x4000224B; 0x4000224C; 0x4000224D; 0x4000224E; 0x4000224F; 0x40002250; 0x40002259; 0x4000225A; 0x4000225B; 0x400022C3; 0x400022C4; 0x400022C5; 0x400022C6; 0x400022C7; 0x400022C8; 0x400022C9; 0x400022CA; 0x400022CB; 0x400022CC; 0x400022CD; 0x400022CE; 0x400022CF; 0x400022D0; 0x400022D1; 0x400022D2; 0x400022DD; 0x400022DE; 0x400022DF; 0x400022E0; 0x400022E1; 0x400022E8; 0x400022EA; 0x400022EB; 0x400022EC; 0x400022ED; 0x4000231C; 0x4000231D; 0x4000231E; 0x4000231F; 0x40002320; 0x40002321; 0x40002322; 0x4000232C; 0x4000232D; 0x4000232E; 0x4000232F; 0x40002330; 0x40002331; 0x40002332; 0x40002333; 0x40002334; 0x40002335; 0x40002336; 0x40002337; 0x40002338; 0x40002339; 0x4000233A; 0x4000233B; 0x4000233C; 0x4000233D; 0x4000233E; 0x40002348; 0x40002349; 0x4000234A; 0x4000234B; 0x4000234C; 0x4000234D; 0x4000234E; 0x4000234F; 0x40002350; 0x40002351; 0x40002352; 0x40002353; 0x40002354; 0x40002355; 0x40002356; 0x40002357; 0x40002358; 0x40002359; 0x4000235A; 0x4000235B; 0x4000235C; 0x4000235D; 0x4000235E; 0x4000235F; 0x40002360; 0x40002361; 0x40002362; 0x40002363; 0x40002364; 0x40002365; 0x4000236E; 0x4000236F; 0x40002370; 0x40002371; 0x40002372; 0x40002373; 0x40002374; 0x40002375; 0x40002376; 0x40002377; 0x40002378; 0x40002379; 0x4000237A; 0x4000237B; 0x4000237C; 0x4000237D; 0x4000237E; 0x4000237F; 0x40002380; 0x40002381; 0x40002382; 0x40002383; 0x40002384; 0x40002385; 0x40002386; 0x40002387; 0x40002388; 0x40002389; 0x4000238A; 0x4000238B; 0x4000238C; 0x4000238D; 0x4000238E; 0x4000238F; 0x40002390; 0x40002391; 0x40002392; 0x40002393; 0x40002394; 0x40002395; 0x40002396; 0x40002397; 0x40002398; 0x40002399; 0x4000239A; 0x4000239B; 0x4000239C; 0x4000239D; 0x4000239E; 0x4000239F; 0x400023A0; 0x400023A1; 0x400023A2; 0x400023A3; 0x400023A4; 0x400023A5; 0x400023A6; 0x400023A7; 0x400023A8; 0x400023A9; 0x400023AA; 0x400023AB; 0x400023AC; 0x400023AD; 0x400023AE; 0x400023AF; 0x400023B0; 0x400023B1; 0x400023BA; 0x400023BB; 0x400023BC; 0x400023BD; 0x400023BE; 0x400023BF; 0x400023C0; 0x400023C1; 0x400023C2; 0x400023C3; 0x400023C4; 0x400023C5; 0x400023CE; 0x400023CF; 0x400023D0; 0x400023D1; 0x400023D2; 0x400023E4; 0x400023E5; 0x400023E6; 0x400023E7; 0x400023E8; 0x400023E9; 0x400023EA; 0x400023EB; 0x400023EC; 0x400023ED; 0x400023EE; 0x400023EF; 0x4000240D; 0x4000240E; 0x4000240F; 0x40002410; 0x40002411; 0x40002412; 0x40002413; 0x40002414; 0x40002415; 0x40002416; 0x40002417; 0x40002418; 0x40002419; 0x4000241A; 0x4000241B; 0x4000241C; 0x4000241D; 0x4000241E; 0x4000241F; 0x40002420; 0x40002421; 0x40002422; 0x40002423; 0x40002424; 0x40002425; 0x40002426; 0x40002427; 0x40002428; 0x40002447; 0x40002448; 0x4000244C; 0x4000244D; 0x4000244E; 0x4000244F; 0x40002455; 0x40002456; 0x40002457; 0x40002458; 0x4000246A; 0x4000246B; 0x4000246C; 0x4000246D; 0x4000246E; 0x4000246F; 0x40002470; 0x40002471; 0x40002472; 0x40002473; 0x40002474; 0x40002475; 0x40002476; 0x40002477; 0x40002478; 0x40002479; 0x4000247A; 0x4000247B; 0x4000247C; 0x4000247D; 0x4000247E; 0x4000247F; 0x40002480; 0x40002481; 0x40002512; 0x40002513; 0x40002514; 0x40002515; 0x4000258E; 0x4000258F; 0x40002590; 0x40002591; 0x40002592; 0x40002593; 0x400025BC; 0x400025BD; 0x400025BE; 0x400025C6; 0x400025C7; 0x400025C8; 0x400025C9; 0x400025CA; 0x400025D7; 0x400025D8; 0x40002602; 0x40002603; 0x40002604; 0x40002605; 0x40002606; 0x40002607; 0x40002608; 0x40002609; 0x4000260A; 0x4000260B; 0x4000260C; 0x4000260D; 0x4000260E; 0x4000260F; 0x40002610; 0x40002611; 0x40002612; 0x40002613; 0x40002614; 0x40002615; 0x40002616; 0x40002617; 0x40002618; 0x40002619; 0x4000261A; 0x4000261B; 0x4000261C; 0x4000261D; 0x4000261E; 0x4000261F; 0x40002620; 0x40002621; 0x40002622; 0x40002623; 0x40002624; 0x40002625; 0x40002626; 0x40002627; 0x40002628; 0x40002629; 0x4000262A; 0x40002645; 0x40002646; 0x40002690; 0x40002691; 0x40002692; 0x40002693; 0x40002694; 0x40002695; 0x40002696; 0x40002697; 0x40002698; 0x40002699; 0x4000269A; 0x4000269B; 0x4000269C; 0x4000269D; 0x4000269E; 0x4000269F; 0x400026A0; 0x400026A1; 0x400026A2; 0x400026A3; 0x400026A4; 0x400026A5; 0x400026A6; 0x400026A7; 0x400026A8; 0x400026A9; 0x400026AA; 0x400026AB; 0x400026AC; 0x400026AD; 0x400026AE; 0x400026AF; 0x400026B0; 0x400026B9; 0x400026BA; 0x400026BB; 0x400026BC; 0x400026BD; 0x400026BE; 0x400026C7; 0x400026C8; 0x400026C9; 0x400026E1; 0x400026E2; 0x400026E3; 0x400026E4; 0x400026E5; 0x400026E6; 0x400026E7; 0x400026E8; 0x400026E9; 0x400026EA; 0x400026EB; 0x400026EC; 0x400026ED; 0x400026EE; 0x400026EF; 0x400026F0; 0x400026F1; 0x400026F2; 0x400026F3; 0x4000270C; 0x4000270D; 0x4000270E; 0x4000270F; 0x4000271F; 0x40002720; 0x40002721; 0x40002722; 0x40002724; 0x40002725; 0x40002726; 0x40002812; 0x40002813; 0x40002814; 0x40002815; 0x40002816; 0x4000281B; 0x4000281C; 0x4000281D; 0x4000281E; 0x4000281F; 0x40002820; 0x40002821; 0x40002822; 0x40002823; 0x40002824; 0x40002825; 0x40002826; 0x40002827; 0x40002828; 0x40002829; 0x4000282A; 0x4000282B; 0x4000282C; 0x4000282D; 0x4000282E; 0x40002835; 0x4000283C; 0x40002843; 0x40002844; 0x40002845; 0x40002846; 0x40002847; 0x40002848; 0x40002849; 0x4000284A; 0x4000284B; 0x4000284C; 0x4000284D; 0x4000284E; 0x4000284F; 0x40002856; 0x4000285D; 0x4000285E; 0x4000285F; 0x40002860; 0x40002861; 0x40002862; 0x40002863; 0x40002864; 0x40002865; 0x40002866; 0x40002867; 0x40002868; 0x40002877; 0x40002878; 0x40002879; 0x4000287A; 0x40002886; 0x40002893; 0x400028A9; 0x400028AA; 0x400028AB; 0x400028AC; 0x400028B1; 0x400028B2; 0x400028B3; 0x400028B4; 0x400028B5; 0x400028BE; 0x400028C7; 0x400028CD; 0x400028D0; 0x400028D1; 0x400028D7; 0x400028DB; 0x400028E1; 0x400028E2; 0x400028E7; 0x400028E8; 0x400028EC; 0x400028ED; 0x400028EE; 0x400028EF; 0x400028F0; 0x40002902; 0x40002903; 0x40002904; 0x40002905; 0x4000291E; 0x4000291F; 0x40002920; 0x40002921; 0x40002922; 0x40002923; 0x40002924; 0x40002925; 0x40002926; 0x40002927; 0x40002928; 0x40002931; 0x40002937; 0x40002976; 0x40002977; 0x40002978; 0x40002981; 0x40002982; 0x40002983; 0x40002984; 0x40002985; 0x40002986; 0x40002987; 0x40002988; 0x40002989; 0x4000298F; 0x40002990; 0x40002997; 0x40002998; 0x40002999; 0x4000299A; 0x4000299B; 0x400029A4; 0x400029A5; 0x400029A6; 0x400029AB; 0x400029B4; 0x400029B8; 0x400029BD; 0x400029BE; 0x400029C1; 0x400029C2; 0x400029C3; 0x400029C4; 0x400029C9; 0x400029CD; 0x400029CF; 0x400029D3; 0x400029D5; 0x400029D6; 0x400029D7; 0x400029D8; 0x400029D9; 0x400029DA; 0x400029DB; 0x400029DF; 0x400029E0; 0x400029E1; 0x400029E2; 0x400029E3; 0x400029E4; 0x400029E5; 0x400029E6; 0x400029E7; 0x400029E8; 0x400029E9; 0x400029EA; 0x400029EB; 0x400029EC; 0x400029ED; 0x400029EE; 0x400029EF; 0x400029F0; 0x400029F1; 0x400029F2; 0x400029F3; 0x400029F4; 0x400029F5; 0x400029F9; 0x400029FA; 0x400029FB; 0x400029FC; 0x400029FD; 0x400029FE; 0x400029FF; 0x40002A00; 0x40002A01; 0x40002A02; 0x40002A03; 0x40002A04; 0x40002A05; 0x40002A06; 0x40002A07; 0x40002A08; 0x40002A09; 0x40002A0A; 0x40002A0B; 0x40002A0C; 0x40002A0D; 0x40002A0E; 0x40002A0F; 0x40002A10; 0x40002A11; 0x40002A12; 0x40002A13; 0x40002A14; 0x40002A15; 0x40002A16; 0x40002A17; 0x40002A18; 0x40002A19; 0x40002A1A; 0x40002A1B; 0x40002A1C; 0x40002A1D; 0x40002A1E; 0x40002A1F; 0x40002A20; 0x40002A21; 0x40002A22; 0x40002A23; 0x40002A24; 0x40002A25; 0x40002A26; 0x40002A27; 0x40002A28; 0x40002A29; 0x40002A2B; 0x40002A2C; 0x40002A2E; 0x40002A2F; 0x40002A30; 0x40002A31; 0x40002A33; 0x40002A34; 0x40002A35; 0x40002A36; 0x40002A37; 0x40002A38; 0x40002A39; 0x40002A3A; 0x40002A3B; 0x40002A3C; 0x40002A3D; 0x40002A3E; 0x40002A3F; 0x40002A40; 0x40002A41; 0x40002A42; 0x40002A43; 0x40002A44; 0x40002A45; 0x40002A48; 0x40002A49; 0x40002A4A; 0x40002A4B; 0x40002A4C; 0x40002A4D; 0x40002A4E; 0x40002A4F; 0x40002A50; 0x40002A51; 0x40002A52; 0x40002A53; 0x40002A54; 0x40002A55; 0x40002A56; 0x40002A57; 
+3/9/2017 4:41:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/9/2017 4:42:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:42:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002202 (Static)
+3/9/2017 4:42:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:42:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002242 (Static)
+3/9/2017 4:42:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'waterwalk '
+3/9/2017 4:42:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:42:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (589, 1693, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:42:57 PM: 127.0.0.1: Serials: 0x40002A8E; 
+3/9/2017 4:43:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:43:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (588, 1693, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:43:00 PM: 127.0.0.1: Serials: 0x40002A8F; 
+3/9/2017 4:43:04 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:43:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (591, 1693, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:43:05 PM: 127.0.0.1: Serials: 0x40002A98; 
+3/9/2017 4:43:07 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:43:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (591, 1693, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:43:08 PM: 127.0.0.1: Serials: 0x40002AA0; 
+3/9/2017 4:43:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:43:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building from (589, 1693, 6) to (636, 1694, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:43:25 PM: 127.0.0.1: Serials: 0x40002AAB; 0x40002AAC; 0x40002AAD; 0x40002AAE; 0x40002AAF; 0x40002AB0; 0x40002AB1; 0x40002AB2; 0x40002AB3; 0x40002AB4; 0x40002AB5; 0x40002AB6; 0x40002AB7; 0x40002AB8; 0x40002AB9; 0x40002ABA; 0x40002ABB; 0x40002ABC; 0x40002ABD; 0x40002ABE; 0x40002ABF; 0x40002AC0; 0x40002AC1; 0x40002AC2; 0x40002AC3; 0x40002AC4; 0x40002AC5; 0x40002AC6; 0x40002AC7; 0x40002AC8; 0x40002AC9; 0x40002ACA; 0x40002ACB; 0x40002ACC; 0x40002ACD; 0x40002ACE; 0x40002ACF; 0x40002AD0; 0x40002AD1; 0x40002AD2; 0x40002AD3; 0x40002AD4; 0x40002AD5; 0x40002AD6; 0x40002AD7; 0x40002AD8; 0x40002AD9; 0x40002AE1; 0x40002AE2; 0x40002AE3; 0x40002AE4; 0x40002AE5; 0x40002AE6; 0x40002AE7; 0x40002AE8; 0x40002AE9; 0x40002AEF; 0x40002AF0; 0x40002AF1; 0x40002AF2; 0x40002AF3; 0x40002AF4; 0x40002AF5; 0x40002AF6; 0x40002AF7; 0x40002AF8; 0x40002AF9; 0x40002AFA; 0x40002AFB; 0x40002AFC; 0x40002AFD; 0x40002AFE; 0x40002AFF; 0x40002B00; 0x40002B01; 0x40002B02; 0x40002B03; 0x40002B04; 0x40002B05; 0x40002B06; 0x40002B07; 0x40002B08; 0x40002B09; 0x40002B0A; 0x40002B0B; 0x40002B0C; 0x40002B0D; 0x40002B0E; 0x40002B0F; 0x40002B10; 0x40002B11; 0x40002B12; 0x40002B13; 0x40002B14; 0x40002B15; 0x40002B16; 
+3/9/2017 4:43:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:43:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002A86 (WaterWalk)
+3/9/2017 4:43:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:43:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (587, 1694, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:43:50 PM: 127.0.0.1: Serials: 0x40002B44; 
+3/9/2017 4:43:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:43:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (587, 1695, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:43:53 PM: 127.0.0.1: Serials: 0x40002B45; 
+3/9/2017 4:43:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:44:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building from (587, 1696, 6) to (587, 1713, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:44:03 PM: 127.0.0.1: Serials: 0x40002B48; 0x40002B49; 0x40002B4A; 0x40002B4B; 0x40002B4C; 0x40002B4D; 0x40002B4E; 0x40002B4F; 0x40002B50; 0x40002B51; 0x40002B52; 0x40002B53; 0x40002B54; 0x40002B55; 0x40002B56; 0x40002B57; 0x40002B58; 0x40002B5C; 
+3/9/2017 4:44:06 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:44:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building from (587, 1713, 6) to (587, 1716, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:44:12 PM: 127.0.0.1: Serials: 0x40002B6C; 0x40002B7C; 0x40002BB0; 0x40002BB1; 
+3/9/2017 4:44:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 6 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:44:17 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (587, 1717, 6) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:44:17 PM: 127.0.0.1: Serials: 0x40002BDF; 
+3/9/2017 4:44:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'area set z 7'
+3/9/2017 4:44:40 PM: 127.0.0.1: Property has been set. (29)
+3/9/2017 4:44:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'area set z 6'
+3/9/2017 4:44:52 PM: 127.0.0.1: Property has been set. (141)
+3/9/2017 4:44:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:45:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set z 8'
+3/9/2017 4:45:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'z' of 0x40001D05 (Static) to '8'
+3/9/2017 4:45:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'area set z 8'
+3/9/2017 4:45:18 PM: 127.0.0.1: Property has been set. (163)
+3/9/2017 4:45:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:45:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'area set z 8'
+3/9/2017 4:45:46 PM: 127.0.0.1: Property has been set. (1495)
+3/9/2017 4:46:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/9/2017 4:46:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400021D9 (Static)
+3/9/2017 4:47:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:47:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'TileZ 8 static 13422 set movable False hue 0 light {light}'
+3/9/2017 4:47:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building from (637, 1694, 8) to (639, 1700, 8) in Malas: "static" "13422" "set" "movable" "False" "hue" "0" "light" "{light}"
+3/9/2017 4:47:27 PM: 127.0.0.1: Serials: 0x40002C93; 0x40002C96; 0x40002C99; 0x40002C9A; 0x40002CA4; 0x40002CA5; 0x40002CA6; 0x40002CA7; 0x40002CA8; 0x40002CA9; 0x40002CAD; 0x40002CAE; 0x40002CAF; 0x40002CB0; 0x40002CB1; 0x40002CB2; 0x40002CB3; 0x40002CB6; 0x40002CB7; 0x40002CB8; 0x40002CB9; 
+3/9/2017 4:47:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 4:50:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'freezemap '
+3/9/2017 4:50:28 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') invoking freeze for every item in Owner
+3/9/2017 4:50:31 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 4:50:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 4:50:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 8:01:57 PM
+
+3/9/2017 8:02:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 8:03:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 8:12:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 8:12:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 8:12:10 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/9/2017 8:33:40 PM
+
+3/9/2017 8:34:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/9/2017 8:34:21 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/9/2017 8:34:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/9/2017 8:34:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/9/2017 8:37:07 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 8:37:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 8:37:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/9/2017 8:43:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/9/2017 8:43:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/9/2017 8:43:20 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '

@@ -1,0 +1,311 @@
+##############################
+Log started on 4/3/2019 6:22:37 AM
+
+##############################
+Log started on 4/3/2019 8:37:57 AM
+
+4/3/2019 8:38:58 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/3/2019 8:39:06 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add pouc'
+4/3/2019 8:39:09 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (476, 1913, 19) in Malas: "MagesPouch"
+4/3/2019 8:39:09 AM: 127.0.0.1: Serials: 0x40000063; 
+4/3/2019 8:39:17 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+4/3/2019 8:39:32 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add reagen'
+4/3/2019 8:39:43 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add bagofreagents 200'
+4/3/2019 8:39:45 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (475, 1911, 19) in Malas: "bagofreagents" "200"
+4/3/2019 8:39:45 AM: 127.0.0.1: Serials: 0x40000064; 
+4/3/2019 8:41:34 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 8:41:36 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000064 (BagOfReagents)
+4/3/2019 8:41:39 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 8:41:40 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000063 (MagesPouch)
+4/3/2019 8:41:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add piano'
+4/3/2019 8:41:50 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (476, 1912, 20) in Malas: "PianoAddon"
+4/3/2019 8:41:50 AM: 127.0.0.1: Serials: 0x4000007F; 
+4/3/2019 8:42:24 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 8:42:25 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x400000B3 (AddonComponent)
+4/3/2019 8:42:45 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add artifac'
+4/3/2019 8:43:01 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add evilsquirrel'
+4/3/2019 8:43:02 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (479, 1911, 17) in Malas: "evilsquirrel"
+4/3/2019 8:43:03 AM: 127.0.0.1: Serials: 0x3; 
+4/3/2019 8:43:56 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:43:56 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:44:08 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:44:08 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:44:31 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:44:32 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:44:40 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 8:44:41 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x3 "a squirrel" (no account)
+4/3/2019 8:44:44 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:44:44 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:44:50 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add evilhermit'
+4/3/2019 8:44:51 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (480, 1911, 16) in Malas: "evilhermit"
+4/3/2019 8:44:51 AM: 127.0.0.1: Serials: 0x5; 
+4/3/2019 8:44:59 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:44:59 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:45:25 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:45:26 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:45:33 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:45:33 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:46:09 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'setallskills 100'
+4/3/2019 8:46:09 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'EverySkill.Base' of 0x1A "Kryss" ('Zigholtul88') to '100'
+4/3/2019 8:46:11 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:46:11 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:46:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:46:48 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:47:23 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:47:23 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:47:40 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+4/3/2019 8:47:41 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x5 "Zeke" (no account) to '1'
+4/3/2019 8:47:46 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 500'
+4/3/2019 8:47:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '500'
+4/3/2019 8:47:58 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'm remove'
+4/3/2019 8:47:59 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0xC "a squirrel" (no account)
+4/3/2019 8:48:01 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x7 "a squirrel" (no account)
+4/3/2019 8:48:02 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0xA "a squirrel" (no account)
+4/3/2019 8:48:08 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'm remove'
+4/3/2019 8:48:09 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000413 (Corpse)
+4/3/2019 8:48:16 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'm remove'
+4/3/2019 8:48:17 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x8 "a squirrel" (no account)
+4/3/2019 8:48:30 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add ferre'
+4/3/2019 8:48:32 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (470, 1919, 18) in Malas: "DomesticFerret"
+4/3/2019 8:48:32 AM: 127.0.0.1: Serials: 0xD; 
+4/3/2019 8:48:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add ferre'
+4/3/2019 8:48:49 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (466, 1910, 16) in Malas: "Ferret"
+4/3/2019 8:48:49 AM: 127.0.0.1: Serials: 0xE; 
+4/3/2019 8:48:51 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (464, 1915, 15) in Malas: "DomesticFerret"
+4/3/2019 8:48:51 AM: 127.0.0.1: Serials: 0xF; 
+4/3/2019 8:48:54 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 8:48:55 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0xE "a ferret" (no account)
+4/3/2019 8:49:18 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') hiding 0x1A "Kryss" ('Zigholtul88')
+4/3/2019 8:49:18 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'Self Hide'
+4/3/2019 8:49:24 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') unhiding 0x1A "Kryss" ('Zigholtul88')
+4/3/2019 8:49:24 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'Self Unhide'
+4/3/2019 8:49:52 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') unhiding 0x1A "Kryss" ('Zigholtul88')
+4/3/2019 8:49:52 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'Self Unhide'
+4/3/2019 8:50:18 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+4/3/2019 8:50:24 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 8:50:27 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0xF "a Domesticated Ferret" (no account)
+4/3/2019 8:50:38 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add reduction'
+4/3/2019 8:50:40 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (476, 1910, 19) in Malas: "BackpackOfReduction"
+4/3/2019 8:50:40 AM: 127.0.0.1: Serials: 0x4000049B; 
+4/3/2019 8:50:49 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+4/3/2019 8:51:16 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 8:51:17 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x4000049B (BackpackOfReduction)
+4/3/2019 8:51:27 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add treasureshovel'
+4/3/2019 8:51:29 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (476, 1910, 19) in Malas: "treasureshovel"
+4/3/2019 8:51:29 AM: 127.0.0.1: Serials: 0x400004A0; 
+4/3/2019 9:00:33 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 9:00:34 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x400004A0 (TreasureShovel)
+4/3/2019 9:00:39 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 9:00:40 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x4000098D (GobletOfCelebration)
+4/3/2019 9:00:42 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 9:00:43 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x400004BE (GnarledStaff)
+4/3/2019 9:01:08 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 9:01:12 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/3/2019 9:01:15 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/3/2019 9:50:37 AM
+
+4/3/2019 9:50:59 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/3/2019 9:51:23 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add minersingotpouch'
+4/3/2019 9:51:25 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (526, 1834, 18) in Malas: "minersingotpouch"
+4/3/2019 9:51:25 AM: 127.0.0.1: Serials: 0x40000063; 
+4/3/2019 9:51:29 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+4/3/2019 9:51:49 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add ironingot 500'
+4/3/2019 9:51:51 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (527, 1833, 19) in Malas: "ironingot" "500"
+4/3/2019 9:51:51 AM: 127.0.0.1: Serials: 0x40000064; 
+4/3/2019 9:52:05 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add dullcopperingot 500'
+4/3/2019 9:52:06 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (527, 1833, 19) in Malas: "dullcopperingot" "500"
+4/3/2019 9:52:06 AM: 127.0.0.1: Serials: 0x40000070; 
+4/3/2019 9:52:17 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add copperingot 500'
+4/3/2019 9:52:18 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (527, 1833, 19) in Malas: "copperingot" "500"
+4/3/2019 9:52:18 AM: 127.0.0.1: Serials: 0x40000072; 
+4/3/2019 9:52:31 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add shadowironingot 500'
+4/3/2019 9:52:31 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (527, 1833, 19) in Malas: "shadowironingot" "500"
+4/3/2019 9:52:31 AM: 127.0.0.1: Serials: 0x40000073; 
+4/3/2019 9:52:46 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add bronzeingot 500'
+4/3/2019 9:52:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (526, 1833, 19) in Malas: "bronzeingot" "500"
+4/3/2019 9:52:47 AM: 127.0.0.1: Serials: 0x4000007F; 
+4/3/2019 9:53:00 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add agapiteingot 500'
+4/3/2019 9:53:01 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (527, 1833, 19) in Malas: "agapiteingot" "500"
+4/3/2019 9:53:01 AM: 127.0.0.1: Serials: 0x40000083; 
+4/3/2019 9:53:16 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'ReduxPercent' of 0x40000063 (MinersIngotPouch) to '80'
+4/3/2019 9:53:26 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'ReduxPercent' of 0x40000063 (MinersIngotPouch) to '50'
+4/3/2019 9:53:41 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'ReduxPercent' of 0x40000063 (MinersIngotPouch) to '100'
+4/3/2019 10:04:30 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 10:04:34 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000063 (MinersIngotPouch)
+4/3/2019 10:04:38 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 10:04:42 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/3/2019 10:04:45 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/3/2019 10:53:35 AM
+
+4/3/2019 11:16:16 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/3/2019 11:16:22 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add hunter'
+4/3/2019 11:16:25 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (526, 1833, 19) in Malas: "RedDaggerTreasureHunter"
+4/3/2019 11:16:26 AM: 127.0.0.1: Serials: 0x3; 
+4/3/2019 11:16:44 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 11:16:46 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x3 "Candide" (no account)
+4/3/2019 11:16:50 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 11:16:55 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/3/2019 11:16:58 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/3/2019 11:44:14 AM
+
+4/3/2019 11:44:36 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/3/2019 11:44:43 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add questgiver'
+4/3/2019 11:44:44 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (527, 1833, 19) in Malas: "questgiver"
+4/3/2019 11:44:45 AM: 127.0.0.1: Serials: 0x3; 
+4/3/2019 11:44:52 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+4/3/2019 11:45:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 11:45:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x3 "Booker" (no account)
+4/3/2019 11:45:55 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 11:45:56 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000170 (OrnateAxe)
+4/3/2019 11:46:00 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add questgiver'
+4/3/2019 11:46:00 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (527, 1836, 17) in Malas: "questgiver"
+4/3/2019 11:46:00 AM: 127.0.0.1: Serials: 0x5; 
+4/3/2019 11:46:46 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 11:46:46 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x5 "Strom" (no account)
+4/3/2019 11:47:50 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 11:47:56 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add questgiver'
+4/3/2019 11:47:57 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (534, 1825, 20) in Malas: "questgiver"
+4/3/2019 11:47:57 AM: 127.0.0.1: Serials: 0x7; 
+4/3/2019 11:49:24 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 11:49:26 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x7 "Raymond" (no account)
+4/3/2019 11:54:53 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 11:55:00 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/3/2019 11:55:03 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/3/2019 12:12:22 PM
+
+4/3/2019 12:12:40 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/3/2019 12:12:46 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add questgiver'
+4/3/2019 12:12:51 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (549, 1782, 24) in Malas: "questgiver"
+4/3/2019 12:12:52 PM: 127.0.0.1: Serials: 0x3; 
+4/3/2019 12:13:53 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 12:13:55 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x3 "Dobry" (no account)
+4/3/2019 12:14:04 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') starting facet clear of Malas (1 object)
+4/3/2019 12:14:04 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'clearfacet '
+4/3/2019 12:14:06 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 1 object
+4/3/2019 12:17:08 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 12:17:12 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/3/2019 12:17:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/3/2019 12:21:40 PM
+
+4/3/2019 12:23:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/3/2019 12:23:19 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add questgiver'
+4/3/2019 12:23:20 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (555, 1778, 23) in Malas: "questgiver"
+4/3/2019 12:23:20 PM: 127.0.0.1: Serials: 0x3; 
+4/3/2019 12:23:59 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 12:24:01 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x3 "Orman" (no account)
+4/3/2019 12:24:29 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 12:24:33 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/3/2019 12:24:35 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/3/2019 12:43:08 PM
+
+4/3/2019 12:43:22 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/3/2019 12:43:28 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add questgiver'
+4/3/2019 12:43:29 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (555, 1778, 23) in Malas: "questgiver"
+4/3/2019 12:43:30 PM: 127.0.0.1: Serials: 0x3; 
+4/3/2019 12:43:52 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/3/2019 12:44:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') starting facet clear of Malas (1 object)
+4/3/2019 12:44:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'clearfacet '
+4/3/2019 12:44:42 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 1 object
+4/3/2019 12:44:46 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add questgiver'
+4/3/2019 12:44:47 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1338, 1102, 0) in Malas: "questgiver"
+4/3/2019 12:44:47 PM: 127.0.0.1: Serials: 0x5; 
+4/3/2019 12:45:47 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 12:45:47 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x5 "Ember" (no account)
+4/3/2019 12:46:43 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add questgiver'
+4/3/2019 12:46:44 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1346, 1113, 1) in Malas: "questgiver"
+4/3/2019 12:46:44 PM: 127.0.0.1: Serials: 0x7; 
+4/3/2019 12:47:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 12:47:45 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 12:47:45 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x7 "Frazier" (no account)
+4/3/2019 12:49:12 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add questgiver'
+4/3/2019 12:49:13 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1342, 1110, 0) in Malas: "questgiver"
+4/3/2019 12:49:13 PM: 127.0.0.1: Serials: 0x8; 
+4/3/2019 12:54:50 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 12:54:51 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x8 "Charissa" (no account)
+4/3/2019 12:56:08 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/3/2019 12:56:31 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add piano'
+4/3/2019 12:58:00 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/3/2019 12:58:20 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 12:58:24 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/3/2019 12:59:02 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 12:59:06 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/3/2019 12:59:07 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/3/2019 2:10:10 PM
+
+##############################
+Log started on 4/3/2019 7:00:53 PM
+
+4/3/2019 7:02:43 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/3/2019 7:03:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 7:03:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000950 (AddonComponent)
+4/3/2019 7:03:46 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add tv'
+4/3/2019 7:03:51 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add bigscreen'
+4/3/2019 7:03:55 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1647, 1948, 12) in Malas: "BigScreenTVEastAddon"
+4/3/2019 7:03:55 PM: 127.0.0.1: Serials: 0x40000178; 
+4/3/2019 7:04:11 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 7:04:11 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000253 (AddonComponent)
+4/3/2019 7:04:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1648, 1948, 12) in Malas: "BigScreenTVSouthAddon"
+4/3/2019 7:04:14 PM: 127.0.0.1: Serials: 0x40000255; 
+4/3/2019 7:04:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 7:04:44 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x4000026F (AddonComponent)
+4/3/2019 7:04:54 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add tapes'
+4/3/2019 7:05:00 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1665, 1945, 10) in Malas: "TapestryOfSosaria"
+4/3/2019 7:05:00 PM: 127.0.0.1: Serials: 0x400002AB; 
+4/3/2019 7:05:39 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 7:05:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x400002AB (TapestryOfSosaria)
+4/3/2019 7:54:50 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/3/2019 7:55:23 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/3/2019 7:56:31 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/3/2019 7:56:49 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 7:57:00 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/3/2019 7:57:21 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 7:57:22 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x3 "Engaged Orc Blacksmith" (no account)
+4/3/2019 7:57:23 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/3/2019 7:57:24 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000D4C (Spawner)
+4/3/2019 7:57:43 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/3/2019 7:57:59 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 7:58:02 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/3/2019 7:59:05 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/3/2019 8:00:04 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/3/2019 8:00:07 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add orcbrute'
+4/3/2019 8:00:39 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 8:00:43 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/3/2019 8:01:43 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/3/2019 8:02:08 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/3/2019 8:02:53 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 8:02:56 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/3/2019 8:04:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/3/2019 8:04:49 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/3/2019 8:05:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/3/2019 8:06:06 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 8:06:09 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/3/2019 8:06:48 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/3/2019 8:07:34 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/3/2019 8:09:22 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/3/2019 8:10:08 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/3/2019 8:10:11 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/4/2019 7:59:27 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/4/2019 7:59:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/4/2019 8:00:06 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/4/2019 8:00:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/4/2019 8:01:18 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/4/2019 8:02:43 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/4/2019 8:03:27 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/4/2019 8:04:08 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/4/2019 8:04:35 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/4/2019 8:05:51 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/4/2019 8:06:11 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/4/2019 8:09:37 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'premiumspawner '
+4/4/2019 8:09:41 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'runuospawnerexporter '
+4/4/2019 8:09:41 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawner '
+4/4/2019 8:13:41 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') starting facet clear of Malas (1207 objects)
+4/4/2019 8:13:41 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'clearfacet '
+4/4/2019 8:13:43 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 1207 objects
+4/4/2019 8:13:50 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'restart '

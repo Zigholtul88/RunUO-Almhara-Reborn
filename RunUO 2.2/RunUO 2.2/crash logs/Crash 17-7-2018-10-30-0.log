@@ -1,0 +1,25 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8933
+Time: 7/17/2018 10:30:00 AM
+Mobiles: 2283
+Items: 18156
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Regions.BossArenaRegion.OnDeath(Mobile m)
+   at Server.Mobile.Kill()
+   at Server.Commands.Generic.KillCommand.Execute(CommandEventArgs e, Object obj)
+   at Server.Commands.Generic.BaseCommandImplementor.RunCommand(Mobile from, Object obj, BaseCommand command, String[] args)
+   at Server.Commands.Generic.SingleCommandImplementor.OnTarget(Mobile from, Object targeted, Object state)
+   at Server.Targeting.Target.Invoke(Mobile from, Object targeted)
+   at Server.Network.PacketHandlers.TargetResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x4E9 'Tuuti')

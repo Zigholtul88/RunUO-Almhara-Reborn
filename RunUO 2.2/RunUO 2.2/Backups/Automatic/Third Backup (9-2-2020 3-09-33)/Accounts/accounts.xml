@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="4">
+	<account>
+		<username>Zigholtul88</username>
+		<password>freeglepluk</password>
+		<accessLevel>Owner</accessLevel>
+		<flags>2</flags>
+		<created>2019-12-28T03:20:15.586914-05:00</created>
+		<lastLogin>2020-02-08T16:47:14.7723919-05:00</lastLogin>
+		<totalGameTime>P15DT21H59M33.6520934S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+			<char index="1">752</char>
+			<char index="2">763</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2019-12-29T12:11:48.4383826-05:00">Character #1 0x1 "Zigholtul" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2019-12-29T12:37:26.7153406-05:00">Character #1 0x1 "Create New Character" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2019-12-29T13:07:39.7235346-05:00">Character #1 0x1 "Create New Character" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2019-12-29T14:52:40.4831932-05:00">Character #2 0x2 "Yoo" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2019-12-29T14:53:03.0478643-05:00">Character #1 0x1 "Create New Character" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2019-12-29T16:15:14.1373195-05:00">Character #1 0x1 "Pearl" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2019-12-29T16:15:16.4969446-05:00">Character #2 0x2 "Hoo" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2019-12-29T16:39:29.4162945-05:00">Character #2 0x2 "Jooo" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2019-12-29T16:39:32.174146-05:00">Character #1 0x1 "Create New Character" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2019-12-29T16:42:10.0800453-05:00">Character #1 0x1 "Anya" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2019-12-30T04:21:34.6787019-05:00">Character #2 0x2 "Lavos" deleted by 127.0.0.1</comment>
+		</comments>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="2">
+			<ip>127.0.0.1</ip>
+			<ip>65.41.144.71</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>tommenquar</username>
+		<password>visual</password>
+		<accessLevel>Administrator</accessLevel>
+		<created>2020-02-05T17:00:30.5423096-05:00</created>
+		<lastLogin>2020-02-06T22:39:57.9519812-05:00</lastLogin>
+		<totalGameTime>PT52M53.7259633S</totalGameTime>
+		<chars>
+			<char index="1">2640</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2020-02-06T22:39:55.5301397-05:00">Character #1 0x10DB "Mitsurugi" deleted by 65.41.144.71</comment>
+		</comments>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>65.41.144.71</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>EllieViolent</username>
+		<password>Kimi1990</password>
+		<created>2020-02-05T17:04:19.6028748-05:00</created>
+		<lastLogin>2020-02-05T17:14:54.3501884-05:00</lastLogin>
+		<totalGameTime>PT1H59M49.5463117S</totalGameTime>
+		<chars>
+			<char index="0">4316</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>65.41.144.71</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Yugitashi</username>
+		<password>freeglepluk</password>
+		<created>2020-02-05T23:07:56.8631805-05:00</created>
+		<lastLogin>2020-02-06T13:03:11.7252766-05:00</lastLogin>
+		<totalGameTime>PT1H11M1.8241094S</totalGameTime>
+		<chars>
+			<char index="0">765</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2020-02-05T23:17:25.7716421-05:00">Character #1 0x2FA "Klondi" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2020-02-06T07:09:06.7396105-05:00">Character #1 0x2FA "Jade" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2020-02-06T07:13:38.5632461-05:00">Character #1 0x2FC "Nastlia" deleted by 127.0.0.1</comment>
+		</comments>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

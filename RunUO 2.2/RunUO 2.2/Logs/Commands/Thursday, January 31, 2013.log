@@ -1,0 +1,315 @@
+##############################
+Log started on 1/31/2013 9:06:59 AM
+
+1/31/2013 9:08:43 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'where '
+1/31/2013 9:08:48 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'where '
+1/31/2013 9:08:52 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'where '
+1/31/2013 9:08:55 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'where '
+1/31/2013 9:08:57 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'where '
+1/31/2013 9:08:59 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'where '
+1/31/2013 9:10:54 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add ankh'
+1/31/2013 9:11:04 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (826, 819, 0) in Malas: "AnkhNorth"
+1/31/2013 9:11:04 AM: 127.0.0.1: Serials: 0x40000290; 
+1/31/2013 9:12:57 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 9:13:10 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (826, 821, 0) in Malas: "AnkhNorth"
+1/31/2013 9:13:10 AM: 127.0.0.1: Serials: 0x400002A7; 
+1/31/2013 9:13:13 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (825, 820, 0) in Malas: "AnkhWest"
+1/31/2013 9:13:13 AM: 127.0.0.1: Serials: 0x400002AC; 
+1/31/2013 9:13:16 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 9:13:16 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400002A8 (InternalItem)
+1/31/2013 9:13:18 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 9:16:36 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 9:16:37 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400002B2 (InternalItem)
+1/31/2013 9:16:39 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 9:17:12 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 9:17:13 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x40000290 (AnkhNorth)
+1/31/2013 9:17:22 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/31/2013 9:17:34 AM
+
+1/31/2013 9:17:42 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+##############################
+Log started on 1/31/2013 9:17:56 AM
+
+1/31/2013 9:18:24 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/31/2013 9:18:36 AM
+
+1/31/2013 9:18:46 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 9:18:49 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'decorate '
+1/31/2013 9:19:10 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 9:19:19 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'm remove'
+1/31/2013 9:19:20 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400002A8 (InternalItem)
+1/31/2013 9:19:44 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/31/2013 9:19:58 AM
+
+1/31/2013 9:20:05 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 9:20:08 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'decorate '
+1/31/2013 9:20:16 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/31/2013 9:20:18 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x400002A8 (InternalItem) to (826, 819, 0)
+1/31/2013 9:20:19 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/31/2013 9:20:20 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x400002A7 (AnkhNorth) to (826, 819, 0)
+1/31/2013 9:20:27 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 9:20:45 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 9:20:46 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400002A8 (InternalItem)
+1/31/2013 9:20:47 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 9:20:50 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'decorate '
+1/31/2013 9:20:54 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 9:21:16 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/31/2013 9:21:18 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x4000083E (InternalItem) to (825, 819, 0)
+1/31/2013 9:21:20 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/31/2013 9:21:20 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x4000083E (InternalItem) to (826, 819, 0)
+1/31/2013 9:21:23 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 9:21:39 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 9:21:40 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000083E (InternalItem)
+1/31/2013 9:21:45 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/31/2013 9:21:58 AM
+
+1/31/2013 9:22:12 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 9:22:15 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'decorate '
+1/31/2013 9:22:23 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 9:25:18 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add spawner'
+1/31/2013 9:25:23 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (547, 754, 66) in Malas: "spawner"
+1/31/2013 9:25:23 AM: 127.0.0.1: Serials: 0x4000086B; 
+1/31/2013 9:25:27 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 9:25:48 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 9:25:49 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000086B (Spawner)
+1/31/2013 9:26:47 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 9:26:51 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/31/2013 9:26:52 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/31/2013 10:36:40 AM
+
+1/31/2013 10:37:22 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'tele '
+1/31/2013 10:40:04 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 10:40:08 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/31/2013 10:40:08 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/31/2013 10:40:44 AM
+
+1/31/2013 10:41:00 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'tele '
+1/31/2013 10:44:03 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'tele '
+1/31/2013 10:44:06 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 10:44:10 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/31/2013 10:44:10 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/31/2013 10:44:45 AM
+
+1/31/2013 10:46:37 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'where '
+1/31/2013 10:49:00 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 10:49:04 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/31/2013 10:49:04 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/31/2013 10:49:41 AM
+
+1/31/2013 10:50:28 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add spawner amazonianspearfighter'
+1/31/2013 10:50:29 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (569, 791, 56) in Malas: "spawner" "amazonianspearfighter"
+1/31/2013 10:50:29 AM: 127.0.0.1: Serials: 0x40000648; 
+1/31/2013 10:51:48 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 10:51:49 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x40000648 (Spawner)
+1/31/2013 10:53:15 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add spawner amazonianspearfighter'
+1/31/2013 10:53:16 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (557, 734, 76) in Malas: "spawner" "amazonianspearfighter"
+1/31/2013 10:53:16 AM: 127.0.0.1: Serials: 0x40000705; 
+1/31/2013 10:53:31 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/31/2013 10:53:34 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x40000705 (Spawner) to (556, 744, 66)
+1/31/2013 10:54:01 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 10:54:02 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x40000705 (Spawner)
+1/31/2013 10:54:06 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 10:54:09 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/31/2013 10:54:10 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/31/2013 11:04:03 AM
+
+1/31/2013 11:04:21 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'tele '
+1/31/2013 11:04:40 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add spawner amazonianspearfighter'
+1/31/2013 11:04:41 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (557, 735, 76) in Malas: "spawner" "amazonianspearfighter"
+1/31/2013 11:04:41 AM: 127.0.0.1: Serials: 0x4000066D; 
+1/31/2013 11:06:11 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 11:06:52 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 11:06:58 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000066D (Spawner)
+1/31/2013 11:07:04 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add spawner amazonianspearfighter'
+1/31/2013 11:07:05 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (549, 756, 66) in Malas: "spawner" "amazonianspearfighter"
+1/31/2013 11:07:05 AM: 127.0.0.1: Serials: 0x4000077D; 
+1/31/2013 11:07:11 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/31/2013 11:07:14 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/31/2013 11:07:17 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x4000077D (Spawner) to (547, 755, 66)
+1/31/2013 11:07:21 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/31/2013 11:07:22 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x4000077D (Spawner) to (549, 756, 66)
+1/31/2013 11:07:23 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/31/2013 11:07:24 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x4000077D (Spawner) to (548, 755, 66)
+1/31/2013 11:07:36 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 11:07:54 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 11:07:55 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000077D (Spawner)
+1/31/2013 11:14:24 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 11:14:28 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/31/2013 11:14:28 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/31/2013 12:36:40 PM
+
+1/31/2013 12:38:16 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') starting facet clear of Malas (1389 objects)
+1/31/2013 12:38:16 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'clearfacet '
+1/31/2013 12:38:17 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 1389 objects
+1/31/2013 12:38:21 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/31/2013 12:38:26 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'decorate '
+1/31/2013 12:38:42 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add mongb'
+1/31/2013 12:38:50 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (573, 757, 66) in Malas: "MongbatCavernsTreasureChest"
+1/31/2013 12:38:50 PM: 127.0.0.1: Serials: 0x4000081A; 
+1/31/2013 12:38:54 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 12:39:06 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'setallskills 0'
+1/31/2013 12:39:07 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Elandria" ('Zigholtul88') to '0'
+1/31/2013 12:41:36 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'LockLevel' of 0x4000081A (MongbatCavernsTreasureChest) to '0'
+1/31/2013 12:41:52 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'LockLevel' of 0x4000081A (MongbatCavernsTreasureChest) to '1'
+1/31/2013 12:42:14 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'LockLevel' of 0x4000081A (MongbatCavernsTreasureChest) to '0'
+1/31/2013 12:42:58 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add thief'
+1/31/2013 12:42:59 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (574, 756, 66) in Malas: "thief"
+1/31/2013 12:42:59 PM: 127.0.0.1: Serials: 0x3AE; 
+1/31/2013 12:43:05 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 12:43:10 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/31/2013 12:43:11 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x3AE "Delbin" (no account)
+1/31/2013 12:43:20 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'LockLevel' of 0x4000081A (MongbatCavernsTreasureChest) to '20'
+1/31/2013 12:43:30 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'setskill lockpicking 30'
+1/31/2013 12:43:31 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'Lockpicking.Base' of 0x1 "Elandria" ('Zigholtul88') to '30'
+1/31/2013 12:43:35 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 12:43:55 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'Locked' of 0x4000081A (MongbatCavernsTreasureChest) to 'True'
+1/31/2013 12:44:25 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'Locked' of 0x4000081A (MongbatCavernsTreasureChest) to 'True'
+1/31/2013 12:44:28 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'LockLevel' of 0x4000081A (MongbatCavernsTreasureChest) to '30'
+1/31/2013 12:44:50 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'Locked' of 0x4000081A (MongbatCavernsTreasureChest) to 'True'
+1/31/2013 12:45:43 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'Locked' of 0x4000081A (MongbatCavernsTreasureChest) to 'True'
+1/31/2013 12:45:49 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'RequiredSkill' of 0x4000081A (MongbatCavernsTreasureChest) to '30'
+1/31/2013 12:45:52 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'Locked' of 0x4000081A (MongbatCavernsTreasureChest) to 'True'
+1/31/2013 12:46:08 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (574, 757, 66) in Malas: "MongbatCavernsTreasureChest"
+1/31/2013 12:46:08 PM: 127.0.0.1: Serials: 0x4000087F; 
+1/31/2013 12:46:11 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/31/2013 12:46:14 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'LockLevel' of 0x4000087F (MongbatCavernsTreasureChest) to '30'
+1/31/2013 12:46:17 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'RequiredSkill' of 0x4000087F (MongbatCavernsTreasureChest) to '30'
+1/31/2013 12:46:44 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'Locked' of 0x4000087F (MongbatCavernsTreasureChest) to 'True'
+1/31/2013 12:46:48 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'LockLevel' of 0x4000087F (MongbatCavernsTreasureChest) to '35'
+1/31/2013 12:47:19 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'LockLevel' of 0x4000087F (MongbatCavernsTreasureChest) to '31'
+1/31/2013 12:48:06 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (575, 757, 66) in Malas: "MongbatCavernsTreasureChest"
+1/31/2013 12:48:06 PM: 127.0.0.1: Serials: 0x400008CA; 
+1/31/2013 12:48:07 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (575, 758, 66) in Malas: "MongbatCavernsTreasureChest"
+1/31/2013 12:48:07 PM: 127.0.0.1: Serials: 0x400008D0; 
+1/31/2013 12:48:07 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (576, 757, 66) in Malas: "MongbatCavernsTreasureChest"
+1/31/2013 12:48:07 PM: 127.0.0.1: Serials: 0x400008D8; 
+1/31/2013 12:48:37 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'm remove'
+1/31/2013 12:48:38 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000087F (MongbatCavernsTreasureChest)
+1/31/2013 12:48:38 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400008CA (MongbatCavernsTreasureChest)
+1/31/2013 12:48:38 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400008D8 (MongbatCavernsTreasureChest)
+1/31/2013 12:48:39 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400008D0 (MongbatCavernsTreasureChest)
+1/31/2013 12:48:42 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'm remove'
+1/31/2013 12:48:42 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000081A (MongbatCavernsTreasureChest)
+1/31/2013 12:48:59 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (574, 757, 66) in Malas: "MongbatCavernsTreasureChest"
+1/31/2013 12:48:59 PM: 127.0.0.1: Serials: 0x400008DE; 
+1/31/2013 12:49:00 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (575, 757, 66) in Malas: "MongbatCavernsTreasureChest"
+1/31/2013 12:49:00 PM: 127.0.0.1: Serials: 0x400008E2; 
+1/31/2013 12:49:00 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (575, 757, 66) in Malas: "MongbatCavernsTreasureChest"
+1/31/2013 12:49:00 PM: 127.0.0.1: Serials: 0x400008E7; 
+1/31/2013 12:49:01 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (576, 757, 66) in Malas: "MongbatCavernsTreasureChest"
+1/31/2013 12:49:01 PM: 127.0.0.1: Serials: 0x400008EC; 
+1/31/2013 12:49:02 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (576, 758, 66) in Malas: "MongbatCavernsTreasureChest"
+1/31/2013 12:49:02 PM: 127.0.0.1: Serials: 0x400008F2; 
+1/31/2013 12:49:16 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'm remove'
+1/31/2013 12:49:17 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400008DE (MongbatCavernsTreasureChest)
+1/31/2013 12:49:18 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400008E2 (MongbatCavernsTreasureChest)
+1/31/2013 12:49:18 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400008EC (MongbatCavernsTreasureChest)
+1/31/2013 12:49:18 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400008F2 (MongbatCavernsTreasureChest)
+1/31/2013 12:49:19 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400008E7 (MongbatCavernsTreasureChest)
+1/31/2013 1:02:00 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'add '
+1/31/2013 1:02:03 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'add dye'
+1/31/2013 1:02:11 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2515, 1988, 0) in Malas: "BlackDyeTub"
+1/31/2013 1:02:11 PM: 127.0.0.1: Serials: 0x400009AD; 
+1/31/2013 1:02:26 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'Add Boots'
+1/31/2013 1:02:28 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2515, 1988, 0) in Malas: "Boots"
+1/31/2013 1:02:28 PM: 127.0.0.1: Serials: 0x400009B0; 
+1/31/2013 1:02:29 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'Add ThighBoots'
+1/31/2013 1:02:29 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2514, 1989, 0) in Malas: "ThighBoots"
+1/31/2013 1:02:29 PM: 127.0.0.1: Serials: 0x400009B1; 
+1/31/2013 1:02:49 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'Add ShortPants'
+1/31/2013 1:02:50 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2514, 1989, 0) in Malas: "ShortPants"
+1/31/2013 1:02:50 PM: 127.0.0.1: Serials: 0x400009BC; 
+1/31/2013 1:03:04 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'Add FancyShirt'
+1/31/2013 1:03:06 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2514, 1989, 0) in Malas: "FancyShirt"
+1/31/2013 1:03:06 PM: 127.0.0.1: Serials: 0x400009BD; 
+1/31/2013 1:03:10 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'Add Shirt'
+1/31/2013 1:03:11 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2513, 1988, 0) in Malas: "Shirt"
+1/31/2013 1:03:11 PM: 127.0.0.1: Serials: 0x400009C0; 
+1/31/2013 1:03:27 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'Add ClothNinjaJacket'
+1/31/2013 1:03:27 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2513, 1988, 0) in Malas: "ClothNinjaJacket"
+1/31/2013 1:03:27 PM: 127.0.0.1: Serials: 0x400009C1; 
+1/31/2013 1:04:12 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'add special'
+1/31/2013 1:04:17 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2514, 1989, 0) in Malas: "SpecialHairDye"
+1/31/2013 1:04:17 PM: 127.0.0.1: Serials: 0x400009D9; 
+1/31/2013 1:04:27 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'add hair'
+1/31/2013 1:04:29 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'add hairdye'
+1/31/2013 1:04:30 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2514, 1989, 0) in Malas: "hairdye"
+1/31/2013 1:04:30 PM: 127.0.0.1: Serials: 0x400009E3; 
+1/31/2013 1:05:06 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'add dyetube'
+1/31/2013 1:05:09 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'add dyetub'
+1/31/2013 1:05:09 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2514, 1989, 0) in Malas: "dyetub"
+1/31/2013 1:05:09 PM: 127.0.0.1: Serials: 0x400009E9; 
+1/31/2013 1:05:18 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'add dyes'
+1/31/2013 1:05:19 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2512, 1989, 0) in Malas: "dyes"
+1/31/2013 1:05:19 PM: 127.0.0.1: Serials: 0x400009EA; 
+1/31/2013 1:05:49 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'Add BodySash'
+1/31/2013 1:05:50 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2514, 1988, 0) in Malas: "BodySash"
+1/31/2013 1:05:50 PM: 127.0.0.1: Serials: 0x400009F0; 
+1/31/2013 1:06:36 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'Add LeatherGloves'
+1/31/2013 1:06:37 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2512, 1988, 0) in Malas: "LeatherGloves"
+1/31/2013 1:06:37 PM: 127.0.0.1: Serials: 0x400009FA; 
+1/31/2013 1:06:45 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'add leatherdyetub'
+1/31/2013 1:06:46 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') building at (2512, 1989, 0) in Malas: "leatherdyetub"
+1/31/2013 1:06:46 PM: 127.0.0.1: Serials: 0x40000A00; 
+1/31/2013 1:09:33 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'props '
+1/31/2013 1:10:14 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'props '
+1/31/2013 1:10:39 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'props '
+1/31/2013 1:10:52 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'props '
+1/31/2013 1:11:11 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'props '
+1/31/2013 1:11:23 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'props '
+1/31/2013 1:15:13 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'skills '
+1/31/2013 1:24:04 PM: 127.0.0.1: Owner 0x41B "pppppp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/31/2013 1:29:11 PM
+
+1/31/2013 1:31:30 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'add thie'
+1/31/2013 1:31:32 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "HammerhillThief"
+1/31/2013 1:31:32 PM: 127.0.0.1: Serials: 0xE; 
+1/31/2013 1:32:01 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'add gold 274'
+1/31/2013 1:32:02 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "gold" "274"
+1/31/2013 1:32:02 PM: 127.0.0.1: Serials: 0x40000021; 
+1/31/2013 1:32:18 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'add gold 260'
+1/31/2013 1:32:18 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "gold" "260"
+1/31/2013 1:32:18 PM: 127.0.0.1: Serials: 0x40000022; 
+1/31/2013 1:32:42 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'add thie'
+1/31/2013 1:32:44 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') building at (2518, 1979, 25) in Malas: "HammerhillThief"
+1/31/2013 1:32:44 PM: 127.0.0.1: Serials: 0x10; 
+1/31/2013 1:32:54 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'add gold 32'
+1/31/2013 1:32:54 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') building at (2518, 1979, 25) in Malas: "gold" "32"
+1/31/2013 1:32:54 PM: 127.0.0.1: Serials: 0x4000002A; 
+1/31/2013 1:33:06 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'm remove'
+1/31/2013 1:33:06 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') deleting 0x10 "Irene" (no account)
+1/31/2013 1:33:07 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') deleting 0xE "Irene" (no account)
+1/31/2013 1:36:47 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'admin '
+1/31/2013 1:36:50 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/31/2013 1:36:51 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/31/2013 3:48:03 PM
+
+1/31/2013 3:48:33 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'add forg'
+1/31/2013 3:48:36 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') building at (2518, 1978, 25) in Malas: "LargeForgeEast"
+1/31/2013 3:48:36 PM: 127.0.0.1: Serials: 0x4000001C; 
+1/31/2013 3:48:42 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'add anvil'
+1/31/2013 3:48:44 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') building at (2518, 1978, 25) in Malas: "anvil"
+1/31/2013 3:48:44 PM: 127.0.0.1: Serials: 0x4000001F; 
+1/31/2013 3:48:47 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'move '
+1/31/2013 3:48:47 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') moving 0x4000001E (InternalItem2) to (2519, 1976, 25)
+1/31/2013 3:48:52 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'add smithhammer'
+1/31/2013 3:48:54 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "smithhammer"
+1/31/2013 3:48:54 PM: 127.0.0.1: Serials: 0x40000021; 
+1/31/2013 3:49:50 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'm remove'
+1/31/2013 3:49:50 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') deleting 0x4000001E (InternalItem2)
+1/31/2013 3:49:51 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') deleting 0x4000001F (Anvil)
+1/31/2013 3:49:56 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'admin '
+1/31/2013 3:49:59 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/31/2013 3:49:59 PM: 127.0.0.1: Owner 0xC "pppp" ('Zigholtul88') used command 'save '

@@ -1,0 +1,401 @@
+##############################
+Log started on 5/10/2016 3:09:09 AM
+
+5/10/2016 3:09:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 0'
+5/10/2016 3:09:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+5/10/2016 3:09:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpick'
+5/10/2016 3:09:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpic'
+5/10/2016 3:09:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1541, 1141, 17) in Malas: "LockpickingChest5"
+5/10/2016 3:09:52 AM: 127.0.0.1: Serials: 0x400004A0; 
+5/10/2016 3:09:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1542, 1141, 15) in Malas: "MasterLockpickersRing"
+5/10/2016 3:09:55 AM: 127.0.0.1: Serials: 0x400004A1; 
+5/10/2016 3:10:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpick'
+5/10/2016 3:10:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1542, 1142, 18) in Malas: "lockpick"
+5/10/2016 3:10:08 AM: 127.0.0.1: Serials: 0x400004A6; 
+5/10/2016 3:10:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpick 100'
+5/10/2016 3:10:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1542, 1141, 15) in Malas: "lockpick" "100"
+5/10/2016 3:10:20 AM: 127.0.0.1: Serials: 0x400004A8; 
+5/10/2016 3:10:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/10/2016 3:16:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 3:36:01 AM
+
+5/10/2016 3:36:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 3:36:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1178, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 3:36:47 AM: 127.0.0.1: Serials: 0x40000E1A; 
+5/10/2016 3:38:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 3:38:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400004A0 (LockpickingChest5)
+5/10/2016 3:38:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 3:41:48 AM
+
+5/10/2016 3:43:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 3:43:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1177, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 3:43:26 AM: 127.0.0.1: Serials: 0x4000102F; 
+5/10/2016 3:43:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 3:44:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MaxSkill' of 0x4000102F (LockpickingChest5) to '10'
+5/10/2016 3:48:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 3:51:25 AM
+
+5/10/2016 3:52:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 3:52:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 3:52:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+5/10/2016 3:52:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000102F (LockpickingChest5)
+5/10/2016 3:52:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E1A (LockpickingChest5)
+5/10/2016 3:52:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 3:52:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1177, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 3:52:29 AM: 127.0.0.1: Serials: 0x40000F90; 
+5/10/2016 3:52:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 3:54:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add training'
+5/10/2016 3:54:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1177, 1056, 0) in Malas: "TrainingDummy"
+5/10/2016 3:54:19 AM: 127.0.0.1: Serials: 0x40001497; 
+5/10/2016 3:54:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 3:57:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 4:00:38 AM
+
+5/10/2016 4:00:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 4:00:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 4:00:53 AM: 127.0.0.1: Serials: 0x40000E1A; 
+5/10/2016 4:00:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 4:06:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 4:12:42 AM
+
+5/10/2016 4:12:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 4:12:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E1A (LockpickingChest5)
+5/10/2016 4:12:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 4:13:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 4:13:01 AM: 127.0.0.1: Serials: 0x40000E89; 
+5/10/2016 4:13:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 4:13:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 4:13:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E89 (LockpickingChest5)
+5/10/2016 4:20:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 4:22:52 AM
+
+5/10/2016 4:23:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 4:23:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 4:23:07 AM: 127.0.0.1: Serials: 0x40000D13; 
+5/10/2016 4:23:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 4:23:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MaxSkill' of 0x40000D13 (LockpickingChest5) to '10'
+5/10/2016 4:23:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 10'
+5/10/2016 4:23:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '10'
+5/10/2016 4:26:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 4:26:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000D13 (LockpickingChest5)
+5/10/2016 4:26:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 4:26:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000F90 (LockpickingChest5)
+5/10/2016 4:26:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 4:28:34 AM
+
+5/10/2016 4:28:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 4:28:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 4:28:49 AM: 127.0.0.1: Serials: 0x400018FB; 
+5/10/2016 4:28:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 4:29:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MaxSkill' of 0x400018FB (LockpickingChest5) to '10'
+5/10/2016 4:29:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 4:29:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest10"
+5/10/2016 4:29:29 AM: 127.0.0.1: Serials: 0x40001A9D; 
+5/10/2016 4:30:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 15'
+5/10/2016 4:30:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '15'
+5/10/2016 4:32:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 4:51:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/10/2016 4:51:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/10/2016 4:51:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/10/2016 4:57:00 AM
+
+5/10/2016 4:57:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 4:57:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 4:57:20 AM: 127.0.0.1: Serials: 0x4000044D; 
+5/10/2016 4:57:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 4:57:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001A9D (LockpickingChest10)
+5/10/2016 4:57:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 10'
+5/10/2016 4:57:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '10'
+5/10/2016 5:09:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 5:11:31 AM
+
+5/10/2016 5:16:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 5:20:14 AM
+
+5/10/2016 5:20:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 5:20:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000044D (LockpickingChest5)
+5/10/2016 5:20:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 5:21:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1055, 0) in Malas: "LockpickingChest5"
+5/10/2016 5:21:00 AM: 127.0.0.1: Serials: 0x4000148B; 
+5/10/2016 5:21:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 9'
+5/10/2016 5:21:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '9'
+5/10/2016 5:22:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 5:38:44 AM
+
+5/10/2016 5:39:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 5:39:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000148B (LockpickingChest5)
+5/10/2016 5:39:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 5:39:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 5:39:08 AM: 127.0.0.1: Serials: 0x400014A6; 
+5/10/2016 5:39:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 0'
+5/10/2016 5:39:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+5/10/2016 5:39:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 5'
+5/10/2016 5:39:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '5'
+5/10/2016 5:39:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 10'
+5/10/2016 5:39:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '10'
+5/10/2016 5:45:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 5:47:48 AM
+
+5/10/2016 5:48:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 9'
+5/10/2016 5:48:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '9'
+5/10/2016 5:54:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 5:55:56 AM
+
+5/10/2016 5:56:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 9'
+5/10/2016 5:56:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '9'
+5/10/2016 6:04:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 6:17:21 AM
+
+5/10/2016 6:17:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 9'
+5/10/2016 6:17:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '9'
+5/10/2016 6:18:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 6:18:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 6:18:39 AM: 127.0.0.1: Serials: 0x400017EA; 
+5/10/2016 6:19:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 6:19:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400014A6 (LockpickingChest5)
+5/10/2016 6:20:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 6:20:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400017EA (LockpickingChest5)
+5/10/2016 6:23:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 6:26:15 AM
+
+5/10/2016 6:26:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 6:26:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 6:26:35 AM: 127.0.0.1: Serials: 0x400004DD; 
+5/10/2016 6:26:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 5'
+5/10/2016 6:26:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '5'
+5/10/2016 6:29:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/10/2016 6:29:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 6:29:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400004DD (LockpickingChest5)
+5/10/2016 6:29:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/10/2016 6:29:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/10/2016 6:38:23 AM
+
+5/10/2016 6:38:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 6:38:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 6:38:56 AM: 127.0.0.1: Serials: 0x40001A3E; 
+5/10/2016 6:38:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 6:39:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 6'
+5/10/2016 6:39:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '6'
+5/10/2016 6:40:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 6:41:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MaxLockLevel' of 0x40001A3E (LockpickingChest5) to '5'
+5/10/2016 6:41:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 8'
+5/10/2016 6:41:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '8'
+5/10/2016 6:41:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MaxLockLevel' of 0x40001A3E (LockpickingChest5) to '10'
+5/10/2016 6:44:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 6:44:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001A3E (LockpickingChest5)
+5/10/2016 6:44:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 8'
+5/10/2016 6:44:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '8'
+5/10/2016 6:45:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 6:47:32 AM
+
+5/10/2016 6:47:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpicking'
+5/10/2016 6:47:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "LockpickingChest5"
+5/10/2016 6:47:53 AM: 127.0.0.1: Serials: 0x40000E6C; 
+5/10/2016 6:48:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 6:50:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/10/2016 6:50:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/10/2016 6:50:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/10/2016 7:03:25 AM
+
+5/10/2016 7:03:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 4'
+5/10/2016 7:03:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '4'
+5/10/2016 7:04:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 7:04:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001497 (TrainingDummy)
+5/10/2016 7:04:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add zaythalor'
+5/10/2016 7:04:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1055, 0) in Malas: "ZaythalorForestTreasureChest1"
+5/10/2016 7:04:07 AM: 127.0.0.1: Serials: 0x40001BA0; 
+5/10/2016 7:04:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 5'
+5/10/2016 7:04:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '5'
+5/10/2016 7:04:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 7:05:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add zaythalor'
+5/10/2016 7:06:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1178, 1054, 0) in Malas: "ZaythalorForestTreasureChest1"
+5/10/2016 7:06:00 AM: 127.0.0.1: Serials: 0x40001BC3; 
+5/10/2016 7:06:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 7:06:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001BA0 (ZaythalorForestTreasureChest1)
+5/10/2016 7:06:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 7:06:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001BC3 (ZaythalorForestTreasureChest1)
+5/10/2016 7:06:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/10/2016 7:06:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/10/2016 7:06:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/10/2016 8:37:26 AM
+
+5/10/2016 8:38:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3719 objects)
+5/10/2016 8:38:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+5/10/2016 8:38:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3719 objects
+5/10/2016 8:38:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/10/2016 8:38:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/10/2016 8:53:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 9:06:25 AM
+
+5/10/2016 9:21:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 9:25:08 AM
+
+5/10/2016 9:53:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/10/2016 9:53:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/10/2016 9:53:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/10/2016 10:06:30 AM
+
+5/10/2016 10:22:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/10/2016 10:22:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add sister'
+5/10/2016 10:22:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 1041, 0) in Malas: "SisterOfHealing"
+5/10/2016 10:22:28 AM: 127.0.0.1: Serials: 0x462; 
+5/10/2016 10:22:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/10/2016 10:22:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 20].Base' of 0x462 "Giolia Uumena" (no account) to '20'
+5/10/2016 10:23:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 30].Base' of 0x462 "Giolia Uumena" (no account) to '30'
+5/10/2016 10:23:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 40].Base' of 0x462 "Giolia Uumena" (no account) to '40'
+5/10/2016 10:23:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 50].Base' of 0x462 "Giolia Uumena" (no account) to '50'
+5/10/2016 10:23:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 60].Base' of 0x462 "Giolia Uumena" (no account) to '60'
+5/10/2016 10:23:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add gold 2000'
+5/10/2016 10:23:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 1040, 0) in Malas: "gold" "2000"
+5/10/2016 10:23:36 AM: 127.0.0.1: Serials: 0x40000CC3; 
+5/10/2016 10:23:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 0'
+5/10/2016 10:23:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+5/10/2016 10:23:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 55].Base' of 0x462 "Giolia Uumena" (no account) to '55'
+5/10/2016 10:24:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 58].Base' of 0x462 "Giolia Uumena" (no account) to '58'
+5/10/2016 10:24:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 59].Base' of 0x462 "Giolia Uumena" (no account) to '59'
+5/10/2016 10:24:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 59.9].Base' of 0x462 "Giolia Uumena" (no account) to '59.9'
+5/10/2016 10:24:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 60].Base' of 0x462 "Giolia Uumena" (no account) to '60'
+5/10/2016 10:26:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 10:26:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x462 "Giolia Uumena" (no account)
+5/10/2016 10:28:22 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'set str 100'
+5/10/2016 10:28:23 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'str' of 0x46F "Kasslenn" ('Zigholtul88') to '100'
+5/10/2016 10:28:27 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'set dex 100'
+5/10/2016 10:28:28 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'dex' of 0x46F "Kasslenn" ('Zigholtul88') to '100'
+5/10/2016 10:28:33 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'add dyes'
+5/10/2016 10:28:35 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "dyes"
+5/10/2016 10:28:35 AM: 127.0.0.1: Serials: 0x40000D51; 
+5/10/2016 10:28:42 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'add dyetub'
+5/10/2016 10:28:43 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "dyetub"
+5/10/2016 10:28:43 AM: 127.0.0.1: Serials: 0x40000D5A; 
+5/10/2016 10:29:37 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'add crusader'
+5/10/2016 10:29:41 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "CrusaderBreastplate"
+5/10/2016 10:29:41 AM: 127.0.0.1: Serials: 0x40000D7C; 
+5/10/2016 10:29:49 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "CrusaderGauntlets"
+5/10/2016 10:29:49 AM: 127.0.0.1: Serials: 0x40000D7D; 
+5/10/2016 10:29:53 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "CrusaderGorget"
+5/10/2016 10:29:53 AM: 127.0.0.1: Serials: 0x40000D7F; 
+5/10/2016 10:30:02 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "CrusaderLeggings"
+5/10/2016 10:30:02 AM: 127.0.0.1: Serials: 0x40000D83; 
+5/10/2016 10:30:06 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "CrusaderSleeves"
+5/10/2016 10:30:06 AM: 127.0.0.1: Serials: 0x40000D84; 
+5/10/2016 10:30:22 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'm remove'
+5/10/2016 10:30:23 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') deleting 0x40000D84 (CrusaderSleeves)
+5/10/2016 10:30:24 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') deleting 0x40000D7C (CrusaderBreastplate)
+5/10/2016 10:30:24 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') deleting 0x40000D83 (CrusaderLeggings)
+5/10/2016 10:30:29 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') deleting 0x40000D7F (CrusaderGorget)
+5/10/2016 10:30:30 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') deleting 0x40000D7D (CrusaderGauntlets)
+5/10/2016 10:30:33 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'add cloa'
+5/10/2016 10:30:56 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2519, 1989, 0) in Malas: "CloakOfHumility"
+5/10/2016 10:30:56 AM: 127.0.0.1: Serials: 0x40000D95; 
+5/10/2016 10:31:02 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'add '
+5/10/2016 10:31:21 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Add SamuraiHelm'
+5/10/2016 10:31:22 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "SamuraiHelm"
+5/10/2016 10:31:22 AM: 127.0.0.1: Serials: 0x40000D9D; 
+5/10/2016 10:31:28 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'remove '
+5/10/2016 10:31:29 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') deleting 0x40000D9D (SamuraiHelm)
+5/10/2016 10:31:52 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Add FemalePlateChest'
+5/10/2016 10:31:53 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "FemalePlateChest"
+5/10/2016 10:31:53 AM: 127.0.0.1: Serials: 0x40000DA0; 
+5/10/2016 10:32:01 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Add PlateLegs'
+5/10/2016 10:32:01 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "PlateLegs"
+5/10/2016 10:32:01 AM: 127.0.0.1: Serials: 0x40000DA2; 
+5/10/2016 10:32:07 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Add PlateGloves'
+5/10/2016 10:32:08 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "PlateGloves"
+5/10/2016 10:32:08 AM: 127.0.0.1: Serials: 0x40000DB1; 
+5/10/2016 10:33:03 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2418'
+5/10/2016 10:33:04 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'hue' of 0x40000DA2 (PlateLegs) to '2418'
+5/10/2016 10:33:10 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2418'
+5/10/2016 10:33:11 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'hue' of 0x40000DA0 (FemalePlateChest) to '2418'
+5/10/2016 10:33:14 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2418'
+5/10/2016 10:33:15 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'hue' of 0x40000DB1 (PlateGloves) to '2418'
+5/10/2016 10:33:25 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2525'
+5/10/2016 10:33:31 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2525'
+5/10/2016 10:33:32 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'hue' of 0x40000D95 (CloakOfHumility) to '2525'
+5/10/2016 10:33:46 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2662'
+5/10/2016 10:33:46 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'hue' of 0x40000D95 (CloakOfHumility) to '2662'
+5/10/2016 10:33:54 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2662'
+5/10/2016 10:33:54 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'hue' of 0x40000DA0 (FemalePlateChest) to '2662'
+5/10/2016 10:33:57 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2662'
+5/10/2016 10:33:58 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'hue' of 0x40000DA2 (PlateLegs) to '2662'
+5/10/2016 10:34:01 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2662'
+5/10/2016 10:34:03 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'hue' of 0x40000DB1 (PlateGloves) to '2662'
+5/10/2016 10:34:14 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'add chivalr'
+5/10/2016 10:35:31 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'props '
+5/10/2016 10:35:43 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'add specialhairdye'
+5/10/2016 10:35:44 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "specialhairdye"
+5/10/2016 10:35:44 AM: 127.0.0.1: Serials: 0x40000DEA; 
+5/10/2016 10:36:04 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'Hue' of 0x46F "Kasslenn" ('Zigholtul88') to '33821'
+5/10/2016 10:36:13 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'Hue' of 0x46F "Kasslenn" ('Zigholtul88') to '33819'
+5/10/2016 10:36:20 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'Hue' of 0x46F "Kasslenn" ('Zigholtul88') to '33818'
+5/10/2016 10:36:25 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'Hue' of 0x46F "Kasslenn" ('Zigholtul88') to '33815'
+5/10/2016 10:37:09 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'add femalepla'
+5/10/2016 10:37:54 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'add platele'
+5/10/2016 10:38:17 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'add woodlandbelt'
+5/10/2016 10:38:19 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') building at (2518, 1989, 0) in Malas: "woodlandbelt"
+5/10/2016 10:38:19 AM: 127.0.0.1: Serials: 0x40000E0B; 
+5/10/2016 10:38:28 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2533'
+5/10/2016 10:38:29 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'hue' of 0x40000E0B (WoodlandBelt) to '2533'
+5/10/2016 10:38:35 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'Set hue 2533'
+5/10/2016 10:38:36 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') set property 'hue' of 0x40000D95 (CloakOfHumility) to '2533'
+5/10/2016 10:38:47 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'props '
+5/10/2016 10:39:11 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'props '
+5/10/2016 10:40:14 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'admin '
+5/10/2016 10:40:18 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/10/2016 10:40:18 AM: 127.0.0.1: Owner 0x46F "Kasslenn" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/10/2016 11:08:21 AM
+
+5/10/2016 11:09:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/10/2016 11:10:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add sister'
+5/10/2016 11:10:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (752, 447, 11) in Malas: "SisterOfChivalry"
+5/10/2016 11:10:14 AM: 127.0.0.1: Serials: 0x3F6; 
+5/10/2016 11:10:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 11:10:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/10/2016 11:10:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3F6 "Kasslenn Yharnam" (no account)
+5/10/2016 11:11:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/10/2016 11:11:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/10/2016 11:12:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/10/2016 11:12:49 AM
+
+5/10/2016 11:13:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/10/2016 11:13:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/10/2016 12:02:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/10/2016 12:02:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/10/2016 12:02:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/10/2016 12:24:57 PM
+
+5/10/2016 12:25:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3634 objects)
+5/10/2016 12:25:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+5/10/2016 12:25:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3634 objects
+5/10/2016 12:25:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/10/2016 12:25:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/10/2016 12:40:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3198 objects)
+5/10/2016 12:40:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+5/10/2016 12:40:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3198 objects
+5/10/2016 12:40:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/10/2016 12:40:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/10/2016 12:40:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

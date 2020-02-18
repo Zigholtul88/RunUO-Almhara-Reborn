@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<places>
+	<parent name="Ilshenar">
+		<parent name="Cities">
+			<parent name="Ancient Citadel">
+				<child name="Entrance" x="1518" y="568" z="-14" />
+			</parent>
+			<parent name="Gargoyle City">
+				<child name="Bank" x="852" y="602" z="-40" />
+				<child name="Central Area" x="836" y="641" z="-20" />
+			</parent>
+			<parent name="Lakeshire">
+				<child name="Bank" x="1204" y="1123" z="-20" />
+				<child name="Moongate" x="1175" y="1196" z="-25" />
+				<child name="Farm SE" x="1318" y="1328" z="-14" />
+			</parent>
+			<parent name="Mistas">
+				<child name="Central Area" x="820" y="1073" z="-30" />
+			</parent>
+			<parent name="Req Volon">
+				<child name="Central Area" x="1362" y="1073" z="-13" />
+			</parent>
+			<parent name="Savage Camp">
+				<child name="Central Area" x="1251" y="743" z="-80" />
+			</parent>
+			<parent name="Terort Skitas">
+				<child name="Entrance" x="567" y="437" z="21" />
+			</parent>
+		</parent>
+		<parent name="Dungeons">
+			<parent name="Agurast Ascension">
+				<child name="Entrance" x="427" y="109" z="-28" />
+				<child name="Level 2 Entrance" x="374" y="30" z="-28" />
+				<child name="Level 2 Exit" x="354" y="41" z="-28" />
+				<child name="Level 3 Entrance" x="259" y="103" z="-28" />
+				<child name="Level 3 Exit" x="150" y="83" z="-28" />
+				<child name="Level 4" x="268" y="134" z="-28" />
+				<child name="Boss Arena" x="557" y="431" z="7" />
+			</parent>
+			<parent name="Dragon Sanctuary">
+				<child name="Entrance to Dragons Den" x="1788" y="571" z="70" />
+				<child name="Entrance to Dragon Sanctuary" x="1795" y="428" z="-14" />
+				<child name="NPC Camp 1" x="1618" y="557" z="-19" />
+				<child name="NPC Camp 2" x="1505" y="619" z="-19" />
+				<child name="Central Area" x="1643" y="310" z="48" />
+				<child name="Boss Arena" x="1746" y="174" z="103" />
+			</parent>
+			<parent name="Fortress Calcifina">
+				<child name="Entrance" x="8" y="1267" z="-28" />
+				<child name="Level 1 Exit to Nowhere" x="155" y="1482" z="-28" />
+			</parent>
+			<parent name="Sanguine Sanctuary">
+				<child name="Entrance" x="18" y="860" z="-28" />
+				<child name="Exit" x="2114" y="834" z="-28" />
+			</parent>
+			<parent name="Guardian's Power Plant">
+				<child name="Entrance" x="835" y="777" z="-80" />
+				<child name="Level 1" x="1974" y="115" z="-28" />
+			</parent>
+			<parent name="Passage of Lost Souls">
+				<child name="Entrance to Malas Waterfall" x="394" y="1581" z="-28" />
+				<child name="Serpentine Passage" x="452" y="1556" z="-29" />
+				<child name="Entrance to Kirin Passage" x="535" y="1515" z="-29" />
+				<child name="Entrance to Serpentine Passage" x="19" y="1196" z="-9" />
+				<child name="Entrance to Sanguine Sanctuary" x="18" y="860" z="-28" />
+			</parent>
+			<parent name="Rockbitter Vault">
+				<child name="Old Entrance" x="1788" y="573" z="70" />
+				<child name="Level 1 Entrance" x="2188" y="318" z="-7" />
+				<child name="Level 2 Entrance" x="2188" y="28" z="-27" />
+			</parent>
+			<parent name="Spectre">
+				<child name="Entrance" x="1363" y="1033" z="-8" />
+				<child name="Level 1" x="1982" y="1103" z="-28" />
+			</parent>
+			<parent name="Tarnithok Fortress">
+				<child name="Old Entrance" x="651" y="1302" z="-58" />
+				<child name="Level 1" x="627" y="1525" z="-28" />
+				<child name="Level 2" x="718" y="1492" z="-28" />
+				<child name="Level 3" x="832" y="1551" z="-28" />
+				<child name="Level 4" x="960" y="1428" z="-28" />
+				<child name="Level 5" x="942" y="1465" z="-33" />
+				<child name="Level 6" x="866" y="1434" z="-28" />
+				<child name="Level 7" x="807" y="1548" z="-28" />
+				<child name="Level 8" x="754" y="1479" z="-28" />
+			</parent>
+			<parent name="Alexandria's Bowl - PVP Arena">
+				<child name="Gypsy Camp 1" x="1229" y="551" z="-20" />
+				<child name="Gypsy Camp 2" x="1397" y="434" z="-15" />
+			</parent>
+		</parent>
+		<parent name="Caves">
+			<parent name="Ancient Lair">
+				<child name="Entrance" x="940" y="504" z="-30" />
+				<child name="Level 1" x="85" y="746" z="-28" />
+			</parent>
+			<parent name="Lizard Passage">
+				<child name="Entrance" x="314" y="1334" z="-36" />
+				<child name="Level 1" x="329" y="1589" z="-18" />
+				<child name="Level 2" x="227" y="1337" z="-18" />
+			</parent>
+			<parent name="Mushroom Cave">
+				<child name="Entrance" x="1459" y="1329" z="-24" />
+			</parent>
+			<parent name="Rat Cave">
+				<child name="Entrance" x="1034" y="1153" z="-23" />
+				<child name="Level 1" x="1348" y="1510" z="-3" />
+				<child name="Level 2" x="1247" y="1511" z="-28" />
+			</parent>
+			<parent name="Spider Cave">
+				<child name="Entrance" x="1421" y="913" z="-19" />
+				<child name="Level 1" x="1786" y="991" z="-28" />
+				<child name="Level 2" x="1517" y="877" z="10" />
+				<child name="Ethereal Keep" x="1365" y="1102" z="-26" />
+			</parent>
+		</parent>
+		<parent name="Shrines">
+			<child name="Compassion" x="1217" y="469" z="-13" />
+			<child name="Honesty" x="720" y="1356" z="-60" />
+			<child name="Honor" x="748" y="728" z="-29" />
+			<child name="Humility" x="287" y="1016" z="0" />
+			<child name="Justice" x="987" y="1007" z="-35" />
+			<child name="Sacrifice" x="1175" y="1287" z="-30" />
+			<child name="Spirituality" x="1532" y="1341" z="-3" />
+			<child name="Valor" x="527" y="218" z="-44" />
+		</parent>
+		<parent name="Taverns">
+			<child name="Twin Oaks" x="1569" y="1046" z="-7" />
+		</parent>
+		<parent name="Town Houses">
+			<child name="2 Bedroom Svartafarian Retreat" x="1186" y="1162" z="-25" />
+			<child name="A Random Graveyard" x="1184" y="1288" z="-30" />
+			<child name="A Random Treehouse" x="1675" y="1081" z="-10" />
+			<child name="Banana Republic" x="1125" y="1072" z="-28" />
+			<child name="Chacarron Macarron Mistake" x="1339" y="1307" z="-18" />
+			<child name="Crystal Meadows Estate" x="1089" y="1040" z="-25" />
+			<child name="Den of the Holy Tiger" x="1232" y="1207" z="-15" />
+			<child name="Farside Cottage" x="1222" y="1183" z="-25" />
+			<child name="Lake Shire Warehouse" x="1224" y="1141" z="-25" />
+			<child name="Platypus Plaza" x="1201" y="1164" z="-25" />
+		</parent>
+	</parent>
+</places>

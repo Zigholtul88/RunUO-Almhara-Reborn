@@ -1,0 +1,128 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+{\*\generator Riched20 10.0.17134}\viewkind4\uc1 
+\pard\sl240\slmult1\fs20\lang9 Mage Skill Guide\par
+\par
+"Mage"\par
+\par
+Starting Skills\par
+- Alchemy = 25\par
+- Evaluating Int = 10\par
+- Inscription = 25\par
+- Magery = 10\par
+- Meditation = 10\par
+\par
+-Alchemy-\par
+Alchemists in Ultima Online do not turn lead into gold; instead, they create magic potions using materials called reagents that can easily be bought from vendors or found inside various barrels, crates and other containers. High level Alchemists can learn Glassblowing.\par
+\par
+As your skill improves you gain a Enhance Potions bonus of 10% for every 33 skill points achieved (30% at GM). This is on top of any bonus given by your equipment and hence not subject to your equipment cap (granting you a maximum benefit of 80%).\par
+\par
+Trained alchemists can identify the contents of Potion Kegs by removing a potion from them. Once checked in this way, the potion type becomes visible to all players.\par
+\par
+\par
+-Evaluating Int-\par
+Evaluating Intelligence can be used to determine the amount of Mana an opponent has left. It also affects various Magery spells, altering spell damage (similar to how Tactics increases damage dealt in standard combat) or the effectiveness/duration of a spell. It also has a role in defense when coupled with Anatomy.\par
+\par
+Using\par
+Evaluating Intelligence has three uses: showing information about a target, spell damage calculation and a defensive mechanism.\par
+\par
+Reading Mana Level\par
+When using the skill and targeting a creature or player, it will give you the percentage of remaining mana the target has. Furthermore, an estimate of their overall intelligence is given.\par
+\par
+Spell Damage\par
+Evaluating Intelligence is mostly used for its ability to increase the damage and effectiveness of Magery spells. When you cast a spell, the potential damage is calculated based on several factors, such as the spell, its circle, your ability, etc. (call this base damage). The damage then gets scaled based on the mage\rquote s Evaluate Intelligence. Evaluate Intelligence has a factor of between 1 (0 Eval Int) and 4.6 (120 Eval Int). See the discussion at Spell Damage Increase. There are 3 formulas: direct damage spells, positive buff (bless, strength, etc.) spells and negative 'buff' (weaken, feeble mind, curse, etc.) spells. (Summons, Resurrection, Mind Blast and Poison are not affected by Evaluate Intelligence.)\par
+\par
+- Direct Damage Formula: total damage = ( base damage * ( 3 * Evaluating Intelligence / 100 + 1 )\par
+- Positive 'buff' Spell Formula: Final Positive Stat = Base Stat * ( 1 + ( 1 + Evaluating Intelligence / 10 ) / 100 )\par
+- Negative 'buff' Spell Formula: Final Negative Stat = Base Stat * ( 1 - ( 8 + ( ( Caster's Evaluate Intelligence - Target's Resist Spells ) / 10 ) ) / 100 )\par
+\par
+Example of the damage factor done for direct damage spells at various Evaluate Intelligence values:\par
+\par
+- Eval int = 0, damage done is the base (factor of 1)\par
+- Eval int = 33.4, damage done is approximately doubled (factor of 2.002)\par
+- Eval int = 66.7, damage done is approximately tripled (factor of 3.001)\par
+- Eval int = 100, damage done is quadrupled (factor of 4)\par
+- Eval int = 120, damage done is a little over 4 1/2 (factor of 4.6)\par
+\par
+Example of a positive 'buff' spell: Suppose the caster has 100 Eval Int. The target has 110 strength. Cast 'Strength'.\par
+\par
+- Final Positive Stat = 110 * ( 1 + ( 1 + ( 100 / 10 ) ) / 100 ) )\par
+- Final Positive Stat = 110 * 1.11 = 122 resulting temporary strength (any decimal is dropped)\par
+\par
+Example of a negative 'buff' spell: Suppose the caster has 100 Eval Int. The target has 50 Resisting Spells. Cast 'Weaken'. Target has 100 Strength.\par
+\par
+- Final Negative Stat = 100 * ( 1 - ( 8 + ( ( 100 - 50 ) / 10 ) ) / 100 )\par
+- Total negative buff = 100 * ( .87 ) = 87 resulting temporary strength\par
+\par
+Defensive Ability\par
+\par
+When combined with Anatomy, these two skills can be used to replace Wrestling or other melee skills for defense. Anatomy and Evaluate Intelligence need to add up to 220 to have the equivalent of 120 melee defensive ability. The result of the following formula is capped at 120, so having 120 in both skills does not give a greater benefit.\par
+\par
+- Formula: ( Evaluating Intelligence + Anatomy + 20 ) / 2\par
+\par
+Training and Tips\par
+\par
+Active\par
+Activate the skill by macro or skill button and target a creature or player. If you don't get a gain, find a new target. If you do get a gain you can use that target and all proceeding ones again to try and gain.\par
+\par
+Passive\par
+Each cast of a Magery spell has a chance to gain. Training magery skill to the desired level while having Evaluate Intelligence raise passively is the preferred method. Once Magery is done training, repeatedly casting Reactive Armor is the most effective means. Wear a suit with 40% Lower Mana Cost and as much Mana Regeneration as you can. Such passive gains of Evaluate Intelligence can occur even when casting a magery spell fails (fizzles) and with magery spells which are not influenced by Evaluate Intelligence (for example Mind Blast). If the goal is to raise Resisting Spells while completing Evaluate Intelligence, then casting Weaken, Clumsy or Feeblemind on yourself are good choices, these will raise both skills. You may wish to set and lock your magery at 0 while training eval.\par
+\par
+\par
+-Inscription-\par
+In order to copy a spell to Scroll form, you need to be carrying a spellbook which already contains that spell. When a scribe crafts a spellbook there is a chance it will get up to 3 magical properties. These properties can be Faster Casting, Faster Cast Recovery, Lower Mana Cost, Lower Reagent Cost, Mana Increase, Mana Regeneration, Spell Damage Increase, Intelligence Bonus and some mage related Skills(Magery, Eval. Int., Meditation and Resist). All the properties can be up to 80% of the intensity range they normally spawn in. The amount and intensity of the properties on a spellbook depends on your Magery skill. At 80 Magery you can get 1 property, at 90 Magery you can get 2 properties and at 100 Magery you can get 3 properties. At 110 and 120 Magery you can still only get 3 properties, but you will have a higher chance of getting them.\par
+\par
+A GM Scribe gains a +10% Spell Damage Increase to any Magery spells cast and an additional 5% bonus to Casting Focus which can exceed the item cap.\par
+\par
+Caster's inscription skill also affects following spells:\par
+- Protection: Allows you to cast spells without being interrupted.\par
+  Lowers physical resistance 15% - (Inscription/20). At GM inscription, Physical lowers 10%. \par
+  Lowers resist magic skill 35% - (Inscription/20). At GM Inscription, Resist lowers 30%\par
+  Increases spell casting delay. ( Inscription has no effect here )\par
+- Reactive Armor: Increases Physical Resistance ( +15% + Inscription/20 ) , decreases elemental resistances (-5% each).\par
+    With 0 Inscription (+15 , -5 , -5 , -5 ,-5)\par
+    At GM Inscription (+20 , -5 ,-5 , -5 , -5) \par
+- Magic Reflection: Decreases Physical Resistance ( -20% + Inscription/20 ), increases elemental resistances ( +10% each).\par
+    With 0 Inscription (-20 , +10 , +10 , +10 , +10 and -5 max physical resist)\par
+    At GM Inscription (-15 , +10 , +10 , +10 , +10 and -5 max physical resist)\par
+\par
+It should be noted that the Jack of All Trades for humans works as if they had 20 Inscription skill points.\par
+\par
+\par
+-Magery-\par
+Throw a fireball here, a lightning bolt there, and add a summoned daemon for good measure. Those who study the magical arts within Almhara may not be adept with a sword and shield, but few can surpass the power of a learned mage.\par
+\par
+Spells\par
+There are eight circles of eight spells, each circle taking more skill, mana and time to cast than the previous circle. The casting time of a spell is determined by the circle number. The formula is 0.25 + spell circle * 0.25 seconds. \par
+\par
+\par
+-Meditation-\par
+Mana, the powerful substance used in casting spells from scrolls or spellbooks, as well as in the practice of Inscription, is as rich as gold to any who use its power on a daily basis. The Meditation skill allows your character to increase the rate at which they regenerate mana.\par
+\par
+Although simply having some ability in meditation is enough to improve your regenerative rate, you may also invoke the skill directly. If successful at active meditation then your overall regeneration rate will double, that is until you perform ANY action other then party/guild chat or are attacked. An invis'ed or hidden character will be revealed if he or she actively meditates.\par
+\par
+A character receives neither passive nor active Meditation bonuses while wearing non-medable armor unless it has Mage Armor as an item property. Many warriors instead take up the Focus skill, which has similar effects to Meditation but no armor-based limitations.\par
+Formulas\par
+\par
+A character's mana regeneration is governed by the skills of Meditation and Focus, the Intelligence stat, and any Mana Regeneration items that are equiped.\par
+\par
+The following Mana Regeneration formulas illustrate the rate of regeneration from Meditation and Intelligence. For a full discussion of the subject, however, please see the main article on Mana Regeneration.\par
+- Rate from Med & Int = 2 + (Meditation * 3 + Intelligence) / 40\par
+If you have a skill of 100 or better in Meditation you get a 10% bonus, making the GM+ formula:\par
+- GM Rate from Med & Int = 2 + (1.1 * (Meditation * 3 + Intelligence) / 40)\par
+\par
+Training\par
+\par
+Active\par
+Each time the Meditation skill is activated via macro or skill button you have a chance to gain.\par
+\par
+Passive\par
+Each time 1 mana is regenerated Meditation has a chance to gain. It is most effective to keep your mana constantly below maximum if you are actively trying to train Meditation.\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+}
+ 

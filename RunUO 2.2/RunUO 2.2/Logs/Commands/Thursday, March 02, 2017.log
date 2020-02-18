@@ -1,0 +1,484 @@
+##############################
+Log started on 3/2/2017 5:43:39 PM
+
+3/2/2017 5:44:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+3/2/2017 5:44:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+3/2/2017 5:44:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 5:52:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/2/2017 5:52:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/2/2017 5:52:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/2/2017 7:49:19 PM
+
+3/2/2017 8:06:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/2/2017 8:06:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/2/2017 8:06:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/2/2017 9:03:09 PM
+
+3/2/2017 9:04:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 9:04:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add town'
+3/2/2017 9:04:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add tow'
+3/2/2017 9:05:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1804, 435, 35) in Malas: "Townsperson"
+3/2/2017 9:05:02 PM: 127.0.0.1: Serials: 0x522; 
+3/2/2017 9:09:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1792, 437, 35) in Malas: "Townsperson"
+3/2/2017 9:09:03 PM: 127.0.0.1: Serials: 0x523; 
+3/2/2017 9:09:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1791, 437, 35) in Malas: "Townsperson"
+3/2/2017 9:09:23 PM: 127.0.0.1: Serials: 0x524; 
+3/2/2017 9:09:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1792, 437, 35) in Malas: "Townsperson"
+3/2/2017 9:09:23 PM: 127.0.0.1: Serials: 0x526; 
+3/2/2017 9:09:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+3/2/2017 9:09:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x524 "Curran" (no account)
+3/2/2017 9:09:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x526 "Pandita" (no account)
+3/2/2017 9:09:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x522 "Corbett" (no account)
+3/2/2017 9:09:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x523 "Felix" (no account)
+3/2/2017 9:24:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add townperson'
+3/2/2017 9:24:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1252, 1262, 0) in Malas: "Townsperson"
+3/2/2017 9:24:38 PM: 79.68.46.94: Serials: 0x540; 
+3/2/2017 9:24:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 9:25:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 9:27:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add xml'
+3/2/2017 9:27:51 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 9:27:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x540 "Chanda" (no account)
+3/2/2017 9:28:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/2/2017 9:32:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'speedboost '
+3/2/2017 9:32:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+3/2/2017 9:32:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') going to 0x427 "Mitsurugi" ('tommenquar'), Location (652, 590, 0), Map Malas
+3/2/2017 9:32:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/2/2017 9:35:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/2/2017 9:36:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+3/2/2017 9:36:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') going to 0x427 "Mitsurugi" ('tommenquar'), Location (884, 740, 23), Map Malas
+3/2/2017 9:36:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 9:37:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+3/2/2017 9:37:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+3/2/2017 9:37:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') bringing 0x427 "Mitsurugi" ('tommenquar') to Location (166, 1144, 72), Map Malas
+3/2/2017 9:38:37 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/2/2017 9:38:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add ale'
+3/2/2017 9:39:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add mead'
+3/2/2017 9:39:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/2/2017 9:39:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add irishspirit'
+3/2/2017 9:39:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add bar'
+3/2/2017 9:39:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (168, 1142, 40) in Malas: "irishspirit"
+3/2/2017 9:39:28 PM: 127.0.0.1: Serials: 0x400024ED; 
+3/2/2017 9:39:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (168, 1140, 32) in Malas: "Barkeeper"
+3/2/2017 9:39:43 PM: 79.68.46.94: Serials: 0x550; 
+3/2/2017 9:39:55 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set movable false'
+3/2/2017 9:40:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/2/2017 9:40:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x550 "Bjorn" (no account) to (167, 1141, 32)
+3/2/2017 9:40:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set movable false'
+3/2/2017 9:40:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 9:40:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set canwalk false'
+3/2/2017 9:40:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 9:40:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/2/2017 9:40:52 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'CantWalk' of 0x550 "Bjorn" (no account) to 'True'
+3/2/2017 9:40:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/2/2017 9:40:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x550 "Bjorn" (no account) to (167, 1141, 32)
+3/2/2017 9:41:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/2/2017 9:41:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x40002573 (PewterBowlOfPotatos) to (169, 1142, 40)
+3/2/2017 9:41:55 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add bottle'
+3/2/2017 9:41:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add bottleof'
+3/2/2017 9:42:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ale'
+3/2/2017 9:42:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (169, 1142, 40) in Malas: "IrishSpirit"
+3/2/2017 9:42:17 PM: 79.68.46.94: Serials: 0x40002574; 
+3/2/2017 9:42:20 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (167, 1142, 40) in Malas: "IrishSpirit"
+3/2/2017 9:42:20 PM: 79.68.46.94: Serials: 0x40002575; 
+3/2/2017 9:42:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add pitcher'
+3/2/2017 9:42:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add pitche'
+3/2/2017 9:43:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beverage'
+3/2/2017 9:43:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beverage ale'
+3/2/2017 9:43:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+3/2/2017 9:43:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (170, 1142, 40) in Malas: "Pitcher"
+3/2/2017 9:43:34 PM: 79.68.46.94: Serials: 0x40002576; 
+3/2/2017 9:43:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 9:43:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Content' of 0x40002576 (Pitcher) to 'Water'
+3/2/2017 9:44:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Quantity' of 0x40002576 (Pitcher) to '100'
+3/2/2017 9:44:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add pitcher content water quantity 5'
+3/2/2017 9:44:36 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (168, 1142, 40) in Malas: "pitcher" "content" "water" "quantity" "5"
+3/2/2017 9:44:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 9:45:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Content' of 0x40002576 (Pitcher) to 'Liquor'
+3/2/2017 9:45:14 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Poison' of 0x40002576 (Pitcher) to 'Lethal'
+3/2/2017 9:45:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/2/2017 9:45:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x40002576 (Pitcher) to (167, 1142, 40)
+3/2/2017 9:46:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+3/2/2017 9:46:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+3/2/2017 9:48:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'res '
+3/2/2017 9:49:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/2/2017 9:49:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Poison' of ... to '70'
+3/2/2017 9:49:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Physical' of ... to '70'
+3/2/2017 9:49:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Fire' of ... to '70'
+3/2/2017 9:49:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Energy' of ... to '70'
+3/2/2017 9:49:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Cold' of ... to '70'
+3/2/2017 9:52:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+3/2/2017 9:52:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+3/2/2017 9:52:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/2/2017 9:52:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002576 (Pitcher)
+3/2/2017 9:52:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/2/2017 9:52:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002575 (IrishSpirit)
+3/2/2017 9:52:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/2/2017 9:52:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x550 "Bjorn" (no account)
+3/2/2017 9:52:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 9:53:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+3/2/2017 9:53:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 9:53:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') bringing 0x427 "Mitsurugi" ('tommenquar') to Location (255, 1750, 15), Map Malas
+3/2/2017 9:53:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/2/2017 9:53:49 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/2/2017 9:53:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 9:57:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack robe'
+3/2/2017 9:58:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (280, 1762, 62) in Malas: "robe"
+3/2/2017 9:58:00 PM: 79.68.46.94: Serials: 0x40002588; 
+3/2/2017 9:58:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1722'
+3/2/2017 9:58:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '1722'
+3/2/2017 9:59:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/2/2017 10:02:58 PM
+
+3/2/2017 10:05:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say hi'
+3/2/2017 10:05:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/2/2017 10:05:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (255, 1741, 15), Map Malas
+3/2/2017 10:06:05 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say Hello sexy ass'
+3/2/2017 10:06:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add banker'
+3/2/2017 10:06:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (257, 1739, 14) in Malas: "banker"
+3/2/2017 10:06:19 PM: 79.68.46.94: Serials: 0x523; 
+3/2/2017 10:06:20 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say Hello sexy ass'
+3/2/2017 10:06:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') forcing speech on 0x523 "Patterson" (no account).
+3/2/2017 10:06:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:06:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x523 "Patterson" (no account)
+3/2/2017 10:10:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 2127'
+3/2/2017 10:11:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '2127'
+3/2/2017 10:11:08 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 4747'
+3/2/2017 10:11:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '4747'
+3/2/2017 10:11:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 4756'
+3/2/2017 10:11:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '4756'
+3/2/2017 10:20:03 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue [set hue 1559'
+3/2/2017 10:20:07 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '1559'
+3/2/2017 10:20:37 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue [set hue 1461'
+3/2/2017 10:20:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '1461'
+3/2/2017 10:20:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue [set hue 1461'
+3/2/2017 10:20:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002A7F (HoodedShroudOfShadows) to '1461'
+3/2/2017 10:21:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue [set hue 1462'
+3/2/2017 10:21:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '1462'
+3/2/2017 10:21:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue [set hue 1462'
+3/2/2017 10:21:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002ADF (Scythe) to '1462'
+3/2/2017 10:21:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add treasureches'
+3/2/2017 10:22:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack etherealkirin'
+3/2/2017 10:22:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (247, 1718, 14) in Malas: "etherealkirin"
+3/2/2017 10:22:29 PM: 79.68.46.94: Serials: 0x400022B6; 
+3/2/2017 10:22:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack boots set hue 1461'
+3/2/2017 10:23:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (232, 1719, 14) in Malas: "boots" "set" "hue" "1461"
+3/2/2017 10:23:01 PM: 79.68.46.94: Serials: 0x400022E1; 
+3/2/2017 10:23:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack boots set hue 1462'
+3/2/2017 10:23:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (233, 1720, 14) in Malas: "boots" "set" "hue" "1462"
+3/2/2017 10:23:26 PM: 79.68.46.94: Serials: 0x400022E2; 
+3/2/2017 10:23:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 10:23:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add glove'
+3/2/2017 10:24:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (231, 1722, 14) in Malas: "BoneArms"
+3/2/2017 10:24:06 PM: 79.68.46.94: Serials: 0x400022E3; 
+3/2/2017 10:24:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (232, 1722, 14) in Malas: "BoneChest"
+3/2/2017 10:24:10 PM: 79.68.46.94: Serials: 0x400022E4; 
+3/2/2017 10:24:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (233, 1722, 14) in Malas: "BoneGloves"
+3/2/2017 10:24:19 PM: 79.68.46.94: Serials: 0x400022E5; 
+3/2/2017 10:24:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (230, 1722, 14) in Malas: "BoneHelm"
+3/2/2017 10:24:24 PM: 79.68.46.94: Serials: 0x400022E6; 
+3/2/2017 10:24:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (229, 1723, 14) in Malas: "BoneLegs"
+3/2/2017 10:24:35 PM: 79.68.46.94: Serials: 0x400022E7; 
+3/2/2017 10:24:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 10:25:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E4 (BoneChest) to '1462'
+3/2/2017 10:25:02 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 10:25:05 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E5 (BoneGloves) to '1462'
+3/2/2017 10:25:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 10:25:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E3 (BoneArms) to '1462'
+3/2/2017 10:25:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 10:25:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E6 (BoneHelm) to '1462'
+3/2/2017 10:25:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 10:25:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E7 (BoneLegs) to '1462'
+3/2/2017 10:26:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1461'
+3/2/2017 10:26:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002A80 (ZyronicClaw) to '1461'
+3/2/2017 10:26:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:26:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002A80 (ZyronicClaw)
+3/2/2017 10:26:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add halbert set hue 1461'
+3/2/2017 10:26:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add hal'
+3/2/2017 10:26:36 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (259, 1735, 14) in Malas: "Halberd"
+3/2/2017 10:26:36 PM: 79.68.46.94: Serials: 0x400022E8; 
+3/2/2017 10:26:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1461'
+3/2/2017 10:26:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E8 (Halberd) to '1461'
+3/2/2017 10:27:02 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:27:03 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400022E8 (Halberd)
+3/2/2017 10:27:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add spear set hue 1461'
+3/2/2017 10:27:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (259, 1736, 14) in Malas: "spear" "set" "hue" "1461"
+3/2/2017 10:27:13 PM: 79.68.46.94: Serials: 0x400022E9; 
+3/2/2017 10:27:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/2/2017 10:27:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (5719, 184, -3), Map Felucca
+3/2/2017 10:28:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:28:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002588 (Robe)
+3/2/2017 10:28:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:28:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002350 (Corpse)
+3/2/2017 10:28:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'kill '
+3/2/2017 10:28:49 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x3 "a frost ooze" (no account)
+3/2/2017 10:29:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:29:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400023D5 (Corpse)
+3/2/2017 10:29:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 10:30:07 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'NightSight' of ... to '100'
+3/2/2017 10:30:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'SpellChanneling' of ... to '100'
+3/2/2017 10:31:03 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:31:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40001D6B (NightSightScroll)
+3/2/2017 10:31:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say okay, yes massah...i be dumb!'
+3/2/2017 10:31:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') forcing speech on 0xE "Ithilwen" (no account).
+3/2/2017 10:32:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'say piss off'
+3/2/2017 10:32:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') forcing speech on 0x427 "Mitsurugi" ('tommenquar').
+3/2/2017 10:32:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'say I reckon we might be in a pickel old chump'
+3/2/2017 10:32:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') forcing speech on 0x427 "Mitsurugi" ('tommenquar').
+3/2/2017 10:33:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:33:37 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400024A7 (Corpse)
+3/2/2017 10:34:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'res '
+3/2/2017 10:34:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'res '
+3/2/2017 10:34:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') resurrecting 0x1 "Zigholtul" ('Zigholtul88')
+3/2/2017 10:34:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'say you are dead. dead. dead.'
+3/2/2017 10:34:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') forcing speech on 0x427 "Mitsurugi" ('tommenquar').
+3/2/2017 10:34:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+3/2/2017 10:34:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+3/2/2017 10:34:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'say this dimension cuts like a knife'
+3/2/2017 10:34:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') forcing speech on 0x427 "Mitsurugi" ('tommenquar').
+3/2/2017 10:35:41 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1461'
+3/2/2017 10:35:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400024A8 (Cloak) to '1461'
+3/2/2017 10:36:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set str 999'
+3/2/2017 10:36:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'str' of 0x1 "Zigholtul" ('Zigholtul88') to '999'
+3/2/2017 10:36:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set str 200'
+3/2/2017 10:36:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'str' of 0x1 "Zigholtul" ('Zigholtul88') to '200'
+3/2/2017 10:37:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set str 180'
+3/2/2017 10:37:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'str' of 0x1 "Zigholtul" ('Zigholtul88') to '180'
+3/2/2017 10:37:08 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:37:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400024B2 (Corpse)
+3/2/2017 10:37:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set str 100'
+3/2/2017 10:37:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'str' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+3/2/2017 10:37:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/2/2017 10:37:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+3/2/2017 10:37:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') going to 0x427 "Mitsurugi" ('tommenquar'), Location (1409, 1625, 28), Map Felucca
+3/2/2017 10:37:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 10:38:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/2/2017 10:38:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/2/2017 10:38:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (5877, 242, -5), Map Felucca
+3/2/2017 10:38:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/2/2017 10:39:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+3/2/2017 10:39:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (1495, 454, 1), Map Malas
+3/2/2017 10:40:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/2/2017 10:40:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Set Blessed True'
+3/2/2017 10:40:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Blessed' of 0x1 "Zigholtul" ('Zigholtul88') to 'True'
+3/2/2017 10:40:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add scourgedragon'
+3/2/2017 10:40:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1521, 432, 0) in Malas: "scourgedragon"
+3/2/2017 10:40:36 PM: 127.0.0.1: Serials: 0x558; 
+3/2/2017 10:41:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/2/2017 10:41:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:41:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002534 (Corpse)
+3/2/2017 10:42:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add sco'
+3/2/2017 10:42:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1509, 454, 9) in Malas: "ScourgeDragon"
+3/2/2017 10:42:26 PM: 79.68.46.94: Serials: 0x559; 
+3/2/2017 10:43:05 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add ancient'
+3/2/2017 10:43:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1511, 457, 9) in Malas: "AncientWyrm"
+3/2/2017 10:43:33 PM: 79.68.46.94: Serials: 0x55A; 
+3/2/2017 10:44:39 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm remove'
+3/2/2017 10:44:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002542 (Corpse)
+3/2/2017 10:44:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000253F (Corpse)
+3/2/2017 10:44:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400024D7 (Corpse)
+3/2/2017 10:44:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400024D6 (Corpse)
+3/2/2017 10:44:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add whitewyrm'
+3/2/2017 10:44:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1512, 449, 9) in Malas: "whitewyrm"
+3/2/2017 10:44:57 PM: 79.68.46.94: Serials: 0x55B; 
+3/2/2017 10:45:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add whitewyrm'
+3/2/2017 10:45:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1508, 454, 9) in Malas: "whitewyrm"
+3/2/2017 10:45:18 PM: 79.68.46.94: Serials: 0x55D; 
+3/2/2017 10:45:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack lute'
+3/2/2017 10:45:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1512, 447, 8) in Malas: "lute"
+3/2/2017 10:45:30 PM: 79.68.46.94: Serials: 0x40002567; 
+3/2/2017 10:46:14 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:46:14 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000256A (Corpse)
+3/2/2017 10:46:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add whitewyrm'
+3/2/2017 10:46:20 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1516, 463, 8) in Malas: "whitewyrm"
+3/2/2017 10:46:20 PM: 79.68.46.94: Serials: 0x55E; 
+3/2/2017 10:46:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 10:46:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Controlled' of 0x55E "a white wyrm" (no account) to 'True'
+3/2/2017 10:46:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'ControlMaster' of 0x55E "a white wyrm" (no account) to '0x427 "Mitsurugi"'
+3/2/2017 10:47:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'IsBonded' of 0x55E "a white wyrm" (no account) to 'True'
+3/2/2017 10:48:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 10:48:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhaven'
+3/2/2017 10:48:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1510, 459, 9) in Malas: "ElmhavenAnimalTrainer"
+3/2/2017 10:48:31 PM: 127.0.0.1: Serials: 0x55F; 
+3/2/2017 10:48:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/2/2017 10:48:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x55F "Ruby Rosebud" (no account)
+3/2/2017 10:49:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say yummy'
+3/2/2017 10:49:20 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') forcing speech on 0x55E "a white wyrm" (no account).
+3/2/2017 10:49:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say yes stay....tasty critters'
+3/2/2017 10:49:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') forcing speech on 0x55E "Sammy" (no account).
+3/2/2017 10:50:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:50:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000254B (Corpse)
+3/2/2017 10:50:03 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:50:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x55E "Sammy" (no account)
+3/2/2017 10:50:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add pet'
+3/2/2017 10:50:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1513, 450, 9) in Malas: "PetBondDeed"
+3/2/2017 10:50:11 PM: 79.68.46.94: Serials: 0x400025B1; 
+3/2/2017 10:50:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add cow'
+3/2/2017 10:50:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1513, 455, 9) in Malas: "cow"
+3/2/2017 10:50:13 PM: 127.0.0.1: Serials: 0x575; 
+3/2/2017 10:50:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1514, 450, 9) in Malas: "PetSlotDeed"
+3/2/2017 10:50:16 PM: 79.68.46.94: Serials: 0x400025B2; 
+3/2/2017 10:50:25 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:50:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400025B1 (PetBondDeed)
+3/2/2017 10:50:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:51:44 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add drake'
+3/2/2017 10:51:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1511, 455, 9) in Malas: "drake"
+3/2/2017 10:51:45 PM: 79.68.46.94: Serials: 0x576; 
+3/2/2017 10:52:31 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm kill'
+3/2/2017 10:52:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x574 "a gaseous slime" (no account)
+3/2/2017 10:52:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x570 "a gaseous slime" (no account)
+3/2/2017 10:52:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x571 "a gaseous slime" (no account)
+3/2/2017 10:53:12 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add pet'
+3/2/2017 10:53:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1512, 453, 9) in Malas: "PetBondDeed"
+3/2/2017 10:53:15 PM: 79.68.46.94: Serials: 0x400025E5; 
+3/2/2017 10:53:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ancientwyrm'
+3/2/2017 10:53:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add anima'
+3/2/2017 10:54:41 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:54:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addtopack petslotdeed'
+3/2/2017 10:54:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x576 "a drake" (no account)
+3/2/2017 10:54:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 452, 9) in Malas: "petslotdeed"
+3/2/2017 10:54:42 PM: 127.0.0.1: Serials: 0x400025E6; 
+3/2/2017 10:54:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addtopack petslotdeed'
+3/2/2017 10:54:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 452, 9) in Malas: "petslotdeed"
+3/2/2017 10:54:44 PM: 127.0.0.1: Serials: 0x400025E9; 
+3/2/2017 10:54:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addtopack petslotdeed'
+3/2/2017 10:54:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 452, 9) in Malas: "petslotdeed"
+3/2/2017 10:54:48 PM: 127.0.0.1: Serials: 0x400025EA; 
+3/2/2017 10:54:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addtopack petslotdeed'
+3/2/2017 10:54:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 452, 9) in Malas: "petslotdeed"
+3/2/2017 10:54:50 PM: 127.0.0.1: Serials: 0x400025EB; 
+3/2/2017 10:54:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addtopack petslotdeed'
+3/2/2017 10:54:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 452, 9) in Malas: "petslotdeed"
+3/2/2017 10:54:53 PM: 127.0.0.1: Serials: 0x400025EC; 
+3/2/2017 10:55:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set all skills 150'
+3/2/2017 10:55:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 150'
+3/2/2017 10:55:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '150'
+3/2/2017 10:56:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ancientwyrm'
+3/2/2017 10:56:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1510, 450, 9) in Malas: "ancientwyrm"
+3/2/2017 10:56:18 PM: 127.0.0.1: Serials: 0x577; 
+3/2/2017 10:56:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lute'
+3/2/2017 10:56:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1508, 448, 9) in Malas: "lute"
+3/2/2017 10:56:27 PM: 127.0.0.1: Serials: 0x400025F2; 
+3/2/2017 11:01:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add hammerhillguard'
+3/2/2017 11:01:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1514, 451, 9) in Malas: "HammerhillGuardianFighter"
+3/2/2017 11:01:09 PM: 127.0.0.1: Serials: 0x578; 
+3/2/2017 11:01:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+3/2/2017 11:01:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x578 "Ashleigh" (no account)
+3/2/2017 11:01:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1512, 449, 9) in Malas: "HammerhillGuardianFighter"
+3/2/2017 11:01:16 PM: 127.0.0.1: Serials: 0x579; 
+3/2/2017 11:01:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1516, 442, 4) in Malas: "HammerhillGuardianFighter"
+3/2/2017 11:01:21 PM: 127.0.0.1: Serials: 0x57A; 
+3/2/2017 11:01:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/2/2017 11:01:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x57A "Adlai" (no account)
+3/2/2017 11:03:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (1518, 483, 2), Map Malas
+3/2/2017 11:04:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/2/2017 11:05:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add blocker'
+3/2/2017 11:05:25 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm add blocker'
+3/2/2017 11:05:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1563, 522, 3) in Malas: "blocker"
+3/2/2017 11:05:28 PM: 79.68.46.94: Serials: 0x40002662; 
+3/2/2017 11:05:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1564, 522, 0) in Malas: "blocker"
+3/2/2017 11:05:30 PM: 79.68.46.94: Serials: 0x40002664; 
+3/2/2017 11:05:31 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1565, 522, 0) in Malas: "blocker"
+3/2/2017 11:05:31 PM: 79.68.46.94: Serials: 0x40002665; 
+3/2/2017 11:05:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1566, 522, 0) in Malas: "blocker"
+3/2/2017 11:05:32 PM: 79.68.46.94: Serials: 0x40002666; 
+3/2/2017 11:05:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1567, 522, 0) in Malas: "blocker"
+3/2/2017 11:05:33 PM: 79.68.46.94: Serials: 0x40002667; 
+3/2/2017 11:05:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1568, 522, 0) in Malas: "blocker"
+3/2/2017 11:05:34 PM: 79.68.46.94: Serials: 0x40002668; 
+3/2/2017 11:05:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm remove'
+3/2/2017 11:05:44 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002662 (Blocker)
+3/2/2017 11:05:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002664 (Blocker)
+3/2/2017 11:05:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002665 (Blocker)
+3/2/2017 11:05:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002666 (Blocker)
+3/2/2017 11:05:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002667 (Blocker)
+3/2/2017 11:05:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002668 (Blocker)
+3/2/2017 11:07:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'kill '
+3/2/2017 11:07:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x579 "Nalini" (no account)
+3/2/2017 11:13:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add town'
+3/2/2017 11:13:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add towncrier'
+3/2/2017 11:13:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1579, 499, 0) in Malas: "towncrier"
+3/2/2017 11:13:33 PM: 79.68.46.94: Serials: 0x57C; 
+3/2/2017 11:13:37 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 11:13:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 11:14:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'towncriers '
+3/2/2017 11:15:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 11:16:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 11:16:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x57C "Mindel" (no account)
+3/2/2017 11:17:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (2401, 1761, 20), Map Malas
+3/2/2017 11:17:12 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add towncrier'
+3/2/2017 11:17:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2403, 1759, 20) in Malas: "towncrier"
+3/2/2017 11:17:13 PM: 79.68.46.94: Serials: 0x57E; 
+3/2/2017 11:17:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'towncriers '
+3/2/2017 11:18:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/2/2017 11:18:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 11:18:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x57E "Octavius" (no account)
+3/2/2017 11:19:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'towncriers '
+3/2/2017 11:19:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'towncriers '
+3/2/2017 11:20:52 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add towncrier'
+3/2/2017 11:20:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2404, 1756, 20) in Malas: "towncrier"
+3/2/2017 11:20:53 PM: 79.68.46.94: Serials: 0x580; 
+3/2/2017 11:24:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'towncriers '
+3/2/2017 11:25:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say im still dumb'
+3/2/2017 11:25:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') forcing speech on 0x580 "Lenore" (no account).
+3/2/2017 11:25:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 11:25:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x580 "Lenore" (no account)
+3/2/2017 11:25:36 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'sm blah blah blah'
+3/2/2017 11:25:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add towncrier'
+3/2/2017 11:25:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2404, 1756, 20) in Malas: "towncrier"
+3/2/2017 11:25:46 PM: 127.0.0.1: Serials: 0x582; 
+3/2/2017 11:26:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'towncriers '
+3/2/2017 11:29:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/2/2017 11:29:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm remove'
+3/2/2017 11:29:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002ADF (Scythe)
+3/2/2017 11:29:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400022B6 (EtherealKirin)
+3/2/2017 11:29:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002A71 (Gold)
+3/2/2017 11:29:44 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400022E1 (Boots)
+3/2/2017 11:29:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002587 (EmptyPewterBowl)
+3/2/2017 11:29:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/2/2017 11:29:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x582 "Mollie" (no account)
+3/2/2017 11:29:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/2/2017 11:29:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add towncrier'
+3/2/2017 11:30:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1177, 1063, 0) in Malas: "towncrier"
+3/2/2017 11:30:23 PM: 79.68.46.94: Serials: 0x583; 
+3/2/2017 11:30:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'towncriers '
+3/2/2017 11:33:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/2/2017 11:33:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x583 "Vaughn" (no account) to (1178, 1059, 0)
+3/2/2017 11:34:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'towncriers '
+3/2/2017 11:35:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get hue'
+3/2/2017 11:35:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm set hue 1461'
+3/2/2017 11:35:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002819 (FancyShirt) to '1461'
+3/2/2017 11:35:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x4000281A (Skirt) to '1461'
+3/2/2017 11:35:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x4000281B (FeatheredHat) to '1461'
+3/2/2017 11:35:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add hat'
+3/2/2017 11:36:07 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1180, 1058, 0) in Malas: "JesterHat"
+3/2/2017 11:36:07 PM: 79.68.46.94: Serials: 0x4000281D; 
+3/2/2017 11:36:14 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm set hue 1461'
+3/2/2017 11:36:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x4000281D (JesterHat) to '1461'
+3/2/2017 11:36:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add robe set hue 1461'
+3/2/2017 11:36:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1180, 1058, 0) in Malas: "robe" "set" "hue" "1461"
+3/2/2017 11:36:42 PM: 79.68.46.94: Serials: 0x4000281E; 
+3/2/2017 11:37:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add kilt set hue 1461'
+3/2/2017 11:37:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1180, 1059, 0) in Malas: "kilt" "set" "hue" "1461"
+3/2/2017 11:37:19 PM: 79.68.46.94: Serials: 0x4000281F; 
+3/2/2017 11:37:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm remove'
+3/2/2017 11:37:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000281E (Robe)
+3/2/2017 11:37:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000281A (Skirt)
+3/2/2017 11:37:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000281B (FeatheredHat)
+3/2/2017 11:37:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002819 (FancyShirt)
+3/2/2017 11:37:52 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'dupe '
+3/2/2017 11:37:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') duping 0x40002A81 (Spellbook) (inBag=False; amount=1)
+3/2/2017 11:37:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') duped 0x40002A81 (Spellbook) creating 0x40002820 (Spellbook)
+3/2/2017 11:38:02 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 11:38:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002820 (Spellbook) to '1462'
+3/2/2017 11:38:39 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 11:38:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002820 (Spellbook)
+3/2/2017 11:39:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'motd '
+3/2/2017 11:41:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'motd '
+3/2/2017 11:47:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'motd '
+3/2/2017 11:49:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'emote '
+3/3/2017 12:03:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/3/2017 12:03:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/3/2017 12:03:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

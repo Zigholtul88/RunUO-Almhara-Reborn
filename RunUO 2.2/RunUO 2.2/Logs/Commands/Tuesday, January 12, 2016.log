@@ -1,0 +1,366 @@
+##############################
+Log started on 1/12/2016 12:45:58 AM
+
+1/12/2016 12:46:17 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'go '
+1/12/2016 12:46:33 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'setallskills 100'
+1/12/2016 12:46:33 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') set property 'EverySkill.Base' of 0xF5 "Vargas" ('Zigholtul88') to '100'
+1/12/2016 12:46:47 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'add varga'
+1/12/2016 12:46:53 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (720, 1226, 20) in Malas: "VargasTheMerchant"
+1/12/2016 12:46:53 AM: 127.0.0.1: Serials: 0x9; 
+1/12/2016 12:47:39 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'add madpump'
+1/12/2016 12:47:45 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (738, 1231, 20) in Malas: "MadPumpkinSpirit"
+1/12/2016 12:47:45 AM: 127.0.0.1: Serials: 0x38; 
+1/12/2016 12:47:46 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (740, 1231, 20) in Malas: "MadPumpkinSpirit"
+1/12/2016 12:47:46 AM: 127.0.0.1: Serials: 0x6F; 
+1/12/2016 12:47:46 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (740, 1231, 20) in Malas: "MadPumpkinSpirit"
+1/12/2016 12:47:46 AM: 127.0.0.1: Serials: 0x131; 
+1/12/2016 12:47:47 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (740, 1231, 20) in Malas: "MadPumpkinSpirit"
+1/12/2016 12:47:47 AM: 127.0.0.1: Serials: 0x132; 
+1/12/2016 12:47:57 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'add spear'
+1/12/2016 12:47:58 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'add spea'
+1/12/2016 12:48:03 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (737, 1228, 21) in Malas: "ShimmeringSpearOfAquaticElegance"
+1/12/2016 12:48:03 AM: 127.0.0.1: Serials: 0x400000AA; 
+1/12/2016 12:49:56 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 12:49:56 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x9 "Vargas" (no account)
+1/12/2016 12:50:11 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'add hiry'
+1/12/2016 12:50:13 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (727, 1225, 20) in Malas: "EtherealHiryu"
+1/12/2016 12:50:13 AM: 127.0.0.1: Serials: 0x40000122; 
+1/12/2016 12:55:34 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 2879 set movable False hue 0 light Circle225'
+1/12/2016 12:55:36 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (719, 1226, 20) in Malas: "static" "2879" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 12:55:36 AM: 127.0.0.1: Serials: 0x40000199; 
+1/12/2016 12:55:44 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 12:55:45 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x40000199 (Static)
+1/12/2016 12:55:47 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+1/12/2016 12:55:48 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (719, 1226, 20) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 12:55:48 AM: 127.0.0.1: Serials: 0x4000019B; 
+1/12/2016 12:55:50 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+1/12/2016 12:55:50 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (720, 1226, 20) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 12:55:50 AM: 127.0.0.1: Serials: 0x4000019D; 
+1/12/2016 12:55:53 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+1/12/2016 12:55:53 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (721, 1226, 20) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 12:55:53 AM: 127.0.0.1: Serials: 0x4000019E; 
+1/12/2016 12:55:54 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+1/12/2016 12:55:55 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (722, 1226, 20) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 12:55:55 AM: 127.0.0.1: Serials: 0x4000019F; 
+1/12/2016 12:56:08 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'add varga'
+1/12/2016 12:56:10 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (719, 1227, 20) in Malas: "VargasTheMerchant"
+1/12/2016 12:56:10 AM: 127.0.0.1: Serials: 0x134; 
+1/12/2016 12:56:14 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 12:56:16 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x134 "Vargas" (no account)
+1/12/2016 12:56:37 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 12:56:38 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x30D "a great hart" (no account)
+1/12/2016 12:56:42 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'props '
+1/12/2016 12:58:13 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'where '
+1/12/2016 12:59:23 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'add zaythal'
+1/12/2016 12:59:26 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (726, 1222, 20) in Malas: "ZaythalorForestRanger"
+1/12/2016 12:59:26 AM: 127.0.0.1: Serials: 0x137; 
+1/12/2016 12:59:41 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 12:59:41 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x137 "Willem" (no account)
+1/12/2016 12:59:57 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'add bank'
+1/12/2016 1:00:09 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (724, 1233, 20) in Malas: "ElmhavenInvestmentBanker"
+1/12/2016 1:00:09 AM: 127.0.0.1: Serials: 0x139; 
+1/12/2016 1:00:21 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (725, 1231, 20) in Malas: "ElmhavenInvestmentBanker"
+1/12/2016 1:00:21 AM: 127.0.0.1: Serials: 0x13A; 
+1/12/2016 1:00:24 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:00:24 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x139 "Torbin" (no account)
+1/12/2016 1:00:25 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:00:27 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x13A "Torbin" (no account)
+1/12/2016 1:00:30 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (728, 1228, 20) in Malas: "GuardiansHorizonInvestmentBanker"
+1/12/2016 1:00:30 AM: 127.0.0.1: Serials: 0x13C; 
+1/12/2016 1:00:36 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:00:36 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x13C "Bagu Boosh" (no account)
+1/12/2016 1:00:49 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'go '
+1/12/2016 1:01:24 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'go '
+1/12/2016 1:01:44 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (718, 687, -12) in Malas: "HammerhillInvestmentBanker"
+1/12/2016 1:01:44 AM: 127.0.0.1: Serials: 0x13E; 
+1/12/2016 1:01:58 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:01:59 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x13E "Stellah" (no account)
+1/12/2016 1:02:02 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (715, 686, -3) in Malas: "ElmhavenInvestmentBanker"
+1/12/2016 1:02:02 AM: 127.0.0.1: Serials: 0x13F; 
+1/12/2016 1:02:09 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:02:09 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x13F "Torbin" (no account)
+1/12/2016 1:02:16 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (715, 686, -3) in Malas: "HammerhillInvestmentBanker"
+1/12/2016 1:02:16 AM: 127.0.0.1: Serials: 0x140; 
+1/12/2016 1:02:18 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:02:18 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x140 "Stellah" (no account)
+1/12/2016 1:02:21 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (714, 685, 0) in Malas: "ElmhavenInvestmentBanker"
+1/12/2016 1:02:21 AM: 127.0.0.1: Serials: 0x142; 
+1/12/2016 1:02:22 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:02:23 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x142 "Torbin" (no account)
+1/12/2016 1:02:30 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'go '
+1/12/2016 1:03:31 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Multi Add static 2879 set movable False hue 0 light Circle225'
+1/12/2016 1:04:12 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 54 set movable False hue 0 light Circle225'
+1/12/2016 1:04:17 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (718, 1235, 20) in Malas: "static" "54" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:04:17 AM: 127.0.0.1: Serials: 0x400002E2; 
+1/12/2016 1:04:20 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'props '
+1/12/2016 1:04:33 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 20 static 53 set movable False hue 0 light {light}'
+1/12/2016 1:04:40 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (718, 1242, 20) in Malas: "static" "53" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:04:40 AM: 127.0.0.1: Serials: 0x400002EB; 
+1/12/2016 1:04:44 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 20 static 53 set movable False hue 0 light {light}'
+1/12/2016 1:04:46 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building from (717, 1236, 20) to (718, 1240, 20) in Malas: "static" "53" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:04:46 AM: 127.0.0.1: Serials: 0x400002EC; 0x400002ED; 0x400002EE; 0x400002EF; 0x400002F0; 0x400002F1; 0x400002F2; 0x400002F3; 0x400002F4; 0x400002F5; 
+1/12/2016 1:04:50 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'm remove'
+1/12/2016 1:04:50 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x400002EC (Static)
+1/12/2016 1:04:51 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x400002ED (Static)
+1/12/2016 1:04:51 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x400002EE (Static)
+1/12/2016 1:04:52 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x400002EF (Static)
+1/12/2016 1:04:52 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x400002F0 (Static)
+1/12/2016 1:04:57 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 53 set movable False hue 0 light Circle225'
+1/12/2016 1:04:58 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (718, 1241, 20) in Malas: "static" "53" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:04:58 AM: 127.0.0.1: Serials: 0x400002F8; 
+1/12/2016 1:05:04 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 20 static 52 set movable False hue 0 light {light}'
+1/12/2016 1:05:08 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building from (719, 1235, 20) to (723, 1235, 20) in Malas: "static" "52" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:05:08 AM: 127.0.0.1: Serials: 0x400002F9; 0x400002FA; 0x400002FB; 0x400002FC; 0x400002FD; 
+1/12/2016 1:05:11 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 20 static 52 set movable False hue 0 light {light}'
+1/12/2016 1:05:12 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (724, 1235, 20) in Malas: "static" "52" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:05:12 AM: 127.0.0.1: Serials: 0x400002FE; 
+1/12/2016 1:05:38 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 4613 set movable False hue 0 light Circle225'
+1/12/2016 1:05:40 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (719, 1236, 20) in Malas: "static" "4613" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:05:40 AM: 127.0.0.1: Serials: 0x40000306; 
+1/12/2016 1:05:44 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 4612 set movable False hue 0 light Circle225'
+1/12/2016 1:05:49 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (723, 1236, 20) in Malas: "static" "4612" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:05:49 AM: 127.0.0.1: Serials: 0x40000307; 
+1/12/2016 1:05:55 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Multi Add static 4614 set movable False hue 0 light Circle225'
+1/12/2016 1:05:56 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (720, 1236, 20) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:05:56 AM: 127.0.0.1: Serials: 0x40000308; 
+1/12/2016 1:05:57 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (721, 1236, 20) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:05:57 AM: 127.0.0.1: Serials: 0x40000309; 
+1/12/2016 1:05:59 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (722, 1236, 20) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:05:59 AM: 127.0.0.1: Serials: 0x4000030A; 
+1/12/2016 1:06:08 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 20 static 53 set movable False hue 0 light {light}'
+1/12/2016 1:06:14 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building from (724, 1236, 20) to (724, 1242, 20) in Malas: "static" "53" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:06:14 AM: 127.0.0.1: Serials: 0x4000030E; 0x4000030F; 0x40000310; 0x40000311; 0x40000312; 0x40000313; 0x40000314; 
+1/12/2016 1:06:29 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:06:30 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000306 (Static) to (722, 1241, 20)
+1/12/2016 1:06:38 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 68 set movable False hue 0 light Circle225'
+1/12/2016 1:06:40 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (718, 1235, 40) in Malas: "static" "68" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:06:40 AM: 127.0.0.1: Serials: 0x4000031F; 
+1/12/2016 1:06:43 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'props '
+1/12/2016 1:06:54 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 40 static 66 set movable False hue 0 light {light}'
+1/12/2016 1:06:55 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (719, 1235, 40) in Malas: "static" "66" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:06:55 AM: 127.0.0.1: Serials: 0x40000323; 
+1/12/2016 1:06:57 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 40 static 66 set movable False hue 0 light {light}'
+1/12/2016 1:06:58 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building from (720, 1235, 40) to (724, 1235, 40) in Malas: "static" "66" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:06:58 AM: 127.0.0.1: Serials: 0x40000324; 0x40000325; 0x40000326; 0x40000327; 0x40000328; 
+1/12/2016 1:07:01 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 40 static 67 set movable False hue 0 light {light}'
+1/12/2016 1:07:03 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building from (718, 1236, 40) to (718, 1242, 40) in Malas: "static" "67" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:07:03 AM: 127.0.0.1: Serials: 0x40000329; 0x4000032A; 0x4000032B; 0x4000032C; 0x4000032D; 0x4000032E; 0x4000032F; 
+1/12/2016 1:07:05 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 40 static 67 set movable False hue 0 light {light}'
+1/12/2016 1:07:06 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building from (724, 1236, 40) to (724, 1241, 40) in Malas: "static" "67" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:07:06 AM: 127.0.0.1: Serials: 0x40000330; 0x40000331; 0x40000332; 0x40000333; 0x40000334; 0x40000335; 
+1/12/2016 1:07:10 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 65 set movable False hue 0 light Circle225'
+1/12/2016 1:07:11 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (724, 1242, 40) in Malas: "static" "65" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:07:11 AM: 127.0.0.1: Serials: 0x40000339; 
+1/12/2016 1:07:15 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 40 static 66 set movable False hue 0 light {light}'
+1/12/2016 1:07:20 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building from (719, 1242, 40) to (723, 1242, 40) in Malas: "static" "66" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:07:20 AM: 127.0.0.1: Serials: 0x40000350; 0x40000351; 0x40000352; 0x40000353; 0x40000354; 
+1/12/2016 1:07:51 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 40 static 1407 set movable False hue 0 light {light}'
+1/12/2016 1:07:58 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'TileZ 40 static 1407 set movable False hue 0 light {light}'
+1/12/2016 1:08:04 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building from (719, 1236, 40) to (724, 1242, 40) in Malas: "static" "1407" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/12/2016 1:08:04 AM: 127.0.0.1: Serials: 0x4000035F; 0x40000360; 0x40000361; 0x40000362; 0x40000363; 0x40000364; 0x40000365; 0x40000366; 0x40000367; 0x40000368; 0x40000369; 0x4000036A; 0x4000036B; 0x4000036C; 0x4000036D; 0x4000036E; 0x4000036F; 0x40000370; 0x40000371; 0x40000372; 0x40000373; 0x40000374; 0x40000376; 0x40000378; 0x40000379; 0x4000037A; 0x4000037B; 0x4000037C; 0x4000037D; 0x4000037E; 0x4000037F; 0x40000380; 0x40000381; 0x40000382; 0x40000384; 0x40000386; 0x40000387; 0x40000388; 0x40000389; 0x4000038A; 0x4000038B; 0x4000038C; 
+1/12/2016 1:08:11 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:08:12 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000306 (Static) to (719, 1236, 20)
+1/12/2016 1:08:18 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:08:19 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x40000314 (Static)
+1/12/2016 1:08:24 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 51 set movable False hue 0 light Circle225'
+1/12/2016 1:08:25 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (724, 1242, 20) in Malas: "static" "51" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:08:25 AM: 127.0.0.1: Serials: 0x40000394; 
+1/12/2016 1:08:29 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 55 set movable False hue 0 light Circle225'
+1/12/2016 1:08:30 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (722, 1242, 20) in Malas: "static" "55" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:08:30 AM: 127.0.0.1: Serials: 0x40000395; 
+1/12/2016 1:08:33 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 57 set movable False hue 0 light Circle225'
+1/12/2016 1:08:34 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (720, 1242, 20) in Malas: "static" "57" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:08:34 AM: 127.0.0.1: Serials: 0x40000397; 
+1/12/2016 1:08:39 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:08:44 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 52 set movable False hue 0 light Circle225'
+1/12/2016 1:08:45 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (719, 1242, 20) in Malas: "static" "52" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:08:45 AM: 127.0.0.1: Serials: 0x40000398; 
+1/12/2016 1:08:47 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 52 set movable False hue 0 light Circle225'
+1/12/2016 1:08:51 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 59 set movable False hue 0 light Circle225'
+1/12/2016 1:08:52 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (723, 1242, 20) in Malas: "static" "59" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:08:52 AM: 127.0.0.1: Serials: 0x40000399; 
+1/12/2016 1:09:00 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:09:05 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x40000399 (Static)
+1/12/2016 1:09:08 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:09:09 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000395 (Static) to (723, 1242, 20)
+1/12/2016 1:09:24 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'go '
+1/12/2016 1:09:43 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'go '
+1/12/2016 1:09:59 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'go '
+1/12/2016 1:10:19 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:10:20 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000306 (Static) to (719, 1238, 20)
+1/12/2016 1:10:21 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:10:22 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000308 (Static) to (720, 1238, 20)
+1/12/2016 1:10:23 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:10:24 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000307 (Static) to (722, 1238, 20)
+1/12/2016 1:10:25 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:10:26 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x4000030A (Static) to (721, 1238, 20)
+1/12/2016 1:10:27 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:10:28 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000307 (Static) to (720, 1240, 20)
+1/12/2016 1:10:29 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:10:30 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000309 (Static) to (722, 1238, 20)
+1/12/2016 1:10:48 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Multi Add static 3649 set movable False hue 0 light Circle225'
+1/12/2016 1:10:49 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (719, 1236, 20) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:49 AM: 127.0.0.1: Serials: 0x400003C5; 
+1/12/2016 1:10:49 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (720, 1236, 20) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:49 AM: 127.0.0.1: Serials: 0x400003C6; 
+1/12/2016 1:10:50 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (721, 1236, 20) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:50 AM: 127.0.0.1: Serials: 0x400003CA; 
+1/12/2016 1:10:50 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (722, 1236, 20) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:50 AM: 127.0.0.1: Serials: 0x400003CB; 
+1/12/2016 1:10:52 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (723, 1236, 20) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:52 AM: 127.0.0.1: Serials: 0x400003CC; 
+1/12/2016 1:10:54 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (719, 1236, 24) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:54 AM: 127.0.0.1: Serials: 0x400003CD; 
+1/12/2016 1:10:55 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (719, 1236, 28) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:55 AM: 127.0.0.1: Serials: 0x400003D1; 
+1/12/2016 1:10:57 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (720, 1236, 24) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:57 AM: 127.0.0.1: Serials: 0x400003D2; 
+1/12/2016 1:10:58 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (721, 1236, 24) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:58 AM: 127.0.0.1: Serials: 0x400003D3; 
+1/12/2016 1:10:58 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (722, 1236, 24) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:58 AM: 127.0.0.1: Serials: 0x400003D4; 
+1/12/2016 1:10:59 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (723, 1236, 24) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:59 AM: 127.0.0.1: Serials: 0x400003D5; 
+1/12/2016 1:10:59 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (723, 1236, 28) in Malas: "static" "3649" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:10:59 AM: 127.0.0.1: Serials: 0x400003D6; 
+1/12/2016 1:11:03 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:11:04 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000307 (Static) to (721, 1242, 20)
+1/12/2016 1:11:05 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:11:06 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000306 (Static) to (719, 1239, 20)
+1/12/2016 1:11:07 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:11:09 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000308 (Static) to (720, 1239, 20)
+1/12/2016 1:11:10 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:11:11 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x4000030A (Static) to (721, 1239, 20)
+1/12/2016 1:11:12 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:11:13 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000309 (Static) to (722, 1239, 20)
+1/12/2016 1:11:14 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'move '
+1/12/2016 1:11:16 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') moving 0x40000307 (Static) to (723, 1239, 20)
+1/12/2016 1:11:34 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+1/12/2016 1:11:36 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (720, 1238, 20) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:11:36 AM: 127.0.0.1: Serials: 0x400003D8; 
+1/12/2016 1:11:38 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+1/12/2016 1:11:38 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (722, 1238, 20) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:11:38 AM: 127.0.0.1: Serials: 0x400003D9; 
+1/12/2016 1:11:42 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+1/12/2016 1:11:43 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (720, 1240, 20) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:11:43 AM: 127.0.0.1: Serials: 0x400003DA; 
+1/12/2016 1:11:44 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+1/12/2016 1:11:44 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (722, 1240, 20) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/12/2016 1:11:44 AM: 127.0.0.1: Serials: 0x400003DB; 
+1/12/2016 1:11:50 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'tele '
+1/12/2016 1:12:17 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'go '
+1/12/2016 1:12:24 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'props '
+1/12/2016 1:13:16 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'go '
+1/12/2016 1:13:36 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'where '
+1/12/2016 1:13:52 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'where '
+1/12/2016 1:14:09 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'tele '
+1/12/2016 1:14:14 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'where '
+1/12/2016 1:14:52 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'add minter'
+1/12/2016 1:14:53 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'add minte'
+1/12/2016 1:14:58 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (721, 1237, 20) in Malas: "TownMinter"
+1/12/2016 1:14:58 AM: 127.0.0.1: Serials: 0x143; 
+1/12/2016 1:14:59 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') building at (721, 1237, 20) in Malas: "TownMinter"
+1/12/2016 1:14:59 AM: 127.0.0.1: Serials: 0x146; 
+1/12/2016 1:15:06 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:15:07 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x146 "Ivar" (no account)
+1/12/2016 1:15:08 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:15:08 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x143 "Salina" (no account)
+1/12/2016 1:15:13 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'tele '
+1/12/2016 1:18:18 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'where '
+1/12/2016 1:18:45 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'where '
+1/12/2016 1:19:10 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'where '
+1/12/2016 1:19:36 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'where '
+1/12/2016 1:22:54 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'freezemap '
+1/12/2016 1:22:56 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') invoking freeze for every item in Owner
+1/12/2016 1:22:59 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'admin '
+1/12/2016 1:23:02 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/12/2016 1:23:02 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/12/2016 1:23:54 AM
+
+1/12/2016 1:24:28 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'admin '
+1/12/2016 1:24:32 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'decorate '
+1/12/2016 1:25:33 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:25:34 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x4000072A (ShadowEssence)
+1/12/2016 1:25:39 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:25:39 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x40000115 (Bag)
+1/12/2016 1:28:57 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:28:58 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x400002F4 (Spawner)
+1/12/2016 1:29:05 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:29:05 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x400002F8 (Spawner)
+1/12/2016 1:29:17 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:29:17 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x400002F5 (Spawner)
+1/12/2016 1:30:05 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'remove '
+1/12/2016 1:30:06 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') deleting 0x400002F3 (Spawner)
+1/12/2016 1:30:37 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/12/2016 1:30:54 AM
+
+1/12/2016 1:31:05 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'admin '
+1/12/2016 1:31:09 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'decorate '
+1/12/2016 1:35:39 AM: 127.0.0.1: Owner 0xF5 "Vargas" ('Zigholtul88') used command 'go '
+1/12/2016 4:01:12 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+1/12/2016 4:01:16 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/12/2016 4:01:16 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/12/2016 9:56:40 PM
+
+1/12/2016 9:57:07 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add spawner'
+1/12/2016 9:57:08 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1231, 1045, 0) in Malas: "spawner"
+1/12/2016 9:57:08 PM: 127.0.0.1: Serials: 0x4000003B; 
+1/12/2016 9:57:21 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+1/12/2016 9:57:22 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x4000003B (Spawner)
+1/12/2016 10:03:30 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') starting facet clear of Malas (4091 objects)
+1/12/2016 10:03:30 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'clearfacet '
+1/12/2016 10:03:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 4091 objects
+1/12/2016 10:19:11 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/12/2016 10:19:20 PM
+
+1/12/2016 10:19:39 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+1/12/2016 10:19:53 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'decorate '
+1/12/2016 10:20:59 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'link '
+1/12/2016 10:29:54 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') starting facet clear of Malas (2729 objects)
+1/12/2016 10:29:54 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'clearfacet '
+1/12/2016 10:29:55 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 2729 objects
+1/12/2016 10:30:28 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+1/12/2016 10:31:40 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+1/12/2016 10:32:52 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/12/2016 10:33:06 PM
+
+1/12/2016 10:33:18 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+1/12/2016 10:33:22 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'decorate '
+1/12/2016 10:34:08 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set x 1083'
+1/12/2016 10:34:08 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'x' of 0x24D "Melanchalth" ('Zigholtul88') to '1083'
+1/12/2016 10:34:25 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set y 1125'
+1/12/2016 10:34:25 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'y' of 0x24D "Melanchalth" ('Zigholtul88') to '1125'
+1/12/2016 10:34:41 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set x 1083'
+1/12/2016 10:34:42 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'x' of 0x24D "Melanchalth" ('Zigholtul88') to '1083'
+1/12/2016 10:36:50 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+1/12/2016 10:37:05 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/12/2016 10:37:18 PM
+
+1/12/2016 10:37:29 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+1/12/2016 10:37:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'decorate '
+1/12/2016 10:38:48 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+1/12/2016 10:39:11 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+1/12/2016 10:39:45 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+1/12/2016 10:40:22 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+1/12/2016 10:41:11 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+1/12/2016 10:42:49 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+1/12/2016 10:45:07 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set x 1286'
+1/12/2016 10:45:08 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'x' of 0x24D "Melanchalth" ('Zigholtul88') to '1286'
+1/12/2016 10:45:15 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set y 1184'
+1/12/2016 10:45:16 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'y' of 0x24D "Melanchalth" ('Zigholtul88') to '1184'
+1/12/2016 10:45:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set x 930'
+1/12/2016 10:45:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'x' of 0x24D "Melanchalth" ('Zigholtul88') to '930'
+1/12/2016 10:45:43 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set y 1132'
+1/12/2016 10:45:43 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'y' of 0x24D "Melanchalth" ('Zigholtul88') to '1132'
+1/12/2016 10:46:07 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set x 845'
+1/12/2016 10:46:08 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'x' of 0x24D "Melanchalth" ('Zigholtul88') to '845'
+1/12/2016 10:46:17 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'tele '
+1/12/2016 11:03:38 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+1/12/2016 11:03:43 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/12/2016 11:03:43 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'save '

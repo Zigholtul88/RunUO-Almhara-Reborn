@@ -1,0 +1,161 @@
+##############################
+Log started on 8/18/2016 5:24:00 PM
+
+##############################
+Log started on 8/18/2016 5:49:05 PM
+
+8/18/2016 5:50:49 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add shirt'
+8/18/2016 5:50:51 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (2537, 1974, 0) in Malas: "shirt"
+8/18/2016 5:50:51 PM: 127.0.0.1: Serials: 0x400003A6; 
+8/18/2016 5:51:13 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set rawstr 100'
+8/18/2016 5:51:14 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'rawstr' of 0xE "Itta Pupu" ('Zigholtul88') to '100'
+8/18/2016 5:51:20 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set rawdex 100'
+8/18/2016 5:51:21 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'rawdex' of 0xE "Itta Pupu" ('Zigholtul88') to '100'
+8/18/2016 5:51:23 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set int 100'
+8/18/2016 5:51:24 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'int' of 0xE "Itta Pupu" ('Zigholtul88') to '100'
+8/18/2016 5:51:28 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 5:51:41 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add robe'
+8/18/2016 5:51:42 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1192, 1056, 0) in Malas: "robe"
+8/18/2016 5:51:42 PM: 127.0.0.1: Serials: 0x400003B4; 
+8/18/2016 5:51:56 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add dress'
+8/18/2016 5:52:01 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1171, 1058, 0) in Malas: "PlainDress"
+8/18/2016 5:52:01 PM: 127.0.0.1: Serials: 0x400003C1; 
+8/18/2016 5:52:05 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1170, 1059, 0) in Malas: "FancyDress"
+8/18/2016 5:52:05 PM: 127.0.0.1: Serials: 0x400003C2; 
+8/18/2016 5:53:12 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add cloak'
+8/18/2016 5:53:14 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1162, 1088, 0) in Malas: "cloak"
+8/18/2016 5:53:14 PM: 127.0.0.1: Serials: 0x400003D5; 
+8/18/2016 5:54:07 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add dyetub'
+8/18/2016 5:54:08 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1215, 1059, 0) in Malas: "dyetub"
+8/18/2016 5:54:08 PM: 127.0.0.1: Serials: 0x400003FB; 
+8/18/2016 5:54:12 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add dyes'
+8/18/2016 5:54:13 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1215, 1058, 0) in Malas: "dyes"
+8/18/2016 5:54:13 PM: 127.0.0.1: Serials: 0x400003FC; 
+8/18/2016 6:02:18 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/18/2016 6:02:21 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/18/2016 6:02:22 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/18/2016 6:19:03 PM
+
+8/18/2016 6:19:31 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/18/2016 6:19:32 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400003C2 (FancyDress)
+8/18/2016 6:19:36 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add fancydress'
+8/18/2016 6:19:37 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1159, 1082, 0) in Malas: "fancydress"
+8/18/2016 6:19:37 PM: 127.0.0.1: Serials: 0x400004CD; 
+8/18/2016 6:19:48 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set race human'
+8/18/2016 6:19:48 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'race' of 0xE "Itta Pupu" ('Zigholtul88') to 'Human'
+##############################
+Log started on 8/18/2016 6:24:17 PM
+
+8/18/2016 6:25:52 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'set race elf'
+8/18/2016 6:25:53 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') set property 'race' of 0xE "Itta Pupu" ('Zigholtul88') to 'Elf'
+8/18/2016 6:27:07 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') used command 'set str 100'
+8/18/2016 6:27:07 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') set property 'str' of 0x58 "Kaelien" ('Zigholtul88') to '100'
+8/18/2016 6:27:11 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') used command 'set dex 100'
+8/18/2016 6:27:11 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') set property 'dex' of 0x58 "Kaelien" ('Zigholtul88') to '100'
+8/18/2016 6:27:14 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') used command 'set int 100'
+8/18/2016 6:27:14 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') set property 'int' of 0x58 "Kaelien" ('Zigholtul88') to '100'
+8/18/2016 6:27:18 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') used command 'go '
+8/18/2016 6:27:25 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') used command 'add dress'
+8/18/2016 6:27:27 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "FancyDress"
+8/18/2016 6:27:27 PM: 127.0.0.1: Serials: 0x40000527; 
+8/18/2016 6:27:32 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') building at (1179, 1055, 0) in Malas: "PlainDress"
+8/18/2016 6:27:32 PM: 127.0.0.1: Serials: 0x40000528; 
+8/18/2016 6:27:51 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "GildedDress"
+8/18/2016 6:27:51 PM: 127.0.0.1: Serials: 0x40000529; 
+8/18/2016 6:28:20 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') used command 'remove '
+8/18/2016 6:28:21 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') deleting 0x40000529 (GildedDress)
+8/18/2016 6:28:26 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') used command 'add cloak'
+8/18/2016 6:28:27 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "cloak"
+8/18/2016 6:28:27 PM: 127.0.0.1: Serials: 0x4000053E; 
+8/18/2016 6:28:30 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') used command 'add robe'
+8/18/2016 6:28:31 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "robe"
+8/18/2016 6:28:31 PM: 127.0.0.1: Serials: 0x40000540; 
+8/18/2016 6:29:18 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') used command 'admin '
+8/18/2016 6:29:21 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/18/2016 6:29:22 PM: 127.0.0.1: Owner 0x58 "Kaelien" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/18/2016 7:53:31 PM
+
+8/18/2016 8:05:53 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/18/2016 8:06:21 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add doublet'
+8/18/2016 8:06:22 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1158, 1059, 0) in Malas: "doublet"
+8/18/2016 8:06:22 PM: 127.0.0.1: Serials: 0x4000069B; 
+8/18/2016 8:06:51 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add fishingpole'
+8/18/2016 8:06:52 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1162, 1058, 0) in Malas: "fishingpole"
+8/18/2016 8:06:52 PM: 127.0.0.1: Serials: 0x400006A8; 
+8/18/2016 8:07:30 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add blackstaff'
+8/18/2016 8:07:31 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1160, 1059, 0) in Malas: "blackstaff"
+8/18/2016 8:07:31 PM: 127.0.0.1: Serials: 0x400006B3; 
+8/18/2016 8:08:24 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add studded'
+8/18/2016 8:08:28 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1166, 1059, 0) in Malas: "FemaleStuddedChest"
+8/18/2016 8:08:28 PM: 127.0.0.1: Serials: 0x400006C8; 
+8/18/2016 8:08:42 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1166, 1059, 0) in Malas: "StuddedChest"
+8/18/2016 8:08:42 PM: 127.0.0.1: Serials: 0x400006E0; 
+8/18/2016 8:08:52 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'm remove'
+8/18/2016 8:08:52 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400006E0 (StuddedChest)
+8/18/2016 8:08:54 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400006C8 (FemaleStuddedChest)
+8/18/2016 8:08:55 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400003A6 (Shirt)
+8/18/2016 8:08:56 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400006A8 (FishingPole)
+8/18/2016 8:08:57 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x4000069B (Doublet)
+8/18/2016 8:09:28 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add leatherchest'
+8/18/2016 8:09:29 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1165, 1060, 0) in Malas: "leatherchest"
+8/18/2016 8:09:29 PM: 127.0.0.1: Serials: 0x400006F9; 
+8/18/2016 8:09:35 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/18/2016 8:09:36 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x400006F9 (LeatherChest)
+8/18/2016 8:09:56 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add kilt'
+8/18/2016 8:09:57 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1165, 1060, 0) in Malas: "kilt"
+8/18/2016 8:09:57 PM: 127.0.0.1: Serials: 0x40000708; 
+8/18/2016 8:13:26 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/18/2016 8:13:35 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'props '
+8/18/2016 8:13:47 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/18/2016 8:13:50 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/18/2016 8:13:51 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/18/2016 8:25:37 PM
+
+8/18/2016 8:26:23 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/18/2016 8:26:26 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/18/2016 8:26:27 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/18/2016 8:47:57 PM
+
+8/18/2016 8:48:28 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add nightsightscroll'
+8/18/2016 8:48:30 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1173, 983, 0) in Malas: "nightsightscroll"
+8/18/2016 8:48:30 PM: 127.0.0.1: Serials: 0x4000079B; 
+8/18/2016 8:48:32 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add nightsightscroll 50'
+8/18/2016 8:48:33 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1172, 983, 0) in Malas: "nightsightscroll" "50"
+8/18/2016 8:48:33 PM: 127.0.0.1: Serials: 0x400007A2; 
+8/18/2016 8:48:54 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'add ethereal'
+8/18/2016 8:49:00 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') building at (1136, 959, 0) in Malas: "EtherealHiryu"
+8/18/2016 8:49:00 PM: 127.0.0.1: Serials: 0x400007B1; 
+8/18/2016 8:49:04 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'remove '
+8/18/2016 8:49:05 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') deleting 0x40000708 (Kilt)
+8/18/2016 8:52:53 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/18/2016 8:52:58 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/18/2016 8:53:05 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/18/2016 8:57:16 PM
+
+8/18/2016 8:57:58 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/18/2016 8:58:01 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/18/2016 8:58:08 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '
+##############################
+Log started on 8/18/2016 9:05:03 PM
+
+8/18/2016 9:06:56 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:08:16 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:09:42 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:10:49 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:14:35 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:17:06 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:22:43 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:23:45 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:31:31 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:31:55 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:33:21 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:34:20 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:34:37 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'go '
+8/18/2016 9:34:56 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'admin '
+8/18/2016 9:35:00 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+8/18/2016 9:35:00 PM: 127.0.0.1: Owner 0xE "Itta Pupu" ('Zigholtul88') used command 'save '

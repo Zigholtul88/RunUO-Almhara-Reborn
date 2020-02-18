@@ -1,0 +1,142 @@
+##############################
+Log started on 6/7/2019 3:17:29 AM
+
+6/7/2019 3:17:40 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+6/7/2019 3:18:03 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost off'
+6/7/2019 3:18:20 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set map tokuno'
+6/7/2019 3:18:21 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'map' of 0x1A "Tobe Faire" ('Zigholtul88') to 'Tokuno'
+6/7/2019 3:18:25 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') starting facet clear of Tokuno (271 objects)
+6/7/2019 3:18:25 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'clearfacet '
+6/7/2019 3:18:26 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 271 objects
+6/7/2019 3:18:40 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'spawngen tokuno/dungeons.map'
+6/7/2019 3:18:47 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set map ilshenar'
+6/7/2019 3:18:48 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'map' of 0x1A "Tobe Faire" ('Zigholtul88') to 'Ilshenar'
+6/7/2019 3:18:52 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') starting facet clear of Ilshenar (689 objects)
+6/7/2019 3:18:52 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'clearfacet '
+6/7/2019 3:18:54 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 689 objects
+6/7/2019 3:19:08 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'spawngen ilshenar/npcs.map'
+6/7/2019 3:19:14 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'spawngen ilshenar/dungeons.map'
+6/7/2019 3:19:17 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set map malas'
+6/7/2019 3:19:18 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'map' of 0x1A "Tobe Faire" ('Zigholtul88') to 'Malas'
+6/7/2019 3:19:29 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+6/7/2019 3:19:50 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'spawngen malas/towns.map'
+6/7/2019 3:19:58 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'spawngen malas/regions.map'
+6/7/2019 3:20:03 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+6/7/2019 3:20:08 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'decorate '
+6/7/2019 3:22:56 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/7/2019 3:23:08 AM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+6/7/2019 3:25:02 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 3:26:08 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'hunger '
+6/7/2019 3:26:19 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'hunger '
+6/7/2019 3:26:34 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'speedboost off'
+6/7/2019 3:31:01 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'props '
+6/7/2019 3:33:19 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'props '
+6/7/2019 3:33:40 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') set property 'SkillsCap' of 0x7D3 "Wymp Low" ('Zigholtul88') to '7000'
+6/7/2019 3:33:57 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/7/2019 3:39:25 AM
+
+6/7/2019 3:52:16 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 3:52:32 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 3:52:47 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'speedboost off'
+6/7/2019 4:21:04 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/7/2019 4:26:00 AM
+
+6/7/2019 4:33:10 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 4:36:21 AM: 127.0.0.1: Owner 0x7D3 "Wymp Low" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/7/2019 4:47:19 AM
+
+6/7/2019 4:47:44 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 4:49:37 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'hunger '
+6/7/2019 4:49:58 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'hunger '
+6/7/2019 4:50:07 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 4:50:42 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost off'
+6/7/2019 4:51:27 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'go '
+6/7/2019 4:52:35 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'tele '
+6/7/2019 4:54:57 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'go '
+6/7/2019 4:57:36 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'admin '
+6/7/2019 4:57:45 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 4:57:50 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'admin '
+6/7/2019 4:57:54 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/7/2019 4:57:58 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'save '
+##############################
+Log started on 6/7/2019 5:08:09 AM
+
+6/7/2019 5:08:31 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 5:08:43 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'go '
+6/7/2019 5:08:53 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'go '
+6/7/2019 5:09:11 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 5:09:14 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'go '
+6/7/2019 5:09:22 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'go '
+6/7/2019 5:09:28 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost '
+##############################
+Log started on 6/7/2019 5:12:56 AM
+
+6/7/2019 5:13:02 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 5:13:13 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'go '
+6/7/2019 5:13:26 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost off'
+6/7/2019 5:15:27 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'go '
+6/7/2019 5:15:40 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'bank '
+6/7/2019 5:15:41 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') opening bank box of 0xAB "Wymp Low" ('Zigholtul88')
+6/7/2019 5:15:55 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'go '
+6/7/2019 5:26:42 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'set hits 60'
+6/7/2019 5:26:43 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') set property 'hits' of 0xAB "Wymp Low" ('Zigholtul88') to '60'
+6/7/2019 5:45:58 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'props '
+6/7/2019 5:46:08 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') set property 'MinDelay' of 0x400046D8 (PremiumSpawner) to '00:05:00'
+6/7/2019 5:46:14 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') set property 'MaxDelay' of 0x400046D8 (PremiumSpawner) to '00:10:00'
+6/7/2019 5:46:31 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'props '
+6/7/2019 5:46:35 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') set property 'MaxDelay' of 0x400046D3 (PremiumSpawner) to '00:10:00'
+6/7/2019 5:46:41 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') set property 'MinDelay' of 0x400046D3 (PremiumSpawner) to '00:05:00'
+6/7/2019 5:47:00 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'props '
+6/7/2019 5:47:05 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') set property 'MaxDelay' of 0x400046CB (PremiumSpawner) to '00:10:00'
+6/7/2019 5:47:09 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') set property 'MinDelay' of 0x400046CB (PremiumSpawner) to '00:05:00'
+6/7/2019 5:47:30 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'props '
+6/7/2019 5:47:34 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') set property 'MaxDelay' of 0x400046DD (PremiumSpawner) to '00:10:00'
+6/7/2019 5:47:38 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') set property 'MinDelay' of 0x400046DD (PremiumSpawner) to '00:05:00'
+6/7/2019 5:51:10 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'set hits 1'
+6/7/2019 5:51:10 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') set property 'hits' of 0xAB "Wymp Low" ('Zigholtul88') to '1'
+6/7/2019 5:55:54 AM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 5:56:03 AM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 6:02:20 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 6:03:10 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/7/2019 6:08:37 AM
+
+6/7/2019 6:17:23 AM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 6:41:49 AM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 7:08:13 AM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 7:48:55 AM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 7:55:56 AM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 7:56:05 AM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 8:20:30 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'speedboost '
+6/7/2019 8:22:09 AM: 127.0.0.1: Owner 0xAB "Wymp Low" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/7/2019 8:38:48 AM
+
+6/7/2019 8:55:48 AM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 8:59:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/7/2019 8:59:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') unhiding 0x1 "Zigholtul" ('Zigholtul88')
+6/7/2019 8:59:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+6/7/2019 9:07:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/7/2019 9:10:37 AM
+
+6/7/2019 9:31:57 AM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 11:05:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/7/2019 11:05:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/7/2019 11:06:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/7/2019 11:06:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/7/2019 11:06:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 6/7/2019 7:04:02 PM
+
+6/7/2019 7:28:19 PM: 127.0.0.1: Player 0x308 "Sum Dum Phuk" ('Yugitashi') used command 'hunger '
+6/7/2019 7:42:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/7/2019 7:57:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (5756 objects)
+6/7/2019 7:57:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/7/2019 7:57:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 5756 objects
+6/7/2019 7:57:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/7/2019 7:57:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/7/2019 7:57:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

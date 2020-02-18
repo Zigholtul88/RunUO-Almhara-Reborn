@@ -1,0 +1,625 @@
+##############################
+Log started on 9/2/2018 6:08:56 AM
+
+9/2/2018 6:09:33 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'speedboost '
+9/2/2018 6:09:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:09:49 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:10:37 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:11:12 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:12:45 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:13:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:15:08 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:16:02 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:16:56 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:17:49 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:18:45 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:20:07 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:20:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:22:05 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 9/2/2018 6:35:13 AM
+
+9/2/2018 6:35:25 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'speedboost '
+9/2/2018 6:35:28 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:35:57 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:36:04 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:36:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 6:36:18 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:36:32 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add book'
+9/2/2018 6:36:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1648, 1857, 5) in Malas: "BardSpellbook"
+9/2/2018 6:36:36 AM: 127.0.0.1: Serials: 0x400008F7; 
+9/2/2018 6:36:40 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'move '
+9/2/2018 6:36:42 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') moving 0x400008F7 (BardSpellbook) to (1650, 1856, 20)
+9/2/2018 6:36:45 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 6:36:55 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x400008F7 (BardSpellbook) to '2990'
+9/2/2018 6:37:02 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Hue' of 0x400008F7 (BardSpellbook) to '0'
+9/2/2018 6:37:08 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x400008F7 (BardSpellbook) to '15'
+9/2/2018 6:37:12 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x400008F7 (BardSpellbook) to '10'
+9/2/2018 6:38:33 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 6:38:34 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400008F7 (BardSpellbook)
+9/2/2018 6:39:59 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:40:07 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:40:20 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 6:40:23 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:40:32 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add book'
+9/2/2018 6:40:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1679, 1935, 5) in Malas: "AncientSpellbook"
+9/2/2018 6:40:35 AM: 127.0.0.1: Serials: 0x40000A50; 
+9/2/2018 6:40:38 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 6:40:45 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Hue' of 0x40000A50 (AncientSpellbook) to '0'
+9/2/2018 6:40:51 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40000A50 (AncientSpellbook) to '3012'
+9/2/2018 6:40:56 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40000A50 (AncientSpellbook) to '3014'
+9/2/2018 6:41:01 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40000A50 (AncientSpellbook) to '10'
+9/2/2018 6:42:39 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'move '
+9/2/2018 6:42:41 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') moving 0x40000A50 (AncientSpellbook) to (1674, 1935, 11)
+9/2/2018 6:42:48 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40000A50 (AncientSpellbook) to '10'
+9/2/2018 6:43:23 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 6:43:24 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000A50 (AncientSpellbook)
+9/2/2018 6:43:38 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:43:46 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:44:01 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 6:44:04 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:44:18 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add book'
+9/2/2018 6:44:21 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1612, 1955, 5) in Malas: "AncientSpellbook"
+9/2/2018 6:44:21 AM: 127.0.0.1: Serials: 0x40000B2B; 
+9/2/2018 6:44:24 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 6:44:29 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Hue' of 0x40000B2B (AncientSpellbook) to '0'
+9/2/2018 6:44:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40000B2B (AncientSpellbook) to '3003'
+9/2/2018 6:44:43 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40000B2B (AncientSpellbook) to '10'
+9/2/2018 6:45:28 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 6:45:29 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000B2B (AncientSpellbook)
+9/2/2018 6:45:41 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:45:51 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 6:46:05 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:46:24 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:46:40 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:47:02 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:47:33 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:47:44 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 6:48:01 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 6:48:12 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 6:49:17 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:54:44 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:54:57 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 6:55:00 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:55:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add '
+9/2/2018 6:55:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add dagger'
+9/2/2018 6:55:17 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1686, 1913, 5) in Malas: "dagger"
+9/2/2018 6:55:17 AM: 127.0.0.1: Serials: 0x400029D6; 
+9/2/2018 6:55:20 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 6:55:32 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x400029D6 (Dagger) to '2979'
+9/2/2018 6:55:42 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x400029D6 (Dagger) to '10'
+9/2/2018 6:55:46 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Y' of 0x400029D6 (Dagger) to '1912'
+9/2/2018 6:55:50 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Y' of 0x400029D6 (Dagger) to '1915'
+9/2/2018 6:55:53 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Y' of 0x400029D6 (Dagger) to '1914'
+9/2/2018 6:55:57 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x400029D6 (Dagger) to '8'
+9/2/2018 6:56:03 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x400029D6 (Dagger) to '10'
+9/2/2018 6:57:03 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 6:57:05 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400029D6 (Dagger)
+9/2/2018 6:57:17 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:57:25 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:57:38 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 6:58:08 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add candle'
+9/2/2018 6:58:10 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1612, 1933, 5) in Malas: "candle"
+9/2/2018 6:58:10 AM: 127.0.0.1: Serials: 0x400029F9; 
+9/2/2018 6:58:13 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 6:58:25 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x400029F9 (Candle) to '3015'
+9/2/2018 6:58:32 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x400029F9 (Candle) to '10'
+9/2/2018 6:59:43 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'move '
+9/2/2018 6:59:45 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') moving 0x400029F9 (Candle) to (1612, 1938, 5)
+9/2/2018 6:59:49 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x400029F9 (Candle) to '10'
+9/2/2018 7:00:10 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:00:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400029F9 (Candle)
+9/2/2018 7:00:12 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:00:20 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:00:42 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:00:54 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:01:09 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:02:39 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:02:51 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:03:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:03:44 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:04:02 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 7:04:05 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:04:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add dagger'
+9/2/2018 7:04:37 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1632, 1902, 5) in Malas: "dagger"
+9/2/2018 7:04:37 AM: 127.0.0.1: Serials: 0x40002A6D; 
+9/2/2018 7:04:40 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 7:04:49 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40002A6D (Dagger) to '2982'
+9/2/2018 7:04:56 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40002A6D (Dagger) to '10'
+9/2/2018 7:05:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:05:16 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40002A6D (Dagger)
+9/2/2018 7:07:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 7:07:50 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 7:11:08 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 9/2/2018 7:11:44 AM
+
+9/2/2018 7:11:55 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'speedboost '
+9/2/2018 7:11:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:13:14 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add skaddria'
+9/2/2018 7:13:20 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:14:12 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:14:26 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:14:54 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:15:21 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'tele '
+9/2/2018 7:15:26 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'tele '
+9/2/2018 7:15:42 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:16:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:17:52 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:19:26 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 7:19:30 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 7:21:13 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:21:14 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000186E (Spawner)
+9/2/2018 7:21:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:21:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000186F (Spawner)
+9/2/2018 7:22:06 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:22:07 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000186D (Spawner)
+9/2/2018 7:22:08 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:22:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:22:16 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000186C (Spawner)
+9/2/2018 7:22:17 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:22:28 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:22:29 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40001869 (Spawner)
+9/2/2018 7:22:30 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:22:44 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 7:22:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 7:22:50 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:24:13 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:24:13 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40002C7B (Spawner)
+9/2/2018 7:24:14 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:24:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40002C7C (Spawner)
+9/2/2018 7:24:30 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 7:24:33 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 7:25:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:25:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40003382 (Spawner)
+9/2/2018 7:25:13 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:25:13 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40003383 (Spawner)
+9/2/2018 7:25:46 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:26:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:27:08 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 7:27:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 7:31:41 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:32:31 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:32:44 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 7:33:26 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:33:54 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add banana'
+9/2/2018 7:33:56 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1658, 1902, 5) in Malas: "banana"
+9/2/2018 7:33:56 AM: 127.0.0.1: Serials: 0x40005265; 
+9/2/2018 7:33:59 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 7:34:13 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40005265 (Banana) to '3018'
+9/2/2018 7:34:19 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40005265 (Banana) to '10'
+9/2/2018 7:34:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:34:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40005265 (Banana)
+9/2/2018 7:35:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:35:19 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'm remove'
+9/2/2018 7:35:21 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400027C1 (LocalizedSign)
+9/2/2018 7:35:26 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'm remove'
+9/2/2018 7:35:27 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x29 "Roberto Sinatra" (no account)
+9/2/2018 7:35:28 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x2E "Keturah Chambers" (no account)
+9/2/2018 7:35:30 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x2C "Gemma Underhill" (no account)
+9/2/2018 7:35:34 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'tele '
+9/2/2018 7:35:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'tele '
+9/2/2018 7:35:40 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:35:43 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0xF "Lewis Townsend" (no account)
+9/2/2018 7:35:44 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:35:45 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x22 "Diana McThornbody" (no account)
+9/2/2018 7:35:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:35:48 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000009A (PremiumSpawner)
+9/2/2018 7:35:49 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:35:51 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:35:51 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000142 (PremiumSpawner)
+9/2/2018 7:35:53 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:35:53 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000138 (PremiumSpawner)
+9/2/2018 7:35:56 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:35:57 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x23 "Luthor Yorkshire" (no account)
+9/2/2018 7:35:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:35:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000014C (PremiumSpawner)
+9/2/2018 7:36:01 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:36:02 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400001A4 (PremiumSpawner)
+9/2/2018 7:36:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:36:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x24 "Pedro Valentine" (no account)
+9/2/2018 7:36:19 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:36:19 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000164 (PremiumSpawner)
+9/2/2018 7:36:25 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:36:42 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400027CC (LocalizedSign)
+9/2/2018 7:36:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:36:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400027CF (LocalizedSign)
+9/2/2018 7:36:51 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:36:54 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:36:54 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000016D (PremiumSpawner)
+9/2/2018 7:36:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:36:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400027E0 (LocalizedSign)
+9/2/2018 7:37:03 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:03 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x2F "Gemini Goldstein" (no account)
+9/2/2018 7:37:04 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:05 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400001C2 (PremiumSpawner)
+9/2/2018 7:37:06 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:06 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0xD "Nathan Smith" (no account)
+9/2/2018 7:37:07 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:08 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000091 (PremiumSpawner)
+9/2/2018 7:37:10 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x27 "Alan Smith" (no account)
+9/2/2018 7:37:12 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:12 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000177 (PremiumSpawner)
+9/2/2018 7:37:34 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x20 "Valen Redbark" (no account)
+9/2/2018 7:37:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000012D (PremiumSpawner)
+9/2/2018 7:37:39 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:39 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400027BE (LocalizedSign)
+9/2/2018 7:37:55 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:55 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400027ED (LocalizedSign)
+9/2/2018 7:37:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:37:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400027EE (StrongWoodDoor)
+9/2/2018 7:38:00 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:38:00 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0xB "Boryan" (no account)
+9/2/2018 7:38:01 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:38:04 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:38:04 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000081 (PremiumSpawner)
+9/2/2018 7:38:14 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:38:14 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400027B2 (LocalizedSign)
+9/2/2018 7:38:16 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:38:16 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x2D "Chester Benedict" (no account)
+9/2/2018 7:38:17 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:38:18 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400001AF (PremiumSpawner)
+9/2/2018 7:38:20 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:38:21 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x1D "Zake Clementine" (no account)
+9/2/2018 7:38:22 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:38:22 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000113 (PremiumSpawner)
+9/2/2018 7:38:48 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:38:48 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x30 "Adrianna Torchwood" (no account)
+9/2/2018 7:38:52 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:38:53 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400001CC (PremiumSpawner)
+9/2/2018 7:42:06 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:42:06 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x882 "Pedro Valentine" (no account)
+9/2/2018 7:42:10 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:42:10 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000157 (PremiumSpawner)
+9/2/2018 7:42:20 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:42:20 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x884 "Roberto Sinatra" (no account)
+9/2/2018 7:42:23 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:42:23 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40000189 (PremiumSpawner)
+9/2/2018 7:42:26 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:42:26 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400001B8 (PremiumSpawner)
+9/2/2018 7:44:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:46:00 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:46:55 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:47:20 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:47:31 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:48:37 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:48:50 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 7:49:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:49:38 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:49:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add apple'
+9/2/2018 7:49:49 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1592, 1840, 8) in Malas: "apple"
+9/2/2018 7:49:49 AM: 127.0.0.1: Serials: 0x40005377; 
+9/2/2018 7:49:59 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 7:50:14 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40005377 (Apple) to '2991'
+9/2/2018 7:50:18 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40005377 (Apple) to '10'
+9/2/2018 7:50:53 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 7:50:53 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40005377 (Apple)
+9/2/2018 7:52:06 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 7:52:10 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 7:53:01 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:54:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 7:54:45 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 8:29:56 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 8:30:22 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 8:30:34 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 8:30:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 8:30:46 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add apple'
+9/2/2018 8:30:48 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1674, 1899, 5) in Malas: "apple"
+9/2/2018 8:30:48 AM: 127.0.0.1: Serials: 0x40005A7E; 
+9/2/2018 8:30:50 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 8:30:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40005A7E (Apple) to '3007'
+9/2/2018 8:31:02 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40005A7E (Apple) to '3005'
+9/2/2018 8:31:09 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40005A7E (Apple) to '10'
+9/2/2018 8:33:13 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 8:34:25 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 8:34:25 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40005A7E (Apple)
+9/2/2018 8:34:27 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 8:35:16 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 8:36:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 8:36:25 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 8:36:59 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 8:37:08 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 8:37:40 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 8:37:50 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 8:37:53 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 8:38:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 8:38:16 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400027D4 (LocalizedSign)
+9/2/2018 8:38:27 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 8:38:38 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add apple'
+9/2/2018 8:38:39 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1605, 1902, 5) in Malas: "apple"
+9/2/2018 8:38:39 AM: 127.0.0.1: Serials: 0x40005AAE; 
+9/2/2018 8:38:41 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 8:38:53 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40005AAE (Apple) to '2996'
+9/2/2018 8:38:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40005AAE (Apple) to '10'
+9/2/2018 8:39:14 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'move '
+9/2/2018 8:39:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') moving 0x40005AAE (Apple) to (1598, 1902, 20)
+9/2/2018 8:39:20 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40005AAE (Apple) to '10'
+9/2/2018 8:39:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'move '
+9/2/2018 8:39:40 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') moving 0x40005AAE (Apple) to (1612, 1890, 5)
+9/2/2018 8:39:46 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40005AAE (Apple) to '2997'
+9/2/2018 8:39:49 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40005AAE (Apple) to '2995'
+9/2/2018 8:39:54 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40005AAE (Apple) to '10'
+9/2/2018 8:40:34 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'move '
+9/2/2018 8:40:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') moving 0x40005AAE (Apple) to (1612, 1883, 5)
+9/2/2018 8:40:37 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'move '
+9/2/2018 8:40:38 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') moving 0x40005AAE (Apple) to (1612, 1885, 5)
+9/2/2018 8:40:41 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'move '
+9/2/2018 8:40:42 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') moving 0x40005AAE (Apple) to (1612, 1884, 5)
+9/2/2018 8:40:46 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40005AAE (Apple) to '10'
+9/2/2018 8:41:10 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 8:41:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40005AAE (Apple)
+9/2/2018 8:42:57 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 9/2/2018 8:43:31 AM
+
+9/2/2018 8:43:41 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'speedboost '
+9/2/2018 8:43:45 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 8:43:49 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 8:43:57 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 8:45:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 9:00:52 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 9:04:23 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 9:04:38 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 9:04:44 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 9:04:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 9:25:24 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 9:25:28 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+9/2/2018 9:25:31 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'save '
+##############################
+Log started on 9/2/2018 10:31:54 AM
+
+9/2/2018 10:33:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'speedboost '
+9/2/2018 10:33:41 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') starting facet clear of Malas (4370 objects)
+9/2/2018 10:33:41 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'clearfacet '
+9/2/2018 10:33:43 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 4370 objects
+9/2/2018 10:34:01 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 10:34:13 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 10:34:17 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 10:34:37 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 10:34:46 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add skaddr'
+9/2/2018 10:35:26 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 10:36:13 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 10:37:14 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 10:37:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 10:37:46 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 10:38:22 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 10:39:05 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 10:40:11 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 10:41:07 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 10:41:50 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 10:42:29 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 10:42:32 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 10:42:34 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 10:44:25 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 10:44:40 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'tele '
+9/2/2018 10:44:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'tele '
+9/2/2018 10:45:10 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 10:46:18 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 10:46:21 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 10:46:34 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'tele '
+9/2/2018 10:47:08 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'save '
+9/2/2018 11:51:44 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 11:52:18 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 11:52:58 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 11:53:26 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 11:53:29 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 12:00:43 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:01:37 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:01:50 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:02:55 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:03:08 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:03:16 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 12:03:19 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:03:28 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add apple'
+9/2/2018 12:03:30 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1625, 1833, 5) in Malas: "apple"
+9/2/2018 12:03:30 PM: 127.0.0.1: Serials: 0x40001998; 
+9/2/2018 12:03:33 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 12:03:42 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40001998 (Apple) to '2984'
+9/2/2018 12:03:47 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x40001998 (Apple) to '2986'
+9/2/2018 12:03:57 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x40001998 (Apple) to '10'
+9/2/2018 12:05:26 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 12:05:26 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40001998 (Apple)
+9/2/2018 12:05:36 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:06:37 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:06:49 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 12:06:52 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:07:06 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add apple'
+9/2/2018 12:07:08 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1612, 1868, 7) in Malas: "apple"
+9/2/2018 12:07:08 PM: 127.0.0.1: Serials: 0x400019CB; 
+9/2/2018 12:07:10 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/2/2018 12:07:17 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x400019CB (Apple) to '2965'
+9/2/2018 12:07:22 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x400019CB (Apple) to '10'
+9/2/2018 12:08:50 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'move '
+9/2/2018 12:08:52 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') moving 0x400019CB (Apple) to (1599, 1873, 7)
+9/2/2018 12:08:59 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x400019CB (Apple) to '2964'
+9/2/2018 12:09:03 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'ItemID' of 0x400019CB (Apple) to '2966'
+9/2/2018 12:09:30 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'Z' of 0x400019CB (Apple) to '10'
+9/2/2018 12:09:44 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 12:09:45 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400019CB (Apple)
+9/2/2018 12:09:47 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:10:21 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') starting facet clear of Malas (726 objects)
+9/2/2018 12:10:21 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'clearfacet '
+9/2/2018 12:10:23 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 726 objects
+9/2/2018 12:10:24 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 12:10:27 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 12:11:08 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:11:47 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:11:56 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:12:20 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:12:33 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:13:14 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 12:13:18 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 12:13:30 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:14:28 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 12:14:31 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 12:18:44 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:21:59 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:24:41 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:25:50 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 12:25:53 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 12:31:18 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:31:24 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:31:32 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:31:47 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:31:49 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:31:55 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:32:34 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 12:32:37 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 12:33:11 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add watertrou'
+9/2/2018 12:33:14 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1375, 2014, 0) in Malas: "WaterTroughEastAddon"
+9/2/2018 12:33:14 PM: 127.0.0.1: Serials: 0x40003569; 
+9/2/2018 12:33:16 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1375, 2013, 0) in Malas: "WaterTroughEastAddon"
+9/2/2018 12:33:16 PM: 127.0.0.1: Serials: 0x4000356E; 
+9/2/2018 12:33:19 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 12:33:20 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000356B (AddonComponent)
+9/2/2018 12:34:24 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:34:39 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 12:34:41 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/2/2018 12:34:41 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40003570 (AddonComponent)
+9/2/2018 12:34:43 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 12:34:46 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 12:46:15 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:56:07 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'm tele'
+9/2/2018 12:56:24 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:57:32 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:58:45 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 12:59:17 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'set map tokuno'
+9/2/2018 12:59:18 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'map' of 0x486 "Jade Emerald" ('Zigholtul88') to 'Tokuno'
+9/2/2018 12:59:20 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 12:59:50 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 9/2/2018 1:00:25 PM
+
+9/2/2018 1:00:35 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'speedboost '
+9/2/2018 1:00:43 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'set map malas'
+9/2/2018 1:00:44 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'map' of 0x486 "Jade Emerald" ('Zigholtul88') to 'Malas'
+9/2/2018 1:00:45 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 1:02:22 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:02:42 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:02:57 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'set map tokuno'
+9/2/2018 1:02:59 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'map' of 0x486 "Jade Emerald" ('Zigholtul88') to 'Tokuno'
+9/2/2018 1:03:00 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 1:05:09 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:05:34 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:06:55 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 1:06:59 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 1:07:13 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:07:31 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:07:47 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:07:58 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:08:09 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 1:08:13 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 1:08:18 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:08:33 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:08:49 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:09:03 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:09:15 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 1:09:19 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 1:09:25 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:09:56 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 1:09:59 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 1:10:40 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'set map malas'
+9/2/2018 1:10:41 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'map' of 0x486 "Jade Emerald" ('Zigholtul88') to 'Malas'
+9/2/2018 1:10:43 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 1:11:02 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:11:54 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:12:08 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'set map tokuno'
+9/2/2018 1:12:09 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'map' of 0x486 "Jade Emerald" ('Zigholtul88') to 'Tokuno'
+9/2/2018 1:12:11 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 1:12:56 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:13:17 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:14:21 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 1:14:24 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 1:14:33 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:14:47 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:15:02 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:15:12 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:15:26 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:15:40 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'where '
+9/2/2018 1:16:10 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'admin '
+9/2/2018 1:16:13 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'decorate '
+9/2/2018 1:17:22 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'save '
+9/2/2018 1:22:16 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 1:22:58 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'res '
+9/2/2018 1:22:59 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') resurrecting 0x486 "Jade Emerald" ('Zigholtul88')
+9/2/2018 1:23:05 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'set str 50'
+9/2/2018 1:23:06 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'str' of 0x486 "Jade Emerald" ('Zigholtul88') to '50'
+9/2/2018 1:23:09 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'set hits 500'
+9/2/2018 1:23:09 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'hits' of 0x486 "Jade Emerald" ('Zigholtul88') to '500'
+9/2/2018 1:25:09 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/2/2018 1:27:24 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/3/2018 11:13:06 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'go '
+9/3/2018 11:16:04 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add '
+9/3/2018 11:16:26 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'Add ReinassancePants'
+9/3/2018 11:16:28 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1628, 1896, 10) in Malas: "ReinassancePants"
+9/3/2018 11:16:28 AM: 127.0.0.1: Serials: 0x4000610F; 
+9/3/2018 11:16:53 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'Add LeatherShirt'
+9/3/2018 11:16:54 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1630, 1896, 10) in Malas: "LeatherShirt"
+9/3/2018 11:16:54 AM: 127.0.0.1: Serials: 0x40006116; 
+9/3/2018 11:17:14 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add glasses'
+9/3/2018 11:17:21 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1629, 1897, 10) in Malas: "SunGlasses"
+9/3/2018 11:17:21 AM: 127.0.0.1: Serials: 0x40006117; 
+9/3/2018 11:17:47 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/3/2018 11:17:59 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'set hue 23'
+9/3/2018 11:17:59 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') set property 'hue' of 0x40006117 (SunGlasses) to '23'
+9/3/2018 11:18:41 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'Add LightBoots'
+9/3/2018 11:18:42 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1630, 1897, 10) in Malas: "LightBoots"
+9/3/2018 11:18:42 AM: 127.0.0.1: Serials: 0x40006121; 
+9/3/2018 11:19:00 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add baro'
+9/3/2018 11:19:02 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1630, 1897, 10) in Malas: "BaroqueMask"
+9/3/2018 11:19:02 AM: 127.0.0.1: Serials: 0x40006126; 
+9/3/2018 11:19:30 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'Add FullApron'
+9/3/2018 11:19:30 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1629, 1897, 10) in Malas: "FullApron"
+9/3/2018 11:19:30 AM: 127.0.0.1: Serials: 0x40006127; 
+9/3/2018 11:20:52 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'Add ReinassanceDress'
+9/3/2018 11:20:53 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1629, 1897, 10) in Malas: "ReinassanceDress"
+9/3/2018 11:20:53 AM: 127.0.0.1: Serials: 0x40006131; 
+9/3/2018 11:21:04 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'Add TheaterDress'
+9/3/2018 11:21:06 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1629, 1898, 10) in Malas: "TheaterDress"
+9/3/2018 11:21:06 AM: 127.0.0.1: Serials: 0x40006133; 
+9/3/2018 11:21:24 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:21:25 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40006131 (ReinassanceDress)
+9/3/2018 11:21:32 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:21:33 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40006116 (LeatherShirt)
+9/3/2018 11:21:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:21:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000610F (ReinassancePants)
+9/3/2018 11:21:39 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:21:40 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400001E2 (Boots)
+9/3/2018 11:21:43 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:21:44 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x40006127 (FullApron)
+9/3/2018 11:21:52 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'Add Obi'
+9/3/2018 11:21:52 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1629, 1897, 10) in Malas: "Obi"
+9/3/2018 11:21:52 AM: 127.0.0.1: Serials: 0x4000613B; 
+9/3/2018 11:22:19 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:22:19 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400026A1 (ShortPants)
+9/3/2018 11:22:21 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:22:21 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400026A2 (Boots)
+9/3/2018 11:23:15 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'Add FurCape'
+9/3/2018 11:23:16 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1629, 1897, 10) in Malas: "FurCape"
+9/3/2018 11:23:16 AM: 127.0.0.1: Serials: 0x4000613E; 
+9/3/2018 11:23:28 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'Add RegalCloak'
+9/3/2018 11:23:29 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') building at (1630, 1897, 10) in Malas: "RegalCloak"
+9/3/2018 11:23:29 AM: 127.0.0.1: Serials: 0x4000613F; 
+9/3/2018 11:24:01 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:24:01 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000613E (FurCape)
+9/3/2018 11:24:28 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:24:30 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400026A0 (Shirt)
+9/3/2018 11:24:31 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:24:32 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x4000269B (RogueSpellbook)
+9/3/2018 11:24:33 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:24:34 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400001E1 (ShortPants)
+9/3/2018 11:24:35 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:24:36 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400001DF (Shirt)
+9/3/2018 11:24:38 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'remove '
+9/3/2018 11:24:39 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') deleting 0x400026A3 (RogueSkillGuide)
+9/3/2018 11:52:45 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/3/2018 11:54:07 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'add theat'
+9/3/2018 11:55:24 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/3/2018 11:55:39 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/3/2018 11:55:50 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/3/2018 11:55:59 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/3/2018 11:56:09 AM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'props '
+9/3/2018 12:04:38 PM: 127.0.0.1: Owner 0x486 "Jade Emerald" ('Zigholtul88') used command 'restart '

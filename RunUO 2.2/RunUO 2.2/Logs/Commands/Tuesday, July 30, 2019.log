@@ -1,0 +1,43 @@
+##############################
+Log started on 7/30/2019 10:07:52 PM
+
+7/30/2019 10:08:20 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+7/30/2019 10:08:48 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+7/30/2019 10:09:51 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'spawngen malas/regions.map'
+7/30/2019 10:09:53 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+7/30/2019 10:10:15 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'spawngen malas/towns.map'
+7/30/2019 10:10:17 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'admin '
+7/30/2019 10:10:21 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'decorate '
+7/30/2019 10:10:29 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/30/2019 10:16:41 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'expbar '
+7/30/2019 10:17:01 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'props '
+7/30/2019 10:17:14 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'go '
+7/30/2019 10:17:27 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/30/2019 10:17:52 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+7/30/2019 10:17:57 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'props '
+7/30/2019 10:18:06 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'Level' of 0x12 "Womp Womp" ('Zigholtul88') to '1'
+7/30/2019 10:18:13 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'LevelAt' of 0x12 "Womp Womp" ('Zigholtul88') to '500'
+7/30/2019 10:18:17 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'expbar '
+7/30/2019 10:21:38 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'props '
+7/30/2019 10:21:50 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'LevelAt' of 0x12 "Womp Womp" ('Zigholtul88') to '200'
+7/30/2019 10:23:04 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'res '
+7/30/2019 10:23:05 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') resurrecting 0x12 "Womp Womp" ('Zigholtul88')
+7/30/2019 10:23:09 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'set hits 56'
+7/30/2019 10:23:10 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'hits' of 0x12 "Womp Womp" ('Zigholtul88') to '56'
+##############################
+Log started on 7/30/2019 11:19:47 PM
+
+7/30/2019 11:20:06 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+7/30/2019 11:20:38 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') used command 'speedboost '
+7/30/2019 11:20:55 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') used command 'speedboost '
+7/30/2019 11:23:18 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') used command 'go '
+7/30/2019 11:24:27 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') used command 'expbar '
+7/30/2019 11:24:43 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') used command 'go '
+7/30/2019 11:31:17 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') used command 'remove '
+7/30/2019 11:31:17 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') deleting 0x5BF "Marliss" (no account)
+7/30/2019 11:39:59 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') starting facet clear of Malas (6006 objects)
+7/30/2019 11:39:59 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') used command 'clearfacet '
+7/30/2019 11:40:00 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') deleting 6006 objects
+7/30/2019 11:40:35 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') used command 'admin '
+7/30/2019 11:40:38 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/30/2019 11:40:39 PM: 127.0.0.1: Owner 0x5BC "Derp Derp" ('Zigholtul88') used command 'save '

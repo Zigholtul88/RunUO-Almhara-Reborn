@@ -1,0 +1,27 @@
+##############################
+Log started on 5/9/2016 10:22:33 PM
+
+5/9/2016 10:33:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/9/2016 10:36:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add grandfather'
+5/9/2016 10:36:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1132, 927, 15) in Malas: "SmallGrandfatherClock"
+5/9/2016 10:36:22 PM: 127.0.0.1: Serials: 0x40000486; 
+5/9/2016 10:36:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'flip '
+5/9/2016 10:36:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+5/9/2016 10:36:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000486 (SmallGrandfatherClock) to (1129, 929, 15)
+5/9/2016 10:36:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'flip '
+5/9/2016 10:36:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/9/2016 10:37:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/9/2016 10:37:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000486 (SmallGrandfatherClock)
+5/9/2016 10:37:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/9/2016 10:37:47 PM
+
+5/9/2016 10:38:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/9/2016 10:38:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/9/2016 10:38:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/9/2016 10:40:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/9/2016 10:42:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elixir'
+5/9/2016 10:42:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elix'
+5/9/2016 10:42:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/9/2016 10:42:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/9/2016 10:42:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

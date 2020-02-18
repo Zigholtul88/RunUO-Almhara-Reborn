@@ -1,0 +1,902 @@
+##############################
+Log started on 7/24/2019 12:19:25 AM
+
+7/24/2019 12:19:58 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+7/24/2019 12:20:09 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'set map felucca'
+7/24/2019 12:20:10 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'map' of 0x12 "Womp Womp" ('Zigholtul88') to 'Felucca'
+7/24/2019 12:20:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'go '
+7/24/2019 12:20:23 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') unhiding 0x12 "Womp Womp" ('Zigholtul88')
+7/24/2019 12:20:23 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'Self Unhide'
+7/24/2019 12:20:58 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add tallteee'
+7/24/2019 12:21:02 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add talltree'
+7/24/2019 12:21:06 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4426, 1623, -4) in Felucca: "TallTree01Addon"
+7/24/2019 12:21:06 AM: 127.0.0.1: Serials: 0x40000069; 
+7/24/2019 12:21:10 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 12:21:12 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000072 (AddonComponent) to (4425, 1623, -2)
+7/24/2019 12:21:15 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 12:21:16 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000072 (AddonComponent) to (4425, 1622, -1)
+7/24/2019 12:21:22 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:21:33 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4415, 1657, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:21:33 AM: 127.0.0.1: Serials: 0x40000087; 
+7/24/2019 12:21:37 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 12:21:38 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:21:46 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4398, 1633, 1) in Felucca: "TallTree03Addon"
+7/24/2019 12:21:46 AM: 127.0.0.1: Serials: 0x4000009E; 
+7/24/2019 12:21:51 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:21:59 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4406, 1622, 2) in Felucca: "TallTree04Addon"
+7/24/2019 12:21:59 AM: 127.0.0.1: Serials: 0x400000BF; 
+7/24/2019 12:22:02 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:22:08 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4376, 1622, 2) in Felucca: "TallTree02Addon"
+7/24/2019 12:22:08 AM: 127.0.0.1: Serials: 0x400000D8; 
+7/24/2019 12:22:10 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:22:19 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4364, 1639, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:22:19 AM: 127.0.0.1: Serials: 0x400000EF; 
+7/24/2019 12:22:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:22:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4377, 1658, 2) in Felucca: "TallTree01Addon"
+7/24/2019 12:22:32 AM: 127.0.0.1: Serials: 0x40000108; 
+7/24/2019 12:22:35 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:22:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4391, 1686, 1) in Felucca: "TallTree02Addon"
+7/24/2019 12:22:47 AM: 127.0.0.1: Serials: 0x40000121; 
+7/24/2019 12:22:50 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:23:00 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4401, 1722, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:23:00 AM: 127.0.0.1: Serials: 0x40000138; 
+7/24/2019 12:23:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:23:09 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4410, 1747, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:23:09 AM: 127.0.0.1: Serials: 0x4000014F; 
+7/24/2019 12:23:12 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:23:18 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4421, 1740, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:23:18 AM: 127.0.0.1: Serials: 0x4000016B; 
+7/24/2019 12:23:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:23:28 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4439, 1750, 4) in Felucca: "TallTree01Addon"
+7/24/2019 12:23:28 AM: 127.0.0.1: Serials: 0x40000182; 
+7/24/2019 12:23:31 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:23:38 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4452, 1747, 8) in Felucca: "TallTree04Addon"
+7/24/2019 12:23:38 AM: 127.0.0.1: Serials: 0x4000019B; 
+7/24/2019 12:23:41 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 12:23:42 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x400001A3 (AddonComponent) to (4456, 1747, 8)
+7/24/2019 12:23:48 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:23:56 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4467, 1734, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:23:56 AM: 127.0.0.1: Serials: 0x400001B4; 
+7/24/2019 12:24:00 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:24:09 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4438, 1732, -4) in Felucca: "TallTree01Addon"
+7/24/2019 12:24:09 AM: 127.0.0.1: Serials: 0x400001CB; 
+7/24/2019 12:24:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:24:18 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4438, 1711, -2) in Felucca: "TallTree02Addon"
+7/24/2019 12:24:18 AM: 127.0.0.1: Serials: 0x400001E4; 
+7/24/2019 12:24:20 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:24:28 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4420, 1693, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:24:28 AM: 127.0.0.1: Serials: 0x400001FF; 
+7/24/2019 12:24:30 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:24:35 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4420, 1675, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:24:35 AM: 127.0.0.1: Serials: 0x4000022C; 
+7/24/2019 12:24:37 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:24:48 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4438, 1622, -1) in Felucca: "TallTree02Addon"
+7/24/2019 12:24:48 AM: 127.0.0.1: Serials: 0x40000250; 
+7/24/2019 12:24:51 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:24:58 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4438, 1639, -3) in Felucca: "TallTree03Addon"
+7/24/2019 12:24:58 AM: 127.0.0.1: Serials: 0x40000267; 
+7/24/2019 12:25:01 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:25:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4350, 1627, 1) in Felucca: "TallTree02Addon"
+7/24/2019 12:25:13 AM: 127.0.0.1: Serials: 0x40000280; 
+7/24/2019 12:25:16 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:25:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4324, 1640, 2) in Felucca: "TallTree01Addon"
+7/24/2019 12:25:21 AM: 127.0.0.1: Serials: 0x4000029B; 
+7/24/2019 12:25:23 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:25:30 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4315, 1657, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:25:30 AM: 127.0.0.1: Serials: 0x400002B4; 
+7/24/2019 12:25:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:25:40 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4323, 1679, 1) in Felucca: "TallTree02Addon"
+7/24/2019 12:25:40 AM: 127.0.0.1: Serials: 0x400002CD; 
+7/24/2019 12:25:43 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:25:49 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4332, 1700, 1) in Felucca: "TallTree01Addon"
+7/24/2019 12:25:49 AM: 127.0.0.1: Serials: 0x400002E8; 
+7/24/2019 12:25:51 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:25:58 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4336, 1713, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:25:58 AM: 127.0.0.1: Serials: 0x40000301; 
+7/24/2019 12:26:00 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:26:06 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4351, 1708, 0) in Felucca: "TallTree03Addon"
+7/24/2019 12:26:06 AM: 127.0.0.1: Serials: 0x4000031A; 
+7/24/2019 12:26:08 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:26:17 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4367, 1707, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:26:17 AM: 127.0.0.1: Serials: 0x40000333; 
+7/24/2019 12:26:19 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:26:27 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4381, 1718, 0) in Felucca: "TallTree05Addon"
+7/24/2019 12:26:27 AM: 127.0.0.1: Serials: 0x40000358; 
+7/24/2019 12:26:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:26:36 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4383, 1697, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:26:36 AM: 127.0.0.1: Serials: 0x40000376; 
+7/24/2019 12:26:39 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:26:48 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4395, 1699, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:26:48 AM: 127.0.0.1: Serials: 0x4000038F; 
+7/24/2019 12:26:50 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:27:01 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4405, 1678, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:27:01 AM: 127.0.0.1: Serials: 0x400003A6; 
+7/24/2019 12:27:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:27:17 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4418, 1638, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:27:17 AM: 127.0.0.1: Serials: 0x400003BF; 
+7/24/2019 12:27:20 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:27:31 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4425, 1655, 0) in Felucca: "TallTree03Addon"
+7/24/2019 12:27:31 AM: 127.0.0.1: Serials: 0x400003DF; 
+7/24/2019 12:27:33 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:27:44 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4396, 1611, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:27:44 AM: 127.0.0.1: Serials: 0x400003F8; 
+7/24/2019 12:27:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:28:00 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4432, 1611, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:28:00 AM: 127.0.0.1: Serials: 0x4000040F; 
+7/24/2019 12:28:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:28:12 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4452, 1621, 0) in Felucca: "TallTree03Addon"
+7/24/2019 12:28:12 AM: 127.0.0.1: Serials: 0x4000042F; 
+7/24/2019 12:28:14 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:28:20 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/24/2019 12:28:27 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4468, 1621, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:28:27 AM: 127.0.0.1: Serials: 0x4000044F; 
+7/24/2019 12:28:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/24/2019 12:28:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:28:38 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4472, 1611, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:28:38 AM: 127.0.0.1: Serials: 0x4000046B; 
+7/24/2019 12:28:41 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:29:00 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4385, 1637, 2) in Felucca: "TallTree04Addon"
+7/24/2019 12:29:00 AM: 127.0.0.1: Serials: 0x40000487; 
+7/24/2019 12:29:02 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:29:11 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4371, 1648, 1) in Felucca: "TallTree02Addon"
+7/24/2019 12:29:11 AM: 127.0.0.1: Serials: 0x400004A5; 
+7/24/2019 12:29:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:29:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4359, 1664, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:29:21 AM: 127.0.0.1: Serials: 0x400004C2; 
+7/24/2019 12:29:23 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:29:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4340, 1676, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:29:29 AM: 127.0.0.1: Serials: 0x400004DC; 
+7/24/2019 12:29:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:29:39 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4324, 1663, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:29:39 AM: 127.0.0.1: Serials: 0x40000502; 
+7/24/2019 12:29:45 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 12:29:46 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x4000050B (AddonComponent) to (4323, 1663, 3)
+7/24/2019 12:29:49 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:29:56 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4302, 1644, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:29:56 AM: 127.0.0.1: Serials: 0x4000051C; 
+7/24/2019 12:29:59 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:30:05 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4276, 1618, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:30:05 AM: 127.0.0.1: Serials: 0x40000535; 
+7/24/2019 12:30:07 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:30:20 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4223, 1622, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:30:20 AM: 127.0.0.1: Serials: 0x4000054F; 
+7/24/2019 12:30:22 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:30:26 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4232, 1638, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:30:26 AM: 127.0.0.1: Serials: 0x4000056C; 
+7/24/2019 12:30:28 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:30:34 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4210, 1664, 2) in Felucca: "TallTree03Addon"
+7/24/2019 12:30:34 AM: 127.0.0.1: Serials: 0x40000583; 
+7/24/2019 12:30:36 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:30:42 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4199, 1678, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:30:42 AM: 127.0.0.1: Serials: 0x4000059C; 
+7/24/2019 12:30:44 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:30:50 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4173, 1681, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:30:50 AM: 127.0.0.1: Serials: 0x400005B3; 
+7/24/2019 12:30:52 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:30:59 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4152, 1657, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:30:59 AM: 127.0.0.1: Serials: 0x400005CA; 
+7/24/2019 12:31:02 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:31:09 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4148, 1644, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:31:09 AM: 127.0.0.1: Serials: 0x400005E3; 
+7/24/2019 12:31:11 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:31:19 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4118, 1636, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:31:19 AM: 127.0.0.1: Serials: 0x400005FA; 
+7/24/2019 12:31:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:31:27 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4126, 1620, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:31:27 AM: 127.0.0.1: Serials: 0x40000613; 
+7/24/2019 12:31:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:31:34 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4127, 1606, 1) in Felucca: "TallTree04Addon"
+7/24/2019 12:31:34 AM: 127.0.0.1: Serials: 0x4000062A; 
+7/24/2019 12:31:36 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:31:38 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:31:46 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4100, 1609, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:31:46 AM: 127.0.0.1: Serials: 0x40000644; 
+7/24/2019 12:31:48 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:31:53 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4086, 1617, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:31:53 AM: 127.0.0.1: Serials: 0x4000065D; 
+7/24/2019 12:31:55 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:32:01 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4066, 1602, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:32:01 AM: 127.0.0.1: Serials: 0x40000684; 
+7/24/2019 12:32:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:32:12 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4074, 1625, 0) in Felucca: "TallTree04Addon"
+7/24/2019 12:32:12 AM: 127.0.0.1: Serials: 0x4000069B; 
+7/24/2019 12:32:14 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:32:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4082, 1636, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:32:21 AM: 127.0.0.1: Serials: 0x400006B4; 
+7/24/2019 12:32:23 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:32:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4095, 1644, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:32:29 AM: 127.0.0.1: Serials: 0x400006CD; 
+7/24/2019 12:32:31 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:32:37 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4105, 1622, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:32:37 AM: 127.0.0.1: Serials: 0x400006E5; 
+7/24/2019 12:32:43 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 12:32:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x400006ED (AddonComponent) to (4107, 1622, 3)
+7/24/2019 12:32:49 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:32:57 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4115, 1605, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:32:57 AM: 127.0.0.1: Serials: 0x400006FF; 
+7/24/2019 12:32:59 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:33:04 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4120, 1593, 2) in Felucca: "TallTree02Addon"
+7/24/2019 12:33:04 AM: 127.0.0.1: Serials: 0x40000719; 
+7/24/2019 12:33:06 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:33:14 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4142, 1593, 2) in Felucca: "TallTree02Addon"
+7/24/2019 12:33:14 AM: 127.0.0.1: Serials: 0x40000736; 
+7/24/2019 12:33:16 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:33:20 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4155, 1593, 2) in Felucca: "TallTree02Addon"
+7/24/2019 12:33:20 AM: 127.0.0.1: Serials: 0x4000074E; 
+7/24/2019 12:33:23 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:33:30 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4158, 1608, 0) in Felucca: "TallTree04Addon"
+7/24/2019 12:33:30 AM: 127.0.0.1: Serials: 0x40000767; 
+7/24/2019 12:33:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:33:39 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4136, 1633, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:33:39 AM: 127.0.0.1: Serials: 0x40000780; 
+7/24/2019 12:33:41 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:33:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4142, 1617, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:33:47 AM: 127.0.0.1: Serials: 0x40000799; 
+7/24/2019 12:33:49 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:34:01 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4157, 1667, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:34:01 AM: 127.0.0.1: Serials: 0x400007B6; 
+7/24/2019 12:34:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:34:11 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4175, 1652, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:34:11 AM: 127.0.0.1: Serials: 0x400007D0; 
+7/24/2019 12:34:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:34:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4198, 1655, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:34:21 AM: 127.0.0.1: Serials: 0x400007EF; 
+7/24/2019 12:34:23 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:34:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4203, 1687, 0) in Felucca: "TallTree01Addon"
+7/24/2019 12:34:32 AM: 127.0.0.1: Serials: 0x40000806; 
+7/24/2019 12:34:34 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:34:44 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4225, 1661, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:34:44 AM: 127.0.0.1: Serials: 0x4000082F; 
+7/24/2019 12:34:46 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:34:54 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4239, 1648, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:34:54 AM: 127.0.0.1: Serials: 0x4000084F; 
+7/24/2019 12:34:56 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:38:15 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4240, 1626, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:38:15 AM: 127.0.0.1: Serials: 0x4000089D; 
+7/24/2019 12:38:19 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:38:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4256, 1617, 0) in Felucca: "TallTree03Addon"
+7/24/2019 12:38:29 AM: 127.0.0.1: Serials: 0x400008B8; 
+7/24/2019 12:38:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:38:40 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4294, 1615, 0) in Felucca: "TallTree01Addon"
+7/24/2019 12:38:40 AM: 127.0.0.1: Serials: 0x400008D2; 
+7/24/2019 12:38:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 12:38:48 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x400008DB (AddonComponent) to (4294, 1615, 0)
+7/24/2019 12:38:51 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:39:01 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4319, 1625, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:39:01 AM: 127.0.0.1: Serials: 0x400008EE; 
+7/24/2019 12:39:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:39:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4331, 1625, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:39:13 AM: 127.0.0.1: Serials: 0x40000913; 
+7/24/2019 12:39:16 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:39:59 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4367, 1611, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:39:59 AM: 127.0.0.1: Serials: 0x40000933; 
+7/24/2019 12:40:01 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:40:06 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4351, 1611, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:40:06 AM: 127.0.0.1: Serials: 0x4000094F; 
+7/24/2019 12:40:09 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:40:18 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4323, 1609, 2) in Felucca: "TallTree02Addon"
+7/24/2019 12:40:18 AM: 127.0.0.1: Serials: 0x40000969; 
+7/24/2019 12:40:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:40:27 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4306, 1606, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:40:27 AM: 127.0.0.1: Serials: 0x40000985; 
+7/24/2019 12:40:30 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:40:43 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4334, 1652, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:40:43 AM: 127.0.0.1: Serials: 0x4000099C; 
+7/24/2019 12:40:46 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:40:59 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4390, 1651, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:40:59 AM: 127.0.0.1: Serials: 0x400009B5; 
+7/24/2019 12:41:02 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:41:08 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4390, 1665, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:41:08 AM: 127.0.0.1: Serials: 0x400009CF; 
+7/24/2019 12:41:12 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:41:23 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4407, 1667, 3) in Felucca: "TallTree05Addon"
+7/24/2019 12:41:23 AM: 127.0.0.1: Serials: 0x400009F4; 
+7/24/2019 12:41:25 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:41:44 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4438, 1683, 0) in Felucca: "TallTree01Addon"
+7/24/2019 12:41:44 AM: 127.0.0.1: Serials: 0x40000A15; 
+7/24/2019 12:41:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:41:55 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4438, 1656, 0) in Felucca: "TallTree03Addon"
+7/24/2019 12:41:55 AM: 127.0.0.1: Serials: 0x40000A33; 
+7/24/2019 12:41:58 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:42:45 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4171, 1626, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:42:45 AM: 127.0.0.1: Serials: 0x40000A5A; 
+7/24/2019 12:42:48 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:42:56 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4165, 1644, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:42:56 AM: 127.0.0.1: Serials: 0x40000A7A; 
+7/24/2019 12:42:58 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:43:06 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4183, 1636, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:43:06 AM: 127.0.0.1: Serials: 0x40000A96; 
+7/24/2019 12:43:08 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:43:18 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4214, 1647, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:43:18 AM: 127.0.0.1: Serials: 0x40000AAD; 
+7/24/2019 12:43:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:43:44 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4254, 1629, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:43:44 AM: 127.0.0.1: Serials: 0x40000ACE; 
+7/24/2019 12:43:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:43:54 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4264, 1639, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:43:54 AM: 127.0.0.1: Serials: 0x40000AE6; 
+7/24/2019 12:43:57 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:44:06 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4284, 1644, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:44:06 AM: 127.0.0.1: Serials: 0x40000B05; 
+7/24/2019 12:44:09 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:45:09 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4303, 1627, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:45:09 AM: 127.0.0.1: Serials: 0x40000B2F; 
+7/24/2019 12:45:12 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:45:28 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4195, 1619, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:45:28 AM: 127.0.0.1: Serials: 0x40000B46; 
+7/24/2019 12:45:31 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:45:42 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4161, 1618, 0) in Felucca: "TallTree03Addon"
+7/24/2019 12:45:42 AM: 127.0.0.1: Serials: 0x40000B67; 
+7/24/2019 12:45:45 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:45:49 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/24/2019 12:46:05 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4071, 1593, 1) in Felucca: "TallTree02Addon"
+7/24/2019 12:46:05 AM: 127.0.0.1: Serials: 0x40000B8F; 
+7/24/2019 12:46:08 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/24/2019 12:46:11 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:46:33 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4128, 1636, 3) in Felucca: "TallTree05Addon"
+7/24/2019 12:46:33 AM: 127.0.0.1: Serials: 0x40000BB2; 
+7/24/2019 12:46:36 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:46:48 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4150, 1627, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:46:48 AM: 127.0.0.1: Serials: 0x40000BD4; 
+7/24/2019 12:46:50 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:46:54 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:47:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4179, 1606, 1) in Felucca: "TallTree02Addon"
+7/24/2019 12:47:03 AM: 127.0.0.1: Serials: 0x40000BEF; 
+7/24/2019 12:47:05 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:47:15 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4197, 1638, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:47:15 AM: 127.0.0.1: Serials: 0x40000C06; 
+7/24/2019 12:47:17 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:47:28 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4193, 1666, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:47:28 AM: 127.0.0.1: Serials: 0x40000C25; 
+7/24/2019 12:47:31 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:47:41 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4186, 1677, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:47:41 AM: 127.0.0.1: Serials: 0x40000C41; 
+7/24/2019 12:47:43 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:47:54 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4212, 1628, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:47:54 AM: 127.0.0.1: Serials: 0x40000C59; 
+7/24/2019 12:47:57 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:48:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4292, 1637, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:48:13 AM: 127.0.0.1: Serials: 0x40000C74; 
+7/24/2019 12:48:15 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:48:45 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4409, 1729, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:48:45 AM: 127.0.0.1: Serials: 0x40000C94; 
+7/24/2019 12:48:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:48:53 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4420, 1718, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:48:53 AM: 127.0.0.1: Serials: 0x40000CAD; 
+7/24/2019 12:48:55 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:48:57 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:49:14 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4378, 1611, 0) in Felucca: "TallTree02Addon"
+7/24/2019 12:49:14 AM: 127.0.0.1: Serials: 0x40000CC6; 
+7/24/2019 12:49:16 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:50:02 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4277, 1629, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:50:02 AM: 127.0.0.1: Serials: 0x40000CE7; 
+7/24/2019 12:50:05 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:51:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4375, 1675, 1) in Felucca: "TallTree03Addon"
+7/24/2019 12:51:32 AM: 127.0.0.1: Serials: 0x40000D1E; 
+7/24/2019 12:51:34 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:51:41 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4365, 1685, 3) in Felucca: "TallTree02Addon"
+7/24/2019 12:51:41 AM: 127.0.0.1: Serials: 0x40000D3B; 
+7/24/2019 12:51:43 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:51:51 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4348, 1685, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:51:51 AM: 127.0.0.1: Serials: 0x40000D52; 
+7/24/2019 12:51:54 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:52:02 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4332, 1686, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:52:02 AM: 127.0.0.1: Serials: 0x40000D6B; 
+7/24/2019 12:52:05 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:52:40 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/24/2019 12:53:51 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4183, 1661, 3) in Felucca: "TallTree01Addon"
+7/24/2019 12:53:51 AM: 127.0.0.1: Serials: 0x40000D89; 
+7/24/2019 12:53:57 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:54:17 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4085, 1603, 3) in Felucca: "TallTree04Addon"
+7/24/2019 12:54:17 AM: 127.0.0.1: Serials: 0x40000DA3; 
+7/24/2019 12:54:20 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:54:26 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4065, 1616, 3) in Felucca: "TallTree03Addon"
+7/24/2019 12:54:26 AM: 127.0.0.1: Serials: 0x40000DBC; 
+7/24/2019 12:54:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:55:56 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/24/2019 12:56:15 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add boulder'
+7/24/2019 12:56:20 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4191, 1625, 0) in Felucca: "BoulderRock01Addon"
+7/24/2019 12:56:20 AM: 127.0.0.1: Serials: 0x40000DF2; 
+7/24/2019 12:56:25 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:56:33 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4208, 1654, 0) in Felucca: "BoulderRock02Addon"
+7/24/2019 12:56:33 AM: 127.0.0.1: Serials: 0x40000DFA; 
+7/24/2019 12:56:43 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:56:54 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4249, 1617, 0) in Felucca: "BoulderRock04Addon"
+7/24/2019 12:56:54 AM: 127.0.0.1: Serials: 0x40000E02; 
+7/24/2019 12:56:56 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:57:14 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4315, 1651, 3) in Felucca: "BoulderRock03Addon"
+7/24/2019 12:57:14 AM: 127.0.0.1: Serials: 0x40000E0F; 
+7/24/2019 12:57:16 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:57:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4318, 1647, 3) in Felucca: "BoulderRock01Addon"
+7/24/2019 12:57:21 AM: 127.0.0.1: Serials: 0x40000E14; 
+7/24/2019 12:57:24 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 12:57:26 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000E16 (AddonComponent) to (4318, 1646, 2)
+7/24/2019 12:57:27 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 12:57:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000E16 (AddonComponent) to (4318, 1647, 3)
+7/24/2019 12:57:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:57:44 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4368, 1626, 1) in Felucca: "BoulderRock01Addon"
+7/24/2019 12:57:44 AM: 127.0.0.1: Serials: 0x40000E1B; 
+7/24/2019 12:57:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:57:55 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4398, 1639, 3) in Felucca: "BoulderRock03Addon"
+7/24/2019 12:57:55 AM: 127.0.0.1: Serials: 0x40000E22; 
+7/24/2019 12:57:58 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:58:05 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4426, 1621, 0) in Felucca: "BoulderRock02Addon"
+7/24/2019 12:58:05 AM: 127.0.0.1: Serials: 0x40000E27; 
+7/24/2019 12:58:09 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 12:58:14 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000E29 (AddonComponent) to (4411, 1626, 1)
+7/24/2019 12:58:20 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:58:25 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4412, 1625, 0) in Felucca: "BoulderRock01Addon"
+7/24/2019 12:58:25 AM: 127.0.0.1: Serials: 0x40000E30; 
+7/24/2019 12:58:28 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:58:31 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4412, 1624, 1) in Felucca: "BoulderRock04Addon"
+7/24/2019 12:58:31 AM: 127.0.0.1: Serials: 0x40000E37; 
+7/24/2019 12:58:34 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:58:38 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4412, 1624, 1) in Felucca: "BoulderRock05Addon"
+7/24/2019 12:58:39 AM: 127.0.0.1: Serials: 0x40000E3E; 
+7/24/2019 12:58:41 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:59:02 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4419, 1635, 1) in Felucca: "BoulderRock05Addon"
+7/24/2019 12:59:02 AM: 127.0.0.1: Serials: 0x40000E4D; 
+7/24/2019 12:59:05 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:59:26 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4393, 1684, 0) in Felucca: "BoulderRock01Addon"
+7/24/2019 12:59:26 AM: 127.0.0.1: Serials: 0x40000E57; 
+7/24/2019 12:59:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 12:59:37 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4388, 1667, 3) in Felucca: "BoulderRock03Addon"
+7/24/2019 12:59:37 AM: 127.0.0.1: Serials: 0x40000E63; 
+7/24/2019 12:59:39 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:00:01 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4275, 1619, 1) in Felucca: "BoulderRock03Addon"
+7/24/2019 1:00:01 AM: 127.0.0.1: Serials: 0x40000E72; 
+7/24/2019 1:00:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:00:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4253, 1631, 1) in Felucca: "BoulderRock05Addon"
+7/24/2019 1:00:13 AM: 127.0.0.1: Serials: 0x40000E7B; 
+7/24/2019 1:00:15 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:00:23 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/24/2019 1:00:39 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4126, 1616, 2) in Felucca: "BoulderRock03Addon"
+7/24/2019 1:00:39 AM: 127.0.0.1: Serials: 0x40000E8A; 
+7/24/2019 1:00:42 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/24/2019 1:00:44 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:00:56 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4065, 1606, 3) in Felucca: "BoulderRock02Addon"
+7/24/2019 1:00:56 AM: 127.0.0.1: Serials: 0x40000E8F; 
+7/24/2019 1:00:58 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:01:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4093, 1618, 3) in Felucca: "BoulderRock04Addon"
+7/24/2019 1:01:13 AM: 127.0.0.1: Serials: 0x40000E99; 
+7/24/2019 1:01:16 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:01:24 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4104, 1631, 0) in Felucca: "BoulderRock05Addon"
+7/24/2019 1:01:24 AM: 127.0.0.1: Serials: 0x40000EA7; 
+7/24/2019 1:01:26 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:02:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4117, 1603, 0) in Felucca: "BoulderRock01Addon"
+7/24/2019 1:02:29 AM: 127.0.0.1: Serials: 0x40000EC3; 
+7/24/2019 1:02:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:02:42 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4115, 1617, 0) in Felucca: "BoulderRock05Addon"
+7/24/2019 1:02:42 AM: 127.0.0.1: Serials: 0x40000ECA; 
+7/24/2019 1:02:44 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:02:54 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4142, 1652, 0) in Felucca: "BoulderRock03Addon"
+7/24/2019 1:02:54 AM: 127.0.0.1: Serials: 0x40000ED3; 
+7/24/2019 1:02:55 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:03:10 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4187, 1680, 1) in Felucca: "BoulderRock02Addon"
+7/24/2019 1:03:10 AM: 127.0.0.1: Serials: 0x40000ED9; 
+7/24/2019 1:03:12 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:03:30 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4246, 1634, 1) in Felucca: "BoulderRock03Addon"
+7/24/2019 1:03:30 AM: 127.0.0.1: Serials: 0x40000EE0; 
+7/24/2019 1:03:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:03:45 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4298, 1626, 1) in Felucca: "BoulderRock06Addon"
+7/24/2019 1:03:45 AM: 127.0.0.1: Serials: 0x40000EE5; 
+7/24/2019 1:03:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:04:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4336, 1654, 3) in Felucca: "BoulderRock07Addon"
+7/24/2019 1:04:03 AM: 127.0.0.1: Serials: 0x40000EF1; 
+7/24/2019 1:04:05 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:04:37 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4323, 1668, 3) in Felucca: "BoulderRock07Addon"
+7/24/2019 1:04:37 AM: 127.0.0.1: Serials: 0x40000EF7; 
+7/24/2019 1:04:40 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:04:49 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4321, 1647, 3) in Felucca: "BoulderRock08Addon"
+7/24/2019 1:04:49 AM: 127.0.0.1: Serials: 0x40000EFD; 
+7/24/2019 1:04:53 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 1:04:54 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000EFF (AddonComponent) to (4320, 1647, 3)
+7/24/2019 1:04:59 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:05:21 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4458, 1621, 0) in Felucca: "BoulderRock08Addon"
+7/24/2019 1:05:21 AM: 127.0.0.1: Serials: 0x40000F02; 
+7/24/2019 1:05:26 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 1:05:27 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000F04 (AddonComponent) to (4457, 1621, 0)
+7/24/2019 1:05:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:06:28 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4211, 1629, 1) in Felucca: "BoulderRock08Addon"
+7/24/2019 1:06:28 AM: 127.0.0.1: Serials: 0x40000F09; 
+7/24/2019 1:06:33 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:06:44 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4137, 1620, 3) in Felucca: "BoulderRock07Addon"
+7/24/2019 1:06:44 AM: 127.0.0.1: Serials: 0x40000F10; 
+7/24/2019 1:06:46 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:07:02 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4075, 1602, 3) in Felucca: "BoulderRock06Addon"
+7/24/2019 1:07:02 AM: 127.0.0.1: Serials: 0x40000F16; 
+7/24/2019 1:07:04 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:07:17 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4114, 1617, 0) in Felucca: "BoulderRock08Addon"
+7/24/2019 1:07:17 AM: 127.0.0.1: Serials: 0x40000F1D; 
+7/24/2019 1:07:22 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 1:07:24 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000F1F (AddonComponent) to (4114, 1617, 0)
+7/24/2019 1:07:26 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:08:26 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4260, 1623, 1) in Felucca: "BoulderRock01Addon"
+7/24/2019 1:08:26 AM: 127.0.0.1: Serials: 0x40000F2B; 
+7/24/2019 1:08:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:09:05 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4312, 1616, 3) in Felucca: "BoulderRock01Addon"
+7/24/2019 1:09:05 AM: 127.0.0.1: Serials: 0x40000F3A; 
+7/24/2019 1:09:08 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 1:10:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'freezemap '
+7/24/2019 1:10:34 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') invoking freeze for every item in Owner
+7/24/2019 1:10:37 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'admin '
+7/24/2019 1:10:41 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/24/2019 1:10:41 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/24/2019 3:35:16 PM
+
+7/24/2019 3:35:24 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+7/24/2019 3:35:39 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add talltree'
+7/24/2019 3:35:45 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4140, 1667, 0) in Felucca: "TallTree01Addon"
+7/24/2019 3:35:45 PM: 127.0.0.1: Serials: 0x4000006A; 
+7/24/2019 3:35:51 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:36:02 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4109, 1666, 4) in Felucca: "TallTree03Addon"
+7/24/2019 3:36:02 PM: 127.0.0.1: Serials: 0x40000083; 
+7/24/2019 3:36:04 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:36:10 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4101, 1654, 4) in Felucca: "TallTree02Addon"
+7/24/2019 3:36:10 PM: 127.0.0.1: Serials: 0x4000009D; 
+7/24/2019 3:36:13 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:36:18 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4106, 1642, 4) in Felucca: "TallTree04Addon"
+7/24/2019 3:36:18 PM: 127.0.0.1: Serials: 0x400000BE; 
+7/24/2019 3:36:21 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:36:29 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4060, 1632, 3) in Felucca: "TallTree01Addon"
+7/24/2019 3:36:29 PM: 127.0.0.1: Serials: 0x400000D7; 
+7/24/2019 3:36:32 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:36:40 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4051, 1651, 3) in Felucca: "TallTree03Addon"
+7/24/2019 3:36:40 PM: 127.0.0.1: Serials: 0x400000F0; 
+7/24/2019 3:36:42 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:36:47 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4052, 1664, 3) in Felucca: "TallTree02Addon"
+7/24/2019 3:36:47 PM: 127.0.0.1: Serials: 0x40000109; 
+7/24/2019 3:36:49 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:36:55 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4032, 1663, 3) in Felucca: "TallTree01Addon"
+7/24/2019 3:36:55 PM: 127.0.0.1: Serials: 0x40000120; 
+7/24/2019 3:36:58 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:37:06 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4013, 1683, 3) in Felucca: "TallTree04Addon"
+7/24/2019 3:37:06 PM: 127.0.0.1: Serials: 0x4000013B; 
+7/24/2019 3:37:09 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:37:15 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4030, 1686, 3) in Felucca: "TallTree02Addon"
+7/24/2019 3:37:15 PM: 127.0.0.1: Serials: 0x40000155; 
+7/24/2019 3:37:18 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:37:24 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4038, 1677, 3) in Felucca: "TallTree04Addon"
+7/24/2019 3:37:24 PM: 127.0.0.1: Serials: 0x4000016E; 
+7/24/2019 3:37:27 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:37:33 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4041, 1692, 3) in Felucca: "TallTree01Addon"
+7/24/2019 3:37:33 PM: 127.0.0.1: Serials: 0x40000187; 
+7/24/2019 3:37:35 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:37:44 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4004, 1700, 3) in Felucca: "TallTree01Addon"
+7/24/2019 3:37:44 PM: 127.0.0.1: Serials: 0x400001A1; 
+7/24/2019 3:37:47 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:37:52 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4002, 1714, 3) in Felucca: "TallTree03Addon"
+7/24/2019 3:37:52 PM: 127.0.0.1: Serials: 0x400001BA; 
+7/24/2019 3:37:55 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:38:01 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (3998, 1726, 3) in Felucca: "TallTree03Addon"
+7/24/2019 3:38:01 PM: 127.0.0.1: Serials: 0x400001D5; 
+7/24/2019 3:38:04 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:38:10 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (3994, 1739, 3) in Felucca: "TallTree02Addon"
+7/24/2019 3:38:10 PM: 127.0.0.1: Serials: 0x400001EE; 
+7/24/2019 3:38:12 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:38:17 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4010, 1739, 3) in Felucca: "TallTree01Addon"
+7/24/2019 3:38:18 PM: 127.0.0.1: Serials: 0x4000021F; 
+7/24/2019 3:38:20 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:38:25 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4010, 1719, 3) in Felucca: "TallTree03Addon"
+7/24/2019 3:38:25 PM: 127.0.0.1: Serials: 0x40000238; 
+7/24/2019 3:38:27 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:38:33 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4014, 1703, 3) in Felucca: "TallTree02Addon"
+7/24/2019 3:38:33 PM: 127.0.0.1: Serials: 0x40000260; 
+7/24/2019 3:38:35 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:38:43 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4019, 1693, 3) in Felucca: "TallTree04Addon"
+7/24/2019 3:38:43 PM: 127.0.0.1: Serials: 0x40000277; 
+7/24/2019 3:38:45 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:38:55 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4053, 1691, 3) in Felucca: "TallTree02Addon"
+7/24/2019 3:38:55 PM: 127.0.0.1: Serials: 0x40000290; 
+7/24/2019 3:38:57 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:39:02 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4052, 1703, 3) in Felucca: "TallTree01Addon"
+7/24/2019 3:39:02 PM: 127.0.0.1: Serials: 0x400002AA; 
+7/24/2019 3:39:04 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:39:09 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4052, 1718, 3) in Felucca: "TallTree02Addon"
+7/24/2019 3:39:09 PM: 127.0.0.1: Serials: 0x400002C3; 
+7/24/2019 3:39:11 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:39:19 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4067, 1718, 3) in Felucca: "TallTree03Addon"
+7/24/2019 3:39:19 PM: 127.0.0.1: Serials: 0x400002DA; 
+7/24/2019 3:39:22 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:39:28 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4067, 1701, 3) in Felucca: "TallTree05Addon"
+7/24/2019 3:39:28 PM: 127.0.0.1: Serials: 0x400002F7; 
+7/24/2019 3:39:30 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:39:35 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4072, 1693, 3) in Felucca: "TallTree01Addon"
+7/24/2019 3:39:35 PM: 127.0.0.1: Serials: 0x40000312; 
+7/24/2019 3:39:38 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:39:43 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4073, 1678, 3) in Felucca: "TallTree03Addon"
+7/24/2019 3:39:43 PM: 127.0.0.1: Serials: 0x4000032B; 
+7/24/2019 3:39:46 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:39:55 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4073, 1648, 3) in Felucca: "TallTree02Addon"
+7/24/2019 3:39:55 PM: 127.0.0.1: Serials: 0x40000350; 
+7/24/2019 3:39:57 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:40:04 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4073, 1664, 3) in Felucca: "TallTree03Addon"
+7/24/2019 3:40:04 PM: 127.0.0.1: Serials: 0x40000369; 
+7/24/2019 3:40:06 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:40:17 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4082, 1656, 0) in Felucca: "TallTree04Addon"
+7/24/2019 3:40:17 PM: 127.0.0.1: Serials: 0x40000387; 
+7/24/2019 3:40:20 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:40:32 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4088, 1678, 3) in Felucca: "TallTree03Addon"
+7/24/2019 3:40:32 PM: 127.0.0.1: Serials: 0x400003A2; 
+7/24/2019 3:40:34 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:40:38 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4099, 1676, 0) in Felucca: "TallTree01Addon"
+7/24/2019 3:40:38 PM: 127.0.0.1: Serials: 0x400003BB; 
+7/24/2019 3:40:40 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:40:45 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4102, 1689, 3) in Felucca: "TallTree04Addon"
+7/24/2019 3:40:46 PM: 127.0.0.1: Serials: 0x400003E2; 
+7/24/2019 3:40:50 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:40:55 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4087, 1696, 3) in Felucca: "TallTree01Addon"
+7/24/2019 3:40:55 PM: 127.0.0.1: Serials: 0x40000400; 
+7/24/2019 3:40:57 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:40:59 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:41:04 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4076, 1707, 3) in Felucca: "TallTree05Addon"
+7/24/2019 3:41:04 PM: 127.0.0.1: Serials: 0x40000419; 
+7/24/2019 3:41:07 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:41:12 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4082, 1716, 3) in Felucca: "TallTree01Addon"
+7/24/2019 3:41:12 PM: 127.0.0.1: Serials: 0x4000043B; 
+7/24/2019 3:41:15 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:41:20 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4092, 1709, 3) in Felucca: "TallTree03Addon"
+7/24/2019 3:41:20 PM: 127.0.0.1: Serials: 0x40000460; 
+7/24/2019 3:41:22 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:41:27 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4106, 1695, 4) in Felucca: "TallTree01Addon"
+7/24/2019 3:41:27 PM: 127.0.0.1: Serials: 0x4000047D; 
+7/24/2019 3:41:31 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:41:36 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4123, 1685, 4) in Felucca: "TallTree03Addon"
+7/24/2019 3:41:36 PM: 127.0.0.1: Serials: 0x400004A6; 
+7/24/2019 3:41:38 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:41:44 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4133, 1680, 4) in Felucca: "TallTree02Addon"
+7/24/2019 3:41:44 PM: 127.0.0.1: Serials: 0x400004C7; 
+7/24/2019 3:41:46 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:41:51 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4129, 1696, 4) in Felucca: "TallTree04Addon"
+7/24/2019 3:41:51 PM: 127.0.0.1: Serials: 0x400004DF; 
+7/24/2019 3:41:53 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:41:58 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4126, 1708, 4) in Felucca: "TallTree05Addon"
+7/24/2019 3:41:58 PM: 127.0.0.1: Serials: 0x40000507; 
+7/24/2019 3:42:00 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:42:07 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4138, 1701, 4) in Felucca: "TallTree02Addon"
+7/24/2019 3:42:07 PM: 127.0.0.1: Serials: 0x40000528; 
+7/24/2019 3:42:09 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:42:13 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4149, 1693, 4) in Felucca: "TallTree01Addon"
+7/24/2019 3:42:13 PM: 127.0.0.1: Serials: 0x4000053F; 
+7/24/2019 3:42:15 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:42:21 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4158, 1698, 4) in Felucca: "TallTree03Addon"
+7/24/2019 3:42:21 PM: 127.0.0.1: Serials: 0x4000055E; 
+7/24/2019 3:42:24 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:42:30 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4164, 1708, 4) in Felucca: "TallTree02Addon"
+7/24/2019 3:42:30 PM: 127.0.0.1: Serials: 0x4000057B; 
+7/24/2019 3:42:32 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:42:38 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4164, 1722, 4) in Felucca: "TallTree04Addon"
+7/24/2019 3:42:38 PM: 127.0.0.1: Serials: 0x40000598; 
+7/24/2019 3:42:40 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:42:44 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4149, 1724, 4) in Felucca: "TallTree01Addon"
+7/24/2019 3:42:45 PM: 127.0.0.1: Serials: 0x400005B1; 
+7/24/2019 3:42:47 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:42:51 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4138, 1713, 4) in Felucca: "TallTree03Addon"
+7/24/2019 3:42:51 PM: 127.0.0.1: Serials: 0x400005CA; 
+7/24/2019 3:42:53 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:43:01 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4176, 1718, 4) in Felucca: "TallTree01Addon"
+7/24/2019 3:43:01 PM: 127.0.0.1: Serials: 0x400005E4; 
+7/24/2019 3:43:03 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:43:11 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4195, 1719, 4) in Felucca: "TallTree03Addon"
+7/24/2019 3:43:11 PM: 127.0.0.1: Serials: 0x40000608; 
+7/24/2019 3:43:13 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:43:18 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4199, 1731, 4) in Felucca: "TallTree01Addon"
+7/24/2019 3:43:18 PM: 127.0.0.1: Serials: 0x40000621; 
+7/24/2019 3:43:20 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:43:27 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4196, 1745, 4) in Felucca: "TallTree02Addon"
+7/24/2019 3:43:27 PM: 127.0.0.1: Serials: 0x4000063B; 
+7/24/2019 3:43:29 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:43:35 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4180, 1743, 4) in Felucca: "TallTree04Addon"
+7/24/2019 3:43:35 PM: 127.0.0.1: Serials: 0x40000653; 
+7/24/2019 3:43:37 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:43:44 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4176, 1730, 4) in Felucca: "TallTree05Addon"
+7/24/2019 3:43:44 PM: 127.0.0.1: Serials: 0x40000677; 
+7/24/2019 3:43:46 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:43:51 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4167, 1742, 0) in Felucca: "TallTree01Addon"
+7/24/2019 3:43:51 PM: 127.0.0.1: Serials: 0x40000693; 
+7/24/2019 3:43:53 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:44:04 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4186, 1710, 2) in Felucca: "TallTree01Addon"
+7/24/2019 3:44:04 PM: 127.0.0.1: Serials: 0x400006AF; 
+7/24/2019 3:44:12 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 3:44:18 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x400006B8 (AddonComponent) to (4199, 1705, 0)
+7/24/2019 3:44:23 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 3:44:29 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:44:35 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4178, 1691, 0) in Felucca: "TallTree02Addon"
+7/24/2019 3:44:35 PM: 127.0.0.1: Serials: 0x400006DB; 
+7/24/2019 3:44:37 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:44:41 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4165, 1689, 0) in Felucca: "TallTree05Addon"
+7/24/2019 3:44:41 PM: 127.0.0.1: Serials: 0x400006F7; 
+7/24/2019 3:44:44 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:44:48 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4154, 1677, 0) in Felucca: "TallTree01Addon"
+7/24/2019 3:44:48 PM: 127.0.0.1: Serials: 0x40000710; 
+7/24/2019 3:44:51 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:45:00 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4123, 1654, 4) in Felucca: "TallTree03Addon"
+7/24/2019 3:45:00 PM: 127.0.0.1: Serials: 0x4000072F; 
+7/24/2019 3:45:02 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:45:12 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4123, 1668, 4) in Felucca: "TallTree02Addon"
+7/24/2019 3:45:12 PM: 127.0.0.1: Serials: 0x4000074B; 
+7/24/2019 3:45:14 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:45:22 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4143, 1684, 2) in Felucca: "TallTree04Addon"
+7/24/2019 3:45:22 PM: 127.0.0.1: Serials: 0x4000076C; 
+7/24/2019 3:45:24 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:45:46 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4218, 1679, 4) in Felucca: "TallTree01Addon"
+7/24/2019 3:45:46 PM: 127.0.0.1: Serials: 0x40000785; 
+7/24/2019 3:45:48 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:45:55 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4232, 1691, 4) in Felucca: "TallTree02Addon"
+7/24/2019 3:45:55 PM: 127.0.0.1: Serials: 0x400007A7; 
+7/24/2019 3:45:57 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:46:03 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4249, 1683, 4) in Felucca: "TallTree03Addon"
+7/24/2019 3:46:03 PM: 127.0.0.1: Serials: 0x400007C4; 
+7/24/2019 3:46:05 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:46:09 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4259, 1687, 4) in Felucca: "TallTree04Addon"
+7/24/2019 3:46:09 PM: 127.0.0.1: Serials: 0x400007DD; 
+7/24/2019 3:46:10 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:46:15 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4248, 1698, 4) in Felucca: "TallTree01Addon"
+7/24/2019 3:46:15 PM: 127.0.0.1: Serials: 0x400007FD; 
+7/24/2019 3:46:17 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:46:23 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4269, 1674, 4) in Felucca: "TallTree03Addon"
+7/24/2019 3:46:23 PM: 127.0.0.1: Serials: 0x40000816; 
+7/24/2019 3:46:25 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:46:30 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4260, 1661, 4) in Felucca: "TallTree01Addon"
+7/24/2019 3:46:30 PM: 127.0.0.1: Serials: 0x40000845; 
+7/24/2019 3:46:32 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:46:39 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4258, 1648, 0) in Felucca: "TallTree01Addon"
+7/24/2019 3:46:39 PM: 127.0.0.1: Serials: 0x4000089D; 
+7/24/2019 3:46:41 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:46:47 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4273, 1656, 4) in Felucca: "TallTree04Addon"
+7/24/2019 3:46:47 PM: 127.0.0.1: Serials: 0x400008BC; 
+7/24/2019 3:46:49 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:46:53 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4281, 1659, 4) in Felucca: "TallTree01Addon"
+7/24/2019 3:46:53 PM: 127.0.0.1: Serials: 0x400008D6; 
+7/24/2019 3:46:56 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:47:02 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4291, 1673, 4) in Felucca: "TallTree02Addon"
+7/24/2019 3:47:02 PM: 127.0.0.1: Serials: 0x400008F2; 
+7/24/2019 3:47:04 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:47:09 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4279, 1689, 4) in Felucca: "TallTree04Addon"
+7/24/2019 3:47:09 PM: 127.0.0.1: Serials: 0x40000914; 
+7/24/2019 3:47:11 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:47:18 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4293, 1696, 4) in Felucca: "TallTree01Addon"
+7/24/2019 3:47:18 PM: 127.0.0.1: Serials: 0x40000936; 
+7/24/2019 3:47:20 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:47:22 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:47:28 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4306, 1705, 4) in Felucca: "TallTree02Addon"
+7/24/2019 3:47:28 PM: 127.0.0.1: Serials: 0x40000954; 
+7/24/2019 3:47:30 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:47:36 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4311, 1713, 4) in Felucca: "TallTree05Addon"
+7/24/2019 3:47:36 PM: 127.0.0.1: Serials: 0x4000096E; 
+7/24/2019 3:47:38 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:47:44 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4319, 1702, 4) in Felucca: "TallTree03Addon"
+7/24/2019 3:47:44 PM: 127.0.0.1: Serials: 0x4000098C; 
+7/24/2019 3:47:46 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:47:48 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:47:55 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4311, 1686, 4) in Felucca: "TallTree03Addon"
+7/24/2019 3:47:55 PM: 127.0.0.1: Serials: 0x400009A6; 
+7/24/2019 3:47:58 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:48:05 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4305, 1673, 4) in Felucca: "TallTree02Addon"
+7/24/2019 3:48:05 PM: 127.0.0.1: Serials: 0x400009C5; 
+7/24/2019 3:48:07 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:48:14 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4300, 1659, 4) in Felucca: "TallTree04Addon"
+7/24/2019 3:48:14 PM: 127.0.0.1: Serials: 0x400009E9; 
+7/24/2019 3:48:16 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:48:32 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4269, 1699, 0) in Felucca: "TallTree03Addon"
+7/24/2019 3:48:32 PM: 127.0.0.1: Serials: 0x40000A02; 
+7/24/2019 3:48:35 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:48:46 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4218, 1693, 4) in Felucca: "TallTree05Addon"
+7/24/2019 3:48:46 PM: 127.0.0.1: Serials: 0x40000A28; 
+7/24/2019 3:48:48 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:48:53 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/24/2019 3:51:40 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/24/2019 3:51:42 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:51:50 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4111, 1679, 0) in Felucca: "TallTree04Addon"
+7/24/2019 3:51:50 PM: 127.0.0.1: Serials: 0x40000A6D; 
+7/24/2019 3:51:53 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:52:07 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4114, 1719, 0) in Felucca: "TallTree01Addon"
+7/24/2019 3:52:07 PM: 127.0.0.1: Serials: 0x40000A8D; 
+7/24/2019 3:52:09 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:52:53 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4102, 1711, 0) in Felucca: "TallTree02Addon"
+7/24/2019 3:52:53 PM: 127.0.0.1: Serials: 0x40000AAA; 
+7/24/2019 3:52:56 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:54:10 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4058, 1676, 3) in Felucca: "TallTree04Addon"
+7/24/2019 3:54:10 PM: 127.0.0.1: Serials: 0x40000AD3; 
+7/24/2019 3:54:13 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:54:42 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4125, 1732, 0) in Felucca: "TallTree01Addon"
+7/24/2019 3:54:42 PM: 127.0.0.1: Serials: 0x40000AF0; 
+7/24/2019 3:54:45 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:54:50 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4135, 1727, 0) in Felucca: "TallTree03Addon"
+7/24/2019 3:54:50 PM: 127.0.0.1: Serials: 0x40000B0A; 
+7/24/2019 3:54:53 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:55:14 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4189, 1696, 0) in Felucca: "TallTree04Addon"
+7/24/2019 3:55:14 PM: 127.0.0.1: Serials: 0x40000B34; 
+7/24/2019 3:55:17 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:55:27 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'tele '
+7/24/2019 3:55:47 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'tele '
+7/24/2019 3:55:50 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add boulder'
+7/24/2019 3:55:55 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4189, 1698, 0) in Felucca: "BoulderRock01Addon"
+7/24/2019 3:55:55 PM: 127.0.0.1: Serials: 0x40000B67; 
+7/24/2019 3:55:59 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:56:09 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4177, 1712, 2) in Felucca: "BoulderRock02Addon"
+7/24/2019 3:56:09 PM: 127.0.0.1: Serials: 0x40000B70; 
+7/24/2019 3:56:12 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:57:03 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4113, 1707, 4) in Felucca: "BoulderRock05Addon"
+7/24/2019 3:57:03 PM: 127.0.0.1: Serials: 0x40000B97; 
+7/24/2019 3:57:06 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:57:16 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4071, 1666, 1) in Felucca: "BoulderRock04Addon"
+7/24/2019 3:57:16 PM: 127.0.0.1: Serials: 0x40000BA3; 
+7/24/2019 3:57:20 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 3:57:21 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000BA5 (AddonComponent) to (4075, 1660, 1)
+7/24/2019 3:57:25 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 3:57:30 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000BA5 (AddonComponent) to (4059, 1637, 1)
+7/24/2019 3:57:34 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:57:50 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4044, 1666, 3) in Felucca: "BoulderRock05Addon"
+7/24/2019 3:57:50 PM: 127.0.0.1: Serials: 0x40000BB7; 
+7/24/2019 3:57:52 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 3:58:06 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4002, 1703, 2) in Felucca: "BoulderRock01Addon"
+7/24/2019 3:58:06 PM: 127.0.0.1: Serials: 0x40000BC1; 
+7/24/2019 3:58:08 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:00:02 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4040, 1657, 1) in Felucca: "BoulderRock02Addon"
+7/24/2019 4:00:02 PM: 127.0.0.1: Serials: 0x40000BE7; 
+7/24/2019 4:00:06 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:00:19 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4075, 1671, 0) in Felucca: "BoulderRock06Addon"
+7/24/2019 4:00:19 PM: 127.0.0.1: Serials: 0x40000BF2; 
+7/24/2019 4:00:21 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:00:26 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4077, 1670, 0) in Felucca: "BoulderRock08Addon"
+7/24/2019 4:00:26 PM: 127.0.0.1: Serials: 0x40000BF9; 
+7/24/2019 4:00:30 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:00:44 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4097, 1665, 2) in Felucca: "BoulderRock02Addon"
+7/24/2019 4:00:44 PM: 127.0.0.1: Serials: 0x40000C0C; 
+7/24/2019 4:00:47 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:01:18 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4071, 1678, 2) in Felucca: "BoulderRock06Addon"
+7/24/2019 4:01:18 PM: 127.0.0.1: Serials: 0x40000C1A; 
+7/24/2019 4:01:22 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'move '
+7/24/2019 4:01:26 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') moving 0x40000C1C (AddonComponent) to (4071, 1680, 1)
+7/24/2019 4:01:30 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:02:07 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4111, 1693, 4) in Felucca: "BoulderRock08Addon"
+7/24/2019 4:02:07 PM: 127.0.0.1: Serials: 0x40000C2F; 
+7/24/2019 4:02:10 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:02:21 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4131, 1690, 4) in Felucca: "BoulderRock01Addon"
+7/24/2019 4:02:21 PM: 127.0.0.1: Serials: 0x40000C34; 
+7/24/2019 4:02:23 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:02:33 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4163, 1726, 3) in Felucca: "BoulderRock02Addon"
+7/24/2019 4:02:33 PM: 127.0.0.1: Serials: 0x40000C3E; 
+7/24/2019 4:02:36 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:02:49 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4199, 1737, 4) in Felucca: "BoulderRock04Addon"
+7/24/2019 4:02:49 PM: 127.0.0.1: Serials: 0x40000C45; 
+7/24/2019 4:02:53 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:03:05 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4183, 1706, 2) in Felucca: "BoulderRock03Addon"
+7/24/2019 4:03:05 PM: 127.0.0.1: Serials: 0x40000C50; 
+7/24/2019 4:03:07 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4186, 1706, 2) in Felucca: "BoulderRock03Addon"
+7/24/2019 4:03:07 PM: 127.0.0.1: Serials: 0x40000C53; 
+7/24/2019 4:03:11 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4189, 1706, 2) in Felucca: "BoulderRock03Addon"
+7/24/2019 4:03:11 PM: 127.0.0.1: Serials: 0x40000C56; 
+7/24/2019 4:03:18 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:03:20 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:03:21 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:03:27 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4183, 1698, 0) in Felucca: "BoulderRock03Addon"
+7/24/2019 4:03:27 PM: 127.0.0.1: Serials: 0x40000C62; 
+7/24/2019 4:03:31 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4186, 1698, 2) in Felucca: "BoulderRock03Addon"
+7/24/2019 4:03:31 PM: 127.0.0.1: Serials: 0x40000C66; 
+7/24/2019 4:03:40 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:03:42 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+7/24/2019 4:03:47 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'm remove'
+7/24/2019 4:03:47 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') deleting 0x40000C60 (Static)
+7/24/2019 4:03:48 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') deleting 0x40000C61 (Static)
+7/24/2019 4:04:01 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'freezemap '
+7/24/2019 4:04:03 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') invoking freeze for every item in Owner
+7/24/2019 4:04:06 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'admin '
+7/24/2019 4:04:09 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/24/2019 4:04:10 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/24/2019 9:51:56 PM
+
+7/24/2019 10:04:36 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+7/24/2019 10:05:10 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'go '
+7/24/2019 10:05:29 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add shach'
+7/24/2019 10:05:31 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (4527, 1620, 0) in Felucca: "Shachihoko"
+7/24/2019 10:05:31 PM: 127.0.0.1: Serials: 0x13; 
+7/24/2019 10:05:34 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'tameit '
+7/24/2019 10:05:39 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'tameit '
+7/24/2019 10:18:51 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'go '
+7/24/2019 10:27:31 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'admin '
+7/24/2019 10:27:36 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/24/2019 10:27:39 PM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '

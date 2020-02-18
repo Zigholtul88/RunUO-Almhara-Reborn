@@ -1,0 +1,1274 @@
+3/1/2017 12:15:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/1/2017 12:15:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'setallskills 9999'
+3/1/2017 12:15:36 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'EverySkill.Base' of 0x427 "Mitsurugi" ('tommenquar') to '9999'
+3/1/2017 12:15:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add shrould'
+3/1/2017 12:15:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2535, 2005, 0) in Malas: "HoodedShroudOfShadows"
+3/1/2017 12:15:56 PM: 79.68.46.94: Serials: 0x40002A7F; 
+3/1/2017 12:16:05 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add z'
+3/1/2017 12:16:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2534, 2005, 0) in Malas: "ZyronicClaw"
+3/1/2017 12:16:13 PM: 79.68.46.94: Serials: 0x40002A80; 
+3/1/2017 12:16:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set rawstr 999 rawdex 999 rawint 999'
+3/1/2017 12:16:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'rawstr' of 0x427 "Mitsurugi" ('tommenquar') to '999'
+3/1/2017 12:16:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'rawdex' of 0x427 "Mitsurugi" ('tommenquar') to '999'
+3/1/2017 12:16:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'rawint' of 0x427 "Mitsurugi" ('tommenquar') to '999'
+3/1/2017 12:16:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/1/2017 12:17:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'LowerRegCost' of ... to '100'
+3/1/2017 12:17:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add spellbook'
+3/1/2017 12:18:12 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2534, 2005, 0) in Malas: "spellbook"
+3/1/2017 12:18:12 PM: 79.68.46.94: Serials: 0x40002A81; 
+3/1/2017 12:18:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'allspells '
+3/1/2017 12:18:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') filling spellbook 0x40002A81 (Spellbook)
+3/1/2017 12:21:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/1/2017 12:22:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/1/2017 8:58:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/1/2017 8:58:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x5C8 "Erika" ('Zigholtul88'), Location (1225, 942, 0), Map Malas
+3/1/2017 8:58:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/1/2017 9:00:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'speedboost '
+3/1/2017 9:00:55 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add scythe'
+3/1/2017 9:00:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1265, 935, 1) in Malas: "scythe"
+3/1/2017 9:00:57 PM: 79.68.46.94: Serials: 0x40002ADF; 
+3/1/2017 9:01:07 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get hue'
+3/1/2017 9:01:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1157'
+3/1/2017 9:01:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002ADF (Scythe) to '1157'
+3/1/2017 9:01:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1157'
+3/1/2017 9:01:36 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002A7F (HoodedShroudOfShadows) to '1157'
+3/1/2017 9:01:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 0'
+3/1/2017 9:01:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002ADF (Scythe) to '0'
+3/1/2017 9:02:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/1/2017 9:25:12 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/2/2017 9:24:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add townperson'
+3/2/2017 9:24:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1252, 1262, 0) in Malas: "Townsperson"
+3/2/2017 9:24:38 PM: 79.68.46.94: Serials: 0x540; 
+3/2/2017 9:25:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 9:27:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add xml'
+3/2/2017 9:27:51 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 9:27:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x540 "Chanda" (no account)
+3/2/2017 9:28:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/2/2017 9:32:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'speedboost '
+3/2/2017 9:35:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/2/2017 9:38:37 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/2/2017 9:38:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add ale'
+3/2/2017 9:39:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add mead'
+3/2/2017 9:39:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/2/2017 9:39:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add bar'
+3/2/2017 9:39:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (168, 1140, 32) in Malas: "Barkeeper"
+3/2/2017 9:39:43 PM: 79.68.46.94: Serials: 0x550; 
+3/2/2017 9:39:55 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set movable false'
+3/2/2017 9:40:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/2/2017 9:40:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x550 "Bjorn" (no account) to (167, 1141, 32)
+3/2/2017 9:40:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set movable false'
+3/2/2017 9:40:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 9:40:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set canwalk false'
+3/2/2017 9:40:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 9:40:52 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'CantWalk' of 0x550 "Bjorn" (no account) to 'True'
+3/2/2017 9:40:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/2/2017 9:40:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x550 "Bjorn" (no account) to (167, 1141, 32)
+3/2/2017 9:41:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/2/2017 9:41:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x40002573 (PewterBowlOfPotatos) to (169, 1142, 40)
+3/2/2017 9:41:55 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add bottle'
+3/2/2017 9:41:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add bottleof'
+3/2/2017 9:42:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (169, 1142, 40) in Malas: "IrishSpirit"
+3/2/2017 9:42:17 PM: 79.68.46.94: Serials: 0x40002574; 
+3/2/2017 9:42:20 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (167, 1142, 40) in Malas: "IrishSpirit"
+3/2/2017 9:42:20 PM: 79.68.46.94: Serials: 0x40002575; 
+3/2/2017 9:42:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add pitcher'
+3/2/2017 9:42:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add pitche'
+3/2/2017 9:43:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (170, 1142, 40) in Malas: "Pitcher"
+3/2/2017 9:43:34 PM: 79.68.46.94: Serials: 0x40002576; 
+3/2/2017 9:43:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 9:43:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Content' of 0x40002576 (Pitcher) to 'Water'
+3/2/2017 9:44:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Quantity' of 0x40002576 (Pitcher) to '100'
+3/2/2017 9:44:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add pitcher content water quantity 5'
+3/2/2017 9:44:36 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (168, 1142, 40) in Malas: "pitcher" "content" "water" "quantity" "5"
+3/2/2017 9:44:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 9:45:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Content' of 0x40002576 (Pitcher) to 'Liquor'
+3/2/2017 9:45:14 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Poison' of 0x40002576 (Pitcher) to 'Lethal'
+3/2/2017 9:45:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/2/2017 9:45:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x40002576 (Pitcher) to (167, 1142, 40)
+3/2/2017 9:53:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/2/2017 9:53:49 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/2/2017 9:57:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack robe'
+3/2/2017 9:58:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (280, 1762, 62) in Malas: "robe"
+3/2/2017 9:58:00 PM: 79.68.46.94: Serials: 0x40002588; 
+3/2/2017 9:58:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1722'
+3/2/2017 9:58:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '1722'
+3/2/2017 10:05:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say hi'
+3/2/2017 10:05:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/2/2017 10:05:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (255, 1741, 15), Map Malas
+3/2/2017 10:06:05 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say Hello sexy ass'
+3/2/2017 10:06:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add banker'
+3/2/2017 10:06:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (257, 1739, 14) in Malas: "banker"
+3/2/2017 10:06:19 PM: 79.68.46.94: Serials: 0x523; 
+3/2/2017 10:06:20 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say Hello sexy ass'
+3/2/2017 10:06:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') forcing speech on 0x523 "Patterson" (no account).
+3/2/2017 10:06:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:06:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x523 "Patterson" (no account)
+3/2/2017 10:10:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 2127'
+3/2/2017 10:11:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '2127'
+3/2/2017 10:11:08 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 4747'
+3/2/2017 10:11:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '4747'
+3/2/2017 10:11:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 4756'
+3/2/2017 10:11:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '4756'
+3/2/2017 10:20:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue [set hue 1559'
+3/2/2017 10:20:07 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '1559'
+3/2/2017 10:20:37 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue [set hue 1461'
+3/2/2017 10:20:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '1461'
+3/2/2017 10:20:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue [set hue 1461'
+3/2/2017 10:20:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002A7F (HoodedShroudOfShadows) to '1461'
+3/2/2017 10:21:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue [set hue 1462'
+3/2/2017 10:21:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002588 (Robe) to '1462'
+3/2/2017 10:21:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue [set hue 1462'
+3/2/2017 10:21:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002ADF (Scythe) to '1462'
+3/2/2017 10:22:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack etherealkirin'
+3/2/2017 10:22:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (247, 1718, 14) in Malas: "etherealkirin"
+3/2/2017 10:22:29 PM: 79.68.46.94: Serials: 0x400022B6; 
+3/2/2017 10:22:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack boots set hue 1461'
+3/2/2017 10:23:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (232, 1719, 14) in Malas: "boots" "set" "hue" "1461"
+3/2/2017 10:23:01 PM: 79.68.46.94: Serials: 0x400022E1; 
+3/2/2017 10:23:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack boots set hue 1462'
+3/2/2017 10:23:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (233, 1720, 14) in Malas: "boots" "set" "hue" "1462"
+3/2/2017 10:23:26 PM: 79.68.46.94: Serials: 0x400022E2; 
+3/2/2017 10:23:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add glove'
+3/2/2017 10:24:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (231, 1722, 14) in Malas: "BoneArms"
+3/2/2017 10:24:06 PM: 79.68.46.94: Serials: 0x400022E3; 
+3/2/2017 10:24:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (232, 1722, 14) in Malas: "BoneChest"
+3/2/2017 10:24:10 PM: 79.68.46.94: Serials: 0x400022E4; 
+3/2/2017 10:24:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (233, 1722, 14) in Malas: "BoneGloves"
+3/2/2017 10:24:19 PM: 79.68.46.94: Serials: 0x400022E5; 
+3/2/2017 10:24:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (230, 1722, 14) in Malas: "BoneHelm"
+3/2/2017 10:24:24 PM: 79.68.46.94: Serials: 0x400022E6; 
+3/2/2017 10:24:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (229, 1723, 14) in Malas: "BoneLegs"
+3/2/2017 10:24:35 PM: 79.68.46.94: Serials: 0x400022E7; 
+3/2/2017 10:24:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 10:25:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E4 (BoneChest) to '1462'
+3/2/2017 10:25:02 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 10:25:05 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E5 (BoneGloves) to '1462'
+3/2/2017 10:25:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 10:25:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E3 (BoneArms) to '1462'
+3/2/2017 10:25:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 10:25:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E6 (BoneHelm) to '1462'
+3/2/2017 10:25:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 10:25:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E7 (BoneLegs) to '1462'
+3/2/2017 10:26:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1461'
+3/2/2017 10:26:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002A80 (ZyronicClaw) to '1461'
+3/2/2017 10:26:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:26:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002A80 (ZyronicClaw)
+3/2/2017 10:26:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add halbert set hue 1461'
+3/2/2017 10:26:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add hal'
+3/2/2017 10:26:36 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (259, 1735, 14) in Malas: "Halberd"
+3/2/2017 10:26:36 PM: 79.68.46.94: Serials: 0x400022E8; 
+3/2/2017 10:26:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1461'
+3/2/2017 10:26:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400022E8 (Halberd) to '1461'
+3/2/2017 10:27:02 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:27:03 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400022E8 (Halberd)
+3/2/2017 10:27:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add spear set hue 1461'
+3/2/2017 10:27:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (259, 1736, 14) in Malas: "spear" "set" "hue" "1461"
+3/2/2017 10:27:13 PM: 79.68.46.94: Serials: 0x400022E9; 
+3/2/2017 10:27:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/2/2017 10:27:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (5719, 184, -3), Map Felucca
+3/2/2017 10:28:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:28:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002588 (Robe)
+3/2/2017 10:28:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:28:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002350 (Corpse)
+3/2/2017 10:28:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'kill '
+3/2/2017 10:28:49 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x3 "a frost ooze" (no account)
+3/2/2017 10:29:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:29:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400023D5 (Corpse)
+3/2/2017 10:29:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 10:30:07 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'NightSight' of ... to '100'
+3/2/2017 10:30:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'SpellChanneling' of ... to '100'
+3/2/2017 10:31:03 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:31:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40001D6B (NightSightScroll)
+3/2/2017 10:31:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say okay, yes massah...i be dumb!'
+3/2/2017 10:31:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') forcing speech on 0xE "Ithilwen" (no account).
+3/2/2017 10:33:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:33:37 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400024A7 (Corpse)
+3/2/2017 10:34:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'res '
+3/2/2017 10:34:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') resurrecting 0x1 "Zigholtul" ('Zigholtul88')
+3/2/2017 10:35:41 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1461'
+3/2/2017 10:35:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x400024A8 (Cloak) to '1461'
+3/2/2017 10:37:08 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:37:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400024B2 (Corpse)
+3/2/2017 10:37:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/2/2017 10:38:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/2/2017 10:38:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/2/2017 10:38:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (5877, 242, -5), Map Felucca
+3/2/2017 10:38:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/2/2017 10:39:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (1495, 454, 1), Map Malas
+3/2/2017 10:41:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:41:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002534 (Corpse)
+3/2/2017 10:42:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add sco'
+3/2/2017 10:42:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1509, 454, 9) in Malas: "ScourgeDragon"
+3/2/2017 10:42:26 PM: 79.68.46.94: Serials: 0x559; 
+3/2/2017 10:43:05 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add ancient'
+3/2/2017 10:43:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1511, 457, 9) in Malas: "AncientWyrm"
+3/2/2017 10:43:34 PM: 79.68.46.94: Serials: 0x55A; 
+3/2/2017 10:44:39 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm remove'
+3/2/2017 10:44:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002542 (Corpse)
+3/2/2017 10:44:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000253F (Corpse)
+3/2/2017 10:44:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400024D7 (Corpse)
+3/2/2017 10:44:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400024D6 (Corpse)
+3/2/2017 10:44:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add whitewyrm'
+3/2/2017 10:44:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1512, 449, 9) in Malas: "whitewyrm"
+3/2/2017 10:44:57 PM: 79.68.46.94: Serials: 0x55B; 
+3/2/2017 10:45:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add whitewyrm'
+3/2/2017 10:45:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1508, 454, 9) in Malas: "whitewyrm"
+3/2/2017 10:45:18 PM: 79.68.46.94: Serials: 0x55D; 
+3/2/2017 10:45:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack lute'
+3/2/2017 10:45:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1512, 447, 8) in Malas: "lute"
+3/2/2017 10:45:30 PM: 79.68.46.94: Serials: 0x40002567; 
+3/2/2017 10:46:14 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:46:14 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000256A (Corpse)
+3/2/2017 10:46:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add whitewyrm'
+3/2/2017 10:46:20 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1516, 463, 8) in Malas: "whitewyrm"
+3/2/2017 10:46:20 PM: 79.68.46.94: Serials: 0x55E; 
+3/2/2017 10:46:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 10:46:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Controlled' of 0x55E "a white wyrm" (no account) to 'True'
+3/2/2017 10:46:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'ControlMaster' of 0x55E "a white wyrm" (no account) to '0x427 "Mitsurugi"'
+3/2/2017 10:47:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'IsBonded' of 0x55E "a white wyrm" (no account) to 'True'
+3/2/2017 10:48:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 10:49:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say yummy'
+3/2/2017 10:49:20 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') forcing speech on 0x55E "a white wyrm" (no account).
+3/2/2017 10:49:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say yes stay....tasty critters'
+3/2/2017 10:49:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') forcing speech on 0x55E "Sammy" (no account).
+3/2/2017 10:50:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:50:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000254B (Corpse)
+3/2/2017 10:50:03 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:50:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x55E "Sammy" (no account)
+3/2/2017 10:50:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add pet'
+3/2/2017 10:50:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1513, 450, 9) in Malas: "PetBondDeed"
+3/2/2017 10:50:11 PM: 79.68.46.94: Serials: 0x400025B1; 
+3/2/2017 10:50:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1514, 450, 9) in Malas: "PetSlotDeed"
+3/2/2017 10:50:16 PM: 79.68.46.94: Serials: 0x400025B2; 
+3/2/2017 10:50:25 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:50:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400025B1 (PetBondDeed)
+3/2/2017 10:50:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:51:44 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add drake'
+3/2/2017 10:51:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1511, 455, 9) in Malas: "drake"
+3/2/2017 10:51:45 PM: 79.68.46.94: Serials: 0x576; 
+3/2/2017 10:52:31 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm kill'
+3/2/2017 10:52:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x574 "a gaseous slime" (no account)
+3/2/2017 10:52:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x570 "a gaseous slime" (no account)
+3/2/2017 10:52:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x571 "a gaseous slime" (no account)
+3/2/2017 10:53:12 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add pet'
+3/2/2017 10:53:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1512, 453, 9) in Malas: "PetBondDeed"
+3/2/2017 10:53:15 PM: 79.68.46.94: Serials: 0x400025E5; 
+3/2/2017 10:54:41 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 10:54:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x576 "a drake" (no account)
+3/2/2017 11:03:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (1518, 483, 2), Map Malas
+3/2/2017 11:05:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add blocker'
+3/2/2017 11:05:25 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm add blocker'
+3/2/2017 11:05:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1563, 522, 3) in Malas: "blocker"
+3/2/2017 11:05:28 PM: 79.68.46.94: Serials: 0x40002662; 
+3/2/2017 11:05:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1564, 522, 0) in Malas: "blocker"
+3/2/2017 11:05:30 PM: 79.68.46.94: Serials: 0x40002664; 
+3/2/2017 11:05:31 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1565, 522, 0) in Malas: "blocker"
+3/2/2017 11:05:31 PM: 79.68.46.94: Serials: 0x40002665; 
+3/2/2017 11:05:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1566, 522, 0) in Malas: "blocker"
+3/2/2017 11:05:32 PM: 79.68.46.94: Serials: 0x40002666; 
+3/2/2017 11:05:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1567, 522, 0) in Malas: "blocker"
+3/2/2017 11:05:33 PM: 79.68.46.94: Serials: 0x40002667; 
+3/2/2017 11:05:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1568, 522, 0) in Malas: "blocker"
+3/2/2017 11:05:34 PM: 79.68.46.94: Serials: 0x40002668; 
+3/2/2017 11:05:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm remove'
+3/2/2017 11:05:44 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002662 (Blocker)
+3/2/2017 11:05:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002664 (Blocker)
+3/2/2017 11:05:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002665 (Blocker)
+3/2/2017 11:05:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002666 (Blocker)
+3/2/2017 11:05:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002667 (Blocker)
+3/2/2017 11:05:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002668 (Blocker)
+3/2/2017 11:07:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'kill '
+3/2/2017 11:07:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x579 "Nalini" (no account)
+3/2/2017 11:13:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add town'
+3/2/2017 11:13:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add towncrier'
+3/2/2017 11:13:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1579, 499, 0) in Malas: "towncrier"
+3/2/2017 11:13:33 PM: 79.68.46.94: Serials: 0x57C; 
+3/2/2017 11:13:37 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 11:13:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/2/2017 11:14:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'towncriers '
+3/2/2017 11:16:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 11:16:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x57C "Mindel" (no account)
+3/2/2017 11:17:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (2401, 1761, 20), Map Malas
+3/2/2017 11:17:12 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add towncrier'
+3/2/2017 11:17:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2403, 1759, 20) in Malas: "towncrier"
+3/2/2017 11:17:13 PM: 79.68.46.94: Serials: 0x57E; 
+3/2/2017 11:17:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'towncriers '
+3/2/2017 11:18:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 11:18:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x57E "Octavius" (no account)
+3/2/2017 11:19:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'towncriers '
+3/2/2017 11:20:52 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add towncrier'
+3/2/2017 11:20:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2404, 1756, 20) in Malas: "towncrier"
+3/2/2017 11:20:53 PM: 79.68.46.94: Serials: 0x580; 
+3/2/2017 11:25:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'say im still dumb'
+3/2/2017 11:25:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') forcing speech on 0x580 "Lenore" (no account).
+3/2/2017 11:25:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 11:25:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x580 "Lenore" (no account)
+3/2/2017 11:25:36 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'sm blah blah blah'
+3/2/2017 11:26:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'towncriers '
+3/2/2017 11:29:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/2/2017 11:29:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm remove'
+3/2/2017 11:29:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002ADF (Scythe)
+3/2/2017 11:29:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400022B6 (EtherealKirin)
+3/2/2017 11:29:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002A71 (Gold)
+3/2/2017 11:29:44 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400022E1 (Boots)
+3/2/2017 11:29:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002587 (EmptyPewterBowl)
+3/2/2017 11:29:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add towncrier'
+3/2/2017 11:30:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1177, 1063, 0) in Malas: "towncrier"
+3/2/2017 11:30:23 PM: 79.68.46.94: Serials: 0x583; 
+3/2/2017 11:33:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/2/2017 11:33:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x583 "Vaughn" (no account) to (1178, 1059, 0)
+3/2/2017 11:34:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'towncriers '
+3/2/2017 11:35:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get hue'
+3/2/2017 11:35:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm set hue 1461'
+3/2/2017 11:35:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002819 (FancyShirt) to '1461'
+3/2/2017 11:35:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x4000281A (Skirt) to '1461'
+3/2/2017 11:35:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x4000281B (FeatheredHat) to '1461'
+3/2/2017 11:35:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add hat'
+3/2/2017 11:36:07 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1180, 1058, 0) in Malas: "JesterHat"
+3/2/2017 11:36:07 PM: 79.68.46.94: Serials: 0x4000281D; 
+3/2/2017 11:36:14 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm set hue 1461'
+3/2/2017 11:36:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x4000281D (JesterHat) to '1461'
+3/2/2017 11:36:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add robe set hue 1461'
+3/2/2017 11:36:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1180, 1058, 0) in Malas: "robe" "set" "hue" "1461"
+3/2/2017 11:36:42 PM: 79.68.46.94: Serials: 0x4000281E; 
+3/2/2017 11:37:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add kilt set hue 1461'
+3/2/2017 11:37:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1180, 1059, 0) in Malas: "kilt" "set" "hue" "1461"
+3/2/2017 11:37:19 PM: 79.68.46.94: Serials: 0x4000281F; 
+3/2/2017 11:37:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm remove'
+3/2/2017 11:37:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000281E (Robe)
+3/2/2017 11:37:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000281A (Skirt)
+3/2/2017 11:37:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000281B (FeatheredHat)
+3/2/2017 11:37:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002819 (FancyShirt)
+3/2/2017 11:37:52 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'dupe '
+3/2/2017 11:37:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') duping 0x40002A81 (Spellbook) (inBag=False; amount=1)
+3/2/2017 11:37:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') duped 0x40002A81 (Spellbook) creating 0x40002820 (Spellbook)
+3/2/2017 11:38:02 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1462'
+3/2/2017 11:38:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002820 (Spellbook) to '1462'
+3/2/2017 11:38:39 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/2/2017 11:38:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002820 (Spellbook)
+3/2/2017 11:41:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'motd '
+3/3/2017 7:08:53 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/3/2017 7:11:10 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'speedboost '
+3/3/2017 7:11:45 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack runebook'
+3/3/2017 7:11:47 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1190, 1279, 0) in Malas: "runebook"
+3/3/2017 7:11:47 AM: 79.68.46.94: Serials: 0x40000438; 
+3/3/2017 7:11:56 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack recallrune 4'
+3/3/2017 7:11:59 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1189, 1279, 0) in Malas: "recallrune" "4"
+3/3/2017 7:12:01 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack recallrune'
+3/3/2017 7:12:02 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1189, 1279, 0) in Malas: "recallrune"
+3/3/2017 7:12:02 AM: 79.68.46.94: Serials: 0x40000439; 
+3/3/2017 7:13:13 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'where '
+3/3/2017 7:13:18 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/3/2017 7:17:43 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/3/2017 7:17:55 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get itemid'
+3/3/2017 7:18:02 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/3/2017 7:18:09 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add static 3316'
+3/3/2017 7:18:10 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1329, 1331, -2) in Malas: "static" "3316"
+3/3/2017 7:18:10 AM: 79.68.46.94: Serials: 0x40000478; 
+3/3/2017 7:18:17 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/3/2017 7:18:23 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get itemid'
+3/3/2017 7:18:29 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/3/2017 7:18:34 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add static 3315'
+3/3/2017 7:18:36 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1329, 1330, -2) in Malas: "static" "3315"
+3/3/2017 7:18:36 AM: 79.68.46.94: Serials: 0x40000488; 
+3/3/2017 7:18:39 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add blocker'
+3/3/2017 7:18:42 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1329, 1331, -1) in Malas: "blocker"
+3/3/2017 7:18:42 AM: 79.68.46.94: Serials: 0x40000489; 
+3/3/2017 7:18:48 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/3/2017 7:18:51 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40000489 (Blocker)
+3/3/2017 7:21:11 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/3/2017 7:22:02 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/3/2017 7:22:09 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/3/2017 7:22:15 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/3/2017 7:23:09 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack recallrune'
+3/3/2017 7:23:11 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1348, 1607, 16) in Malas: "recallrune"
+3/3/2017 7:23:11 AM: 79.68.46.94: Serials: 0x400004EE; 
+3/3/2017 7:25:22 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/3/2017 7:35:45 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/3/2017 7:40:26 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/3/2017 7:41:16 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm add blocker'
+3/3/2017 7:41:21 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1295, 430, 21) in Malas: "blocker"
+3/3/2017 7:41:21 AM: 79.68.46.94: Serials: 0x4000058A; 
+3/3/2017 7:41:22 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1294, 430, 21) in Malas: "blocker"
+3/3/2017 7:41:22 AM: 79.68.46.94: Serials: 0x4000058B; 
+3/3/2017 7:41:23 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1293, 430, 21) in Malas: "blocker"
+3/3/2017 7:41:23 AM: 79.68.46.94: Serials: 0x4000058C; 
+3/3/2017 7:41:24 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1292, 430, 21) in Malas: "blocker"
+3/3/2017 7:41:24 AM: 79.68.46.94: Serials: 0x4000058D; 
+3/3/2017 7:41:25 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1291, 430, 21) in Malas: "blocker"
+3/3/2017 7:41:25 AM: 79.68.46.94: Serials: 0x4000058E; 
+3/3/2017 7:41:25 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1290, 430, 21) in Malas: "blocker"
+3/3/2017 7:41:25 AM: 79.68.46.94: Serials: 0x4000058F; 
+3/3/2017 7:41:27 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1289, 430, 21) in Malas: "blocker"
+3/3/2017 7:41:27 AM: 79.68.46.94: Serials: 0x40000593; 
+3/3/2017 7:41:28 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1296, 430, 23) in Malas: "blocker"
+3/3/2017 7:41:28 AM: 79.68.46.94: Serials: 0x40000594; 
+3/3/2017 7:41:46 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1289, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:46 AM: 79.68.46.94: Serials: 0x4000059B; 
+3/3/2017 7:41:47 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1290, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:47 AM: 79.68.46.94: Serials: 0x4000059C; 
+3/3/2017 7:41:48 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1291, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:48 AM: 79.68.46.94: Serials: 0x4000059D; 
+3/3/2017 7:41:49 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1292, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:49 AM: 79.68.46.94: Serials: 0x4000059E; 
+3/3/2017 7:41:50 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1293, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:50 AM: 79.68.46.94: Serials: 0x4000059F; 
+3/3/2017 7:41:50 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1294, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:50 AM: 79.68.46.94: Serials: 0x400005A0; 
+3/3/2017 7:41:51 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1295, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:51 AM: 79.68.46.94: Serials: 0x400005A1; 
+3/3/2017 7:41:52 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1296, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:52 AM: 79.68.46.94: Serials: 0x400005A2; 
+3/3/2017 7:41:52 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1297, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:52 AM: 79.68.46.94: Serials: 0x400005A3; 
+3/3/2017 7:41:53 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1298, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:53 AM: 79.68.46.94: Serials: 0x400005A4; 
+3/3/2017 7:41:54 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1299, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:54 AM: 79.68.46.94: Serials: 0x400005A5; 
+3/3/2017 7:41:55 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1300, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:55 AM: 79.68.46.94: Serials: 0x400005A6; 
+3/3/2017 7:41:56 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1301, 424, 27) in Malas: "blocker"
+3/3/2017 7:41:56 AM: 79.68.46.94: Serials: 0x400005A7; 
+3/3/2017 7:42:02 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm remove'
+3/3/2017 7:42:04 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40000593 (Blocker)
+3/3/2017 7:42:05 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000058F (Blocker)
+3/3/2017 7:42:05 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000058E (Blocker)
+3/3/2017 7:42:06 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000058D (Blocker)
+3/3/2017 7:42:07 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000058C (Blocker)
+3/3/2017 7:42:07 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000058B (Blocker)
+3/3/2017 7:42:08 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000058A (Blocker)
+3/3/2017 7:42:09 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40000594 (Blocker)
+3/3/2017 7:42:29 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'wipe '
+3/3/2017 7:42:31 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') wiping from (1289, 424, 31) to (1301, 424, 31) in Malas (Items, Mobiles)
+3/3/2017 7:43:02 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set accesslevel player'
+3/3/2017 7:43:03 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'accesslevel' of 0x427 "Mitsurugi" ('tommenquar') to 'Player'
+3/3/2017 7:44:23 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get itemid'
+3/3/2017 7:45:33 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add sign'
+3/3/2017 7:45:35 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1292, 441, 10) in Malas: "sign"
+3/3/2017 7:45:42 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add sign'
+3/3/2017 7:45:48 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add sig'
+3/3/2017 7:50:39 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set movable false name "Road Closed!!"'
+3/3/2017 7:50:41 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'movable' of 0x400006A0 (Static) to 'False'
+3/3/2017 7:50:41 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'name' of 0x400006A0 (Static) to 'Road Closed!!'
+3/3/2017 7:51:32 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set movable false name "Road Closed due to rock slide"'
+3/3/2017 7:51:35 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'movable' of 0x400006A0 (Static) to 'False'
+3/3/2017 7:51:35 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'name' of 0x400006A0 (Static) to 'Road Closed due to rock slide'
+3/3/2017 9:22:03 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/3/2017 10:33:07 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/3/2017 10:46:25 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/3/2017 10:47:04 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add stool'
+3/3/2017 10:47:07 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1134, 931, 15) in Malas: "stool"
+3/3/2017 10:47:07 AM: 79.68.46.94: Serials: 0x4000049A; 
+3/3/2017 11:37:34 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/3/2017 1:47:46 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack recallrune'
+3/3/2017 1:47:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1134, 931, 15) in Malas: "recallrune"
+3/3/2017 1:47:47 PM: 79.68.46.94: Serials: 0x400016C1; 
+3/3/2017 1:49:21 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get hue'
+3/3/2017 1:49:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/3/2017 1:49:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add static 8736'
+3/3/2017 1:49:51 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1132, 696, 22) in Malas: "static" "8736"
+3/3/2017 1:49:51 PM: 79.68.46.94: Serials: 0x40001710; 
+3/3/2017 1:49:55 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get hue'
+3/3/2017 1:50:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/3/2017 1:50:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40001710 (Static)
+3/3/2017 1:55:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/3/2017 2:02:55 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack recallrune'
+3/3/2017 2:02:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (905, 637, 27) in Malas: "recallrune"
+3/3/2017 2:02:57 PM: 79.68.46.94: Serials: 0x4000180A; 
+3/3/2017 2:05:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get itemid'
+3/3/2017 2:05:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add static 12253'
+3/3/2017 2:06:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (937, 675, 27) in Malas: "static" "12253"
+3/3/2017 2:06:01 PM: 79.68.46.94: Serials: 0x40001816; 
+3/3/2017 2:06:08 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get hue'
+3/3/2017 2:06:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1451'
+3/3/2017 2:06:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40001816 (Static) to '1451'
+3/3/2017 2:06:41 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1461'
+3/3/2017 2:06:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40001816 (Static) to '1461'
+3/3/2017 2:11:00 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set name "Forest Heart"'
+3/3/2017 2:11:02 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'name' of 0x40001816 (Static) to 'Forest Heart'
+3/3/2017 2:12:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack recallrune'
+3/3/2017 2:12:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (939, 675, 27) in Malas: "recallrune"
+3/3/2017 2:12:18 PM: 79.68.46.94: Serials: 0x40001860; 
+3/3/2017 2:13:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get hue 1463'
+3/3/2017 2:14:10 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1463'
+3/3/2017 2:14:12 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1463'
+3/3/2017 2:14:16 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1464'
+3/3/2017 2:14:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1464'
+3/3/2017 2:14:21 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1466'
+3/3/2017 2:14:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1466'
+3/3/2017 2:14:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1467'
+3/3/2017 2:14:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1467'
+3/3/2017 2:14:31 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1468'
+3/3/2017 2:14:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1468'
+3/3/2017 2:14:36 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1469'
+3/3/2017 2:14:39 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1469'
+3/3/2017 2:14:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1470'
+3/3/2017 2:14:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1470'
+3/3/2017 2:14:51 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1459'
+3/3/2017 2:14:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1459'
+3/3/2017 2:15:02 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1458'
+3/3/2017 2:15:04 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1458'
+3/3/2017 2:15:07 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1457'
+3/3/2017 2:15:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1457'
+3/3/2017 2:15:12 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1456'
+3/3/2017 2:15:14 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1456'
+3/3/2017 2:15:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1455'
+3/3/2017 2:15:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1455'
+3/3/2017 2:15:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1454'
+3/3/2017 2:15:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1454'
+3/3/2017 2:15:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1453'
+3/3/2017 2:15:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1453'
+3/3/2017 2:15:33 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1452'
+3/3/2017 2:15:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1452'
+3/3/2017 2:15:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1451'
+3/3/2017 2:15:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1451'
+3/3/2017 2:15:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack runebook'
+3/3/2017 2:15:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (939, 675, 27) in Malas: "runebook"
+3/3/2017 2:15:58 PM: 79.68.46.94: Serials: 0x4000191C; 
+3/3/2017 2:16:03 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1455'
+3/3/2017 2:16:05 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1455'
+3/3/2017 2:16:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1470'
+3/3/2017 2:16:11 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1470'
+3/3/2017 2:16:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1461'
+3/3/2017 2:16:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1461'
+3/3/2017 2:16:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1460'
+3/3/2017 2:16:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x4000191C (Runebook) to '1460'
+3/3/2017 2:16:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1460'
+3/3/2017 2:16:31 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40000438 (Runebook) to '1460'
+3/3/2017 2:16:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 0'
+3/3/2017 2:16:37 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x4000191C (Runebook) to '0'
+3/3/2017 6:05:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add keyword'
+3/3/2017 6:06:08 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (972, 723, 25) in Malas: "KeywordTeleporter"
+3/3/2017 6:06:08 PM: 79.68.46.94: Serials: 0x40002E4B; 
+3/3/2017 6:06:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/3/2017 6:06:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40002E4B (KeywordTeleporter)
+3/3/2017 6:06:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'afk '
+3/3/2017 6:06:58 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'afk '
+3/5/2017 12:48:21 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'sm show me that boss room'
+3/5/2017 12:48:50 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack etherealkirin'
+3/5/2017 12:48:52 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2288, 1398, 23) in Malas: "etherealkirin"
+3/5/2017 12:48:52 AM: 79.68.46.94: Serials: 0x4000180E; 
+3/5/2017 12:54:54 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'sm use [sm sor staff message'
+3/5/2017 12:57:58 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/5/2017 12:58:03 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (2286, 1112, 23), Map Malas
+3/5/2017 1:00:26 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/5/2017 1:19:50 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/5/2017 1:19:55 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (1046, 829, -27), Map Malas
+3/5/2017 1:24:03 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'dupe 2'
+3/5/2017 1:24:08 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') duping 0x40001286 (Teleporter) (inBag=False; amount=2)
+3/5/2017 1:24:08 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') duped 0x40001286 (Teleporter) creating 0x4000194A (Teleporter)
+3/5/2017 1:24:08 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') duped 0x40001286 (Teleporter) creating 0x4000194B (Teleporter)
+3/5/2017 1:24:11 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/5/2017 1:24:16 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x4000194B (Teleporter) to (2354, 771, 18)
+3/5/2017 1:24:17 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/5/2017 1:24:21 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x4000194A (Teleporter) to (2353, 771, 18)
+3/5/2017 1:25:48 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (2354, 771, 18), Map Malas
+3/5/2017 8:22:51 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/5/2017 8:22:54 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (2286, 1406, 28), Map Malas
+3/5/2017 8:26:13 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/5/2017 8:29:22 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add farmer'
+3/5/2017 8:29:24 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1164, 1150, 0) in Malas: "farmer"
+3/5/2017 8:29:24 AM: 79.68.46.94: Serials: 0x235; 
+3/5/2017 8:29:42 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/5/2017 8:29:44 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x235 "Bonnie" (no account)
+3/5/2017 8:35:44 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add sos'
+3/5/2017 8:35:46 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1181, 1155, 0) in Malas: "sos"
+3/5/2017 8:35:46 AM: 79.68.46.94: Serials: 0x400008D4; 
+3/5/2017 8:35:52 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add sos'
+3/5/2017 8:35:53 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1183, 1155, 0) in Malas: "sos"
+3/5/2017 8:35:53 AM: 79.68.46.94: Serials: 0x400008D5; 
+3/5/2017 8:36:28 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set map trammel'
+3/5/2017 8:36:30 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'map' of 0x427 "Mitsurugi" ('tommenquar') to 'Trammel'
+3/5/2017 8:36:43 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/5/2017 8:37:03 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack sextent'
+3/5/2017 8:37:05 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1669, 1613, 10) in Trammel: "sextent"
+3/5/2017 8:37:10 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add sex'
+3/5/2017 8:37:14 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1669, 1611, 10) in Trammel: "EnchantedSextant"
+3/5/2017 8:37:14 AM: 79.68.46.94: Serials: 0x400008EE; 
+3/5/2017 8:37:56 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/5/2017 8:38:14 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack sextant'
+3/5/2017 8:38:16 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1469, 1808, -5) in Trammel: "sextant"
+3/5/2017 8:38:16 AM: 79.68.46.94: Serials: 0x40000903; 
+3/5/2017 8:38:20 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/5/2017 8:38:21 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x400008EE (EnchantedSextant)
+3/5/2017 8:38:39 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/5/2017 8:39:03 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/5/2017 8:39:18 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/5/2017 8:39:32 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/5/2017 8:40:02 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/5/2017 8:40:33 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/5/2017 8:43:41 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack fishingpole'
+3/5/2017 8:43:43 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (435, 160, -5) in Trammel: "fishingpole"
+3/5/2017 8:43:43 AM: 79.68.46.94: Serials: 0x40000931; 
+3/5/2017 8:45:38 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add fabled'
+3/5/2017 8:45:41 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (436, 160, -5) in Trammel: "FabledFishingNet"
+3/5/2017 8:45:41 AM: 79.68.46.94: Serials: 0x4000093D; 
+3/5/2017 8:46:33 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'wipe '
+3/5/2017 8:46:35 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') wiping from (431, 158, -5) to (442, 162, -5) in Trammel (Items, Mobiles)
+3/5/2017 8:52:06 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'wipe '
+3/5/2017 8:52:11 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/5/2017 8:52:14 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x40000A48 (Static) to (421, 162, -5)
+3/5/2017 8:52:18 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'wipe '
+3/5/2017 8:52:21 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') wiping from (427, 159, -5) to (442, 165, -5) in Trammel (Items, Mobiles)
+3/5/2017 8:52:23 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'wipe '
+3/5/2017 8:52:25 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') wiping from (424, 159, -5) to (443, 161, -5) in Trammel (Items, Mobiles)
+3/5/2017 8:52:26 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'wipe '
+3/5/2017 8:52:29 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') wiping from (433, 151, -5) to (437, 175, -5) in Trammel (Items, Mobiles)
+3/5/2017 8:52:32 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/5/2017 8:52:35 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x40000A48 (Static) to (430, 159, -5)
+3/5/2017 8:52:36 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/5/2017 8:52:38 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x40000A4C (Corpse) to (433, 161, -5)
+3/5/2017 8:52:43 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/5/2017 8:52:44 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40000A4C (Corpse)
+3/5/2017 8:53:47 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/5/2017 8:53:49 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40000987 (WoodenChest)
+3/5/2017 8:54:48 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm remove'
+3/5/2017 8:54:50 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40000A6D (Corpse)
+3/5/2017 8:54:51 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40000A6E (Corpse)
+3/5/2017 8:54:52 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40000A6F (Corpse)
+3/5/2017 8:56:08 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set movable true'
+3/5/2017 8:56:10 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'movable' of 0x40000A48 (Static) to 'True'
+3/5/2017 8:56:23 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set name "Praise the sun!"'
+3/5/2017 8:56:25 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'name' of 0x40000A48 (Static) to 'Praise the sun!'
+3/5/2017 8:56:31 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'move '
+3/5/2017 8:56:33 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') moving 0x40000A48 (Static) to (436, 159, -5)
+3/5/2017 8:57:09 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set name "For Hibernia!"'
+3/5/2017 8:57:10 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'name' of 0x40000A40 (Static) to 'For Hibernia!'
+3/5/2017 8:57:51 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set name "A 1px X 1px scale of your mom"'
+3/5/2017 8:57:53 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'name' of 0x40000A81 (Static) to 'A 1px X 1px scale of your mom'
+3/5/2017 8:58:30 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+3/5/2017 9:15:29 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'wipe '
+3/5/2017 9:15:31 AM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') wiping from (428, 150, -5) to (442, 157, -5) in Trammel (Items, Mobiles)
+3/6/2017 7:51:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/6/2017 7:51:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/6/2017 7:51:51 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') adding new account: tomgranvidas
+3/14/2017 7:50:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/14/2017 7:50:44 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (1214, 1081, 0), Map Malas
+3/14/2017 7:50:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'skills '
+3/14/2017 7:51:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property '[Cartography: 0].Base' of 0x3FF "Poncho Vila" ('tomgranvidas') to '0'
+3/14/2017 7:57:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack bloodmoss 10'
+3/14/2017 7:57:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1176, 1047, 5) in Malas: "bloodmoss" "10"
+3/14/2017 7:57:59 PM: 79.68.46.94: Serials: 0x40002AB6; 
+3/14/2017 7:58:03 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add suf'
+3/14/2017 7:58:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack sulfurousash 10'
+3/14/2017 7:58:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1176, 1047, 5) in Malas: "sulfurousash" "10"
+3/14/2017 7:58:59 PM: 79.68.46.94: Serials: 0x40002AB8; 
+3/14/2017 8:14:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/14/2017 8:14:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (682, 568, 0), Map Malas
+3/14/2017 8:14:21 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add banker'
+3/14/2017 8:14:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (680, 565, 0) in Malas: "banker"
+3/14/2017 8:14:23 PM: 79.68.46.94: Serials: 0x571; 
+3/14/2017 8:18:39 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'hide '
+3/14/2017 8:18:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') hiding 0x427 "Mitsurugi" ('tommenquar')
+3/14/2017 8:21:20 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/14/2017 8:21:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x571 "Ava" (no account)
+3/14/2017 8:24:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'bank '
+3/14/2017 8:24:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') opening bank box of 0x3FF "Poncho Vila" ('tomgranvidas')
+3/14/2017 8:24:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'bank '
+3/14/2017 8:24:51 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') opening bank box of 0x3FF "Poncho Vila" ('tomgranvidas')
+3/18/2017 6:33:21 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/18/2017 6:33:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (655, 701, 0), Map Malas
+3/18/2017 6:33:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'unhide '
+3/18/2017 6:33:31 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') unhiding 0x427 "Mitsurugi" ('tommenquar')
+3/18/2017 6:33:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/18/2017 6:33:44 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add filledwater'
+3/18/2017 6:34:01 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (658, 701, 0) in Malas: "WaterBarrel"
+3/18/2017 6:34:01 PM: 79.68.46.94: Serials: 0x40001883; 
+3/18/2017 6:34:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (658, 699, 0) in Malas: "FillableBarrel"
+3/18/2017 6:34:09 PM: 79.68.46.94: Serials: 0x40001884; 
+3/18/2017 6:34:24 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (656, 697, 0) in Malas: "WaterBarrel"
+3/18/2017 6:34:24 PM: 79.68.46.94: Serials: 0x40001887; 
+3/18/2017 6:34:42 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (657, 698, 0) in Malas: "WaterWalk"
+3/18/2017 6:34:42 PM: 79.68.46.94: Serials: 0x4000188A; 
+3/18/2017 6:34:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/18/2017 6:34:49 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x4000188A (WaterWalk)
+3/18/2017 6:34:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/18/2017 6:35:05 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'Quantity' of 0x40001887 (WaterBarrel) to '10000'
+3/18/2017 6:35:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'wipe '
+3/18/2017 6:35:18 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') wiping from (654, 696, 0) to (659, 702, 0) in Malas (Items, Mobiles)
+3/18/2017 6:35:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/18/2017 6:35:37 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add water'
+3/18/2017 6:35:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (655, 696, 0) in Malas: "WaterTroughEastAddon"
+3/18/2017 6:35:50 PM: 79.68.46.94: Serials: 0x40001893; 
+3/18/2017 6:36:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/18/2017 6:36:28 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x40001894 (AddonComponent)
+3/18/2017 6:36:39 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add water'
+3/18/2017 6:36:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (653, 693, 0) in Malas: "WaterTroughSouthAddon"
+3/18/2017 6:36:47 PM: 79.68.46.94: Serials: 0x4000189B; 
+3/18/2017 6:37:55 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/18/2017 6:39:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/18/2017 6:40:44 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+1/24/2018 1:48:09 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'speedboost '
+1/24/2018 1:48:57 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+1/24/2018 1:49:02 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (417, 1366, 10), Map Malas
+1/24/2018 1:50:33 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+1/24/2018 1:56:20 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+1/24/2018 1:56:49 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'kill '
+1/24/2018 1:56:51 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x757 "an amazonian spear fighter" (no account)
+1/24/2018 1:57:16 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+1/24/2018 1:59:33 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm kill'
+1/24/2018 1:59:35 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x5AC "a corpser" (no account)
+1/24/2018 1:59:35 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x5AE "a corpser" (no account)
+1/24/2018 1:59:37 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x5B0 "a corpser" (no account)
+1/24/2018 1:59:41 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x5B2 "a corpser" (no account)
+1/24/2018 1:59:41 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x5AB "a corpser" (no account)
+1/24/2018 1:59:43 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x5B1 "a corpser" (no account)
+1/24/2018 1:59:44 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x5AD "a corpser" (no account)
+1/24/2018 1:59:49 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm kill'
+1/24/2018 1:59:50 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x5AF "a corpser" (no account)
+1/24/2018 1:59:53 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x5BC "a corpser" (no account)
+1/24/2018 1:59:56 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') killing 0x1 "Zigholtul" ('Zigholtul88')
+1/24/2018 2:00:06 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'res '
+1/24/2018 2:00:07 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') resurrecting 0x1 "Zigholtul" ('Zigholtul88')
+1/24/2018 2:00:37 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'tele '
+1/24/2018 2:00:44 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+1/24/2018 2:01:35 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+1/24/2018 2:09:07 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+1/24/2018 2:09:12 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (703, 608, 0), Map Malas
+1/24/2018 2:09:21 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'bank '
+1/24/2018 2:09:26 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') opening bank box of 0x3FF "Poncho Vila" ('tomgranvidas')
+1/24/2018 2:11:33 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+1/24/2018 2:11:37 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (1798, 1018, 10), Map Malas
+1/24/2018 2:13:19 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'speedboost '
+1/24/2018 11:41:46 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'speedboost '
+1/24/2018 11:42:06 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+1/24/2018 11:42:12 PM: 79.68.59.186: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x1 "Zigholtul" ('Zigholtul88'), Location (1136, 937, 15), Map Malas
+11/11/2018 7:01:29 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'speedboost '
+11/11/2018 7:01:57 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'admin '
+11/11/2018 7:02:09 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'm tele'
+11/11/2018 7:02:20 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'staffrunebook '
+11/11/2018 7:02:37 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'm tele'
+11/11/2018 7:05:40 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'speedboost '
+11/11/2018 7:06:19 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'admin '
+11/11/2018 7:32:49 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'speedboost '
+11/11/2018 7:33:15 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'speedboost '
+11/11/2018 7:33:23 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add '
+11/11/2018 7:34:50 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add AdminRobe'
+11/11/2018 7:34:52 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1895, 1905, 25) in Malas: "AdminRobe"
+11/11/2018 7:34:52 PM: 79.68.59.186: Serials: 0x400027D7; 
+11/11/2018 7:35:17 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add PlumeCloak'
+11/11/2018 7:35:19 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1896, 1905, 25) in Malas: "PlumeCloak"
+11/11/2018 7:35:19 PM: 79.68.59.186: Serials: 0x400027DF; 
+11/11/2018 7:35:45 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'remove '
+11/11/2018 7:35:47 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') deleting 0x400027D7 (AdminRobe)
+11/11/2018 7:35:58 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add FloppyHat'
+11/11/2018 7:35:59 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1897, 1906, 25) in Malas: "FloppyHat"
+11/11/2018 7:35:59 PM: 79.68.59.186: Serials: 0x400027E9; 
+11/11/2018 7:36:55 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add LongPants'
+11/11/2018 7:36:55 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1897, 1906, 25) in Malas: "LongPants"
+11/11/2018 7:36:55 PM: 79.68.59.186: Serials: 0x400027F6; 
+11/11/2018 7:37:12 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add FancyShirt'
+11/11/2018 7:37:13 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1898, 1906, 25) in Malas: "FancyShirt"
+11/11/2018 7:37:13 PM: 79.68.59.186: Serials: 0x400027F8; 
+11/11/2018 7:37:27 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add Shirt'
+11/11/2018 7:37:28 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1897, 1905, 25) in Malas: "Shirt"
+11/11/2018 7:37:28 PM: 79.68.59.186: Serials: 0x400027F9; 
+11/11/2018 7:37:39 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'remove '
+11/11/2018 7:37:40 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') deleting 0x400027F8 (FancyShirt)
+11/11/2018 7:37:53 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add Boots'
+11/11/2018 7:37:55 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1898, 1904, 25) in Malas: "Boots"
+11/11/2018 7:37:55 PM: 79.68.59.186: Serials: 0x40002809; 
+11/11/2018 7:38:48 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'res '
+11/11/2018 7:38:50 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') resurrecting 0x1EC "Fenrich Rockal" ('tommenquar')
+11/11/2018 7:38:55 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'res '
+11/11/2018 7:38:57 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') resurrecting 0x1EC "Fenrich Rockal" ('tommenquar')
+11/11/2018 7:39:05 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'set immortal true'
+11/11/2018 7:39:12 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'props '
+11/11/2018 7:39:32 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'set mortal false'
+11/11/2018 7:39:37 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'props '
+11/11/2018 7:39:59 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'set allskills 6000'
+11/11/2018 7:40:08 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'props '
+11/11/2018 7:42:35 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') set property 'StoneMining' of 0x1EC "Fenrich Rockal" ('tommenquar') to 'True'
+11/11/2018 7:42:42 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') set property 'StoneMining' of 0x1EC "Fenrich Rockal" ('tommenquar') to 'False'
+11/11/2018 7:43:26 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') set property 'FactionGameMasterClub' of 0x1EC "Fenrich Rockal" ('tommenquar') to 'True'
+11/11/2018 7:43:34 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') set property 'FactionGameMasterClub' of 0x1EC "Fenrich Rockal" ('tommenquar') to 'False'
+11/11/2018 7:44:33 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'immortal '
+11/11/2018 7:44:34 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') set property 'blessed' of 0x1EC "Fenrich Rockal" ('tommenquar') to 'True'
+11/11/2018 7:44:45 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'remove '
+11/11/2018 7:44:46 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') deleting 0x4000281C (Corpse)
+11/11/2018 7:44:48 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'remove '
+11/11/2018 7:44:49 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') deleting 0x40002819 (Corpse)
+11/11/2018 7:46:15 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'admin '
+11/11/2018 7:47:14 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'setallskills 9999'
+11/11/2018 7:47:15 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') set property 'EverySkill.Base' of 0x1EC "Fenrich Rockal" ('tommenquar') to '9999'
+11/11/2018 7:52:18 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'go '
+11/11/2018 7:52:40 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'staffrunebook '
+11/11/2018 7:52:57 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'premiumspawner '
+11/11/2018 7:53:05 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'StaEx MyDeco'
+11/11/2018 7:53:31 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'go '
+11/11/2018 7:53:43 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'go '
+11/11/2018 7:54:01 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'go '
+11/11/2018 7:54:43 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add moongate set movable true'
+11/11/2018 7:54:44 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1223, 475, -16) in Ilshenar: "moongate" "set" "movable" "true"
+11/11/2018 7:54:44 PM: 79.68.59.186: Serials: 0x40002A6A; 
+11/11/2018 7:55:03 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'remove '
+11/11/2018 7:55:04 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') deleting 0x40002A6A (Moongate)
+11/11/2018 7:55:13 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add publicmoongate set movable true'
+11/11/2018 7:55:15 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1216, 468, -13) in Ilshenar: "publicmoongate" "set" "movable" "true"
+11/11/2018 7:55:15 PM: 79.68.59.186: Serials: 0x40002A6F; 
+11/11/2018 7:56:32 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'smsg u there man?'
+11/11/2018 7:57:01 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'gmbody '
+11/11/2018 7:57:02 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') is assuming a GM body
+11/11/2018 7:57:03 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'AutoSpeedBooster true'
+11/11/2018 7:57:44 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'admin '
+11/11/2018 7:57:54 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'where '
+11/11/2018 7:57:58 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'go '
+11/11/2018 7:58:22 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'unhide '
+11/11/2018 7:58:23 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') unhiding 0x1EC "Fenrich Rockal" ('tommenquar')
+11/11/2018 7:58:51 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add '
+11/11/2018 7:59:09 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add Boots'
+11/11/2018 7:59:10 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1175, 1059, 0) in Malas: "Boots"
+11/11/2018 7:59:10 PM: 79.68.59.186: Serials: 0x40002AB0; 
+11/11/2018 7:59:14 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add PlumeCloak'
+11/11/2018 7:59:15 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1176, 1059, 0) in Malas: "PlumeCloak"
+11/11/2018 7:59:15 PM: 79.68.59.186: Serials: 0x40002AB5; 
+11/11/2018 7:59:21 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add FloppyHat'
+11/11/2018 7:59:21 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1174, 1059, 0) in Malas: "FloppyHat"
+11/11/2018 7:59:21 PM: 79.68.59.186: Serials: 0x40002AB6; 
+11/11/2018 7:59:31 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add LongPants'
+11/11/2018 7:59:32 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1175, 1057, 0) in Malas: "LongPants"
+11/11/2018 7:59:32 PM: 79.68.59.186: Serials: 0x40002AB7; 
+11/11/2018 7:59:38 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'Add Shirt'
+11/11/2018 7:59:39 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1176, 1057, 0) in Malas: "Shirt"
+11/11/2018 7:59:39 PM: 79.68.59.186: Serials: 0x40002AB8; 
+11/11/2018 7:59:43 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'unhide '
+11/11/2018 7:59:44 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') unhiding 0x1EC "Fenrich Rockal" ('tommenquar')
+11/11/2018 8:00:27 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'get itemid'
+11/11/2018 8:00:38 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'set itemid 15884'
+11/11/2018 8:00:40 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') set property 'itemid' of 0x40002A7C (StaffCloak) to '15884'
+11/11/2018 8:00:43 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'remove '
+11/11/2018 8:00:44 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') deleting 0x40002AB5 (PlumeCloak)
+11/11/2018 8:02:50 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'set name "Lords Gem"'
+11/11/2018 8:02:55 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') set property 'name' of 0x40002A76 (StaffRing) to 'Lords Gem'
+11/11/2018 8:04:16 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add dyetub'
+11/11/2018 8:04:18 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1147, 1091, 10) in Malas: "dyetub"
+11/11/2018 8:04:18 PM: 79.68.59.186: Serials: 0x40002AF7; 
+11/11/2018 8:04:21 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add dies'
+11/11/2018 8:04:29 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1148, 1091, 10) in Malas: "Dyes"
+11/11/2018 8:04:29 PM: 79.68.59.186: Serials: 0x40002AF8; 
+11/11/2018 8:05:15 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add black'
+11/11/2018 8:05:19 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1148, 1091, 10) in Malas: "BlackDyeTub"
+11/11/2018 8:05:19 PM: 79.68.59.186: Serials: 0x40002B0D; 
+11/11/2018 8:06:32 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'unhide '
+11/11/2018 8:06:34 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') unhiding 0x1EC "Fenrich Rockal" ('tommenquar')
+11/11/2018 8:06:51 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add hairdye'
+11/11/2018 8:06:53 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1148, 1091, 10) in Malas: "hairdye"
+11/11/2018 8:06:53 PM: 79.68.59.186: Serials: 0x40002B26; 
+11/11/2018 8:06:58 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add special hair'
+11/11/2018 8:07:04 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1148, 1091, 10) in Malas: "SpecialDyeTub"
+11/11/2018 8:07:04 PM: 79.68.59.186: Serials: 0x40002B2C; 
+11/11/2018 8:07:09 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1147, 1091, 10) in Malas: "SpecialHairDye"
+11/11/2018 8:07:09 PM: 79.68.59.186: Serials: 0x40002B2E; 
+11/11/2018 8:08:59 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'remove '
+11/11/2018 8:09:01 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') deleting 0x40002A7E (AdminRobe)
+11/11/2018 8:09:03 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'remove '
+11/11/2018 8:09:05 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') deleting 0x40002A7D (ThighBoots)
+11/11/2018 8:09:58 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'unhide '
+11/11/2018 8:10:00 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') unhiding 0x1EC "Fenrich Rockal" ('tommenquar')
+11/11/2018 8:10:06 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add book'
+11/11/2018 8:10:15 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1154, 1096, 0) in Malas: "BrownBook"
+11/11/2018 8:10:15 PM: 79.68.59.186: Serials: 0x40002B43; 
+11/11/2018 8:16:13 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'set blessed true'
+11/11/2018 8:16:23 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'props '
+11/11/2018 8:16:51 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add bless'
+11/11/2018 8:16:54 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add blessdeed'
+11/11/2018 8:16:57 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (1154, 1096, 0) in Malas: "ItemBlessDeed"
+11/11/2018 8:16:57 PM: 79.68.59.186: Serials: 0x40002B8E; 
+11/11/2018 8:18:29 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'tele '
+11/11/2018 8:18:46 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'hide '
+11/11/2018 8:18:47 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') hiding 0x1EC "Fenrich Rockal" ('tommenquar')
+11/11/2018 9:40:27 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'tele '
+11/11/2018 9:47:18 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'tele '
+11/11/2018 9:53:46 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'go '
+11/11/2018 9:54:50 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'admin '
+11/11/2018 9:56:33 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'add bluebook'
+11/11/2018 9:56:34 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') building at (285, 1750, 22) in Malas: "bluebook"
+11/11/2018 9:56:34 PM: 79.68.59.186: Serials: 0x40002EDC; 
+11/11/2018 9:56:49 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'where '
+11/11/2018 10:02:28 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'who '
+11/11/2018 10:02:31 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'admin '
+11/11/2018 10:02:49 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'unhide '
+11/11/2018 10:02:50 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') unhiding 0x1EC "Fenrich Rockal" ('tommenquar')
+11/11/2018 10:28:33 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'where '
+11/11/2018 10:30:15 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'm tele'
+11/11/2018 10:32:49 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'm tele'
+11/11/2018 10:33:30 PM: 79.68.59.186: Administrator 0x1EC "Fenrich Rockal" ('tommenquar') used command 'm tele'
+11/12/2018 1:20:54 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'speedboost '
+11/12/2018 1:21:55 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'add '
+11/12/2018 1:22:18 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'Add Boots'
+11/12/2018 1:22:19 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') building at (2519, 1975, 0) in Malas: "Boots"
+11/12/2018 1:22:19 AM: 79.68.59.186: Serials: 0x40000ACA; 
+11/12/2018 1:22:27 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'gmbody '
+11/12/2018 1:22:28 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') is assuming a GM body
+11/12/2018 1:22:28 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'AutoSpeedBooster true'
+11/12/2018 1:22:41 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'unhide '
+11/12/2018 1:22:43 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') unhiding 0x3B1 "Mitsurugi" ('tommenquar')
+11/12/2018 1:22:51 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'add '
+11/12/2018 1:23:03 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'Add FloppyHat'
+11/12/2018 1:23:05 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') building at (2519, 1974, 0) in Malas: "FloppyHat"
+11/12/2018 1:23:05 AM: 79.68.59.186: Serials: 0x40000B7B; 
+11/12/2018 1:23:14 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'Add PlumeCloak'
+11/12/2018 1:23:15 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') building at (2520, 1973, 0) in Malas: "PlumeCloak"
+11/12/2018 1:23:15 AM: 79.68.59.186: Serials: 0x40000B7C; 
+11/12/2018 1:23:27 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'Add LongPants'
+11/12/2018 1:23:28 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') building at (2520, 1974, 0) in Malas: "LongPants"
+11/12/2018 1:23:28 AM: 79.68.59.186: Serials: 0x40000B7D; 
+11/12/2018 1:23:50 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'Add Shirt'
+11/12/2018 1:23:51 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') building at (2519, 1975, 0) in Malas: "Shirt"
+11/12/2018 1:23:51 AM: 79.68.59.186: Serials: 0x40000B7E; 
+11/12/2018 1:24:08 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'get itemid'
+11/12/2018 1:24:20 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'set itemid 15884'
+11/12/2018 1:24:23 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') set property 'itemid' of 0x40000B76 (StaffCloak) to '15884'
+11/12/2018 1:24:26 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'remove '
+11/12/2018 1:24:28 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') deleting 0x40000B7C (PlumeCloak)
+11/12/2018 1:24:33 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'remove '
+11/12/2018 1:24:35 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') deleting 0x40000B77 (ThighBoots)
+11/12/2018 1:24:36 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'remove '
+11/12/2018 1:24:40 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') deleting 0x40000B78 (AdminRobe)
+11/12/2018 1:26:21 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'set name "Gods Jewel"'
+11/12/2018 1:26:25 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') set property 'name' of 0x40000B54 (StaffRing) to 'Gods Jewel'
+11/12/2018 1:26:50 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'admin '
+11/12/2018 1:26:59 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'speedboost '
+11/12/2018 1:27:27 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'unhide '
+11/12/2018 1:27:31 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') unhiding 0x3B1 "Mitsurugi" ('tommenquar')
+11/12/2018 1:28:36 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'flamewave '
+11/12/2018 1:29:56 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'go '
+11/12/2018 1:34:14 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'remove '
+11/12/2018 1:34:15 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') deleting 0x40003C48 (PonyStatue)
+11/12/2018 1:34:26 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'props '
+11/12/2018 1:34:54 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') set property 'Title' of 0x3B1 "Mitsurugi" ('tommenquar') to '(null)'
+11/12/2018 1:35:26 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') used command 'set name "Vashnu"'
+11/12/2018 1:35:28 AM: 79.68.59.186: Administrator 0x3B1 "Mitsurugi" ('tommenquar') set property 'name' of 0x3B1 "Mitsurugi" ('tommenquar') to 'Vashnu'
+11/12/2018 1:35:43 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'kill '
+11/12/2018 1:35:58 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'kill '
+11/12/2018 1:36:04 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') killing 0x3B2 "WompWomp" (no account)
+11/12/2018 1:36:10 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 1:36:12 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x3B2 "WompWomp" (no account)
+11/12/2018 1:36:19 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'emote '
+11/12/2018 1:36:52 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 1:36:54 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x40003C4C (Corpse)
+11/12/2018 1:37:33 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') hiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 1:37:33 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Hide'
+11/12/2018 1:37:36 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') unhiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 1:37:36 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Unhide'
+11/12/2018 1:37:49 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'spawneditor '
+11/12/2018 1:38:13 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add towns'
+11/12/2018 1:38:17 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (1175, 1055, 0) in Malas: "Townsperson"
+11/12/2018 1:38:18 AM: 79.68.59.186: Serials: 0x461; 
+11/12/2018 1:38:31 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 1:38:33 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x461 "Eudocia" (no account)
+11/12/2018 1:39:21 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add premium'
+11/12/2018 1:39:24 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (1155, 1095, 0) in Malas: "PremiumSpawner"
+11/12/2018 1:39:25 AM: 79.68.59.186: Serials: 0x40003C58; 
+11/12/2018 1:39:40 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 1:39:41 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x40003C58 (PremiumSpawner)
+11/12/2018 1:40:16 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add hairdye'
+11/12/2018 1:40:18 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (1156, 1090, 0) in Malas: "hairdye"
+11/12/2018 1:40:18 AM: 79.68.59.186: Serials: 0x40003C59; 
+11/12/2018 1:40:39 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'save '
+11/12/2018 1:41:13 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'immortal '
+11/12/2018 1:41:14 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property 'blessed' of 0x3B1 "Vashnu" ('tommenquar') to 'True'
+11/12/2018 1:41:18 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'mortal '
+11/12/2018 1:41:20 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property 'blessed' of 0x3B1 "Vashnu" ('tommenquar') to 'False'
+11/12/2018 1:44:26 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') hiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 1:44:27 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Hide'
+11/12/2018 2:37:28 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'speedboost '
+11/12/2018 3:48:39 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'speedboost '
+11/12/2018 3:49:00 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add bluebook'
+11/12/2018 3:49:02 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (1243, 1060, 0) in Malas: "bluebook"
+11/12/2018 3:49:02 PM: 79.68.59.186: Serials: 0x40002687; 
+11/12/2018 3:49:11 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 3:49:14 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'admin '
+11/12/2018 3:50:01 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'admin '
+11/12/2018 3:52:02 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') unhiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 3:52:02 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Unhide'
+11/12/2018 3:53:41 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 3:53:46 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') going to 0x460 "Strast" ('Reuvas'), Location (1351, 1918, 17), Map Malas
+11/12/2018 3:53:55 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'tele '
+11/12/2018 3:54:05 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add runningpants'
+11/12/2018 3:54:06 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (1349, 1934, 0) in Malas: "runningpants"
+11/12/2018 3:54:06 PM: 79.68.59.186: Serials: 0x461; 
+11/12/2018 4:09:15 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'speedboost '
+11/12/2018 4:09:33 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 4:09:42 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') hiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 4:09:42 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Hide'
+11/12/2018 4:09:46 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') going to 0x460 "Strast" ('Reuvas'), Location (1715, 1876, 15), Map Malas
+11/12/2018 4:11:07 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 4:11:12 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') going to 0x460 "Strast" ('Reuvas'), Location (1614, 1941, 5), Map Malas
+11/12/2018 4:11:26 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 4:11:36 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') going to 0x460 "Strast" ('Reuvas'), Location (1530, 1907, 5), Map Malas
+11/12/2018 4:11:42 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') resurrecting 0x460 "Strast" ('Reuvas') 
+11/12/2018 4:25:59 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'go '
+11/12/2018 4:26:07 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 4:26:12 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') bringing 0x462 "Kylor Selzrich" ('tomgranvidas') to Location (1178, 1050, 5), Map Malas
+11/12/2018 4:26:14 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') bringing 0x460 "Strast" ('Reuvas') to Location (1178, 1050, 5), Map Malas
+11/12/2018 4:32:27 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add redbook'
+11/12/2018 4:32:28 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (1176, 1048, 5) in Malas: "redbook"
+11/12/2018 4:32:29 PM: 79.68.59.186: Serials: 0x40002909; 
+11/12/2018 4:35:50 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 4:35:54 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') going to 0x462 "Kylor Selzrich" ('tomgranvidas'), Location (1254, 1069, 0), Map Malas
+11/12/2018 4:36:23 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'move '
+11/12/2018 4:36:27 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') moving 0x40002A46 (Corpse) to (1253, 1071, 0)
+11/12/2018 4:37:36 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'props '
+11/12/2018 4:38:12 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'res '
+11/12/2018 4:38:14 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') resurrecting 0x462 "Kylor Selzrich" ('tomgranvidas')
+11/12/2018 4:39:05 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'recover '
+11/12/2018 4:40:26 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'm tele'
+11/12/2018 4:40:35 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'recover '
+11/12/2018 4:40:38 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add bow'
+11/12/2018 4:40:40 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (1219, 1089, 0) in Malas: "bow"
+11/12/2018 4:40:40 PM: 79.68.59.186: Serials: 0x40002AC5; 
+11/12/2018 4:41:55 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 4:42:01 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') going to 0x460 "Strast" ('Reuvas'), Location (1112, 1136, 9), Map Malas
+11/12/2018 4:42:20 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'addtopack bandage 100'
+11/12/2018 4:42:22 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (1113, 1135, 9) in Malas: "bandage" "100"
+11/12/2018 4:42:22 PM: 79.68.59.186: Serials: 0x40002B02; 
+11/12/2018 4:42:43 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add drui'
+11/12/2018 4:45:25 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') going to 0x460 "Strast" ('Reuvas'), Location (983, 1071, 20), Map Malas
+11/12/2018 4:45:48 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') unhiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 4:45:48 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Unhide'
+11/12/2018 4:46:23 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'props '
+11/12/2018 4:46:28 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'kill '
+11/12/2018 4:46:30 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') killing 0x217 "Haimi" (no account)
+11/12/2018 4:46:31 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'kill '
+11/12/2018 4:46:34 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') killing 0x216 "Darren" (no account)
+11/12/2018 4:46:43 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'res '
+11/12/2018 4:46:45 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') resurrecting 0x460 "Strast" ('Reuvas')
+11/12/2018 4:46:49 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'props '
+11/12/2018 4:48:34 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') hiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 4:48:34 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Hide'
+11/12/2018 4:48:38 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') unhiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 4:48:38 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Unhide'
+11/12/2018 4:48:41 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'tele '
+11/12/2018 4:50:17 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'speedboost '
+11/12/2018 4:50:29 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'skills '
+11/12/2018 4:50:33 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'props '
+11/12/2018 4:53:32 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'props '
+11/12/2018 4:53:54 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property 'SkillsCap' of 0x460 "Strast" ('Reuvas') to '1000'
+11/12/2018 4:54:26 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'props '
+11/12/2018 4:54:58 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'set skillscap 700'
+11/12/2018 4:55:07 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property 'skillscap' of 0x460 "Strast" ('Reuvas') to '700'
+11/12/2018 4:55:12 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 4:55:43 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'set locked false'
+11/12/2018 4:55:44 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property 'locked' of 0x4000054B (ZaythalorForestTreasureChest1) to 'False'
+11/12/2018 4:56:58 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 4:57:00 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x4000054B (ZaythalorForestTreasureChest1)
+11/12/2018 4:58:46 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add blocker'
+11/12/2018 4:59:29 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'props '
+11/12/2018 4:59:51 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add horde minion'
+11/12/2018 4:59:55 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (858, 1072, 23) in Malas: "HordeMinion"
+11/12/2018 4:59:55 PM: 79.68.59.186: Serials: 0x52C; 
+11/12/2018 5:00:05 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 5:00:07 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x52C "a horde minion" (no account)
+11/12/2018 5:03:53 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 5:03:56 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x527 "a young spiderling" (no account)
+11/12/2018 5:04:13 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 5:04:18 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') going to 0x460 "Strast" ('Reuvas'), Location (721, 1077, 0), Map Malas
+11/12/2018 5:04:57 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 5:04:59 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x544 "Eighailay" (no account)
+11/12/2018 5:05:20 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'kill '
+11/12/2018 5:05:22 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') killing 0x547 "Anders" (no account)
+11/12/2018 5:07:25 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add staffring'
+11/12/2018 5:07:27 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (607, 1019, -8) in Malas: "staffring"
+11/12/2018 5:07:27 PM: 79.68.59.186: Serials: 0x40003FB2; 
+11/12/2018 5:07:40 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'set name "Gods Jewel"'
+11/12/2018 5:07:44 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property 'name' of 0x40003FB2 (StaffRing) to 'Gods Jewel'
+11/12/2018 5:07:53 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') unhiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 5:07:53 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Unhide'
+11/12/2018 5:16:11 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'props '
+11/12/2018 5:16:44 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add youngs'
+11/12/2018 5:17:10 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'props '
+11/12/2018 5:17:33 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'props '
+11/12/2018 5:18:39 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') unhiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 5:18:39 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Unhide'
+11/12/2018 5:18:54 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'setallskills 0'
+11/12/2018 5:18:56 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property 'EverySkill.Base' of 0x460 "Strast" ('Reuvas') to '0'
+11/12/2018 5:20:04 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property 'SkillsCap' of 0x460 "Strast" ('Reuvas') to '10000'
+11/12/2018 5:21:18 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property '[Animal Lore: 25].Base' of 0x460 "Strast" ('Reuvas') to '25'
+11/12/2018 5:21:49 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property '[Animal Taming: 10.7].Base' of 0x460 "Strast" ('Reuvas') to '10.7'
+11/12/2018 5:22:01 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property '[Animal Taming: 11].Base' of 0x460 "Strast" ('Reuvas') to '11'
+11/12/2018 5:22:27 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property '[Healing: 10].Base' of 0x460 "Strast" ('Reuvas') to '10'
+11/12/2018 5:22:37 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property '[Herding: 50].Base' of 0x460 "Strast" ('Reuvas') to '50'
+11/12/2018 5:22:57 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property '[Musicianship: 100].Base' of 0x460 "Strast" ('Reuvas') to '100'
+11/12/2018 5:23:06 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property '[Peacemaking: 10].Base' of 0x460 "Strast" ('Reuvas') to '10'
+11/12/2018 5:23:28 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') set property '[Veterinary: 10].Base' of 0x460 "Strast" ('Reuvas') to '10'
+11/12/2018 5:27:59 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'who '
+11/12/2018 5:28:03 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') bringing 0x462 "Kylor Selzrich" ('tomgranvidas') to Location (649, 969, 9), Map Malas
+11/12/2018 5:28:09 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') hiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 5:28:09 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Hide'
+11/12/2018 5:32:25 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add blackant'
+11/12/2018 5:32:30 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (711, 1059, 5) in Malas: "BlackAntAmbusher"
+11/12/2018 5:32:30 PM: 79.68.59.186: Serials: 0x56D; 
+11/12/2018 5:33:01 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (711, 1053, 5) in Malas: "BlackAntAmbusher"
+11/12/2018 5:33:01 PM: 79.68.59.186: Serials: 0x570; 
+11/12/2018 5:33:08 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 5:33:09 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x570 "a black ant ambusher" (no account)
+11/12/2018 5:33:11 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 5:33:12 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x56D "a black ant ambusher" (no account)
+11/12/2018 5:38:21 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add banker'
+11/12/2018 5:38:22 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (711, 1055, 5) in Malas: "banker"
+11/12/2018 5:38:22 PM: 79.68.59.186: Serials: 0x575; 
+11/12/2018 5:40:28 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 5:40:40 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x575 "Latonia" (no account)
+11/12/2018 5:41:03 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add gold 100'
+11/12/2018 5:41:05 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') building at (711, 1053, 5) in Malas: "gold" "100"
+11/12/2018 5:41:05 PM: 79.68.59.186: Serials: 0x4000447A; 
+11/12/2018 5:41:15 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'remove '
+11/12/2018 5:41:17 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') deleting 0x400027CD (FletcherTools)
+11/12/2018 5:44:22 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'speedboost '
+11/12/2018 5:44:32 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'hide '
+11/12/2018 5:44:33 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') hiding 0x462 "Kylor Selzrich" ('tomgranvidas')
+11/12/2018 5:44:37 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'hide '
+11/12/2018 5:44:39 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') hiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 5:44:43 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') unhiding 0x3B1 "Vashnu" ('tommenquar')
+11/12/2018 5:44:43 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'Self Unhide'
+11/12/2018 5:45:03 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'admin '
+11/12/2018 5:46:37 PM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'admin '
+11/14/2018 11:40:19 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'speedboost '
+11/14/2018 11:40:56 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'admin '
+11/14/2018 11:41:51 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') changing password of account tommenquar
+11/14/2018 11:43:02 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'admin '
+11/14/2018 11:44:22 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add cap'
+11/14/2018 11:44:27 AM: 79.68.59.186: Administrator 0x3B1 "Vashnu" ('tommenquar') used command 'add capp'
+2/6/2020 9:49:58 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'speedboost '
+2/6/2020 9:50:09 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'who '
+2/6/2020 9:51:04 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'admin '
+2/6/2020 9:53:09 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'staffrunebook '
+2/6/2020 9:53:48 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'staffrunebook '
+2/6/2020 9:54:25 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'set nightsight true'
+2/6/2020 9:54:31 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'props '
+2/6/2020 9:55:15 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'add '
+2/6/2020 9:55:21 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'add staf'
+2/6/2020 9:55:30 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') building at (3927, 1521, 0) in Felucca: "StaffCloak"
+2/6/2020 9:55:30 PM: 65.41.144.71: Serials: 0x40004F22; 
+2/6/2020 9:56:00 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'unhide '
+2/6/2020 9:56:01 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') unhiding 0xA50 "testies" ('tommenquar')
+2/6/2020 9:56:12 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') building at (3927, 1522, 0) in Felucca: "StaffRing"
+2/6/2020 9:56:12 PM: 65.41.144.71: Serials: 0x40004F2B; 
+2/6/2020 9:56:35 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'props '
+2/6/2020 9:56:41 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') set property 'Identified' of 0x40004F2B (StaffRing) to 'True'
+2/6/2020 9:56:54 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') building at (3927, 1522, 0) in Felucca: "StaffOfTheMagi"
+2/6/2020 9:56:54 PM: 65.41.144.71: Serials: 0x40004F2C; 
+2/6/2020 9:57:10 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'set level 100'
+2/6/2020 9:57:12 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') set property 'level' of 0xA50 "testies" ('tommenquar') to '100'
+2/6/2020 9:58:17 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'add admin'
+2/6/2020 9:58:19 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') building at (3927, 1522, 0) in Felucca: "AdminRobe"
+2/6/2020 9:58:19 PM: 65.41.144.71: Serials: 0x40004F32; 
+2/6/2020 9:59:38 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') used command 'set name Mitsurugi'
+2/6/2020 9:59:39 PM: 65.41.144.71: Administrator 0xA50 "testies" ('tommenquar') set property 'name' of 0xA50 "testies" ('tommenquar') to 'Mitsurugi'
+2/6/2020 10:00:14 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'StaEx MyDeco'
+2/6/2020 10:00:21 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'where '
+2/6/2020 10:00:29 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'go '
+2/6/2020 10:01:13 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'allspells '
+2/6/2020 10:01:21 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'add spellbook'
+2/6/2020 10:01:23 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (3509, 3602, 0) in Felucca: "spellbook"
+2/6/2020 10:01:23 PM: 65.41.144.71: Serials: 0x40004F54; 
+2/6/2020 10:01:26 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'allspells '
+2/6/2020 10:01:28 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') filling spellbook 0x40004F54 (Spellbook)
+2/6/2020 10:01:34 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'add spelll'
+2/6/2020 10:01:45 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (3509, 3603, 0) in Felucca: "NecromancerSpellbook"
+2/6/2020 10:01:45 PM: 65.41.144.71: Serials: 0x40004F5A; 
+2/6/2020 10:01:52 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (3509, 3602, 0) in Felucca: "IcySpellblade"
+2/6/2020 10:01:52 PM: 65.41.144.71: Serials: 0x40004F5B; 
+2/6/2020 10:02:05 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (3510, 3603, 2) in Felucca: "MageSpellbook"
+2/6/2020 10:02:05 PM: 65.41.144.71: Serials: 0x40004F63; 
+2/6/2020 10:02:15 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (3508, 3602, 0) in Felucca: "SpellweavingBook"
+2/6/2020 10:02:15 PM: 65.41.144.71: Serials: 0x40004F67; 
+2/6/2020 10:02:20 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (3508, 3602, 0) in Felucca: "ChivalrySpellbook"
+2/6/2020 10:02:20 PM: 65.41.144.71: Serials: 0x40004F68; 
+2/6/2020 10:02:50 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'm delete'
+2/6/2020 10:02:51 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') deleting 0x40004F5B (IcySpellblade)
+2/6/2020 10:02:54 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') deleting 0x40004F63 (MageSpellbook)
+2/6/2020 10:03:00 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'allspells '
+2/6/2020 10:03:04 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') filling spellbook 0x40004F5A (NecromancerSpellbook)
+2/6/2020 10:03:16 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'allspells '
+2/6/2020 10:03:21 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') filling spellbook 0x40004F67 (SpellweavingBook)
+2/6/2020 10:03:57 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'set rawstr 250 rawdex 250 rawint 250'
+2/6/2020 10:04:00 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') set property 'rawstr' of 0xA50 "Mitsurugi" ('tommenquar') to '250'
+2/6/2020 10:04:00 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') set property 'rawdex' of 0xA50 "Mitsurugi" ('tommenquar') to '250'
+2/6/2020 10:04:00 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') set property 'rawint' of 0xA50 "Mitsurugi" ('tommenquar') to '250'
+2/6/2020 10:04:23 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'set allskills 9999''
+2/6/2020 10:04:33 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'setallskills 100'
+2/6/2020 10:04:35 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') set property 'EverySkill.Base' of 0xA50 "Mitsurugi" ('tommenquar') to '100'
+2/6/2020 10:04:37 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'setallskills 1000'
+2/6/2020 10:04:40 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'setallskills 1000'
+2/6/2020 10:04:41 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') set property 'EverySkill.Base' of 0xA50 "Mitsurugi" ('tommenquar') to '1000'
+2/6/2020 10:04:51 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'setallskills 9999'
+2/6/2020 10:04:53 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') set property 'EverySkill.Base' of 0xA50 "Mitsurugi" ('tommenquar') to '9999'
+2/6/2020 10:05:37 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'unhide '
+2/6/2020 10:05:39 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') unhiding 0xA50 "Mitsurugi" ('tommenquar')
+2/6/2020 10:08:23 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'speedboost '
+2/6/2020 10:09:51 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'm tele'
+2/6/2020 10:10:45 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'add keyword'
+2/6/2020 10:10:59 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'M Tele'
+2/6/2020 10:11:36 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'where '
+2/6/2020 10:12:25 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'M Tele'
+2/6/2020 10:13:13 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'where '
+2/6/2020 10:14:06 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'where '
+2/6/2020 10:14:09 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'M Tele'
+2/6/2020 10:14:17 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'where '
+2/6/2020 10:14:22 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'tele '
+2/6/2020 10:14:26 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'where '
+2/6/2020 10:14:46 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'M Tele'
+2/6/2020 10:14:49 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'where '
+2/6/2020 10:15:31 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'wipe '
+2/6/2020 10:15:32 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') wiping from (2388, 3875, -5) to (2395, 3878, -5) in Felucca (Items, Mobiles)
+2/6/2020 10:15:35 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'M Tele'
+2/6/2020 10:16:44 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'where '
+2/6/2020 10:17:04 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'M Tele'
+2/6/2020 10:20:16 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'props '
+2/6/2020 10:20:27 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') set property 'Identified' of 0x40004F2C (StaffOfTheMagi) to 'True'
+2/6/2020 10:20:52 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'add horse'
+2/6/2020 10:20:53 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (653, 1729, 0) in Felucca: "horse"
+2/6/2020 10:20:53 PM: 65.41.144.71: Serials: 0xA51; 
+2/6/2020 10:20:56 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'kill '
+2/6/2020 10:20:57 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') killing 0xA51 "a horse" (no account)
+2/6/2020 10:21:29 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'kill '
+2/6/2020 10:21:31 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') killing 0xA52 "a skeletal steed" (no account)
+2/6/2020 10:22:11 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'staffrunebook '
+2/6/2020 10:24:39 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'add pet'
+2/6/2020 10:24:44 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (1107, 956, 2) in Malas: "PetSlotDeed"
+2/6/2020 10:24:44 PM: 65.41.144.71: Serials: 0x4000511B; 
+2/6/2020 10:24:45 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (1108, 955, 3) in Malas: "PetSlotDeed"
+2/6/2020 10:24:45 PM: 65.41.144.71: Serials: 0x40005122; 
+2/6/2020 10:24:45 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (1107, 955, 3) in Malas: "PetSlotDeed"
+2/6/2020 10:24:45 PM: 65.41.144.71: Serials: 0x40005123; 
+2/6/2020 10:24:46 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (1106, 955, 3) in Malas: "PetSlotDeed"
+2/6/2020 10:24:46 PM: 65.41.144.71: Serials: 0x40005124; 
+2/6/2020 10:24:47 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (1106, 956, 2) in Malas: "PetSlotDeed"
+2/6/2020 10:24:47 PM: 65.41.144.71: Serials: 0x40005129; 
+2/6/2020 10:26:48 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'm tele'
+2/6/2020 10:27:18 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'm tele'
+2/6/2020 10:28:25 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'add lordoftheabyss'
+2/6/2020 10:28:39 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (975, 1184, 15) in Malas: "Balron"
+2/6/2020 10:28:39 PM: 65.41.144.71: Serials: 0xA5C; 
+2/6/2020 10:30:53 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'add id'
+2/6/2020 10:31:10 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (973, 1183, 15) in Malas: "IDWand"
+2/6/2020 10:31:10 PM: 65.41.144.71: Serials: 0x40005691; 
+2/6/2020 10:31:40 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'props '
+2/6/2020 10:32:07 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') set property 'Identified' of 0x40005691 (IDWand) to 'True'
+2/6/2020 10:33:19 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'remove '
+2/6/2020 10:33:20 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') deleting 0x400053C3 (Corpse)
+2/6/2020 10:33:27 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'unhide '
+2/6/2020 10:33:29 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') unhiding 0xA50 "Mitsurugi" ('tommenquar')
+2/6/2020 10:33:45 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'add hooded'
+2/6/2020 10:33:48 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (977, 1184, 15) in Malas: "HoodedShroudOfShadows"
+2/6/2020 10:33:49 PM: 65.41.144.71: Serials: 0x400056C4; 
+2/6/2020 10:34:00 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (976, 1184, 15) in Malas: "DeathRobe"
+2/6/2020 10:34:00 PM: 65.41.144.71: Serials: 0x400056C5; 
+2/6/2020 10:34:03 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') building at (977, 1184, 15) in Malas: "DeathShroud"
+2/6/2020 10:34:03 PM: 65.41.144.71: Serials: 0x400056C6; 
+2/6/2020 10:34:50 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'unhide '
+2/6/2020 10:34:51 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') unhiding 0xA50 "Mitsurugi" ('tommenquar')
+2/6/2020 10:35:15 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'set isdead true'
+2/6/2020 10:35:22 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'set dead true'
+2/6/2020 10:36:03 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'm tele'
+2/6/2020 10:36:10 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'Get Location'
+2/6/2020 10:36:19 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'recover '
+2/6/2020 10:36:24 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') hiding 0xA50 "Mitsurugi" ('tommenquar')
+2/6/2020 10:36:24 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'Self Hide'
+2/6/2020 10:36:30 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') unhiding 0xA50 "Mitsurugi" ('tommenquar')
+2/6/2020 10:36:30 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'Self Unhide'
+2/6/2020 10:36:58 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'tele '
+2/6/2020 10:37:26 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'where '
+2/6/2020 10:39:57 PM: 65.41.144.71: Administrator 0xA50 "Mitsurugi" ('tommenquar') used command 'speedboost '

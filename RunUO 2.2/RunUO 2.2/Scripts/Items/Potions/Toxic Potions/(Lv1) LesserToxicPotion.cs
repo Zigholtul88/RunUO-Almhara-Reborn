@@ -1,0 +1,50 @@
+using System;
+using Server;
+using Server.Mobiles;
+
+namespace Server.Items
+{
+	public class LesserToxicPotion : BaseToxicPotion
+	{
+		public override Poison Poison{ get{ return Poison.Lesser; } }
+
+		public override int MinDamage { get { return 2; } }
+		public override int MaxDamage { get { return 5; } }
+
+		private int m_RequiredLevel = 1;
+
+		[CommandProperty( AccessLevel.GameMaster )]
+		public override int RequiredLevel
+		{ 
+			get{ return m_RequiredLevel; }
+			set {m_RequiredLevel = value; InvalidateProperties();}
+		}
+
+		[Constructable]
+		public LesserToxicPotion() : base( PotionEffect.PoisonLesser )
+		{
+                        Name = "Lesser Toxic Potion";
+			Hue = 64;
+		}
+
+		public LesserToxicPotion( Serial serial ) : base( serial )
+		{
+		}
+
+		public override void Serialize( GenericWriter writer )
+		{
+			base.Serialize( writer );
+			writer.Write( (int) 0 ); // version
+
+			writer.Write( m_RequiredLevel );
+		}
+
+		public override void Deserialize( GenericReader reader )
+		{
+			base.Deserialize( reader );
+			int version = reader.ReadInt();
+
+			m_RequiredLevel = reader.ReadInt();
+		}
+	}
+}

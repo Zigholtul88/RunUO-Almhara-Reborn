@@ -1,0 +1,418 @@
+
+################################ Implement Send Radar Conversation To Trigger Upon Leaving Area In Main Quest File ################################
+		private bool m_HasLeftTheArea;
+
+		public override void Slice()
+		{
+			if ( !m_HasLeftTheArea && ( From.Map != Map.Malas || From.X < 3573 || From.X > 3611 || From.Y < 2568 || From.Y > 2606 ) )
+			{
+				m_HasLeftTheArea = true;
+				AddConversation( new RadarConversation() );
+			}
+
+			base.Slice();
+		}
+
+		public override void ChildDeserialize( GenericReader reader )
+		{
+			int version = reader.ReadEncodedInt();
+
+			m_HasLeftTheArea = reader.ReadBool();
+		}
+
+		public override void ChildSerialize( GenericWriter writer )
+		{
+			writer.WriteEncodedInt( (int) 0 ); // version
+
+			writer.Write( (bool) m_HasLeftTheArea );
+		}
+################################ End Implement Send Radar Conversation To Trigger Upon Leaving Area In Main Quest File ################################
+
+################################ Add In Conversations ################################
+using System;
+using Server;
+using Server.Items;
+using Server.Mobiles;
+
+namespace Server.Engines.Quests.AlmharaTutorial
+{
+	public class DeclineConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+				return "<I><BASEFONT COLOR=#FFFF00>You decline the offer.</BASEFONT COLOR></I><BR><BR>Hey! That's alright! It looks like you already know the ropes!";
+			}
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public DeclineConversation()
+		{
+		}
+	}
+
+	public class AcceptConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+                                return "I'd figure you wouldn't say no to my request. Besides its information that'll really help out in the long run.";
+			}
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public AcceptConversation()
+		{
+		}
+
+		public override void OnRead()
+		{
+			System.AddConversation( new GoToBankConversation() );
+		}
+	}
+
+	public class GoToBankConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+                                return "You're first objective will inform you on how the banking system operates within these realms. Once you've picked a race, if you're not happy with being a human or have selected a race not......... ummmm shall we say not appropriate for our setting, you can then choose one of several classes by heading through any of the moongates.<BR><BR>Regardless of what class you start out as your journey will immediately begin within the small quaint village of Hammerhill. A settlement that to this day is still recovering from reasons even I've stopped giving any concerns about.BR><BR>Now, I don't think I need to remind you of what you need to do. Relax, mate! If it feels like you're hearing voices calling out to you, its just the telepathy working its wonderous magic.BR><BR>Now get going. I'll instruct you further after you've chosen your class.";
+			}
+
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public GoToBankConversation()
+		{
+		}
+
+		public override void OnRead()
+		{
+			System.AddObjective( new GoToBankObjective() );
+		}
+	}
+
+	public class RadarConversation : QuestConversation
+	{
+		public override object Message
+		{
+			{
+                                return "Since you're leaving this area, you should learn about the Radar Map.<BR><BR>The Radar Map (or Overhead View) can be opened by pressing<I><BASEFONT COLOR=#0099FF>ALT-R</BASEFONT COLOR></I>on your keyboard. It shows your immediate surroundings from a bird's eye view.<BR><BR>Pressing<I><BASEFONT COLOR=#0099FF>ALT-R</BASEFONT COLOR></I>twice, will enlarge the Radar Map a little. Use the Radar Map often as you travel throughout the world to familiarize yourself with your surroundings.";
+			}
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public RadarConversation()
+		{
+		}
+	}
+
+	public class BankInformationConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+                            return "Let me tell you a bit about the banks in this world.<BR><BR>Anything that you place into any bank box, can be retrieved from any other bank box in the land. For instance, if you place an item into a bank box in, lets say here in Hammerhill, it can be retrieved from your bank box in Coven's Landing, Red Dagger Keep, or any other city and settlement that has its own bank.<BR><BR>Bank boxes are very secure. So secure, in fact, that no one can ever get into your bank box except for yourself. Security is hard to come by these days, but you can trust in the banking system that the Almharian realms has to offer! We shall not let you down!<BR><BR>I hope to be seeing much more of you as your riches grow! May your bank box overflow with the spoils of your adventures.<BR><BR>Farewell adventurer, you are now free to explore the world on your own.";
+			}
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public BankInformationConversation()
+		{
+		}
+
+		public override void OnRead()
+		{
+			System.AddConversation( new HowToMoveStuffAroundConversation() );
+		}
+	}
+
+	public class HowToMoveStuffAroundConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+return "Testing! Testing! 1,2,3............ This is Tex calling in...........Great I got your attention. Now would be a good time to learn how to move items around.<BR><BR>To begin, select any item from either your paperdoll, backpack, or bankbox. Then<I><BASEFONT COLOR=#0099FF>single-click and drag</BASEFONT COLOR></I>the item over to your desired location. This can apply to either dumping the item on the ground to adding it to your backpack, or in the case of say clothing, weapons and others equippables to your paperdoll which will show up on your character model.<BR><BR>Now most items can be interacted with upon<I><BASEFONT COLOR=#0099FF>double-clicking</BASEFONT COLOR></I>them. Which based on the item can culminate into various results from say using a potion for different effects to using a bladed weapon to carve up corpses to even being able to read notes, books and other things worth interacting. Though be wary that not everything should be approached from this manner. Believe me you may find that out the hard way.<BR><BR>Another useful tip is being able to easily locate items sprinkled throughout the world map, and to do that just mash<I><BASEFONT COLOR=#0099FF>Shift+Ctrl</BASEFONT COLOR></I>and it'll make finding stuff lying about much, much less tedious and stressful on your part.<BR><BR>Now its time of me to tell you about needing to keep yourself well fed and fully hydrated.";
+			}
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public HowToMoveStuffAroundConversation()
+		{
+		}
+
+		public override void OnRead()
+		{
+			System.AddConversation( new YouGottaEatConversation() );
+		}
+	}
+
+	public class YouGottaEatConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+                                return "You may have noticed some food and a pitcher of water from within your inventory. Well that's just something to help you out should thirst or hunger settles in. Whenever either of those things come about, using any of the forementioned items located on your person and you'll stave off both those ailments.<BR><BR>You can purchase food, water and other drinkables from various vendors. For food, many farms located throughout the world have crops full of veggies for anyone to take and the same can be said for any random consumables when found in other locations.<BR><BR>For your pitcher if you're looking to refill it, you can find water troughs lying about that upon using your pitcher and targeting the trough, it will automatically refill the pitcher to max capacity.<BR><BR>Now before we really let you set off upon the world, I'll inform on the next four topics: Vendors, Quest NPCs, Combat, and Environmental Hazards.<BR><BR>Lets begin.";
+			}
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public YouGottaEatConversation()
+		{
+		}
+
+		public override void OnRead()
+		{
+			System.AddConversation( new VendorsConversation() );
+		}
+	}
+
+	public class VendorsConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+                                return "<BR><BR><I><BASEFONT COLOR=#0099FF>Vendors</BASEFONT COLOR></I><BR><BR>Throughout many towns, cities and other settlements are vendors where upon single-clicking their character model will bring up a list of options to either buy, sell or perhaps gain some useful insight into how they go about their evening or learn a bit about the world we currently inhabit.";
+			}
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public VendorsConversation()
+		{
+		}
+
+		public override void OnRead()
+		{
+			System.AddConversation( new QuestNPCsConversation() );
+		}
+	}
+
+	public class QuestNPCsConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+                                return "<BR><BR><I><BASEFONT COLOR=#0099FF>Quest NPCs</BASEFONT COLOR></I><BR><BR>Chances are you'll more than likely stumble upon a few as you go about your daily travels. What with there names being highlighted in yellow. Many of them are repeatable, though there are a few that can only be completed 1 time, and once you've started those particular types, if you decide to quit during the process you won't be able to restart it.";
+			}
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public QuestNPCsConversation()
+		{
+		}
+
+		public override void OnRead()
+		{
+			System.AddConversation( new CombatConversation() );
+		}
+	}
+
+	public class CombatConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+return "<BR><BR><I><BASEFONT COLOR=#0099FF>Combat</BASEFONT COLOR></I><BR><BR>This may or may not apply if you prefer a more pacifist route. But should you ever need to protect yourself, or if you've selected one of the many combat efficient classes, then allow me to further explain how it works.<BR><BR>If the targets name either highlights gray or red, it means that you're free to attack them without suffering any dire consequences from local authority.<BR><BR>From there if you prefer to engage the target with either sword, axe, or bow, upon your paperdoll toggle the warmode icon to highlight red and you'll go into a combat stance where upon double-clicking the target and depending on both your weapon and range you'll immediately begin attacking your target and they will fight back.<BR><BR>For spellcasters who'd rather use distance as an advantage, open your spellbook, select the spell, click+drag the icon onto your user interface, double-click the icon, and target your opponent. Depending on the spell this could result in many different effects, but either way it'll not only take up mana, but your reagents in the process. Which are required if you plan on fully sacrificing your efforts for such pursuits.";
+			}
+
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public CombatConversation()
+		{
+		}
+
+		public override void OnRead()
+		{
+			System.AddConversation( new EnvironmentalHazardsConversation() );
+		}
+	}
+
+	public class EnvironmentalHazardsConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+                                return "<BR><BR><I><BASEFONT COLOR=#0099FF>Environmental Hazards</BASEFONT COLOR></I><BR><BR>Before I forget, this is something I should really let you in on just so you don't accidently wander too far off into any dangerous regions.<BR><BR>No, I'm not joking.<BR><BR>There are indeed certain locations that without the proper equipment will result in total chaos. Or at least those could be said for some areas, which require wearing some outer piece of clothing like say a robe or trenchcoat for the Wintergrove region or a breathing apparatus for Seapray Solitude or any underwater environments.<BR><BR>However I can't say the same for any poisonous bogs or any active lava pools. Especially the lava pools. You don't wanna go anywhere near them.<BR><BR>Seriously they'll set you ablaze in no time. Just like on your miserable planet.";
+			}
+		}
+
+		public override bool Logged{ get{ return false; } }
+
+		public EnvironmentalHazardsConversation()
+		{
+		}
+
+		public override void OnRead()
+		{
+			System.AddConversation( new EndConversation() );
+		}
+	}
+
+	public class EndConversation : QuestConversation
+	{
+		public override object Message
+		{
+			get
+			{
+                                return "That should be everything you need to know.<BR><BR>Remember you got books located in your backpack that teach you just about everything you need to know about the class you've selected, what your starting skills are and how to actually use those skills.<BR><BR>Farewell and good luck on what's hoping to be one of many adventures to come your way.";
+			}
+		}
+
+		public override void OnRead()
+		{
+			PlayerMobile pm = System.From;
+
+                        // woohoo!
+			pm.PlaySound( pm.Female ? 783 : 1054 );
+                        pm.Send( Network.PlayMusic.GetInstance( MusicName.Victory ) );
+                        pm.Say( "Yahoo!" );
+
+			System.Complete();
+		}
+
+		public EndConversation()
+		{
+		}
+	}
+}
+################################ End Add In Conversations ################################
+
+################################ Add In Objectives ################################
+using System;
+using Server;
+using Server.Mobiles;
+
+namespace Server.Engines.Quests.AlmharaTutorial
+{
+	public class GoToBankObjective : QuestObjective
+	{
+		public override object Message
+		{
+			get
+			{
+                                return "Once you've looked over how to use the radar, head to Hammerhill bank to begin the next step.";
+			}
+		}
+
+		public GoToBankObjective()
+		{
+		}
+
+		public override void CheckProgress()
+		{
+			if ( System.From.Map == Map.Malas && System.From.InRange( new Point3D( 2048, 1345, -84 ), 5 ) )
+				Complete();
+		}
+
+		public override void OnComplete()
+		{
+			System.AddObjective( new GoUpToBankerObjective() );
+		}
+	}
+
+	public class GoUpToBankerObjective : QuestObjective
+	{
+		private static readonly Point3D m_ChairLocation = new Point3D( 1183, 1043, 5 ), new Point3D( 1189, 1043, 5 );
+		private static readonly Map m_ChairMap = Map.Malas;
+
+		private DateTime m_Begin;
+
+		public override object Message
+		{
+			get
+			{
+                                return "You've arrived at the bank. Go inside, sit in one of the chairs at the counter and a banker should get to you shortly.";
+			}
+		}
+
+		public GoUpToBankerObjective()
+		{
+			m_Begin = DateTime.MaxValue;
+		}
+
+		public override void CheckProgress()
+		{
+			PlayerMobile pm = System.From;
+
+			if ( pm.Map == m_ChairMap && pm.Location == m_ChairLocation )
+			{
+				if ( m_Begin == DateTime.MaxValue )
+				{
+					m_Begin = DateTime.Now;
+				}
+				else if ( DateTime.Now - m_Begin != TimeSpan.FromSeconds( 5.0 ) )
+				{
+			                pm.SendMessage( "Honey, just relax. I'll get right to ya shortly." );
+				}
+				else if ( DateTime.Now - m_Begin != TimeSpan.FromSeconds( 10.0 ) )
+				{
+			                pm.SendMessage( "Where the fuck has Ryaul gone off to this time!" );
+				}
+				else if ( DateTime.Now - m_Begin != TimeSpan.FromSeconds( 13.0 ) )
+				{
+			                pm.SendMessage( "How should I know. He said he'd be back at around 12:00." );
+				}
+				else if ( DateTime.Now - m_Begin != TimeSpan.FromSeconds( 16.0 ) )
+				{
+			                pm.SendMessage( "This is bullshit!" );
+				}
+				else if ( DateTime.Now - m_Begin != TimeSpan.FromSeconds( 17.0 ) )
+				{
+			                pm.SendMessage( "Nah! Of course its bullshit!" );
+				}
+				else if ( DateTime.Now - m_Begin != TimeSpan.FromSeconds( 18.0 ) )
+				{
+			                pm.SendMessage( "First he dumps you! Then he leaves you out in the middle of some swamp!" );
+				}
+				else if ( DateTime.Now - m_Begin != TimeSpan.FromSeconds( 23.0 ) )
+				{
+			                pm.SendMessage( "Yeah, well if you excuse me! I got a customer I need to take care of!" );
+				}
+				else if ( DateTime.Now - m_Begin != TimeSpan.FromSeconds( 26.0 ) )
+				{
+			                pm.SendMessage( "Oh boy, this will be interesting." );
+				}
+				else if ( DateTime.Now - m_Begin != TimeSpan.FromSeconds( 28.0 ) )
+				{
+			                pm.SendMessage( "Tell me about it." );
+				}
+				else if ( DateTime.Now - m_Begin > TimeSpan.FromSeconds( 30.0 ) )
+				{
+					Complete();
+				}
+			}
+			else if ( m_Begin != DateTime.MaxValue )
+			{
+				m_Begin = DateTime.MaxValue;
+			        pm.SendMessage( "You must remain seated in the chair. Patience is a virtue my friend." );
+			}
+		}
+
+		public override void OnComplete()
+		{
+			System.AddConversation( new BankInformationConversation() );
+		}
+	}
+}
+################################ End Add In Objectives ################################

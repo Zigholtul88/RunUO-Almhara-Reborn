@@ -1,0 +1,285 @@
+##############################
+Log started on 5/29/2016 1:48:31 PM
+
+5/29/2016 1:49:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add grimor'
+5/29/2016 1:49:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add grimoir'
+5/29/2016 1:49:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1187, 1053, 0) in Malas: "SpellcastersGrimoire"
+5/29/2016 1:49:26 PM: 127.0.0.1: Serials: 0x400000F8; 
+5/29/2016 1:50:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 1:50:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'AttackChance' of ... to '5'
+5/29/2016 1:50:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Skill_1_Name' of ... to 'Anatomy'
+5/29/2016 1:50:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Skill_1_Value' of ... to '5'
+5/29/2016 2:02:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/29/2016 2:02:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/29/2016 2:02:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/29/2016 2:29:28 PM
+
+5/29/2016 2:30:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add grim'
+5/29/2016 2:30:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1185, 1054, 0) in Malas: "SpellcastersGrimoire"
+5/29/2016 2:30:08 PM: 127.0.0.1: Serials: 0x4000020D; 
+5/29/2016 2:30:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 2:30:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400000F8 (SpellcastersGrimoire)
+5/29/2016 2:30:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 2:30:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 2:30:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Skill_1_Value' of ... to '5'
+5/29/2016 2:31:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/29/2016 2:31:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/29/2016 2:31:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/29/2016 2:40:08 PM
+
+5/29/2016 2:41:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spellcaster'
+5/29/2016 2:41:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1186, 1054, 0) in Malas: "SpellcastersGrimoire"
+5/29/2016 2:41:02 PM: 127.0.0.1: Serials: 0x40000232; 
+5/29/2016 2:41:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 2:41:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'AttackChance' of ... to '5'
+5/29/2016 2:41:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Skill_1_Value' of ... to '5'
+5/29/2016 2:41:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 2:41:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Full' of 0x40000232 (SpellcastersGrimoire) to 'True'
+5/29/2016 2:41:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Full' of 0x40000232 (SpellcastersGrimoire) to 'False'
+5/29/2016 2:42:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Slayer' of 0x40000232 (SpellcastersGrimoire) to 'Silver'
+5/29/2016 2:42:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bardspell'
+5/29/2016 2:42:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bardspel'
+5/29/2016 2:42:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1187, 1053, 0) in Malas: "BardSpellbook"
+5/29/2016 2:42:34 PM: 127.0.0.1: Serials: 0x40000267; 
+5/29/2016 2:42:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 2:42:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 2:42:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Skill_1_Value' of ... to '5'
+5/29/2016 2:43:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 0'
+5/29/2016 2:43:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+5/29/2016 2:43:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set rawint 10'
+5/29/2016 2:43:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'rawint' of 0x1 "Zigholtul" ('Zigholtul88') to '10'
+5/29/2016 2:43:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+5/29/2016 2:43:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000267 (BardSpellbook)
+5/29/2016 2:43:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 2:44:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 2:44:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusHits' of ... to '10'
+5/29/2016 2:44:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusStr' of ... to '5'
+5/29/2016 2:48:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'dupe '
+5/29/2016 2:48:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') duping 0x40000232 (SpellcastersGrimoire) (inBag=False; amount=1)
+5/29/2016 2:48:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') duped 0x40000232 (SpellcastersGrimoire) creating 0x40000313 (SpellcastersGrimoire)
+5/29/2016 2:48:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 2:48:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusDex' of ... to '5'
+5/29/2016 2:49:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusMana' of ... to '100'
+5/29/2016 2:49:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 2:49:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000313 (SpellcastersGrimoire)
+5/29/2016 2:49:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 2:49:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000232 (SpellcastersGrimoire)
+5/29/2016 2:56:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/29/2016 2:59:36 PM
+
+5/29/2016 3:00:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spellcasters'
+5/29/2016 3:00:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1185, 1053, 0) in Malas: "SpellcastersGrimoire"
+5/29/2016 3:00:27 PM: 127.0.0.1: Serials: 0x40000F45; 
+5/29/2016 3:02:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 3:02:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000F45 (SpellcastersGrimoire)
+5/29/2016 3:13:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bardspellbook'
+5/29/2016 3:13:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1186, 1054, 0) in Malas: "bardspellbook"
+5/29/2016 3:13:17 PM: 127.0.0.1: Serials: 0x4000192A; 
+5/29/2016 3:13:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 3:13:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusHits' of ... to '10'
+5/29/2016 3:13:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusDex' of ... to '10'
+5/29/2016 3:14:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 3:14:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spellbook'
+5/29/2016 3:14:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1185, 1054, 0) in Malas: "spellbook"
+5/29/2016 3:14:29 PM: 127.0.0.1: Serials: 0x4000193C; 
+5/29/2016 3:14:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 3:15:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusHits' of ... to '50'
+5/29/2016 3:15:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 3:15:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000193C (Spellbook)
+5/29/2016 3:15:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 3:15:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000192A (BardSpellbook)
+5/29/2016 3:16:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/29/2016 3:20:03 PM
+
+5/29/2016 3:20:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spellcasters'
+5/29/2016 3:20:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1185, 1053, 0) in Malas: "SpellcastersGrimoire"
+5/29/2016 3:20:28 PM: 127.0.0.1: Serials: 0x4000019E; 
+5/29/2016 3:20:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 3:21:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusStam' of ... to '50'
+5/29/2016 3:21:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'WeaponDamage' of ... to '5'
+5/29/2016 3:22:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'WeaponDamage' of ... to '100'
+5/29/2016 3:22:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 3:22:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'WeaponDamage' of ... to '100'
+5/29/2016 3:22:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 3:22:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002922 (BalronVolcanicSting)
+5/29/2016 3:22:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 3:22:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000019E (SpellcastersGrimoire)
+5/29/2016 3:40:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/29/2016 3:47:20 PM
+
+5/29/2016 3:47:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add grimo'
+5/29/2016 3:47:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1186, 1053, 0) in Malas: "SpellcastersGrimoire"
+5/29/2016 3:47:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1183, 1053, 0) in Malas: "SpellcastersGrimoire"
+5/29/2016 3:47:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1183, 1053, 0) in Malas: "GrandGrimoire"
+5/29/2016 3:47:55 PM: 127.0.0.1: Serials: 0x40000115; 
+5/29/2016 3:48:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 3:48:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000115 (GrandGrimoire)
+5/29/2016 3:48:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 3:48:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bardspellbook'
+5/29/2016 3:48:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1183, 1053, 0) in Malas: "bardspellbook"
+##############################
+Log started on 5/29/2016 3:48:47 PM
+
+5/29/2016 3:51:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/29/2016 3:51:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/29/2016 3:51:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/29/2016 4:11:41 PM
+
+5/29/2016 4:12:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spellcasters'
+5/29/2016 4:12:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1185, 1054, 0) in Malas: "SpellcastersGrimoire"
+5/29/2016 4:12:05 PM: 127.0.0.1: Serials: 0x40000166; 
+5/29/2016 4:12:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 4:12:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusStr' of ... to '10'
+5/29/2016 4:12:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bardspellbook'
+5/29/2016 4:12:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1185, 1053, 0) in Malas: "bardspellbook"
+5/29/2016 4:12:59 PM: 127.0.0.1: Serials: 0x40000190; 
+5/29/2016 4:13:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 4:13:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusHits' of ... to '10'
+5/29/2016 4:13:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EnhancePotions' of ... to '10'
+5/29/2016 4:14:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Full' of 0x40000190 (BardSpellbook) to 'True'
+5/29/2016 4:14:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Content' of 0x40000190 (BardSpellbook) to '12'
+5/29/2016 4:15:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 4:15:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusMana' of ... to '0'
+5/29/2016 4:15:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusInt' of ... to '10'
+5/29/2016 4:15:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusInt' of ... to '5'
+5/29/2016 4:15:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusStr' of ... to '0'
+5/29/2016 4:16:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 4:16:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000190 (BardSpellbook)
+5/29/2016 4:16:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 4:16:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000166 (SpellcastersGrimoire)
+5/29/2016 4:16:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add quiver'
+5/29/2016 4:16:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1185, 1054, 0) in Malas: "ElvenQuiver"
+5/29/2016 4:16:39 PM: 127.0.0.1: Serials: 0x40000257; 
+5/29/2016 4:16:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 4:16:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusHits' of ... to '20'
+5/29/2016 4:17:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spellcasters'
+5/29/2016 4:17:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1184, 1054, 0) in Malas: "SpellcastersGrimoire"
+5/29/2016 4:17:14 PM: 127.0.0.1: Serials: 0x4000027A; 
+5/29/2016 4:17:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 4:17:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BonusHits' of ... to '50'
+5/29/2016 4:20:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 4:20:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'WeaponDamage' of ... to '5'
+5/29/2016 4:20:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'WeaponDamage' of ... to '100'
+5/29/2016 4:21:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 4:21:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'RegenMana' of ... to '100'
+5/29/2016 4:21:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set int 100'
+5/29/2016 4:21:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'int' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+5/29/2016 4:22:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 4:22:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000027A (SpellcastersGrimoire)
+5/29/2016 4:22:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 4:22:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000257 (ElvenQuiver)
+5/29/2016 4:22:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/29/2016 4:22:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3616 objects)
+5/29/2016 4:22:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+5/29/2016 4:22:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3616 objects
+5/29/2016 4:22:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/29/2016 4:22:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/29/2016 4:22:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/29/2016 4:52:21 PM
+
+5/29/2016 4:52:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add gizzard'
+5/29/2016 4:52:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1183, 1054, 0) in Malas: "gizzard"
+5/29/2016 4:52:59 PM: 127.0.0.1: Serials: 0x2; 
+5/29/2016 4:53:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/29/2016 4:53:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x2 "a gizzard" (no account)
+5/29/2016 4:53:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add dagger'
+5/29/2016 4:53:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1188, 1058, 0) in Malas: "dagger"
+5/29/2016 4:53:14 PM: 127.0.0.1: Serials: 0x40000008; 
+5/29/2016 4:53:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 4:53:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000007 (Corpse)
+5/29/2016 4:56:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/29/2016 4:56:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/29/2016 4:56:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/29/2016 5:11:32 PM
+
+5/29/2016 5:12:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+5/29/2016 5:12:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1168, 1058, 0) in Malas: "beachbeetle"
+5/29/2016 5:12:04 PM: 127.0.0.1: Serials: 0x2; 
+5/29/2016 5:12:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/29/2016 5:12:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x2 "a beach beetle" (no account)
+5/29/2016 5:12:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 5:12:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000009 (Corpse)
+5/29/2016 5:12:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+5/29/2016 5:12:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1165, 1059, 0) in Malas: "beachbeetle"
+5/29/2016 5:12:28 PM: 127.0.0.1: Serials: 0x3; 
+5/29/2016 5:12:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/29/2016 5:12:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x3 "a beach beetle" (no account)
+5/29/2016 5:12:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/29/2016 5:12:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 5:12:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000000E (Corpse)
+5/29/2016 5:12:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add gizzard'
+5/29/2016 5:12:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1168, 1058, 0) in Malas: "gizzard"
+5/29/2016 5:12:47 PM: 127.0.0.1: Serials: 0x4; 
+5/29/2016 5:12:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/29/2016 5:12:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x4 "a gizzard" (no account)
+5/29/2016 5:13:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/29/2016 5:13:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/29/2016 5:13:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/29/2016 10:07:47 PM
+
+5/29/2016 10:09:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/29/2016 10:09:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/29/2016 10:11:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/29/2016 10:11:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add nightsightscroll 100'
+5/29/2016 10:11:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1185, 1177, 0) in Malas: "nightsightscroll" "100"
+5/29/2016 10:11:52 PM: 127.0.0.1: Serials: 0x40001D6B; 
+5/29/2016 10:11:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add rob'
+5/29/2016 10:12:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1185, 1176, 0) in Malas: "Robe"
+5/29/2016 10:12:09 PM: 127.0.0.1: Serials: 0x40001D6C; 
+5/29/2016 10:12:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add trap'
+5/29/2016 10:12:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2504, 860, -11) in Malas: "MushroomTrap"
+5/29/2016 10:12:50 PM: 127.0.0.1: Serials: 0x40001D6D; 
+5/29/2016 10:13:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 10:13:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 10:13:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001D6D (MushroomTrap)
+5/29/2016 10:14:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/29/2016 10:14:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/29/2016 10:15:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/29/2016 10:15:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/29/2016 10:15:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/29/2016 10:15:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/29/2016 10:16:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/29/2016 10:16:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/29/2016 10:16:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/29/2016 10:16:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/29/2016 10:17:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2494, 840, -11) in Malas: "SawTrap"
+5/29/2016 10:17:36 PM: 127.0.0.1: Serials: 0x40001D6E; 
+5/29/2016 10:17:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 10:17:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001D6E (SawTrap)
+5/29/2016 10:17:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2496, 842, -11) in Malas: "SawTrap"
+5/29/2016 10:17:54 PM: 127.0.0.1: Serials: 0x40001D6F; 
+5/29/2016 10:17:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2497, 842, -11) in Malas: "SawTrap"
+5/29/2016 10:17:55 PM: 127.0.0.1: Serials: 0x40001D70; 
+5/29/2016 10:17:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+5/29/2016 10:17:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001D70 (SawTrap)
+5/29/2016 10:18:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001D6F (SawTrap)
+5/29/2016 10:18:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2497, 842, -11) in Malas: "SawTrap"
+5/29/2016 10:18:29 PM: 127.0.0.1: Serials: 0x40001D71; 
+5/29/2016 10:18:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 10:18:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 10:18:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/29/2016 10:18:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Type' of 0x40001D71 (SawTrap) to 'WestWall'
+5/29/2016 10:19:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/29/2016 10:19:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001D71 (SawTrap)
+5/29/2016 10:19:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/29/2016 10:19:40 PM
+
+5/29/2016 10:20:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/29/2016 10:20:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/29/2016 10:21:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/29/2016 10:24:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/29/2016 10:24:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x22C "a stone burrow orc miner" (no account)
+5/29/2016 10:25:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/29/2016 10:57:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/29/2016 10:57:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/29/2016 10:57:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

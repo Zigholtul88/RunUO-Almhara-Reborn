@@ -1,0 +1,507 @@
+##############################
+Log started on 5/1/2015 3:38:58 PM
+
+5/1/2015 4:01:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4570 set movable False hue 0 light Circle225'
+5/1/2015 4:01:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (567, 787, 56) in Malas: "static" "4570" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:01:16 PM: 127.0.0.1: Serials: 0x40000D43; 
+5/1/2015 4:01:21 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4569 set movable False hue 0 light Circle225'
+5/1/2015 4:01:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (570, 787, 56) in Malas: "static" "4569" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:01:22 PM: 127.0.0.1: Serials: 0x40000D44; 
+5/1/2015 4:01:24 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4569 set movable False hue 0 light Circle225'
+5/1/2015 4:01:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4571 set movable False hue 0 light Circle225'
+5/1/2015 4:01:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (568, 787, 56) in Malas: "static" "4571" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:01:29 PM: 127.0.0.1: Serials: 0x40000D45; 
+5/1/2015 4:01:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4571 set movable False hue 0 light Circle225'
+5/1/2015 4:01:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (569, 787, 56) in Malas: "static" "4571" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:01:31 PM: 127.0.0.1: Serials: 0x40000D46; 
+5/1/2015 4:01:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+5/1/2015 4:01:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40000D43 (Static) to (567, 789, 56)
+5/1/2015 4:01:40 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+5/1/2015 4:01:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40000D43 (Static) to (567, 787, 56)
+5/1/2015 4:01:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4571 set movable False hue 0 light Circle225'
+5/1/2015 4:01:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4570 set movable False hue 0 light Circle225'
+5/1/2015 4:01:49 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4570 set movable False hue 0 light Circle225'
+5/1/2015 4:01:50 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (567, 788, 56) in Malas: "static" "4570" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:01:50 PM: 127.0.0.1: Serials: 0x40000D4C; 
+5/1/2015 4:01:54 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:01:54 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D45 (Static)
+5/1/2015 4:01:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:01:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D4C (Static)
+5/1/2015 4:01:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:01:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D46 (Static)
+5/1/2015 4:02:02 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4571 set movable False hue 0 light Circle225'
+5/1/2015 4:02:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (568, 787, 56) in Malas: "static" "4571" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:02:03 PM: 127.0.0.1: Serials: 0x40000D4D; 
+5/1/2015 4:02:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4571 set movable False hue 0 light Circle225'
+5/1/2015 4:02:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (569, 787, 56) in Malas: "static" "4571" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:02:08 PM: 127.0.0.1: Serials: 0x40000D4E; 
+5/1/2015 4:02:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:02:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D44 (Static)
+5/1/2015 4:02:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4569 set movable False hue 0 light Circle225'
+5/1/2015 4:02:20 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4569 set movable False hue 0 light Circle225'
+5/1/2015 4:02:20 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (570, 787, 56) in Malas: "static" "4569" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:02:20 PM: 127.0.0.1: Serials: 0x40000D5A; 
+5/1/2015 4:02:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm remove'
+5/1/2015 4:02:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D43 (Static)
+5/1/2015 4:02:26 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D4D (Static)
+5/1/2015 4:02:26 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D4E (Static)
+5/1/2015 4:02:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D5A (Static)
+5/1/2015 4:02:28 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4491 set movable False hue 0 light Circle225'
+5/1/2015 4:02:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4573 set movable False hue 0 light Circle225'
+5/1/2015 4:02:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (567, 787, 56) in Malas: "static" "4573" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:02:36 PM: 127.0.0.1: Serials: 0x40000D6B; 
+5/1/2015 4:02:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:02:40 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (568, 787, 56) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:02:40 PM: 127.0.0.1: Serials: 0x40000D72; 
+5/1/2015 4:02:40 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:02:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (569, 787, 56) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:02:42 PM: 127.0.0.1: Serials: 0x40000D73; 
+5/1/2015 4:02:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:02:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:02:52 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D72 (Static)
+5/1/2015 4:02:53 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:02:53 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D6B (Static)
+5/1/2015 4:02:54 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:02:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000D73 (Static)
+5/1/2015 4:03:00 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:03:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:03:07 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 790, 56) in Malas: "static" "4576" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:03:07 PM: 127.0.0.1: Serials: 0x40000D82; 
+5/1/2015 4:03:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:03:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 791, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:03:13 PM: 127.0.0.1: Serials: 0x40000D83; 
+5/1/2015 4:03:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:03:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 793, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:03:17 PM: 127.0.0.1: Serials: 0x40000D85; 
+5/1/2015 4:03:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:03:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 792, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:03:22 PM: 127.0.0.1: Serials: 0x40000E1B; 
+5/1/2015 4:03:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:03:33 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:03:34 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 794, 56) in Malas: "static" "4575" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:03:34 PM: 127.0.0.1: Serials: 0x40000E1C; 
+5/1/2015 4:03:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:04:00 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (590, 774, 56) in Malas: "static" "4575" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:00 PM: 127.0.0.1: Serials: 0x40000E75; 
+5/1/2015 4:04:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:04:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (590, 771, 56) in Malas: "static" "4576" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:06 PM: 127.0.0.1: Serials: 0x40000E79; 
+5/1/2015 4:04:10 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:04:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (590, 772, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:11 PM: 127.0.0.1: Serials: 0x40000E7A; 
+5/1/2015 4:04:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:04:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (590, 773, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:12 PM: 127.0.0.1: Serials: 0x40000E7B; 
+5/1/2015 4:04:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:04:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:04:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (559, 768, 56) in Malas: "static" "4576" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:25 PM: 127.0.0.1: Serials: 0x40000E86; 
+5/1/2015 4:04:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:04:30 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:04:33 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (559, 779, 56) in Malas: "static" "4575" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:33 PM: 127.0.0.1: Serials: 0x40000E87; 
+5/1/2015 4:04:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:04:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:04:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (559, 769, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:43 PM: 127.0.0.1: Serials: 0x40000E88; 
+5/1/2015 4:04:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:04:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (559, 778, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:44 PM: 127.0.0.1: Serials: 0x40000E89; 
+5/1/2015 4:04:45 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:04:47 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (559, 777, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:47 PM: 127.0.0.1: Serials: 0x40000E8A; 
+5/1/2015 4:04:47 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:04:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (559, 770, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:48 PM: 127.0.0.1: Serials: 0x40000EDF; 
+5/1/2015 4:04:53 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:04:54 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (559, 776, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:54 PM: 127.0.0.1: Serials: 0x40000EE7; 
+5/1/2015 4:04:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:04:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (559, 771, 56) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:04:57 PM: 127.0.0.1: Serials: 0x40000EE8; 
+5/1/2015 4:04:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:05:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:05:02 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (559, 775, 56) in Malas: "static" "4576" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:05:02 PM: 127.0.0.1: Serials: 0x40000EEF; 
+5/1/2015 4:05:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:05:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (559, 772, 56) in Malas: "static" "4575" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:05:06 PM: 127.0.0.1: Serials: 0x40000F03; 
+5/1/2015 4:05:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:05:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (545, 756, 66) in Malas: "static" "4575" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:05:27 PM: 127.0.0.1: Serials: 0x40000F06; 
+5/1/2015 4:05:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:05:33 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (545, 753, 66) in Malas: "static" "4576" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:05:33 PM: 127.0.0.1: Serials: 0x40000F07; 
+5/1/2015 4:05:40 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:05:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (545, 754, 66) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:05:41 PM: 127.0.0.1: Serials: 0x40000F34; 
+5/1/2015 4:05:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:05:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (545, 755, 66) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:05:43 PM: 127.0.0.1: Serials: 0x40000F35; 
+5/1/2015 4:05:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:06:00 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:06:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4573 set movable False hue 0 light Circle225'
+5/1/2015 4:06:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4573 set movable False hue 0 light Circle225'
+5/1/2015 4:06:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (570, 747, 66) in Malas: "static" "4573" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:08 PM: 127.0.0.1: Serials: 0x40000F5D; 
+5/1/2015 4:06:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+5/1/2015 4:06:18 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40000F5D (Static) to (570, 748, 66)
+5/1/2015 4:06:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4573 set movable False hue 0 light Circle225'
+5/1/2015 4:06:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (570, 749, 66) in Malas: "static" "4573" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:23 PM: 127.0.0.1: Serials: 0x40000F5F; 
+5/1/2015 4:06:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4573 set movable False hue 0 light Circle225'
+5/1/2015 4:06:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (570, 749, 66) in Malas: "static" "4573" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:23 PM: 127.0.0.1: Serials: 0x40000F60; 
+5/1/2015 4:06:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+5/1/2015 4:06:28 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40000F60 (Static) to (570, 750, 66)
+5/1/2015 4:06:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Multi Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:06:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (571, 748, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:36 PM: 127.0.0.1: Serials: 0x40000F75; 
+5/1/2015 4:06:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (572, 748, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:36 PM: 127.0.0.1: Serials: 0x40000F76; 
+5/1/2015 4:06:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (571, 749, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:37 PM: 127.0.0.1: Serials: 0x40000F77; 
+5/1/2015 4:06:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (572, 749, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:38 PM: 127.0.0.1: Serials: 0x40000F78; 
+5/1/2015 4:06:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (571, 750, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:39 PM: 127.0.0.1: Serials: 0x40000F79; 
+5/1/2015 4:06:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (572, 750, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:39 PM: 127.0.0.1: Serials: 0x40000F7A; 
+5/1/2015 4:06:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (572, 750, 72) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:39 PM: 127.0.0.1: Serials: 0x40000F7B; 
+5/1/2015 4:06:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:06:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000F7B (Static)
+5/1/2015 4:06:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:06:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x562 "an amazonian spear fighter" (no account)
+5/1/2015 4:06:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:06:52 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:06:52 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (573, 748, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:52 PM: 127.0.0.1: Serials: 0x40000F7D; 
+5/1/2015 4:06:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:06:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (573, 749, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:55 PM: 127.0.0.1: Serials: 0x40000F7F; 
+5/1/2015 4:06:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:06:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (573, 750, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:57 PM: 127.0.0.1: Serials: 0x40000F80; 
+5/1/2015 4:06:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:06:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (574, 748, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:06:59 PM: 127.0.0.1: Serials: 0x40000F81; 
+5/1/2015 4:07:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 748, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:01 PM: 127.0.0.1: Serials: 0x40000F87; 
+5/1/2015 4:07:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:04 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (574, 749, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:04 PM: 127.0.0.1: Serials: 0x40000F88; 
+5/1/2015 4:07:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (574, 750, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:06 PM: 127.0.0.1: Serials: 0x40000F8B; 
+5/1/2015 4:07:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 750, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:08 PM: 127.0.0.1: Serials: 0x40000F8C; 
+5/1/2015 4:07:10 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 748, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:11 PM: 127.0.0.1: Serials: 0x40000F8D; 
+5/1/2015 4:07:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:18 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 748, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:18 PM: 127.0.0.1: Serials: 0x40000F8E; 
+5/1/2015 4:07:24 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:07:24 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000F8E (Static)
+5/1/2015 4:07:26 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:07:26 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000F8D (Static)
+5/1/2015 4:07:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:07:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000F87 (Static)
+5/1/2015 4:07:32 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:32 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 749, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:32 PM: 127.0.0.1: Serials: 0x40000F9D; 
+5/1/2015 4:07:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 748, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:36 PM: 127.0.0.1: Serials: 0x40000F9E; 
+5/1/2015 4:07:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (576, 747, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:43 PM: 127.0.0.1: Serials: 0x40000F9F; 
+5/1/2015 4:07:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:45 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (576, 748, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:45 PM: 127.0.0.1: Serials: 0x40000FA0; 
+5/1/2015 4:07:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (576, 749, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:46 PM: 127.0.0.1: Serials: 0x40000FA1; 
+5/1/2015 4:07:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4574 set movable False hue 0 light Circle225'
+5/1/2015 4:07:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (576, 750, 66) in Malas: "static" "4574" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:48 PM: 127.0.0.1: Serials: 0x40000FA2; 
+5/1/2015 4:07:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:07:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000F9F (Static)
+5/1/2015 4:07:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4572 set movable False hue 0 light Circle225'
+5/1/2015 4:07:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (577, 748, 66) in Malas: "static" "4572" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:56 PM: 127.0.0.1: Serials: 0x40000FA3; 
+5/1/2015 4:07:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4572 set movable False hue 0 light Circle225'
+5/1/2015 4:07:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (577, 749, 66) in Malas: "static" "4572" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:57 PM: 127.0.0.1: Serials: 0x40000FA7; 
+5/1/2015 4:07:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4572 set movable False hue 0 light Circle225'
+5/1/2015 4:07:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (577, 750, 66) in Malas: "static" "4572" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:07:59 PM: 127.0.0.1: Serials: 0x40000FA8; 
+5/1/2015 4:08:02 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4572 set movable False hue 0 light Circle225'
+5/1/2015 4:08:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:08:07 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:08:09 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 752, 66) in Malas: "static" "4575" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:08:09 PM: 127.0.0.1: Serials: 0x40000FAB; 
+5/1/2015 4:08:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:08:14 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 746, 66) in Malas: "static" "4576" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:08:14 PM: 127.0.0.1: Serials: 0x40000FB1; 
+5/1/2015 4:08:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:08:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 750, 66) in Malas: "static" "4576" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:08:17 PM: 127.0.0.1: Serials: 0x40000FB2; 
+5/1/2015 4:08:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:08:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:08:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 748, 66) in Malas: "static" "4575" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:08:23 PM: 127.0.0.1: Serials: 0x40000FB3; 
+5/1/2015 4:08:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:08:26 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:08:28 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 747, 66) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:08:28 PM: 127.0.0.1: Serials: 0x40000FB7; 
+5/1/2015 4:08:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:08:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (565, 751, 66) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:08:31 PM: 127.0.0.1: Serials: 0x40000FB8; 
+5/1/2015 4:08:34 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:09:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:09:09 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (571, 751, 66) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:09:09 PM: 127.0.0.1: Serials: 0x40000FC8; 
+5/1/2015 4:09:10 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:09:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (576, 751, 66) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:09:11 PM: 127.0.0.1: Serials: 0x40000FC9; 
+5/1/2015 4:09:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:09:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (574, 751, 66) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:09:16 PM: 127.0.0.1: Serials: 0x40000FCA; 
+5/1/2015 4:09:18 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:09:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (572, 751, 66) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:09:19 PM: 127.0.0.1: Serials: 0x40000FCD; 
+5/1/2015 4:09:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:09:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+5/1/2015 4:09:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:09:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000FCD (Static)
+5/1/2015 4:09:40 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:09:53 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+5/1/2015 4:09:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40000FC8 (Static) to (570, 751, 66)
+5/1/2015 4:09:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+5/1/2015 4:09:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40000FC9 (Static) to (577, 751, 66)
+5/1/2015 4:10:00 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'move '
+5/1/2015 4:10:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') moving 0x40000FCA (Static) to (575, 751, 66)
+5/1/2015 4:10:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:10:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:10:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (572, 751, 66) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:10:06 PM: 127.0.0.1: Serials: 0x40000FE7; 
+5/1/2015 4:10:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:10:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (570, 747, 66) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:10:12 PM: 127.0.0.1: Serials: 0x40000FE9; 
+5/1/2015 4:10:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:10:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (577, 747, 66) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:10:13 PM: 127.0.0.1: Serials: 0x40000FF1; 
+5/1/2015 4:10:14 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:10:15 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (575, 747, 66) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:10:15 PM: 127.0.0.1: Serials: 0x40000FF2; 
+5/1/2015 4:10:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:10:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (572, 747, 66) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:10:17 PM: 127.0.0.1: Serials: 0x40000FF3; 
+5/1/2015 4:22:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+5/1/2015 4:22:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add amazon'
+5/1/2015 4:22:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (569, 788, 56) in Malas: "AmazonTreeSettlementTreasureChest"
+5/1/2015 4:22:55 PM: 127.0.0.1: Serials: 0x40001865; 
+5/1/2015 4:22:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:23:00 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40001865 (AmazonTreeSettlementTreasureChest)
+5/1/2015 4:23:20 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+5/1/2015 4:23:21 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+5/1/2015 4:23:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (568, 787, 56) in Malas: "static" "2662" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:23:25 PM: 127.0.0.1: Serials: 0x40001880; 
+5/1/2015 4:23:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+5/1/2015 4:23:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+5/1/2015 4:23:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2664 set movable False hue 0 light Circle225'
+5/1/2015 4:23:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (568, 788, 56) in Malas: "static" "2664" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:23:39 PM: 127.0.0.1: Serials: 0x40001881; 
+5/1/2015 4:23:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2666 set movable False hue 0 light Circle225'
+5/1/2015 4:23:49 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2659 set movable False hue 0 light Circle225'
+5/1/2015 4:23:50 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (569, 787, 56) in Malas: "static" "2659" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:23:50 PM: 127.0.0.1: Serials: 0x40001887; 
+5/1/2015 4:23:50 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2659 set movable False hue 0 light Circle225'
+5/1/2015 4:23:53 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2683 set movable False hue 0 light Circle225'
+5/1/2015 4:23:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:23:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40001887 (Static)
+5/1/2015 4:23:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2675 set movable False hue 0 light Circle225'
+5/1/2015 4:24:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2659 set movable False hue 0 light Circle225'
+5/1/2015 4:24:09 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (569, 787, 56) in Malas: "static" "2659" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:24:09 PM: 127.0.0.1: Serials: 0x4000189B; 
+5/1/2015 4:24:10 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2665 set movable False hue 0 light Circle225'
+5/1/2015 4:24:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2652 set movable False hue 0 light Circle225'
+5/1/2015 4:24:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (569, 788, 56) in Malas: "static" "2652" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:24:17 PM: 127.0.0.1: Serials: 0x4000189C; 
+5/1/2015 4:24:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2652 set movable False hue 0 light Circle225'
+5/1/2015 4:24:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+5/1/2015 4:24:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (591, 790, 46) in Malas: "static" "2662" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:24:37 PM: 127.0.0.1: Serials: 0x4000189E; 
+5/1/2015 4:24:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+5/1/2015 4:24:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (591, 790, 48) in Malas: "static" "2662" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:24:38 PM: 127.0.0.1: Serials: 0x400018A7; 
+5/1/2015 4:24:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:24:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400018A7 (Static)
+5/1/2015 4:24:47 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2664 set movable False hue 0 light Circle225'
+5/1/2015 4:24:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (591, 791, 46) in Malas: "static" "2664" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:24:48 PM: 127.0.0.1: Serials: 0x400018AA; 
+5/1/2015 4:24:48 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2664 set movable False hue 0 light Circle225'
+5/1/2015 4:27:24 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm remove'
+5/1/2015 4:27:24 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40001880 (Static)
+5/1/2015 4:27:28 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2665 set movable False hue 0 light Circle225'
+5/1/2015 4:27:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+5/1/2015 4:27:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (568, 787, 56) in Malas: "static" "2662" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:27:38 PM: 127.0.0.1: Serials: 0x400018F1; 
+5/1/2015 4:27:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+5/1/2015 4:30:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2659 set movable False hue 0 light Circle225'
+5/1/2015 4:30:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2659 set movable False hue 0 light Circle225'
+5/1/2015 4:30:40 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (555, 732, 76) in Malas: "static" "2659" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:30:40 PM: 127.0.0.1: Serials: 0x40001951; 
+5/1/2015 4:30:49 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2652 set movable False hue 0 light Circle225'
+5/1/2015 4:30:50 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (555, 733, 76) in Malas: "static" "2652" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:30:50 PM: 127.0.0.1: Serials: 0x4000195B; 
+5/1/2015 4:30:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2664 set movable False hue 0 light Circle225'
+5/1/2015 4:30:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+5/1/2015 4:30:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+5/1/2015 4:31:00 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (554, 732, 76) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:31:00 PM: 127.0.0.1: Serials: 0x40001960; 
+5/1/2015 4:31:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+5/1/2015 4:31:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2604 set movable False hue 0 light Circle225'
+5/1/2015 4:31:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (556, 732, 76) in Malas: "static" "2604" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:31:27 PM: 127.0.0.1: Serials: 0x4000197F; 
+5/1/2015 4:31:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2604 set movable False hue 0 light Circle225'
+5/1/2015 4:31:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2665 set movable False hue 0 light Circle225'
+5/1/2015 4:31:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2665 set movable False hue 0 light Circle225'
+5/1/2015 4:31:47 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (545, 757, 66) in Malas: "static" "2665" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:31:47 PM: 127.0.0.1: Serials: 0x40001980; 
+5/1/2015 4:31:52 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2667 set movable False hue 0 light Circle225'
+5/1/2015 4:31:52 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (546, 757, 66) in Malas: "static" "2667" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:31:52 PM: 127.0.0.1: Serials: 0x40001981; 
+5/1/2015 4:32:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2612 set movable False hue 0 light Circle225'
+5/1/2015 4:32:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2612 set movable False hue 0 light Circle225'
+5/1/2015 4:32:14 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (545, 758, 66) in Malas: "static" "2612" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:32:14 PM: 127.0.0.1: Serials: 0x4000198D; 
+5/1/2015 4:32:34 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2612 set movable False hue 0 light Circle225'
+5/1/2015 4:32:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2604 set movable False hue 0 light Circle225'
+5/1/2015 4:32:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (567, 787, 56) in Malas: "static" "2604" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:32:37 PM: 127.0.0.1: Serials: 0x40001997; 
+5/1/2015 4:32:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2604 set movable False hue 0 light Circle225'
+5/1/2015 4:32:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (570, 787, 56) in Malas: "static" "2604" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:32:39 PM: 127.0.0.1: Serials: 0x40001998; 
+5/1/2015 4:32:47 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2604 set movable False hue 0 light Circle225'
+5/1/2015 4:32:49 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2604 set movable False hue 0 light Circle225'
+5/1/2015 4:32:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2604 set movable False hue 0 light Circle225'
+5/1/2015 4:32:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (597, 769, 56) in Malas: "static" "2604" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:32:55 PM: 127.0.0.1: Serials: 0x40001999; 
+5/1/2015 4:32:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2608 set movable False hue 0 light Circle225'
+5/1/2015 4:33:02 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2664 set movable False hue 0 light Circle225'
+5/1/2015 4:33:02 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (596, 770, 56) in Malas: "static" "2664" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:33:02 PM: 127.0.0.1: Serials: 0x4000199A; 
+5/1/2015 4:33:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2664 set movable False hue 0 light Circle225'
+5/1/2015 4:33:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+5/1/2015 4:33:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2662 set movable False hue 0 light Circle225'
+5/1/2015 4:33:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (596, 769, 56) in Malas: "static" "2662" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:33:13 PM: 127.0.0.1: Serials: 0x4000199F; 
+5/1/2015 4:33:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+5/1/2015 4:33:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (595, 769, 56) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:33:23 PM: 127.0.0.1: Serials: 0x400019A0; 
+5/1/2015 4:33:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+5/1/2015 4:33:33 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+5/1/2015 4:33:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+5/1/2015 4:33:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+5/1/2015 4:33:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (593, 790, 46) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:33:38 PM: 127.0.0.1: Serials: 0x400019AC; 
+5/1/2015 4:33:45 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2604 set movable False hue 0 light Circle225'
+5/1/2015 4:33:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2604 set movable False hue 0 light Circle225'
+5/1/2015 4:33:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (592, 790, 46) in Malas: "static" "2604" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:33:46 PM: 127.0.0.1: Serials: 0x400019AE; 
+5/1/2015 4:33:50 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 2604 set movable False hue 0 light Circle225'
+5/1/2015 4:34:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:34:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (591, 795, 46) in Malas: "static" "4575" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:34:03 PM: 127.0.0.1: Serials: 0x400019B8; 
+5/1/2015 4:34:07 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:34:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:34:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (591, 793, 46) in Malas: "static" "4576" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:34:08 PM: 127.0.0.1: Serials: 0x400019B9; 
+5/1/2015 4:34:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:34:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (591, 794, 46) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:34:12 PM: 127.0.0.1: Serials: 0x400019BA; 
+5/1/2015 4:34:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:35:18 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:35:21 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (553, 734, 76) in Malas: "static" "4576" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:35:21 PM: 127.0.0.1: Serials: 0x40001A07; 
+5/1/2015 4:35:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4576 set movable False hue 0 light Circle225'
+5/1/2015 4:35:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:35:26 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (553, 735, 76) in Malas: "static" "4577" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:35:26 PM: 127.0.0.1: Serials: 0x40001A08; 
+5/1/2015 4:35:28 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4577 set movable False hue 0 light Circle225'
+5/1/2015 4:35:30 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:35:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (553, 736, 76) in Malas: "static" "4575" "set" "movable" "False" "hue" "0" "light" "Circle225"
+5/1/2015 4:35:31 PM: 127.0.0.1: Serials: 0x40001A09; 
+5/1/2015 4:35:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add static 4575 set movable False hue 0 light Circle225'
+5/1/2015 4:36:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'kill '
+5/1/2015 4:36:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') killing 0x553 "a hiryu" (no account)
+5/1/2015 4:36:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:36:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x553 "a hiryu" (no account)
+5/1/2015 4:37:14 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 4:37:14 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40001A85 (Corpse)
+5/1/2015 5:07:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm tele'
+5/1/2015 5:08:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 5:12:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 5:14:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 5:15:14 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 5:16:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 5:17:49 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 5:19:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 5:24:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add abysmalhorror'
+5/1/2015 5:24:47 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (800, 1057, 13) in Malas: "abysmalhorror"
+5/1/2015 5:24:47 PM: 127.0.0.1: Serials: 0x568; 
+5/1/2015 5:25:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 5:25:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x568 "an abyssmal horror" (no account)
+5/1/2015 5:34:07 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'freezemap '
+5/1/2015 5:34:09 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') invoking freeze for every item in Owner
+5/1/2015 5:34:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/1/2015 5:34:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/1/2015 5:34:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/1/2015 8:06:58 PM
+
+5/1/2015 8:08:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add cliff'
+5/1/2015 8:08:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (665, 905, 44) in Malas: "WanderingCliffStrider"
+5/1/2015 8:08:27 PM: 127.0.0.1: Serials: 0x553; 
+5/1/2015 8:08:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 8:08:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x553 "a wandering cliff strider" (no account)
+5/1/2015 8:08:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add madpumpkin'
+5/1/2015 8:08:45 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (667, 901, 47) in Malas: "MadPumpkinSpirit"
+5/1/2015 8:08:45 PM: 127.0.0.1: Serials: 0x568; 
+5/1/2015 8:09:21 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'setskill wrestling 100'
+5/1/2015 8:09:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'Wrestling.Base' of 0x2 "Aurora" ('Zigholtul88') to '100'
+5/1/2015 8:09:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'setskill swords 100'
+5/1/2015 8:09:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'Swords.Base' of 0x2 "Aurora" ('Zigholtul88') to '100'
+5/1/2015 8:09:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add cutlas'
+5/1/2015 8:09:47 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (641, 921, 46) in Malas: "ShimmeringCutlassOfAquaticElegance"
+5/1/2015 8:09:47 PM: 127.0.0.1: Serials: 0x40000737; 
+5/1/2015 8:10:20 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/1/2015 8:10:21 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000744 (Corpse)
+5/1/2015 8:12:32 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 8:13:04 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 8:14:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 8:15:15 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 8:16:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm tele'
+5/1/2015 8:16:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 8:16:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add wanderingcliff'
+5/1/2015 8:17:20 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 8:17:34 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 8:17:50 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/1/2015 8:18:04 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/1/2015 8:18:27 PM
+
+5/1/2015 8:18:40 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/1/2015 8:18:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'decorate '
+5/1/2015 8:22:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'set x 764'
+5/1/2015 8:22:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'x' of 0x2 "Aurora" ('Zigholtul88') to '764'
+5/1/2015 8:22:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'set y 1137'
+5/1/2015 8:22:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'y' of 0x2 "Aurora" ('Zigholtul88') to '1137'
+5/1/2015 8:48:15 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/1/2015 8:48:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/1/2015 8:48:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'save '

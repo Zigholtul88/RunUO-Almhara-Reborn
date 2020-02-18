@@ -1,0 +1,334 @@
+##############################
+Log started on 1/4/2013 2:59:55 AM
+
+1/4/2013 3:01:33 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:03:25 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:03:42 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add '
+1/4/2013 3:04:02 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'Add Skirt'
+1/4/2013 3:04:03 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1185, 1056, 0) in Malas: "Skirt"
+1/4/2013 3:04:03 AM: 127.0.0.1: Serials: 0x400001DA; 
+1/4/2013 3:04:11 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'Add Sandals'
+1/4/2013 3:04:15 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'Add Shoes'
+1/4/2013 3:04:16 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1185, 1056, 0) in Malas: "Shoes"
+1/4/2013 3:04:16 AM: 127.0.0.1: Serials: 0x400001F7; 
+1/4/2013 3:04:28 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'Add FancyShirt'
+1/4/2013 3:04:28 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1185, 1056, 0) in Malas: "FancyShirt"
+1/4/2013 3:04:28 AM: 127.0.0.1: Serials: 0x400001F8; 
+1/4/2013 3:04:35 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'Add Doublet'
+1/4/2013 3:04:36 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1185, 1056, 0) in Malas: "Doublet"
+1/4/2013 3:04:36 AM: 127.0.0.1: Serials: 0x400001F9; 
+1/4/2013 3:05:05 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'Add Bonnet'
+1/4/2013 3:05:06 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1178, 1048, 5) in Malas: "Bonnet"
+1/4/2013 3:05:06 AM: 127.0.0.1: Serials: 0x400001FA; 
+1/4/2013 3:05:19 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'Add FlowerGarland'
+1/4/2013 3:05:20 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1179, 1049, 5) in Malas: "FlowerGarland"
+1/4/2013 3:05:20 AM: 127.0.0.1: Serials: 0x40000362; 
+1/4/2013 3:05:32 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/4/2013 3:05:33 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x40000362 (FlowerGarland)
+1/4/2013 3:05:43 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'Add WideBrimHat'
+1/4/2013 3:05:43 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'Add WideBrimHat'
+1/4/2013 3:05:43 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1178, 1048, 5) in Malas: "WideBrimHat"
+1/4/2013 3:05:43 AM: 127.0.0.1: Serials: 0x40000363; 
+1/4/2013 3:08:07 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:08:18 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'set hue 663'
+1/4/2013 3:08:20 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'hue' of 0x400001F8 (FancyShirt) to '663'
+1/4/2013 3:09:03 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add widebri'
+1/4/2013 3:09:18 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:09:40 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:09:54 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:10:04 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:11:27 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/4/2013 3:11:28 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000011F (Spawner)
+1/4/2013 3:11:46 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'm remove'
+1/4/2013 3:11:47 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000011E (Spawner)
+1/4/2013 3:11:48 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000011D (Spawner)
+1/4/2013 3:11:58 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'm remove'
+1/4/2013 3:11:58 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000011A (Spawner)
+1/4/2013 3:12:00 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x40000119 (Spawner)
+1/4/2013 3:12:02 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x4000011B (Spawner)
+1/4/2013 3:12:03 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x40000118 (Spawner)
+1/4/2013 3:13:49 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'addtopack torch'
+1/4/2013 3:13:50 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1121, 695, 23) in Malas: "torch"
+1/4/2013 3:13:50 AM: 127.0.0.1: Serials: 0x40000395; 
+1/4/2013 3:14:26 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'addtopack nightsightscrool'
+1/4/2013 3:14:28 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'addtopack nightsightscroll'
+1/4/2013 3:14:30 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1132, 710, -2) in Malas: "nightsightscroll"
+1/4/2013 3:14:30 AM: 127.0.0.1: Serials: 0x40000398; 
+1/4/2013 3:14:31 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'addtopack nightsightscroll'
+1/4/2013 3:14:31 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1132, 710, -2) in Malas: "nightsightscroll"
+1/4/2013 3:14:31 AM: 127.0.0.1: Serials: 0x40000399; 
+1/4/2013 3:14:32 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'addtopack nightsightscroll'
+1/4/2013 3:14:33 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1132, 710, -2) in Malas: "nightsightscroll"
+1/4/2013 3:14:33 AM: 127.0.0.1: Serials: 0x4000039A; 
+1/4/2013 3:14:36 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'addtopack nightsightscroll 4'
+1/4/2013 3:14:36 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1132, 710, -2) in Malas: "nightsightscroll" "4"
+1/4/2013 3:14:36 AM: 127.0.0.1: Serials: 0x4000039B; 
+1/4/2013 3:14:40 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'addtopack nightsightscroll 50'
+1/4/2013 3:14:40 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1132, 710, -2) in Malas: "nightsightscroll" "50"
+1/4/2013 3:14:40 AM: 127.0.0.1: Serials: 0x4000039C; 
+1/4/2013 3:16:59 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'go '
+1/4/2013 3:19:40 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add merchan'
+1/4/2013 3:19:50 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add merchan'
+1/4/2013 3:19:55 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1168, 1037, 10) in Malas: "HammerhillBladeWeaponMerchant"
+1/4/2013 3:19:55 AM: 127.0.0.1: Serials: 0x86; 
+1/4/2013 3:19:59 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1168, 1039, 10) in Malas: "HammerhillBluntWeaponMerchant"
+1/4/2013 3:19:59 AM: 127.0.0.1: Serials: 0x87; 
+1/4/2013 3:20:13 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'm remove'
+1/4/2013 3:20:14 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x86 "Diana" (no account)
+1/4/2013 3:20:15 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x87 "Luthor" (no account)
+1/4/2013 3:20:18 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1169, 1031, 10) in Malas: "HammerhillHeavyArmorMerchant"
+1/4/2013 3:20:18 AM: 127.0.0.1: Serials: 0x88; 
+1/4/2013 3:20:26 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1168, 1031, 10) in Malas: "HammerhillLightArmorMerchant"
+1/4/2013 3:20:26 AM: 127.0.0.1: Serials: 0x89; 
+1/4/2013 3:20:32 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'm remove'
+1/4/2013 3:20:34 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x88 "Roberto" (no account)
+1/4/2013 3:20:35 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x89 "Gemma" (no account)
+1/4/2013 3:20:45 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:23:57 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/4/2013 3:23:59 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x40000117 (Spawner) to (1162, 1037, 10)
+1/4/2013 3:24:06 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:25:11 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/4/2013 3:25:24 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/4/2013 3:25:37 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x40000117 (Spawner) to (1148, 1044, 10)
+1/4/2013 3:25:40 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:26:20 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'move '
+1/4/2013 3:26:27 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') moving 0x40000117 (Spawner) to (1150, 1030, 10)
+1/4/2013 3:26:31 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:27:04 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/4/2013 3:27:05 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x40000117 (Spawner)
+1/4/2013 3:28:07 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add spawner'
+1/4/2013 3:28:08 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1244, 1047, 0) in Malas: "spawner"
+1/4/2013 3:28:08 AM: 127.0.0.1: Serials: 0x400005F3; 
+1/4/2013 3:28:11 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'props '
+1/4/2013 3:29:22 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/4/2013 3:29:23 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x400005F3 (Spawner)
+1/4/2013 3:55:47 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add thie'
+1/4/2013 3:55:51 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1233, 1054, 0) in Malas: "Thief"
+1/4/2013 3:55:51 AM: 127.0.0.1: Serials: 0x8A; 
+1/4/2013 3:56:05 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+1/4/2013 3:56:06 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0x8A "Bram" (no account)
+1/4/2013 3:59:57 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'set str 20'
+1/4/2013 3:59:58 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') set property 'str' of 0x8C "Sergius" ('Zigholtul88') to '20'
+1/4/2013 4:00:02 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add leath'
+1/4/2013 4:00:12 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1158, 1039, 10) in Malas: "LeatherArms"
+1/4/2013 4:00:12 AM: 127.0.0.1: Serials: 0x40000673; 
+1/4/2013 4:00:21 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1157, 1038, 10) in Malas: "LeatherCap"
+1/4/2013 4:00:21 AM: 127.0.0.1: Serials: 0x40000674; 
+1/4/2013 4:00:25 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1158, 1038, 10) in Malas: "LeatherChest"
+1/4/2013 4:00:25 AM: 127.0.0.1: Serials: 0x40000675; 
+1/4/2013 4:00:29 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1159, 1038, 10) in Malas: "LeatherGloves"
+1/4/2013 4:00:29 AM: 127.0.0.1: Serials: 0x40000676; 
+1/4/2013 4:00:32 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1159, 1039, 10) in Malas: "LeatherGorget"
+1/4/2013 4:00:32 AM: 127.0.0.1: Serials: 0x40000678; 
+1/4/2013 4:00:36 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1159, 1038, 11) in Malas: "LeatherDyeTub"
+1/4/2013 4:00:36 AM: 127.0.0.1: Serials: 0x40000679; 
+1/4/2013 4:00:41 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1158, 1039, 10) in Malas: "LeatherLegs"
+1/4/2013 4:00:41 AM: 127.0.0.1: Serials: 0x4000067B; 
+1/4/2013 4:00:44 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add dyes'
+1/4/2013 4:00:45 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1157, 1037, 10) in Malas: "dyes"
+1/4/2013 4:00:45 AM: 127.0.0.1: Serials: 0x4000067D; 
+1/4/2013 4:01:47 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add dyetub'
+1/4/2013 4:01:48 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1162, 1039, 10) in Malas: "dyetub"
+1/4/2013 4:01:48 AM: 127.0.0.1: Serials: 0x40000689; 
+1/4/2013 4:02:39 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add head'
+1/4/2013 4:02:41 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add hea'
+1/4/2013 4:02:51 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add banda'
+1/4/2013 4:02:53 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1163, 1039, 10) in Malas: "Bandana"
+1/4/2013 4:02:53 AM: 127.0.0.1: Serials: 0x4000068E; 
+1/4/2013 4:04:12 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add spawner'
+1/4/2013 4:04:14 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1293, 1230, 0) in Malas: "spawner"
+1/4/2013 4:04:15 AM: 127.0.0.1: Serials: 0x40000696; 
+1/4/2013 4:07:23 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'props '
+1/4/2013 4:07:26 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') set property 'Count' of 0x40000696 (Spawner) to '2'
+1/4/2013 4:07:32 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') set property 'HomeRange' of 0x40000696 (Spawner) to '10'
+1/4/2013 4:07:37 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') set property 'WalkingRange' of 0x40000696 (Spawner) to '-10'
+1/4/2013 4:09:14 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'remove '
+1/4/2013 4:09:15 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') deleting 0x40000696 (Spawner)
+1/4/2013 4:09:20 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'remove '
+1/4/2013 4:09:20 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') deleting 0x24E "Baka" (no account)
+1/4/2013 4:09:48 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'go '
+1/4/2013 4:11:01 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'props '
+1/4/2013 4:14:41 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor'
+1/4/2013 4:14:56 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor facing westcw'
+1/4/2013 4:14:57 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1221, 1048, 0) in Malas: "lightwooddoor" "facing" "westcw"
+1/4/2013 4:15:15 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing westccw'
+1/4/2013 4:15:15 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1221, 1050, 0) in Malas: "lightwooddoor" "doorfacing" "westccw"
+1/4/2013 4:15:52 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing facing westcw'
+1/4/2013 4:15:53 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1223, 1055, 0) in Malas: "lightwooddoor" "doorfacing" "facing" "westcw"
+1/4/2013 4:15:56 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing facing westcww'
+1/4/2013 4:15:56 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1224, 1056, 0) in Malas: "lightwooddoor" "doorfacing" "facing" "westcww"
+1/4/2013 4:16:06 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing westcw'
+1/4/2013 4:16:06 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1224, 1056, 0) in Malas: "lightwooddoor" "doorfacing" "westcw"
+1/4/2013 4:16:33 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing facing westcw'
+1/4/2013 4:16:34 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1223, 1056, 0) in Malas: "lightwooddoor" "doorfacing" "facing" "westcw"
+1/4/2013 4:16:39 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing facing w'
+1/4/2013 4:16:40 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1221, 1059, 0) in Malas: "lightwooddoor" "doorfacing" "facing" "w"
+1/4/2013 4:16:41 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing facing'
+1/4/2013 4:16:42 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1221, 1059, 0) in Malas: "lightwooddoor" "doorfacing" "facing"
+1/4/2013 4:16:49 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing facingwestcw'
+1/4/2013 4:16:49 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1223, 1056, 0) in Malas: "lightwooddoor" "doorfacing" "facingwestcw"
+1/4/2013 4:16:54 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor door facing'
+1/4/2013 4:16:55 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1223, 1056, 0) in Malas: "lightwooddoor" "door" "facing"
+1/4/2013 4:17:02 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor door facing westcw'
+1/4/2013 4:17:02 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1224, 1056, 0) in Malas: "lightwooddoor" "door" "facing" "westcw"
+1/4/2013 4:17:12 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing westcw'
+1/4/2013 4:17:12 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1224, 1056, 0) in Malas: "lightwooddoor" "doorfacing" "westcw"
+1/4/2013 4:17:20 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing eastccw'
+1/4/2013 4:17:21 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1223, 1056, 0) in Malas: "lightwooddoor" "doorfacing" "eastccw"
+1/4/2013 4:18:11 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor'
+1/4/2013 4:18:13 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1224, 1055, 0) in Malas: "lightwooddoor"
+1/4/2013 4:18:21 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor facing westcw'
+1/4/2013 4:18:22 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1224, 1056, 0) in Malas: "lightwooddoor" "facing" "westcw"
+1/4/2013 4:18:39 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor doorfacing westccw'
+1/4/2013 4:18:40 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1223, 1055, 0) in Malas: "lightwooddoor" "doorfacing" "westccw"
+1/4/2013 4:18:53 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor westcw'
+1/4/2013 4:18:53 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1223, 1056, 0) in Malas: "lightwooddoor" "westcw"
+1/4/2013 4:18:53 AM: 127.0.0.1: Serials: 0x400006DB; 
+1/4/2013 4:20:09 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor westcw'
+1/4/2013 4:20:13 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'props '
+1/4/2013 4:22:14 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor eastccw'
+1/4/2013 4:22:15 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1224, 1056, 0) in Malas: "lightwooddoor" "eastccw"
+1/4/2013 4:22:15 AM: 127.0.0.1: Serials: 0x400006EA; 
+1/4/2013 4:22:28 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor eastccw'
+1/4/2013 4:22:30 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'props '
+1/4/2013 4:24:10 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor eastccw'
+1/4/2013 4:25:35 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor southcw'
+1/4/2013 4:25:36 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1227, 1059, 0) in Malas: "lightwooddoor" "southcw"
+1/4/2013 4:25:36 AM: 127.0.0.1: Serials: 0x400006EC; 
+1/4/2013 4:26:01 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'props '
+1/4/2013 4:26:44 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor northccw'
+1/4/2013 4:26:44 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1227, 1058, 0) in Malas: "lightwooddoor" "northccw"
+1/4/2013 4:26:44 AM: 127.0.0.1: Serials: 0x400006ED; 
+1/4/2013 4:26:49 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'props '
+1/4/2013 4:27:14 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'm remove'
+1/4/2013 4:27:14 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') deleting 0x400006DB (LightWoodDoor)
+1/4/2013 4:27:15 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') deleting 0x400006EA (LightWoodDoor)
+1/4/2013 4:27:15 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') deleting 0x400006EC (LightWoodDoor)
+1/4/2013 4:27:16 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') deleting 0x400006ED (LightWoodDoor)
+1/4/2013 4:32:29 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add lightwooddoor westcw'
+1/4/2013 4:32:30 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1303, 1234, 0) in Malas: "lightwooddoor" "westcw"
+1/4/2013 4:32:30 AM: 127.0.0.1: Serials: 0x4000070B; 
+1/4/2013 4:32:37 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'props '
+1/4/2013 4:32:49 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'props '
+1/4/2013 4:33:27 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'remove '
+1/4/2013 4:33:28 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') deleting 0x4000070B (LightWoodDoor)
+1/4/2013 4:34:11 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'where '
+1/4/2013 4:34:36 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'where '
+1/4/2013 4:35:01 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'where '
+1/4/2013 4:36:38 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'where '
+1/4/2013 4:44:38 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'add staffof'
+1/4/2013 4:44:40 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') building at (1217, 1151, 0) in Malas: "StaffOfMongbats"
+1/4/2013 4:44:40 AM: 127.0.0.1: Serials: 0x4000072B; 
+1/4/2013 4:49:41 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'res '
+1/4/2013 4:49:42 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') resurrecting 0x8C "Sergius" ('Zigholtul88')
+1/4/2013 4:49:46 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'kill '
+1/4/2013 4:49:46 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') killing 0x256 "a cavern mongbat elder" (no account)
+1/4/2013 4:51:22 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'where '
+1/4/2013 4:52:11 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'where '
+1/4/2013 4:52:37 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'where '
+1/4/2013 4:53:21 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'props '
+1/4/2013 4:54:11 AM: 127.0.0.1: Owner 0x8C "Sergius" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/4/2013 4:58:29 AM
+
+1/4/2013 4:59:32 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'set str 50'
+1/4/2013 4:59:34 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') set property 'str' of 0x86 "Grog-muk Nag" ('Zigholtul88') to '50'
+1/4/2013 4:59:47 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'admin '
+1/4/2013 4:59:54 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'decorate '
+1/4/2013 5:01:36 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add orcm'
+1/4/2013 5:01:39 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add orci'
+1/4/2013 5:01:43 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1157, 1069, 0) in Malas: "OrcishKinMask"
+1/4/2013 5:01:43 AM: 127.0.0.1: Serials: 0x400006A0; 
+1/4/2013 5:01:53 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'props '
+1/4/2013 5:02:03 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add hairst'
+1/4/2013 5:02:39 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add hair'
+1/4/2013 5:02:41 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add hai'
+1/4/2013 5:02:47 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1145, 1107, 0) in Malas: "HairRestylingDeed"
+1/4/2013 5:02:47 AM: 127.0.0.1: Serials: 0x400006AD; 
+1/4/2013 5:02:47 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1146, 1107, 0) in Malas: "HairRestylingDeed"
+1/4/2013 5:02:47 AM: 127.0.0.1: Serials: 0x400006AE; 
+1/4/2013 5:03:34 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add leathe'
+1/4/2013 5:03:38 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1160, 1087, 0) in Malas: "LeatherDyeTub"
+1/4/2013 5:03:38 AM: 127.0.0.1: Serials: 0x400006B0; 
+1/4/2013 5:03:40 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1158, 1088, 0) in Malas: "LeatherChest"
+1/4/2013 5:03:40 AM: 127.0.0.1: Serials: 0x400006B1; 
+1/4/2013 5:03:46 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add dyes'
+1/4/2013 5:03:47 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1160, 1086, 0) in Malas: "dyes"
+1/4/2013 5:03:47 AM: 127.0.0.1: Serials: 0x400006B3; 
+1/4/2013 5:04:28 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'props '
+1/4/2013 5:04:38 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'set hue 2129'
+1/4/2013 5:04:39 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') set property 'hue' of 0x86 "Grog-muk Nag" ('Zigholtul88') to '2129'
+1/4/2013 5:04:56 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'set hue 2129'
+1/4/2013 5:04:57 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') set property 'hue' of 0x400006A0 (OrcishKinMask) to '2129'
+1/4/2013 5:05:08 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add studd'
+1/4/2013 5:05:11 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1172, 1058, 0) in Malas: "StuddedChest"
+1/4/2013 5:05:11 AM: 127.0.0.1: Serials: 0x400006BA; 
+1/4/2013 5:05:16 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1171, 1060, 0) in Malas: "StuddedLegs"
+1/4/2013 5:05:16 AM: 127.0.0.1: Serials: 0x400006BB; 
+1/4/2013 5:05:20 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1172, 1059, 0) in Malas: "StuddedArms"
+1/4/2013 5:05:20 AM: 127.0.0.1: Serials: 0x400006BC; 
+1/4/2013 5:05:24 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1171, 1058, 0) in Malas: "StuddedGorget"
+1/4/2013 5:05:24 AM: 127.0.0.1: Serials: 0x400006BD; 
+1/4/2013 5:05:28 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1173, 1059, 0) in Malas: "StuddedGloves"
+1/4/2013 5:05:28 AM: 127.0.0.1: Serials: 0x400006BE; 
+1/4/2013 5:06:32 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add shoes'
+1/4/2013 5:06:34 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1157, 1042, 10) in Malas: "shoes"
+1/4/2013 5:06:34 AM: 127.0.0.1: Serials: 0x400006F1; 
+1/4/2013 5:06:48 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add dyes'
+1/4/2013 5:06:50 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1156, 1042, 10) in Malas: "dyes"
+1/4/2013 5:06:50 AM: 127.0.0.1: Serials: 0x400006F4; 
+1/4/2013 5:06:52 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'remove '
+1/4/2013 5:06:53 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') deleting 0x400006F4 (Dyes)
+1/4/2013 5:06:56 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add dyetub'
+1/4/2013 5:06:57 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1157, 1042, 10) in Malas: "dyetub"
+1/4/2013 5:06:57 AM: 127.0.0.1: Serials: 0x4000070B; 
+1/4/2013 5:10:45 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add '
+1/4/2013 5:10:59 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'Add WoodenShield'
+1/4/2013 5:10:59 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1137, 1127, 0) in Malas: "WoodenShield"
+1/4/2013 5:10:59 AM: 127.0.0.1: Serials: 0x40000756; 
+1/4/2013 5:11:29 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'Add VikingSword'
+1/4/2013 5:11:30 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (1139, 1127, 0) in Malas: "VikingSword"
+1/4/2013 5:11:30 AM: 127.0.0.1: Serials: 0x40000758; 
+1/4/2013 5:14:20 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'go '
+1/4/2013 5:15:12 AM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'go '
+1/4/2013 5:34:07 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'set race elf'
+1/4/2013 5:34:08 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') set property 'race' of 0x288 "Valen Redbark" ('Zigholtul88') to 'Elf'
+1/4/2013 5:34:25 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'kill '
+1/4/2013 5:34:25 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') killing 0x288 "Valen Redbark" ('Zigholtul88')
+1/4/2013 5:34:29 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'res '
+1/4/2013 5:34:31 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') resurrecting 0x288 "Valen Redbark" ('Zigholtul88')
+1/4/2013 5:34:46 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'add '
+1/4/2013 5:34:55 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'go '
+1/4/2013 5:35:07 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'set str 50'
+1/4/2013 5:35:08 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') set property 'str' of 0x288 "Valen Redbark" ('Zigholtul88') to '50'
+1/4/2013 5:35:11 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'add dyes'
+1/4/2013 5:35:13 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (1162, 1089, 0) in Malas: "dyes"
+1/4/2013 5:35:13 AM: 127.0.0.1: Serials: 0x400007CA; 
+1/4/2013 5:35:18 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'add dyetu='
+1/4/2013 5:35:20 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'add dyetu'
+1/4/2013 5:35:23 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (1162, 1090, 0) in Malas: "LeatherDyeTub"
+1/4/2013 5:35:23 AM: 127.0.0.1: Serials: 0x400007CB; 
+1/4/2013 5:35:26 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (1162, 1089, 0) in Malas: "DyeTub"
+1/4/2013 5:35:26 AM: 127.0.0.1: Serials: 0x400007CC; 
+1/4/2013 5:35:39 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'add '
+1/4/2013 5:36:01 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add FancyShirt'
+1/4/2013 5:36:02 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (1176, 1087, 0) in Malas: "FancyShirt"
+1/4/2013 5:36:02 AM: 127.0.0.1: Serials: 0x400007CD; 
+1/4/2013 5:36:12 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add LongPants'
+1/4/2013 5:36:13 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (1176, 1087, 0) in Malas: "LongPants"
+1/4/2013 5:36:13 AM: 127.0.0.1: Serials: 0x400007CE; 
+1/4/2013 5:36:39 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add Doublet'
+1/4/2013 5:36:40 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (1181, 1070, 0) in Malas: "Doublet"
+1/4/2013 5:36:40 AM: 127.0.0.1: Serials: 0x400007D5; 
+1/4/2013 5:36:41 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add Tunic'
+1/4/2013 5:36:42 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (1180, 1069, 0) in Malas: "Tunic"
+1/4/2013 5:36:42 AM: 127.0.0.1: Serials: 0x400007D6; 
+1/4/2013 5:37:21 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add Boots'
+1/4/2013 5:37:22 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (1184, 1055, 0) in Malas: "Boots"
+1/4/2013 5:37:22 AM: 127.0.0.1: Serials: 0x400007D8; 
+1/4/2013 5:38:26 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add FeatheredHat'
+1/4/2013 5:38:26 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "FeatheredHat"
+1/4/2013 5:38:26 AM: 127.0.0.1: Serials: 0x400007E0; 
+1/4/2013 5:50:54 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'admin '
+1/4/2013 5:50:58 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/4/2013 5:50:59 AM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'save '

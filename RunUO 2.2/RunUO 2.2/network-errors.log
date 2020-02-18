@@ -1,0 +1,122 @@
+# 11/17/2012 4:04:55 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.OnReceive(IAsyncResult asyncResult)
+
+
+# 11/17/2012 4:05:06 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.OnReceive(IAsyncResult asyncResult)
+
+
+# 9/2/2014 12:15:20 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.OnReceive(IAsyncResult asyncResult)
+
+
+# 4/25/2015 11:21:49 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 5/12/2016 11:20:21 PM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.OnReceive(IAsyncResult asyncResult)
+
+
+# 3/25/2017 12:37:09 AM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.OnReceive(IAsyncResult asyncResult)
+
+
+# 1/23/2018 9:21:46 PM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 12/6/2018 6:52:19 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 1/10/2019 10:38:17 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 2/12/2019 5:03:16 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 5/8/2019 11:12:27 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 5/10/2019 7:11:20 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 6/2/2019 2:03:56 PM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 6/7/2019 3:23:29 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 6/7/2019 8:20:20 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 7/21/2019 9:04:40 PM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 10/3/2019 9:07:00 PM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 10/4/2019 6:31:37 PM
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode, AsyncCallback callback, Object state)
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 10/5/2019 11:18:01 PM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 11/20/2019 10:10:08 PM
+System.Net.Sockets.SocketException: A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Send(Packet p)
+
+

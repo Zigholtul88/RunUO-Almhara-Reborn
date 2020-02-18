@@ -1,0 +1,23 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 7032.20333
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8941
+Time: 6/20/2019 12:04:15 PM
+Mobiles: 1939
+Items: 18879
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Gumps.PlayerQuestGump.QuestLog_OnCommand(CommandEventArgs e)
+   at Server.Commands.CommandSystem.Handle(Mobile from, String text, MessageType type)
+   at Server.Mobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue)
+   at Server.Mobiles.PlayerMobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue)
+   at Server.Network.PacketHandlers.UnicodeSpeech(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x1 'Zigholtul')

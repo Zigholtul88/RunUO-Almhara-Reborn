@@ -1,0 +1,288 @@
+##############################
+Log started on 5/19/2019 12:41:36 PM
+
+5/19/2019 12:42:03 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+5/19/2019 12:42:07 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 12:42:20 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+5/19/2019 12:42:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawngen malas/towns.map'
+5/19/2019 12:42:48 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawngen malas/regions.map'
+5/19/2019 12:43:02 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost off'
+5/19/2019 12:43:12 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set map ilshenar'
+5/19/2019 12:43:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'map' of 0x1A "Kryss" ('Zigholtul88') to 'Ilshenar'
+5/19/2019 12:43:24 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawngen ilshenar/npcs.map'
+5/19/2019 12:43:30 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawngen ilshenar/dungeons.map'
+5/19/2019 12:43:33 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost off'
+5/19/2019 12:43:39 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set map tokuno'
+5/19/2019 12:43:40 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'map' of 0x1A "Kryss" ('Zigholtul88') to 'Tokuno'
+5/19/2019 12:43:54 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawngen tokuno/dungeons.map'
+5/19/2019 12:43:58 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+5/19/2019 12:44:02 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+5/19/2019 12:44:08 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+5/19/2019 12:44:09 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 12:44:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+5/19/2019 12:45:08 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'totadmin '
+5/19/2019 12:45:22 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'totadmin '
+5/19/2019 12:45:30 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'totadmin '
+5/19/2019 12:45:53 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'totadmin '
+5/19/2019 12:45:56 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'totadmin '
+5/19/2019 12:46:00 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'totadmin '
+5/19/2019 12:46:39 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'totadmin '
+5/19/2019 12:46:48 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'totadmin '
+5/19/2019 12:46:57 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'totadmin '
+5/19/2019 12:50:27 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add merchan'
+5/19/2019 12:50:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add salesma'
+5/19/2019 12:50:40 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1233, 1252, 60) in Tokuno: "HappySalesman"
+5/19/2019 12:50:40 PM: 127.0.0.1: Serials: 0x704; 
+5/19/2019 12:50:56 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+5/19/2019 12:50:59 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+5/19/2019 12:50:59 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x704 "Flippy" (no account)
+5/19/2019 12:53:07 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 12:55:54 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 660'
+5/19/2019 12:55:55 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x1A "Kryss" ('Zigholtul88') to '660'
+5/19/2019 12:56:26 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 12:57:18 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 1:01:45 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+5/19/2019 1:01:49 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/19/2019 1:01:49 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/19/2019 4:31:31 PM
+
+5/19/2019 4:34:10 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+5/19/2019 4:34:17 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set map malas'
+5/19/2019 4:34:18 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'map' of 0x1A "Kryss" ('Zigholtul88') to 'Malas'
+5/19/2019 4:34:20 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 4:35:13 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost off'
+5/19/2019 4:35:16 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 4:38:19 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 4:38:30 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 4:42:45 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:42:46 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x547 "Caighaer the Eater of Bunnies" (no account) to '1'
+5/19/2019 4:42:51 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:42:52 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x547 "Caighaer the Eater of Bunnies" (no account) to '1'
+5/19/2019 4:43:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:43:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x548 "Beiddrairrug the Creep" (no account) to '1'
+5/19/2019 4:43:16 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:43:17 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x548 "Beiddrairrug the Creep" (no account) to '1'
+5/19/2019 4:43:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:43:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x549 "Jundocruss the Adversary of the Red" (no account) to '1'
+5/19/2019 4:43:43 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:43:44 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x549 "Jundocruss the Adversary of the Red" (no account) to '1'
+5/19/2019 4:44:10 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:44:10 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x54A "Ryzziath the Redeemer of Men" (no account) to '1'
+5/19/2019 4:44:13 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:44:13 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x54A "Ryzziath the Redeemer of Men" (no account) to '1'
+5/19/2019 4:44:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:44:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x54B "Okiacryss the Protective" (no account) to '1'
+5/19/2019 4:44:40 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:44:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x54B "Okiacryss the Protective" (no account) to '1'
+5/19/2019 4:45:01 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:45:01 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x54C "Aelleis the Puny" (no account) to '1'
+5/19/2019 4:45:02 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:45:03 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x54C "Aelleis the Puny" (no account) to '1'
+5/19/2019 4:45:27 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:45:27 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x552 "Okiacryss the Protective" (no account) to '1'
+5/19/2019 4:45:28 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:45:29 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x552 "Okiacryss the Protective" (no account) to '1'
+5/19/2019 4:45:45 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add bag'
+5/19/2019 4:45:47 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (857, 389, 17) in Tokuno: "bag"
+5/19/2019 4:45:47 PM: 127.0.0.1: Serials: 0x40004E1B; 
+5/19/2019 4:46:32 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add ancientwyr'
+5/19/2019 4:46:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (859, 400, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:46:38 PM: 127.0.0.1: Serials: 0x554; 
+5/19/2019 4:46:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (859, 400, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:46:38 PM: 127.0.0.1: Serials: 0x555; 
+5/19/2019 4:46:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (859, 400, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:46:38 PM: 127.0.0.1: Serials: 0x556; 
+5/19/2019 4:46:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (859, 400, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:46:38 PM: 127.0.0.1: Serials: 0x565; 
+5/19/2019 4:46:39 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (859, 399, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:46:39 PM: 127.0.0.1: Serials: 0x566; 
+5/19/2019 4:46:39 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (860, 399, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:46:39 PM: 127.0.0.1: Serials: 0x567; 
+5/19/2019 4:46:43 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:44 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x554 "Xoiphuss the Seeker of Dark Cleansing" (no account) to '1'
+5/19/2019 4:46:45 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:45 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x554 "Xoiphuss the Seeker of Dark Cleansing" (no account) to '1'
+5/19/2019 4:46:46 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:46 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x566 "Deigarianth Champion of Eternal Light" (no account) to '1'
+5/19/2019 4:46:47 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:47 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x555 "Cyrdoss the Destroyer of Gods" (no account) to '1'
+5/19/2019 4:46:48 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:48 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x565 "Beiddrairrug the Creep" (no account) to '1'
+5/19/2019 4:46:49 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:50 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x567 "Aelleis the Puny" (no account) to '1'
+5/19/2019 4:46:51 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:51 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x565 "Beiddrairrug the Creep" (no account) to '1'
+5/19/2019 4:46:52 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:52 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x566 "Deigarianth Champion of Eternal Light" (no account) to '1'
+5/19/2019 4:46:53 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:53 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x556 "Ryzziath the Redeemer of Men" (no account) to '1'
+5/19/2019 4:46:54 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:54 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x565 "Beiddrairrug the Creep" (no account) to '1'
+5/19/2019 4:46:55 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:55 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x555 "Cyrdoss the Destroyer of Gods" (no account) to '1'
+5/19/2019 4:46:56 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:57 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x554 "Xoiphuss the Seeker of Dark Cleansing" (no account) to '1'
+5/19/2019 4:46:58 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:46:58 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x566 "Deigarianth Champion of Eternal Light" (no account) to '1'
+5/19/2019 4:48:02 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (846, 386, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:48:02 PM: 127.0.0.1: Serials: 0x569; 
+5/19/2019 4:48:02 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (846, 385, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:48:02 PM: 127.0.0.1: Serials: 0x56C; 
+5/19/2019 4:48:03 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (846, 385, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:48:03 PM: 127.0.0.1: Serials: 0x56D; 
+5/19/2019 4:48:03 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (846, 384, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:48:03 PM: 127.0.0.1: Serials: 0x56E; 
+5/19/2019 4:48:06 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add ancientwyr'
+5/19/2019 4:48:09 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:48:10 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x56C "Beiddrairrug the Creep" (no account) to '1'
+5/19/2019 4:48:10 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:48:11 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x56D "Xoiphuss the Seeker of Dark Cleansing" (no account) to '1'
+5/19/2019 4:48:12 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:48:12 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x56C "Beiddrairrug the Creep" (no account) to '1'
+5/19/2019 4:48:13 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:48:13 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x569 "Qairryssaith Eternal Fire" (no account) to '1'
+5/19/2019 4:48:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:48:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x56D "Xoiphuss the Seeker of Dark Cleansing" (no account) to '1'
+5/19/2019 4:48:32 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:48:32 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x56E "Beiddrairrug the Creep" (no account) to '1'
+5/19/2019 4:48:55 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (840, 386, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:48:55 PM: 127.0.0.1: Serials: 0x571; 
+5/19/2019 4:48:57 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:48:58 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x571 "Deigarianth Champion of Eternal Light" (no account) to '1'
+5/19/2019 4:49:05 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (844, 387, 15) in Tokuno: "AncientWyrm"
+5/19/2019 4:49:05 PM: 127.0.0.1: Serials: 0x572; 
+5/19/2019 4:49:10 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set hits 1'
+5/19/2019 4:49:10 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'hits' of 0x572 "Aelleis the Puny" (no account) to '1'
+5/19/2019 4:49:30 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add ida'
+5/19/2019 4:49:51 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add ihara'
+5/19/2019 4:49:53 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 4:50:03 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1094, 296, -4) in Tokuno: "IharaSoko"
+5/19/2019 4:50:03 PM: 127.0.0.1: Serials: 0x573; 
+5/19/2019 4:53:19 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+5/19/2019 4:54:32 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+5/19/2019 4:54:33 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x573 "Ihara Soko" (no account)
+5/19/2019 4:54:55 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'set map malas'
+5/19/2019 4:54:57 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'map' of 0x1A "Kryss" ('Zigholtul88') to 'Malas'
+5/19/2019 4:54:58 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 4:56:18 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 4:57:30 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+5/19/2019 4:57:34 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/19/2019 4:57:37 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/19/2019 7:35:00 PM
+
+5/19/2019 7:41:23 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+5/19/2019 7:41:31 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+5/19/2019 7:43:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+5/19/2019 7:43:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+5/19/2019 7:43:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x400004C2 (KeyStoragePouch)
+5/19/2019 7:44:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'props '
+5/19/2019 7:46:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property '[Fencing: 100].Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 7:46:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add shield'
+5/19/2019 7:46:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add chest'
+5/19/2019 7:47:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1678, 2007, -5) in Malas: "RangerChest"
+5/19/2019 7:47:21 PM: 127.0.0.1: Serials: 0x40000628; 
+5/19/2019 7:47:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'props '
+5/19/2019 7:47:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'Identified' of 0x40000628 (RangerChest) to 'True'
+5/19/2019 7:48:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add axeoftheheavens'
+5/19/2019 7:48:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1678, 2007, -5) in Malas: "axeoftheheavens"
+5/19/2019 7:48:54 PM: 127.0.0.1: Serials: 0x4000062F; 
+5/19/2019 7:49:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1678, 2007, -5) in Malas: "ShadowChest"
+5/19/2019 7:49:17 PM: 127.0.0.1: Serials: 0x40000634; 
+5/19/2019 7:49:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+5/19/2019 7:49:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x40000634 (ShadowChest)
+5/19/2019 7:49:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1678, 2007, -5) in Malas: "StuddedChest"
+5/19/2019 7:49:52 PM: 127.0.0.1: Serials: 0x40000636; 
+5/19/2019 7:50:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+5/19/2019 7:50:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x40000636 (StuddedChest)
+5/19/2019 7:54:56 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/19/2019 8:02:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') unhiding 0x1A "Tobe Faire" ('Zigholtul88')
+5/19/2019 8:02:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'Self Unhide'
+5/19/2019 8:03:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/19/2019 8:04:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+5/19/2019 8:04:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+5/19/2019 8:04:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/19/2019 8:04:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'props '
+5/19/2019 8:05:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'RawStr' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:05:38 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property '[Mace Fighting: 100].Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:05:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property '[Swordsmanship: 100].Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:05:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property '[Tactics: 100].Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:05:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property '[Parrying: 100].Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:05:56 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property '[Archery: 100].Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:06:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property '[Wrestling: 100].Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:06:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property '[Bushido: 100].Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:06:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/19/2019 8:08:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'm remove'
+5/19/2019 8:08:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x40000548 (LeatherShirt)
+5/19/2019 8:08:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x4000054B (LeatherPants)
+5/19/2019 8:08:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x4000062F (AxeOfTheHeavens)
+5/19/2019 8:08:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x40000628 (RangerChest)
+5/19/2019 8:08:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x40000620 (LeatherGloves)
+5/19/2019 8:08:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x4000061E (Wakizashi)
+5/19/2019 8:09:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'mystats '
+5/19/2019 8:09:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/19/2019 8:11:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'mystats '
+5/19/2019 8:11:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/19/2019 8:14:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property '[Anatomy: 100].Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:14:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add dagger'
+5/19/2019 8:14:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (1344, 342, 1) in Tokuno: "dagger"
+5/19/2019 8:14:59 PM: 127.0.0.1: Serials: 0x4000315E; 
+5/19/2019 8:20:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/19/2019 8:23:19 PM
+
+5/19/2019 8:23:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+5/19/2019 8:23:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/19/2019 8:24:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'props '
+5/19/2019 8:24:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'HitFireball' of ... to '50'
+5/19/2019 8:24:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'HitHarm' of ... to '50'
+5/19/2019 8:24:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'HitLeechHits' of ... to '50'
+5/19/2019 8:24:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'HitLeechMana' of ... to '50'
+5/19/2019 8:25:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'HitLeechStam' of ... to '50'
+5/19/2019 8:25:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'HitLightning' of ... to '50'
+5/19/2019 8:25:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'HitLowerAttack' of ... to '50'
+5/19/2019 8:25:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'HitLowerDefend' of ... to '50'
+5/19/2019 8:25:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'HitMagicArrow' of ... to '50'
+5/19/2019 8:25:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'AttackChance' of ... to '50'
+5/19/2019 8:25:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'DefendChance' of ... to '50'
+5/19/2019 8:26:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'EnhancePotions' of ... to '50'
+5/19/2019 8:26:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'NightSight' of ... to '1'
+5/19/2019 8:26:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'SpellChanneling' of ... to '1'
+5/19/2019 8:26:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'SpellDamage' of ... to '50'
+5/19/2019 8:26:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'WeaponDamage' of ... to '50'
+5/19/2019 8:26:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'WeaponSpeed' of ... to '50'
+5/19/2019 8:30:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'setallskills 0'
+5/19/2019 8:30:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'EverySkill.Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '0'
+5/19/2019 8:30:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/19/2019 8:31:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 500'
+5/19/2019 8:31:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '500'
+5/19/2019 8:31:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'setskill fencing 99'
+5/19/2019 8:31:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'Fencing.Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '99'
+5/19/2019 8:31:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'setskill fencing 99.9'
+5/19/2019 8:31:41 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'Fencing.Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '99.9'
+5/19/2019 8:33:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set map malas'
+5/19/2019 8:33:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'map' of 0x1A "Tobe Faire" ('Zigholtul88') to 'Malas'
+5/19/2019 8:33:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/19/2019 8:34:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add drake'
+5/19/2019 8:34:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (827, 1078, 0) in Malas: "drake"
+5/19/2019 8:34:12 PM: 127.0.0.1: Serials: 0x556; 
+5/19/2019 8:34:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add drake'
+5/19/2019 8:34:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (827, 1078, 0) in Malas: "drake"
+5/19/2019 8:34:37 PM: 127.0.0.1: Serials: 0x565; 
+5/19/2019 8:35:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'setskill anatomy 100'
+5/19/2019 8:35:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'Anatomy.Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:35:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'setskill tactics 100'
+5/19/2019 8:35:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'Tactics.Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/19/2019 8:35:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add drake'
+5/19/2019 8:35:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (828, 1079, 0) in Malas: "drake"
+5/19/2019 8:35:13 PM: 127.0.0.1: Serials: 0x567; 
+5/19/2019 8:36:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add drake'
+5/19/2019 8:36:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (828, 1078, 0) in Malas: "drake"
+5/19/2019 8:36:03 PM: 127.0.0.1: Serials: 0x569; 
+5/19/2019 8:36:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+5/19/2019 8:36:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x569 "a drake" (no account)
+5/19/2019 8:48:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'props '
+5/19/2019 8:58:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+5/19/2019 8:58:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/19/2019 8:58:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '

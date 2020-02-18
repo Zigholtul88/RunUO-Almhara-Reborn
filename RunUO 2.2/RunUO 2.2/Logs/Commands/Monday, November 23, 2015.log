@@ -1,0 +1,160 @@
+##############################
+Log started on 11/23/2015 8:34:42 AM
+
+11/23/2015 8:35:16 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add interior'
+11/23/2015 8:35:19 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (2532, 1975, 0) in Malas: "InteriorCrocodileAlligator"
+11/23/2015 8:35:19 AM: 127.0.0.1: Serials: 0x3; 
+11/23/2015 8:35:48 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/23/2015 8:35:49 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x3 "an interior crocodile alligator" (no account)
+11/23/2015 8:35:53 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add spidertroll'
+11/23/2015 8:35:55 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'go '
+11/23/2015 8:36:02 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1186, 1057, 0) in Malas: "spidertroll"
+11/23/2015 8:36:02 AM: 127.0.0.1: Serials: 0x4; 
+11/23/2015 8:36:41 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'res '
+11/23/2015 8:36:41 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') resurrecting 0x24D "Dirk Laramie" ('Zigholtul88')
+11/23/2015 8:36:48 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/23/2015 8:36:49 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x4 "a politically incorrect spider troll" (no account)
+11/23/2015 8:36:57 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add spidertroll'
+11/23/2015 8:36:58 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1177, 1058, 0) in Malas: "spidertroll"
+11/23/2015 8:36:58 AM: 127.0.0.1: Serials: 0x5; 
+11/23/2015 8:37:00 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'kill '
+11/23/2015 8:37:01 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') killing 0x5 "a politically incorrect spider troll" (no account)
+11/23/2015 8:37:04 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'kill '
+11/23/2015 8:37:05 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') killing 0x6 "a politically incorrect spider troll" (no account)
+11/23/2015 8:37:13 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'kill '
+11/23/2015 8:37:13 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') killing 0x7 "a politically incorrect spider troll" (no account)
+11/23/2015 8:37:15 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'kill '
+11/23/2015 8:37:16 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') killing 0x8 "a politically incorrect spider troll" (no account)
+11/23/2015 8:37:18 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/23/2015 8:37:19 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x9 "a politically incorrect spider troll" (no account)
+11/23/2015 8:39:28 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add fluff'
+11/23/2015 8:39:30 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1185, 1054, 0) in Malas: "FluffySnapperSpearThruster"
+11/23/2015 8:39:30 AM: 127.0.0.1: Serials: 0xA; 
+11/23/2015 8:39:35 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set str 100'
+11/23/2015 8:39:36 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'str' of 0x24D "Dirk Laramie" ('Zigholtul88') to '100'
+11/23/2015 8:39:39 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'setallskills 100'
+11/23/2015 8:39:40 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'EverySkill.Base' of 0x24D "Dirk Laramie" ('Zigholtul88') to '100'
+11/23/2015 8:39:43 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set hits 500'
+11/23/2015 8:39:44 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'hits' of 0x24D "Dirk Laramie" ('Zigholtul88') to '500'
+11/23/2015 8:40:27 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/23/2015 8:40:28 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0xA "a fluffy snapper spear thruster" (no account)
+11/23/2015 8:40:32 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'admin '
+11/23/2015 8:40:37 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/23/2015 8:40:37 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/23/2015 8:51:02 AM
+
+11/23/2015 8:52:11 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add fluffy'
+11/23/2015 8:52:13 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1196, 1038, 0) in Malas: "FluffySnapperSpearThruster"
+11/23/2015 8:52:13 AM: 127.0.0.1: Serials: 0x3; 
+11/23/2015 8:53:10 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add sword'
+11/23/2015 8:53:29 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add balr'
+11/23/2015 8:53:32 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1179, 1090, 0) in Malas: "BalronVolcanicSting"
+11/23/2015 8:53:32 AM: 127.0.0.1: Serials: 0x40000038; 
+11/23/2015 8:56:06 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'who '
+11/23/2015 8:56:09 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') bringing 0x4 "Nastlia" ('Freeglepluk') to Location (1179, 1060, 0), Map Malas
+11/23/2015 8:56:14 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add gate'
+11/23/2015 8:56:20 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1183, 1055, 0) in Malas: "DarkElfRaceGate2"
+11/23/2015 8:56:20 AM: 127.0.0.1: Serials: 0x40000041; 
+11/23/2015 8:56:38 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add hairre'
+11/23/2015 8:56:41 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1179, 1055, 0) in Malas: "HairRestylingDeed"
+11/23/2015 8:56:41 AM: 127.0.0.1: Serials: 0x40000042; 
+11/23/2015 8:57:15 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set str 50'
+11/23/2015 8:57:16 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'str' of 0x4 "Nastlia" ('Freeglepluk') to '50'
+11/23/2015 8:57:20 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set hits 500'
+11/23/2015 8:57:21 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'hits' of 0x4 "Nastlia" ('Freeglepluk') to '500'
+11/23/2015 8:57:29 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set int 100'
+11/23/2015 8:57:30 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'int' of 0x4 "Nastlia" ('Freeglepluk') to '100'
+11/23/2015 8:57:39 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set mana 500'
+11/23/2015 8:57:40 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'mana' of 0x4 "Nastlia" ('Freeglepluk') to '500'
+11/23/2015 8:57:45 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'props '
+11/23/2015 8:58:06 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set str 100'
+11/23/2015 8:58:07 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'str' of 0x4 "Nastlia" ('Freeglepluk') to '100'
+11/23/2015 8:58:11 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set hits 500'
+11/23/2015 8:58:11 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'hits' of 0x4 "Nastlia" ('Freeglepluk') to '500'
+11/23/2015 8:58:14 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set int 100'
+11/23/2015 8:58:15 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'int' of 0x4 "Nastlia" ('Freeglepluk') to '100'
+11/23/2015 8:58:18 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set mana 500'
+11/23/2015 8:58:19 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'mana' of 0x4 "Nastlia" ('Freeglepluk') to '500'
+11/23/2015 8:58:26 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'setallskills 100'
+11/23/2015 8:58:27 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'EverySkill.Base' of 0x4 "Nastlia" ('Freeglepluk') to '100'
+11/23/2015 8:58:34 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add '
+11/23/2015 8:58:54 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'Add FancyDress'
+11/23/2015 8:58:56 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1177, 1055, 0) in Malas: "FancyDress"
+11/23/2015 8:58:56 AM: 127.0.0.1: Serials: 0x40000043; 
+11/23/2015 8:59:05 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add dyetub'
+11/23/2015 8:59:06 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1178, 1057, 0) in Malas: "dyetub"
+11/23/2015 8:59:06 AM: 127.0.0.1: Serials: 0x40000044; 
+11/23/2015 8:59:10 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/23/2015 8:59:10 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x4000000D (DeathRobe)
+11/23/2015 8:59:21 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/23/2015 8:59:22 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x40001A30 (ElvenShirt)
+11/23/2015 8:59:23 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/23/2015 8:59:23 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x400016AC (Lute)
+11/23/2015 8:59:27 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add dyes'
+11/23/2015 8:59:28 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1178, 1057, 0) in Malas: "dyes"
+11/23/2015 8:59:28 AM: 127.0.0.1: Serials: 0x40000045; 
+11/23/2015 8:59:43 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add wildstaff'
+11/23/2015 8:59:44 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "wildstaff"
+11/23/2015 8:59:44 AM: 127.0.0.1: Serials: 0x40000046; 
+11/23/2015 9:00:28 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add boots'
+11/23/2015 9:00:34 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add thighboots'
+11/23/2015 9:00:34 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1178, 1054, 0) in Malas: "thighboots"
+11/23/2015 9:00:34 AM: 127.0.0.1: Serials: 0x40000047; 
+11/23/2015 9:00:57 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add ethere'
+11/23/2015 9:01:02 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1178, 1053, 0) in Malas: "EtherealHiryu"
+11/23/2015 9:01:02 AM: 127.0.0.1: Serials: 0x40000048; 
+11/23/2015 9:01:07 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/23/2015 9:01:07 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x40000041 (DarkElfRaceGate2)
+11/23/2015 9:01:28 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add spidertroll'
+11/23/2015 9:01:29 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1179, 1054, 0) in Malas: "spidertroll"
+11/23/2015 9:01:29 AM: 127.0.0.1: Serials: 0x5; 
+11/23/2015 9:03:10 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'kill '
+11/23/2015 9:03:11 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') killing 0x6 "a politically incorrect spider troll" (no account)
+11/23/2015 9:03:13 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/23/2015 9:03:14 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x7 "a politically incorrect spider troll" (no account)
+11/23/2015 9:04:25 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'admin '
+11/23/2015 9:04:37 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add fluffy'
+11/23/2015 9:04:42 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1193, 1058, 0) in Malas: "FluffySnapperSpearThruster"
+11/23/2015 9:04:42 AM: 127.0.0.1: Serials: 0x8; 
+11/23/2015 9:04:46 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add fluffy'
+11/23/2015 9:04:47 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1190, 1055, 0) in Malas: "FluffySnapperSpearThruster"
+11/23/2015 9:04:47 AM: 127.0.0.1: Serials: 0x9; 
+11/23/2015 9:04:48 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1189, 1056, 0) in Malas: "FluffySnapperSpearThruster"
+11/23/2015 9:04:48 AM: 127.0.0.1: Serials: 0xA; 
+11/23/2015 9:05:33 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'kill '
+11/23/2015 9:05:37 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'kill '
+11/23/2015 9:05:38 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') killing 0x9 "a fluffy snapper spear thruster" (no account)
+11/23/2015 9:05:41 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'kill '
+11/23/2015 9:05:42 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') killing 0xA "a fluffy snapper spear thruster" (no account)
+11/23/2015 9:05:44 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'kill '
+11/23/2015 9:05:52 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') killing 0x8 "a fluffy snapper spear thruster" (no account)
+11/23/2015 9:06:01 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'admin '
+11/23/2015 9:06:06 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/23/2015 9:06:06 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/23/2015 9:20:43 AM
+
+11/23/2015 9:21:24 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add spidertroll'
+11/23/2015 9:21:25 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1197, 1047, 0) in Malas: "spidertroll"
+11/23/2015 9:21:25 AM: 127.0.0.1: Serials: 0x3; 
+11/23/2015 9:21:48 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set hits 500'
+11/23/2015 9:21:49 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'hits' of 0x24D "Dirk Laramie" ('Zigholtul88') to '500'
+11/23/2015 9:29:59 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add protect'
+11/23/2015 9:30:03 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1206, 1046, 30) in Malas: "WoodlandProtector"
+11/23/2015 9:30:03 AM: 127.0.0.1: Serials: 0x6; 
+11/23/2015 9:30:17 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'move '
+11/23/2015 9:30:18 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') moving 0x5 "a politically incorrect spider troll" (no account) to (1207, 1041, 50)
+11/23/2015 9:30:50 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'move '
+11/23/2015 9:30:54 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'move '
+11/23/2015 9:30:56 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'move '
+11/23/2015 9:30:59 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') moving 0x5 "a politically incorrect spider troll" (no account) to (1197, 1045, 0)
+11/23/2015 9:31:03 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'move '
+11/23/2015 9:31:07 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'move '
+11/23/2015 9:31:25 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'move '
+11/23/2015 9:31:25 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') moving 0x5 "a politically incorrect spider troll" (no account) to (1205, 1047, 30)
+11/23/2015 9:32:16 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/23/2015 9:32:16 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x7 "a politically incorrect spider troll" (no account)
+11/23/2015 9:32:27 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'admin '
+11/23/2015 9:32:32 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/23/2015 9:32:32 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'save '

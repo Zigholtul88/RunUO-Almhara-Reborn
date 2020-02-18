@@ -1,0 +1,24 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8825
+Time: 5/9/2018 11:41:06 PM
+Mobiles: 2011
+Items: 17311
+Exception:
+System.MissingMethodException: Constructor on type 'Server.Items.ClumsyWand' not found.
+   at System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at Server.Mobiles.GenericBuyInfo.GetEntity()
+   at Server.Mobiles.GenericBuyInfo.GetDisplayEntity()
+   at Server.Mobiles.BaseVendor.VendorBuy(Mobile from)
+   at Server.Network.PacketHandlers.ContextMenuResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.PacketHandlers.ExtendedCommand(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x1 'Zigholtul')

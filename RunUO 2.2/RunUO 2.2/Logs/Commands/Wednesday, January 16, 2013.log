@@ -1,0 +1,290 @@
+##############################
+Log started on 1/16/2013 7:56:05 AM
+
+1/16/2013 7:57:49 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'go '
+##############################
+Log started on 1/16/2013 8:58:34 AM
+
+1/16/2013 8:59:09 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'go '
+1/16/2013 9:00:16 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'go '
+1/16/2013 9:02:41 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+1/16/2013 9:02:45 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/16/2013 9:02:46 AM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/16/2013 6:26:09 PM
+
+1/16/2013 6:27:10 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'add polar'
+1/16/2013 6:27:12 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (1243, 1058, 0) in Malas: "RideablePolarBear"
+1/16/2013 6:27:12 PM: 127.0.0.1: Serials: 0x400001C2; 
+1/16/2013 6:29:17 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'where '
+1/16/2013 6:30:33 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'where '
+1/16/2013 6:31:31 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'where '
+1/16/2013 6:35:26 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') set property 'map' of 0x288 "Valen Redbark" ('Zigholtul88') to 'Malas'
+1/16/2013 6:35:26 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Self Set map 3'
+1/16/2013 6:35:26 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Go 764 1246 20'
+1/16/2013 6:36:49 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 6535 set movable False hue 0 light Circle225'
+1/16/2013 6:36:54 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (784, 1219, 20) in Malas: "static" "6535" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:36:54 PM: 127.0.0.1: Serials: 0x400001FE; 
+1/16/2013 6:37:02 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 6537 set movable False hue 0 light Circle225'
+1/16/2013 6:37:03 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (787, 1219, 20) in Malas: "static" "6537" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:37:03 PM: 127.0.0.1: Serials: 0x40000200; 
+1/16/2013 6:37:18 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 6547 set movable False hue 0 light Circle225'
+1/16/2013 6:37:22 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (784, 1222, 20) in Malas: "static" "6547" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:37:22 PM: 127.0.0.1: Serials: 0x40000201; 
+1/16/2013 6:37:27 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 6549 set movable False hue 0 light Circle225'
+1/16/2013 6:37:28 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (787, 1222, 20) in Malas: "static" "6549" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:37:28 PM: 127.0.0.1: Serials: 0x400002D2; 
+1/16/2013 6:37:38 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 6539 set movable False hue 0 light Circle225'
+1/16/2013 6:37:39 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (784, 1220, 20) in Malas: "static" "6539" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:37:39 PM: 127.0.0.1: Serials: 0x40000367; 
+1/16/2013 6:37:40 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 6539 set movable False hue 0 light Circle225'
+1/16/2013 6:37:40 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (784, 1221, 20) in Malas: "static" "6539" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:37:40 PM: 127.0.0.1: Serials: 0x40000368; 
+1/16/2013 6:37:43 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'remove '
+1/16/2013 6:37:43 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') deleting 0x40000368 (Static)
+1/16/2013 6:37:45 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 6539 set movable False hue 0 light Circle225'
+1/16/2013 6:37:46 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 6539 set movable False hue 0 light Circle225'
+1/16/2013 6:37:47 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (787, 1220, 20) in Malas: "static" "6539" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:37:47 PM: 127.0.0.1: Serials: 0x40000369; 
+1/16/2013 6:37:54 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 6551 set movable False hue 0 light Circle225'
+1/16/2013 6:37:54 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (784, 1221, 20) in Malas: "static" "6551" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:37:54 PM: 127.0.0.1: Serials: 0x4000036A; 
+1/16/2013 6:37:56 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 6551 set movable False hue 0 light Circle225'
+1/16/2013 6:37:56 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (787, 1221, 20) in Malas: "static" "6551" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:37:56 PM: 127.0.0.1: Serials: 0x4000036B; 
+1/16/2013 6:38:30 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 4610 set movable False hue 0 light Circle225'
+1/16/2013 6:38:32 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1219, 20) in Malas: "static" "4610" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:38:32 PM: 127.0.0.1: Serials: 0x4000036C; 
+1/16/2013 6:38:36 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Multi Add static 4611 set movable False hue 0 light Circle225'
+1/16/2013 6:38:37 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1220, 20) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:38:37 PM: 127.0.0.1: Serials: 0x40000370; 
+1/16/2013 6:38:40 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1221, 20) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:38:40 PM: 127.0.0.1: Serials: 0x40000371; 
+1/16/2013 6:38:42 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1222, 20) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:38:42 PM: 127.0.0.1: Serials: 0x40000372; 
+1/16/2013 6:38:43 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1223, 20) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:38:43 PM: 127.0.0.1: Serials: 0x40000373; 
+1/16/2013 6:38:47 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 4609 set movable False hue 0 light Circle225'
+1/16/2013 6:38:48 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1224, 20) in Malas: "static" "4609" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:38:48 PM: 127.0.0.1: Serials: 0x40000374; 
+1/16/2013 6:39:17 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 7173 set movable False hue 0 light Circle225'
+1/16/2013 6:39:18 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1219, 26) in Malas: "static" "7173" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:39:18 PM: 127.0.0.1: Serials: 0x4000037C; 
+1/16/2013 6:39:24 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5133 set movable False hue 0 light Circle225'
+1/16/2013 6:39:25 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1224, 26) in Malas: "static" "5133" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:39:25 PM: 127.0.0.1: Serials: 0x4000037E; 
+1/16/2013 6:39:29 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5129 set movable False hue 0 light Circle225'
+1/16/2013 6:39:30 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1223, 26) in Malas: "static" "5129" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:39:30 PM: 127.0.0.1: Serials: 0x4000037F; 
+1/16/2013 6:39:38 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 7947 set movable False hue 0 light Circle225'
+1/16/2013 6:39:39 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1223, 26) in Malas: "static" "7947" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:39:39 PM: 127.0.0.1: Serials: 0x40000381; 
+1/16/2013 6:39:42 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'move '
+1/16/2013 6:39:43 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') moving 0x40000381 (Static) to (782, 1222, 26)
+1/16/2013 6:39:56 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5103 set movable False hue 0 light Circle225'
+1/16/2013 6:39:57 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1223, 26) in Malas: "static" "5103" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:39:57 PM: 127.0.0.1: Serials: 0x40000382; 
+1/16/2013 6:40:03 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'move '
+1/16/2013 6:40:05 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') moving 0x40000382 (Static) to (782, 1220, 26)
+1/16/2013 6:40:13 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5137 set movable False hue 0 light Circle225'
+1/16/2013 6:40:13 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1221, 26) in Malas: "static" "5137" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:40:13 PM: 127.0.0.1: Serials: 0x4000038E; 
+1/16/2013 6:40:22 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 7031 set movable False hue 0 light Circle225'
+1/16/2013 6:40:29 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 3911 set movable False hue 0 light Circle225'
+1/16/2013 6:40:30 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (782, 1223, 26) in Malas: "static" "3911" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:40:30 PM: 127.0.0.1: Serials: 0x4000038F; 
+1/16/2013 6:40:52 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'where '
+1/16/2013 6:41:14 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2832 set movable False hue 0 light Circle225'
+1/16/2013 6:41:20 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (790, 1219, 20) in Malas: "static" "2832" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:41:20 PM: 127.0.0.1: Serials: 0x40000392; 
+1/16/2013 6:41:25 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'TileZ 20 static 2831 set movable False hue 0 light {light}'
+1/16/2013 6:41:33 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building from (791, 1220, 20) to (798, 1221, 20) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/16/2013 6:41:33 PM: 127.0.0.1: Serials: 0x40000394; 0x40000396; 0x40000397; 0x40000398; 0x4000039A; 0x4000039B; 0x4000039C; 0x4000039D; 0x4000039E; 0x4000039F; 0x400003A0; 0x400003A1; 0x400003D1; 0x400003D2; 0x400003D3; 0x400003D4; 
+1/16/2013 6:41:44 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'TileZ 20 static 2839 set movable False hue 0 light {light}'
+1/16/2013 6:41:47 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building from (791, 1219, 20) to (798, 1219, 20) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/16/2013 6:41:47 PM: 127.0.0.1: Serials: 0x400003D8; 0x400003E2; 0x400003EA; 0x40000403; 0x4000042F; 0x40000433; 0x40000434; 0x40000438; 
+1/16/2013 6:41:51 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'TileZ 20 static 2838 set movable False hue 0 light {light}'
+1/16/2013 6:41:57 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building from (790, 1220, 20) to (790, 1221, 20) in Malas: "static" "2838" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/16/2013 6:41:57 PM: 127.0.0.1: Serials: 0x40000445; 0x4000044C; 
+1/16/2013 6:42:03 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'TileZ 20 static 2834 set movable False hue 0 light {light}'
+1/16/2013 6:42:06 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (790, 1222, 20) in Malas: "static" "2834" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/16/2013 6:42:06 PM: 127.0.0.1: Serials: 0x40000453; 
+1/16/2013 6:42:16 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'TileZ 20 static 2837 set movable False hue 0 light {light}'
+1/16/2013 6:42:20 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building from (791, 1222, 20) to (798, 1222, 20) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/16/2013 6:42:20 PM: 127.0.0.1: Serials: 0x40000457; 0x40000490; 0x40000498; 0x40000499; 0x400004A1; 0x400004AB; 0x400004C0; 0x400004E1; 
+1/16/2013 6:42:24 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'TileZ 20 static 2835 set movable False hue 0 light {light}'
+1/16/2013 6:42:25 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (799, 1219, 20) in Malas: "static" "2835" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/16/2013 6:42:25 PM: 127.0.0.1: Serials: 0x400004E9; 
+1/16/2013 6:42:30 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'TileZ 20 static 2833 set movable False hue 0 light {light}'
+1/16/2013 6:42:30 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (799, 1222, 20) in Malas: "static" "2833" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/16/2013 6:42:30 PM: 127.0.0.1: Serials: 0x400004ED; 
+1/16/2013 6:42:34 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'TileZ 20 static 2836 set movable False hue 0 light {light}'
+1/16/2013 6:42:36 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building from (799, 1220, 20) to (799, 1221, 20) in Malas: "static" "2836" "set" "movable" "False" "hue" "0" "light" "{light}"
+1/16/2013 6:42:36 PM: 127.0.0.1: Serials: 0x400004F8; 0x40000518; 
+1/16/2013 6:42:42 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2840 set movable False hue 0 light Circle225'
+1/16/2013 6:42:45 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (799, 1222, 23) in Malas: "static" "2840" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:42:45 PM: 127.0.0.1: Serials: 0x40000527; 
+1/16/2013 6:42:52 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2719 set movable False hue 0 light Circle225'
+1/16/2013 6:42:54 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (790, 1220, 23) in Malas: "static" "2719" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:42:54 PM: 127.0.0.1: Serials: 0x40000528; 
+1/16/2013 6:42:59 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2721 set movable False hue 0 light Circle225'
+1/16/2013 6:43:00 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (799, 1221, 23) in Malas: "static" "2721" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:00 PM: 127.0.0.1: Serials: 0x4000052C; 
+1/16/2013 6:43:04 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'remove '
+1/16/2013 6:43:05 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') deleting 0x40000518 (Static)
+1/16/2013 6:43:07 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'remove '
+1/16/2013 6:43:07 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') deleting 0x4000052C (Static)
+1/16/2013 6:43:09 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'remove '
+1/16/2013 6:43:09 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') deleting 0x40000528 (Static)
+1/16/2013 6:43:12 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2721 set movable False hue 0 light Circle225'
+1/16/2013 6:43:13 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (790, 1220, 23) in Malas: "static" "2721" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:13 PM: 127.0.0.1: Serials: 0x4000052D; 
+1/16/2013 6:43:14 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2721 set movable False hue 0 light Circle225'
+1/16/2013 6:43:15 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (790, 1221, 23) in Malas: "static" "2721" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:15 PM: 127.0.0.1: Serials: 0x40000549; 
+1/16/2013 6:43:21 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+1/16/2013 6:43:24 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2723 set movable False hue 0 light Circle225'
+1/16/2013 6:43:25 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (790, 1219, 23) in Malas: "static" "2723" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:25 PM: 127.0.0.1: Serials: 0x4000054C; 
+1/16/2013 6:43:29 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+1/16/2013 6:43:30 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (791, 1219, 23) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:30 PM: 127.0.0.1: Serials: 0x4000054D; 
+1/16/2013 6:43:33 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Multi Add static 2722 set movable False hue 0 light Circle225'
+1/16/2013 6:43:34 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (792, 1220, 23) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:34 PM: 127.0.0.1: Serials: 0x4000054E; 
+1/16/2013 6:43:35 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (792, 1219, 23) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:35 PM: 127.0.0.1: Serials: 0x40000555; 
+1/16/2013 6:43:35 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (793, 1219, 23) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:35 PM: 127.0.0.1: Serials: 0x40000556; 
+1/16/2013 6:43:36 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (794, 1219, 23) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:36 PM: 127.0.0.1: Serials: 0x40000557; 
+1/16/2013 6:43:37 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (795, 1219, 23) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:37 PM: 127.0.0.1: Serials: 0x4000055A; 
+1/16/2013 6:43:38 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (796, 1219, 23) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:38 PM: 127.0.0.1: Serials: 0x4000055B; 
+1/16/2013 6:43:39 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (797, 1219, 23) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:39 PM: 127.0.0.1: Serials: 0x40000563; 
+1/16/2013 6:43:40 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (798, 1219, 23) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:40 PM: 127.0.0.1: Serials: 0x40000564; 
+1/16/2013 6:43:45 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'remove '
+1/16/2013 6:43:45 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') deleting 0x4000054E (Static)
+1/16/2013 6:43:49 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2724 set movable False hue 0 light Circle225'
+1/16/2013 6:43:50 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (799, 1219, 23) in Malas: "static" "2724" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:50 PM: 127.0.0.1: Serials: 0x40000573; 
+1/16/2013 6:43:53 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2725 set movable False hue 0 light Circle225'
+1/16/2013 6:43:54 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (790, 1222, 23) in Malas: "static" "2725" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:54 PM: 127.0.0.1: Serials: 0x40000574; 
+1/16/2013 6:43:58 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Multi Add static 2720 set movable False hue 0 light Circle225'
+1/16/2013 6:43:59 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (791, 1222, 23) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:43:59 PM: 127.0.0.1: Serials: 0x40000580; 
+1/16/2013 6:44:00 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (792, 1222, 23) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:00 PM: 127.0.0.1: Serials: 0x40000581; 
+1/16/2013 6:44:00 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (793, 1222, 23) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:00 PM: 127.0.0.1: Serials: 0x40000582; 
+1/16/2013 6:44:01 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (794, 1222, 23) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:01 PM: 127.0.0.1: Serials: 0x40000583; 
+1/16/2013 6:44:02 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (795, 1222, 23) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:02 PM: 127.0.0.1: Serials: 0x40000584; 
+1/16/2013 6:44:03 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (796, 1222, 23) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:03 PM: 127.0.0.1: Serials: 0x40000585; 
+1/16/2013 6:44:03 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (797, 1222, 23) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:03 PM: 127.0.0.1: Serials: 0x40000588; 
+1/16/2013 6:44:04 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (798, 1222, 23) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:04 PM: 127.0.0.1: Serials: 0x4000058A; 
+1/16/2013 6:44:11 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2836 set movable False hue 0 light Circle225'
+1/16/2013 6:44:12 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (799, 1221, 20) in Malas: "static" "2836" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:12 PM: 127.0.0.1: Serials: 0x40000593; 
+1/16/2013 6:44:17 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2719 set movable False hue 0 light Circle225'
+1/16/2013 6:44:18 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (799, 1220, 23) in Malas: "static" "2719" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:18 PM: 127.0.0.1: Serials: 0x40000597; 
+1/16/2013 6:44:19 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 2719 set movable False hue 0 light Circle225'
+1/16/2013 6:44:19 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (799, 1221, 23) in Malas: "static" "2719" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:19 PM: 127.0.0.1: Serials: 0x40000598; 
+1/16/2013 6:44:57 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5199 set movable False hue 0 light Circle225'
+1/16/2013 6:44:59 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (791, 1220, 23) in Malas: "static" "5199" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:44:59 PM: 127.0.0.1: Serials: 0x4000059A; 
+1/16/2013 6:45:02 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5200 set movable False hue 0 light Circle225'
+1/16/2013 6:45:06 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5202 set movable False hue 0 light Circle225'
+1/16/2013 6:45:07 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (792, 1220, 23) in Malas: "static" "5202" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:45:07 PM: 127.0.0.1: Serials: 0x4000059B; 
+1/16/2013 6:45:13 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5200 set movable False hue 0 light Circle225'
+1/16/2013 6:45:14 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (791, 1221, 23) in Malas: "static" "5200" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:45:14 PM: 127.0.0.1: Serials: 0x4000059C; 
+1/16/2013 6:45:18 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5206 set movable False hue 0 light Circle225'
+1/16/2013 6:45:21 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (793, 1220, 23) in Malas: "static" "5206" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:45:21 PM: 127.0.0.1: Serials: 0x4000059D; 
+1/16/2013 6:45:24 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5202 set movable False hue 0 light Circle225'
+1/16/2013 6:45:30 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5203 set movable False hue 0 light Circle225'
+1/16/2013 6:45:31 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (792, 1221, 23) in Malas: "static" "5203" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:45:31 PM: 127.0.0.1: Serials: 0x4000059E; 
+1/16/2013 6:45:43 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5051 set movable False hue 0 light Circle225'
+1/16/2013 6:45:44 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (793, 1221, 23) in Malas: "static" "5051" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:45:44 PM: 127.0.0.1: Serials: 0x400005A0; 
+1/16/2013 6:45:48 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5054 set movable False hue 0 light Circle225'
+1/16/2013 6:45:48 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (794, 1220, 23) in Malas: "static" "5054" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:45:48 PM: 127.0.0.1: Serials: 0x400005A1; 
+1/16/2013 6:45:54 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5055 set movable False hue 0 light Circle225'
+1/16/2013 6:45:55 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (795, 1221, 23) in Malas: "static" "5055" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:45:55 PM: 127.0.0.1: Serials: 0x400005A2; 
+1/16/2013 6:45:59 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5129 set movable False hue 0 light Circle225'
+1/16/2013 6:46:02 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (794, 1221, 23) in Malas: "static" "5129" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:46:02 PM: 127.0.0.1: Serials: 0x400005AA; 
+1/16/2013 6:46:19 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 5136 set movable False hue 0 light Circle225'
+1/16/2013 6:46:20 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (795, 1220, 23) in Malas: "static" "5136" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:46:20 PM: 127.0.0.1: Serials: 0x400005B3; 
+1/16/2013 6:46:32 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'remove '
+1/16/2013 6:46:32 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') deleting 0x400005B3 (Static)
+1/16/2013 6:46:40 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 7029 set movable False hue 0 light Circle225'
+1/16/2013 6:46:41 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (796, 1220, 23) in Malas: "static" "7029" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:46:41 PM: 127.0.0.1: Serials: 0x400005B5; 
+1/16/2013 6:46:44 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 7035 set movable False hue 0 light Circle225'
+1/16/2013 6:46:45 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (798, 1220, 23) in Malas: "static" "7035" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:46:45 PM: 127.0.0.1: Serials: 0x400005B6; 
+1/16/2013 6:46:47 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 7108 set movable False hue 0 light Circle225'
+1/16/2013 6:46:49 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (797, 1220, 23) in Malas: "static" "7108" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:46:49 PM: 127.0.0.1: Serials: 0x400005B7; 
+1/16/2013 6:46:52 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 7026 set movable False hue 0 light Circle225'
+1/16/2013 6:46:53 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (798, 1221, 23) in Malas: "static" "7026" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:46:53 PM: 127.0.0.1: Serials: 0x400005B8; 
+1/16/2013 6:46:56 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 7034 set movable False hue 0 light Circle225'
+1/16/2013 6:46:57 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (796, 1221, 23) in Malas: "static" "7034" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:46:57 PM: 127.0.0.1: Serials: 0x400005B9; 
+1/16/2013 6:46:59 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'Add static 7034 set movable False hue 0 light Circle225'
+1/16/2013 6:46:59 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') building at (797, 1221, 23) in Malas: "static" "7034" "set" "movable" "False" "hue" "0" "light" "Circle225"
+1/16/2013 6:46:59 PM: 127.0.0.1: Serials: 0x400005BA; 
+1/16/2013 6:49:04 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'go '
+1/16/2013 6:49:14 PM: 127.0.0.1: Owner 0x288 "Valen Redbark" ('Zigholtul88') used command 'save '
+1/16/2013 6:50:51 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') set property 'map' of 0x86 "Grog-muk Nag" ('Zigholtul88') to 'Malas'
+1/16/2013 6:50:51 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'Self Set map 3'
+1/16/2013 6:50:51 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'Go 764 1246 20'
+1/16/2013 6:52:07 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'where '
+1/16/2013 6:52:10 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'go '
+1/16/2013 6:52:36 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add ridab'
+1/16/2013 6:52:42 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add ride'
+1/16/2013 6:52:47 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add rida'
+1/16/2013 6:52:49 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (789, 1233, 20) in Malas: "RidableLlama"
+1/16/2013 6:52:49 PM: 127.0.0.1: Serials: 0x2A4; 
+1/16/2013 6:59:07 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'set dex 40'
+1/16/2013 6:59:08 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') set property 'dex' of 0x86 "Grog-muk Nag" ('Zigholtul88') to '40'
+1/16/2013 6:59:14 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add bon'
+1/16/2013 6:59:16 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (791, 1223, 20) in Malas: "BoneArms"
+1/16/2013 6:59:16 PM: 127.0.0.1: Serials: 0x4000064F; 
+1/16/2013 6:59:18 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (792, 1223, 20) in Malas: "BoneChest"
+1/16/2013 6:59:18 PM: 127.0.0.1: Serials: 0x40000650; 
+1/16/2013 6:59:22 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (792, 1224, 20) in Malas: "BoneGloves"
+1/16/2013 6:59:22 PM: 127.0.0.1: Serials: 0x40000651; 
+1/16/2013 6:59:24 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (793, 1223, 20) in Malas: "BoneHelm"
+1/16/2013 6:59:24 PM: 127.0.0.1: Serials: 0x40000652; 
+1/16/2013 6:59:27 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (794, 1223, 20) in Malas: "BoneLegs"
+1/16/2013 6:59:27 PM: 127.0.0.1: Serials: 0x40000653; 
+1/16/2013 7:00:06 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'add bardich'
+1/16/2013 7:00:08 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') building at (794, 1223, 20) in Malas: "Bardiche"
+1/16/2013 7:00:08 PM: 127.0.0.1: Serials: 0x40000654; 
+1/16/2013 7:01:30 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'props '
+1/16/2013 7:01:37 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'props '
+1/16/2013 7:01:58 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'props '
+1/16/2013 7:02:24 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'props '
+1/16/2013 7:03:43 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'props '
+1/16/2013 7:11:13 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'admin '
+1/16/2013 7:11:16 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/16/2013 7:11:16 PM: 127.0.0.1: Owner 0x86 "Grog-muk Nag" ('Zigholtul88') used command 'save '

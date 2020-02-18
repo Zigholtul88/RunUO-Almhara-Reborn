@@ -1,0 +1,37 @@
+##############################
+Log started on 12/12/2016 7:14:38 PM
+
+12/12/2016 7:15:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:17:19 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:17:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:19:00 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:19:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:20:49 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+12/12/2016 7:22:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add regioncontro'
+12/12/2016 7:22:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (328, 1873, 25) in Malas: "RegionControl"
+12/12/2016 7:22:22 PM: 127.0.0.1: Serials: 0x4000038A; 
+12/12/2016 7:22:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+12/12/2016 7:22:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'CanEnter' of 0x4000038A (RegionControl) to 'True'
+12/12/2016 7:22:47 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+12/12/2016 7:23:00 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'Music' of 0x4000038A (RegionControl) to 'Nujelm'
+12/12/2016 7:23:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'Music' of 0x4000038A (RegionControl) to 'Stones2'
+12/12/2016 7:28:27 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+12/12/2016 7:28:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'Music' of 0x4000038A (RegionControl) to 'Nujelm'
+12/12/2016 7:28:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+12/12/2016 7:28:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x4000038A (RegionControl)
+12/12/2016 7:29:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+12/12/2016 7:29:46 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+12/12/2016 7:29:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:30:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:30:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:30:38 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:31:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:31:20 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:33:07 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:33:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:34:19 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:35:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:37:46 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/12/2016 7:38:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'admin '
+12/12/2016 7:38:12 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/12/2016 7:38:12 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'save '

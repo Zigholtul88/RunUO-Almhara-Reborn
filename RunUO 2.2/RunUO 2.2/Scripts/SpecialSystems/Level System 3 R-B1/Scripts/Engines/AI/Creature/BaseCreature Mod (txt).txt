@@ -1,0 +1,43 @@
+SVN - 279
+
+(OPTIONAL)
+Under
+        public override string ApplyNameSuffix(string suffix)
+        {
+            if (IsParagon)
+            {
+                if (suffix.Length == 0)
+                    suffix = "(Paragon)";
+                else
+                    suffix = String.Concat(suffix, " (Paragon)");
+            }
+
+Add
+            //Level System 3 Rework 1
+            Setup set = new Setup();
+
+            if (set.ShowNPCLevel && Features.Display(this, suffix) != null)
+            {
+                suffix = Features.Display(this, suffix);
+            }
+            //END Level System 3 Rework 1
+
+***********************************************************************
+
+(REQUIRED)
+Between
+            if (m_ReceivedHonorContext != null)
+                m_ReceivedHonorContext.OnTargetDamaged(from, amount);
+
+            base.OnDamage(amount, from, willKill);
+
+Add
+            //Level System 3 Rework 1
+            if (KillTypeNPC.Enabled || KillTypeAll.Enabled)
+            {
+                if (willKill)
+                {
+                    Actions.StartGain(from, this);
+                }
+            }
+            //END Level System 3 Rework 1

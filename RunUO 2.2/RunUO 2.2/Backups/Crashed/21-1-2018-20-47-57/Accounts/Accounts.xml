@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="6">
+	<account>
+		<username>Zigholtul88</username>
+		<password>freeglepluk</password>
+		<accessLevel>Owner</accessLevel>
+		<flags>2</flags>
+		<created>2016-04-23T15:31:48.889375-04:00</created>
+		<lastLogin>2018-01-21T20:36:47.9299183-05:00</lastLogin>
+		<totalGameTime>P10DT14H21M58.4545732S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+			<char index="1">179</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2016-04-29T19:14:14.796875-04:00">Character #2 0x426 "Therasa" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-04-29T19:33:03.96875-04:00">Character #2 0x426 "Test Dummy" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-03T21:43:06.987875-04:00">Character #2 0x426 "Test Dummy" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-06T20:01:21.191-04:00">Character #2 0x50C "Ruby Rosebud" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-31T00:50:10.8125-04:00">Character #3 0x4E8 "Bruce" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-31T00:50:13.296875-04:00">Character #2 0x46F "Kasslenn" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-06-06T15:28:40.03125-04:00">Character #2 0x445 "ggg" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-09-25T18:09:12.1255-04:00">Character #3 0x58 "Kaelien" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2017-02-24T08:45:43.546875-05:00">Character #2 0xE "Itta Pupu" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2017-03-01T21:37:13.3769932-05:00">Character #2 0x5C8 "Erika" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2017-03-04T18:58:26.15625-05:00">Character #2 0x212 "Test Dummy" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2017-03-06T11:25:27.15625-05:00">Character #3 0x3FF "Testie" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2017-03-18T13:29:15.92275-04:00">Character #3 0x65 "Big Seltzer" deleted by 127.0.0.1</comment>
+		</comments>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Freeglepluk</username>
+		<newCryptPassword>D2-81-15-8B-D2-AF-E9-05-58-85-35-71-CB-DE-CF-5C-18-57-A3-DE</newCryptPassword>
+		<created>2016-04-23T15:49:05.43625-04:00</created>
+		<lastLogin>2016-06-06T18:10:42.75-04:00</lastLogin>
+		<totalGameTime>PT17H36M7.5S</totalGameTime>
+		<chars>
+			<char index="0">322</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2016-05-10T08:39:18.390625-04:00">Character #1 0x41C "Kyra Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-10T08:39:20.1875-04:00">Character #2 0x2B4 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-10T09:07:26.109375-04:00">Character #1 0x2B8 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-12T23:03:43.421875-04:00">Character #1 0x2CA "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-12T23:03:45.65625-04:00">Character #2 0x496 "Kyra Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-13T01:37:09.390625-04:00">Character #1 0x2B8 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-13T05:09:57.984375-04:00">Character #1 0x343 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-13T06:23:21.96875-04:00">Character #1 0x2 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-31T11:02:29.609375-04:00">Character #1 0x6F1 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+		</comments>
+		<tags>
+			<tag name="FirstChar">true</tag>
+			<tag name="numRewardsChosen">1</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>tommenquar</username>
+		<password>visual11</password>
+		<created>2017-03-01T12:11:02.46875-05:00</created>
+		<lastLogin>2017-03-18T18:33:18.454-04:00</lastLogin>
+		<totalGameTime>PT15H38M26.0644932S</totalGameTime>
+		<chars>
+			<char index="0">1063</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>79.68.46.94</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>tomgranvidas</username>
+		<password>visual11</password>
+		<created>2017-03-06T19:51:51.78125-05:00</created>
+		<lastLogin>2017-03-18T17:48:13.407125-04:00</lastLogin>
+		<totalGameTime>PT8H4M35.890625S</totalGameTime>
+		<chars>
+			<char index="0">1023</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>79.68.46.94</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Yugitashi</username>
+		<password>freeglepluk</password>
+		<created>2017-03-09T09:06:39.921875-05:00</created>
+		<lastLogin>2017-03-18T17:55:54.86025-04:00</lastLogin>
+		<totalGameTime>PT7H49.875S</totalGameTime>
+		<chars>
+			<char index="0">118</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2017-03-14T23:41:04.90625-04:00">Character #1 0x397 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2017-03-18T13:43:36.469625-04:00">Character #1 0x170 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+		</comments>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Testdummy</username>
+		<password>testdummy</password>
+		<created>2018-01-02T02:17:20.8727067-05:00</created>
+		<lastLogin>2018-01-02T02:17:56.4764143-05:00</lastLogin>
+		<totalGameTime>PT21M1.5618869S</totalGameTime>
+		<chars>
+			<char index="0">12</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

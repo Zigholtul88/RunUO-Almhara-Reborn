@@ -1,0 +1,29 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 7228.26719
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.9145
+Time: 11/1/2019 9:07:21 PM
+Mobiles: 2634
+Items: 18810
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Items.DawnsMusicBox.GetProperties(ObjectPropertyList list)
+   at Server.Item.get_PropertyList()
+   at Server.Item.InvalidateProperties()
+   at Server.Item.MoveToWorld(Point3D location, Map map)
+   at Server.Commands.DecorationList.Generate(Map[] maps)
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps)
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e)
+   at Server.Commands.CommandSystem.Handle(Mobile from, String text, MessageType type)
+   at Server.Gumps.AdminGump.InvokeCommand(String c)
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info)
+   at Server.Network.PacketHandlers.DisplayGumpResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 71.215.10.224: (account = Zigholtul88) (mobile = 0x5 'Nastlia Kensley')

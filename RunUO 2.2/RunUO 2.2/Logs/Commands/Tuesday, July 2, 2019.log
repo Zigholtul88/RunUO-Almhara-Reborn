@@ -1,0 +1,355 @@
+##############################
+Log started on 7/2/2019 6:24:16 AM
+
+7/2/2019 6:24:37 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'speedboost '
+7/2/2019 6:25:36 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'tele '
+7/2/2019 6:25:53 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'where '
+7/2/2019 6:25:57 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'tele '
+7/2/2019 6:25:59 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'where '
+7/2/2019 6:27:32 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:27:39 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4601, 1730, 31) in Felucca: "spawner"
+7/2/2019 6:27:39 AM: 127.0.0.1: Serials: 0x40000021; 
+7/2/2019 6:27:52 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:27:55 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x40000021 (Spawner) to '2'
+7/2/2019 6:28:00 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x40000021 (Spawner) to '5'
+7/2/2019 6:28:49 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:28:50 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4597, 1733, 6) in Felucca: "spawner"
+7/2/2019 6:28:50 AM: 127.0.0.1: Serials: 0x40000053; 
+7/2/2019 6:28:55 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:29:01 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x40000053 (Spawner) to '8'
+7/2/2019 6:29:04 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x40000053 (Spawner) to '3'
+7/2/2019 6:29:23 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:29:24 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4603, 1729, 10) in Felucca: "spawner"
+7/2/2019 6:29:24 AM: 127.0.0.1: Serials: 0x400000B5; 
+7/2/2019 6:29:28 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:29:32 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x400000B5 (Spawner) to '0'
+7/2/2019 6:29:38 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add minte'
+7/2/2019 6:30:15 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add hairstyl'
+7/2/2019 6:30:19 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:30:21 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4611, 1711, 6) in Felucca: "spawner"
+7/2/2019 6:30:21 AM: 127.0.0.1: Serials: 0x400000FF; 
+7/2/2019 6:30:25 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:30:30 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x400000FF (Spawner) to '8'
+7/2/2019 6:30:33 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x400000FF (Spawner) to '3'
+7/2/2019 6:31:17 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add armor'
+7/2/2019 6:31:21 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4587, 1710, 5) in Felucca: "Armorer"
+7/2/2019 6:31:21 AM: 127.0.0.1: Serials: 0x51F; 
+7/2/2019 6:31:32 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'remove '
+7/2/2019 6:31:33 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x51F "Holden" (no account)
+7/2/2019 6:31:37 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:31:39 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4588, 1710, 5) in Felucca: "spawner"
+7/2/2019 6:31:39 AM: 127.0.0.1: Serials: 0x4000017E; 
+7/2/2019 6:31:44 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:31:48 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x4000017E (Spawner) to '8'
+7/2/2019 6:31:51 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x4000017E (Spawner) to '2'
+7/2/2019 6:32:37 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add heale'
+7/2/2019 6:32:41 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4537, 1763, 6) in Felucca: "Healer"
+7/2/2019 6:32:42 AM: 127.0.0.1: Serials: 0x524; 
+7/2/2019 6:32:51 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'remove '
+7/2/2019 6:32:51 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x524 "Olathe" (no account)
+7/2/2019 6:32:54 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:32:55 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4537, 1763, 6) in Felucca: "spawner"
+7/2/2019 6:32:55 AM: 127.0.0.1: Serials: 0x40000400; 
+7/2/2019 6:32:58 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:33:02 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x40000400 (Spawner) to '8'
+7/2/2019 6:33:04 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x40000400 (Spawner) to '3'
+7/2/2019 6:33:40 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:33:41 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4521, 1782, 6) in Felucca: "spawner"
+7/2/2019 6:33:41 AM: 127.0.0.1: Serials: 0x40000523; 
+7/2/2019 6:33:51 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:33:59 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x40000523 (Spawner) to '10'
+7/2/2019 6:34:28 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:34:29 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4555, 1792, 6) in Felucca: "spawner"
+7/2/2019 6:34:29 AM: 127.0.0.1: Serials: 0x40000542; 
+7/2/2019 6:34:32 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:34:36 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x40000542 (Spawner) to '10'
+7/2/2019 6:34:38 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x40000542 (Spawner) to '2'
+7/2/2019 6:35:01 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:35:05 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4550, 1795, 5) in Felucca: "spawner"
+7/2/2019 6:35:05 AM: 127.0.0.1: Serials: 0x4000056B; 
+7/2/2019 6:35:09 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:35:14 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x4000056B (Spawner) to '5'
+7/2/2019 6:35:20 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x4000056B (Spawner) to '2'
+7/2/2019 6:35:47 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:35:48 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4560, 1788, 6) in Felucca: "spawner"
+7/2/2019 6:35:48 AM: 127.0.0.1: Serials: 0x40000702; 
+7/2/2019 6:35:56 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:36:02 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x40000702 (Spawner) to '3'
+7/2/2019 6:36:06 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'move '
+7/2/2019 6:36:08 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') moving 0x40000702 (Spawner) to (4556, 1791, 6)
+7/2/2019 6:37:18 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'spawner '
+7/2/2019 6:37:22 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:37:25 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4533, 1817, 5) in Felucca: "spawner"
+7/2/2019 6:37:25 AM: 127.0.0.1: Serials: 0x40000760; 
+7/2/2019 6:38:17 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:38:18 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4541, 1823, 0) in Felucca: "spawner"
+7/2/2019 6:38:18 AM: 127.0.0.1: Serials: 0x4000079B; 
+7/2/2019 6:39:06 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:39:06 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4588, 1782, 6) in Felucca: "spawner"
+7/2/2019 6:39:06 AM: 127.0.0.1: Serials: 0x400008CB; 
+7/2/2019 6:39:38 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:39:42 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x400008CB (Spawner) to '8'
+7/2/2019 6:39:45 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x400008CB (Spawner) to '2'
+7/2/2019 6:40:17 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:40:18 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4522, 1750, 20) in Felucca: "spawner"
+7/2/2019 6:40:18 AM: 127.0.0.1: Serials: 0x40000C44; 
+7/2/2019 6:40:22 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:40:26 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x40000C44 (Spawner) to '6'
+7/2/2019 6:40:28 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:40:32 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x40000C44 (Spawner) to '2'
+7/2/2019 6:41:31 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:41:33 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4493, 1751, 5) in Felucca: "spawner"
+7/2/2019 6:41:33 AM: 127.0.0.1: Serials: 0x40000C74; 
+7/2/2019 6:41:53 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:41:54 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4495, 1749, 5) in Felucca: "spawner"
+7/2/2019 6:41:54 AM: 127.0.0.1: Serials: 0x40000C87; 
+7/2/2019 6:42:50 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'm remove'
+7/2/2019 6:42:51 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x451 "Gilen" (no account)
+7/2/2019 6:42:51 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x51E "Kieran" (no account)
+7/2/2019 6:42:52 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x391 "Oliver" (no account)
+7/2/2019 6:42:56 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:42:59 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x400000FF (Spawner) to '2'
+7/2/2019 6:43:14 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:43:15 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4613, 1711, 6) in Felucca: "spawner"
+7/2/2019 6:43:15 AM: 127.0.0.1: Serials: 0x40000EA3; 
+7/2/2019 6:43:19 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:43:27 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x40000EA3 (Spawner) to '1'
+7/2/2019 6:43:55 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:43:56 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4609, 1713, 6) in Felucca: "spawner"
+7/2/2019 6:43:56 AM: 127.0.0.1: Serials: 0x40000EF6; 
+7/2/2019 6:44:18 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:44:20 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4614, 1707, 6) in Felucca: "spawner"
+7/2/2019 6:44:20 AM: 127.0.0.1: Serials: 0x40000F11; 
+7/2/2019 6:44:52 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add spawner'
+7/2/2019 6:44:54 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4568, 1710, 9) in Felucca: "spawner"
+7/2/2019 6:44:54 AM: 127.0.0.1: Serials: 0x40000F2E; 
+7/2/2019 6:44:58 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 6:45:02 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'HomeRange' of 0x40000F2E (Spawner) to '8'
+7/2/2019 6:45:05 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') set property 'Count' of 0x40000F2E (Spawner) to '2'
+7/2/2019 6:50:04 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'admin '
+7/2/2019 6:50:08 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/2/2019 6:50:11 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/2/2019 10:55:39 AM
+
+7/2/2019 10:56:34 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'speedboost '
+7/2/2019 10:56:43 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add fred'
+7/2/2019 10:56:46 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4518, 1664, 25) in Felucca: "Frederic"
+7/2/2019 10:56:46 AM: 127.0.0.1: Serials: 0x391; 
+7/2/2019 10:57:21 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'remove '
+7/2/2019 10:57:22 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x391 "The Ghost of Frederic Smithson" (no account)
+7/2/2019 10:57:25 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add escort'
+7/2/2019 10:57:44 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4519, 1664, 25) in Felucca: "BaseEscortable"
+7/2/2019 10:57:44 AM: 127.0.0.1: Serials: 0x451; 
+7/2/2019 10:57:53 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'remove '
+7/2/2019 10:57:54 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x451 "Aileen" (no account)
+7/2/2019 10:58:21 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add ben'
+7/2/2019 10:58:22 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4519, 1661, 25) in Felucca: "ben"
+7/2/2019 10:58:22 AM: 127.0.0.1: Serials: 0x51E; 
+7/2/2019 10:58:36 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'remove '
+7/2/2019 10:58:36 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x51E "Ben" (no account)
+7/2/2019 10:58:54 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add leon'
+7/2/2019 10:58:56 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4524, 1668, 25) in Felucca: "leon"
+7/2/2019 10:58:56 AM: 127.0.0.1: Serials: 0x51F; 
+7/2/2019 10:59:13 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add andros'
+7/2/2019 10:59:14 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4519, 1665, 25) in Felucca: "andros"
+7/2/2019 10:59:14 AM: 127.0.0.1: Serials: 0x524; 
+7/2/2019 10:59:22 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'm remove'
+7/2/2019 10:59:25 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'm remove'
+7/2/2019 10:59:25 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x524 "Andros" (no account)
+7/2/2019 10:59:26 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x51F "Leon" (no account)
+7/2/2019 10:59:54 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add evan'
+7/2/2019 10:59:55 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4520, 1667, 25) in Felucca: "evan"
+7/2/2019 10:59:55 AM: 127.0.0.1: Serials: 0x531; 
+7/2/2019 11:00:07 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'remove '
+7/2/2019 11:00:08 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x531 "Evan" (no account)
+7/2/2019 11:00:10 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 11:01:40 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add mlqu'
+7/2/2019 11:01:54 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'add regina'
+7/2/2019 11:01:55 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') building at (4519, 1668, 25) in Felucca: "regina"
+7/2/2019 11:01:55 AM: 127.0.0.1: Serials: 0x532; 
+7/2/2019 11:02:09 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'props '
+7/2/2019 11:02:43 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'remove '
+7/2/2019 11:02:44 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') deleting 0x532 "Regina" (no account)
+7/2/2019 11:25:02 AM: 127.0.0.1: Owner 0x6B "ggg" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/2/2019 11:31:44 AM
+
+7/2/2019 11:32:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/2/2019 11:33:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+7/2/2019 11:33:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+7/2/2019 11:33:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+7/2/2019 11:33:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 11:33:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 11:34:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add evan'
+7/2/2019 11:34:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1703, 1994, -5) in Malas: "evan"
+7/2/2019 11:34:26 AM: 127.0.0.1: Serials: 0x4A5; 
+7/2/2019 11:34:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/2/2019 11:34:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4A5 "Evan" (no account)
+7/2/2019 11:35:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/2/2019 11:44:35 AM
+
+7/2/2019 11:45:04 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/2/2019 11:45:11 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add dragon'
+7/2/2019 11:45:12 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (2519, 1975, 0) in Malas: "dragon"
+7/2/2019 11:45:12 AM: 127.0.0.1: Serials: 0x12; 
+7/2/2019 11:45:17 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/2/2019 11:45:35 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/2/2019 11:46:02 AM
+
+7/2/2019 11:46:08 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/2/2019 11:46:13 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/2/2019 11:46:14 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x12 "a dragon" (no account)
+7/2/2019 11:46:37 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+7/2/2019 11:46:38 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+7/2/2019 11:46:48 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+7/2/2019 11:46:51 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/2/2019 11:52:30 AM
+
+7/2/2019 11:55:46 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/2/2019 11:55:51 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (4416 objects)
+7/2/2019 11:55:51 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/2/2019 11:55:52 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 4416 objects
+7/2/2019 11:56:08 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+7/2/2019 11:56:13 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+7/2/2019 11:56:20 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+7/2/2019 11:56:24 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/2/2019 11:57:01 AM
+
+7/2/2019 11:57:12 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/2/2019 11:57:31 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add evan'
+7/2/2019 11:57:32 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (2528, 1989, 0) in Malas: "evan"
+7/2/2019 11:57:32 AM: 127.0.0.1: Serials: 0x48B; 
+7/2/2019 11:57:58 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/2/2019 11:58:01 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/2/2019 11:58:02 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x48B "Evan" (no account)
+7/2/2019 11:58:25 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add evan'
+7/2/2019 11:58:26 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (2523, 1989, 0) in Malas: "evan"
+7/2/2019 11:58:26 AM: 127.0.0.1: Serials: 0x48C; 
+7/2/2019 11:58:50 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/2/2019 11:58:51 AM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x48C "Evan" (no account)
+7/2/2019 12:00:16 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 12:00:20 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 1:28:28 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 1:28:32 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/2/2019 1:28:34 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/2/2019 3:33:19 PM
+
+7/2/2019 3:34:15 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/2/2019 3:36:13 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/2/2019 3:36:14 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40000732 (ReginasRing)
+7/2/2019 3:36:20 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm tele'
+7/2/2019 3:39:13 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add saril'
+7/2/2019 3:39:14 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1876, 1923, 24) in Malas: "saril"
+7/2/2019 3:39:15 PM: 127.0.0.1: Serials: 0x48B; 
+7/2/2019 3:40:10 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/2/2019 3:40:10 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x48B "Saril" (no account)
+7/2/2019 3:54:49 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 3:55:06 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 3:55:25 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 3:55:52 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 3:56:11 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 3:56:25 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/2/2019 3:57:07 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 3:57:23 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 3:57:27 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 3:58:03 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/2/2019 3:58:04 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x48E "Ciala" (no account)
+7/2/2019 3:58:05 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x400030AF (Spawner)
+7/2/2019 3:58:06 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x491 "Vilo" (no account)
+7/2/2019 3:58:07 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x400030B2 (Spawner)
+7/2/2019 3:58:07 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x490 "Sleen" (no account)
+7/2/2019 3:58:08 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x400030B1 (Spawner)
+7/2/2019 3:58:09 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x48F "Jusae" (no account)
+7/2/2019 3:58:12 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/2/2019 3:58:12 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x400030B0 (Spawner)
+7/2/2019 3:58:13 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x48C "Ahie" (no account)
+7/2/2019 3:58:15 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x48D "Cailla" (no account)
+7/2/2019 3:58:19 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'wipe '
+7/2/2019 3:58:20 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') wiping from (1872, 1925, 24) to (1874, 1926, 25) in Malas (Items, Mobiles)
+7/2/2019 3:58:59 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 3:59:03 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:01:07 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:01:42 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:02:02 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:02:32 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:02:47 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:02:50 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:03:21 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add tiana'
+7/2/2019 4:03:25 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/2/2019 4:03:26 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003E55 (Spawner)
+7/2/2019 4:04:41 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:04:55 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:04:58 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:05:13 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:05:27 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:05:29 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:05:34 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/2/2019 4:05:54 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:06:18 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:06:32 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:06:35 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:06:54 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add canir'
+7/2/2019 4:06:58 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/2/2019 4:06:59 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40005282 (Spawner)
+7/2/2019 4:07:16 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:07:18 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:07:27 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/2/2019 4:07:27 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x4000593E (Spawner)
+7/2/2019 4:07:45 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:07:48 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:08:48 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:09:00 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:09:02 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:09:31 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:09:45 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:09:47 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:10:27 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:10:40 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:10:43 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:11:46 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:12:01 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:12:04 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:12:08 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/2/2019 4:12:09 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40007AF7 (Spawner)
+7/2/2019 4:12:20 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:12:22 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:13:47 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:14:04 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:14:06 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:14:35 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:14:50 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:14:52 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:15:15 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:15:31 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:15:33 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:16:18 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:16:50 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:17:01 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:17:04 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:17:50 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:18:04 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:18:06 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:18:27 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'where '
+7/2/2019 4:18:40 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:18:43 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:19:57 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'save '
+7/2/2019 4:26:08 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+7/2/2019 4:26:11 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+7/2/2019 4:26:11 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawner '
+7/2/2019 4:30:39 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (5020 objects)
+7/2/2019 4:30:39 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/2/2019 4:30:40 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 5020 objects
+7/2/2019 4:31:07 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+7/2/2019 4:31:16 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+7/2/2019 4:31:21 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+7/2/2019 4:31:23 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:31:44 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/2/2019 4:31:47 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/2/2019 4:31:51 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'save '
+7/2/2019 4:54:40 PM: 127.0.0.1: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'go '

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<places>
+	<parent name="Malas">
+		<parent name="Towns">
+			<parent name="Hammerhill">
+                                <child name="Moongate" x="1194" y="1143" z="46" />
+				<child name="Bank - First Country Bank of Hammerhill" x="1178" y="1050" z="5" />
+				<child name="Blacksmiths - The Hammerhill Ironworks OUTDATED" x="1158" y="1055" z="10" />
+				<child name="Carpenter - John Carpenter's Woodshop" x="1153" y="1095" z="0" />
+                                <child name="Inn - Slumberland Inn" x="1243" y="1058" z="0" />
+                                <child name="Mage Shop - Haree Potters" x="1246" y="1107" z="0" />
+                                <child name="Tavern - Seven Deadly Sins Tavern" x="1220" y="1044" z="0" />
+			</parent>
+			<parent name="Elmhaven">
+                                <child name="Moongate" x="638" y="746" z="5" />
+				<child name="Alchemist - Potion Paradise" x="677" y="594" z="-4" />
+				<child name="Architect - Home Sweet Home Realty" x="746" y="692" z="-4" />
+				<child name="Armourer - Decent Defense" x="632" y="580" z="0" />
+				<child name="Baker - Cupcake Cavalry" x="656" y="604" z="0" />
+				<child name="Bank - Village Vault of Elmhaven" x="720" y="679" z="-5" />
+				<child name="Barbershop - Lions Mane Barbershop" x="709" y="574" z="-5" />
+				<child name="Bard - Symphony of the Night" x="665" y="586" z="0" />
+				<child name="Blacksmith - Forge of Valor" x="626" y="597" z="0" />
+				<child name="Butcher - The Beefy Slab" x="769" y="617" z="-13" />
+				<child name="Carpenter - Woodworkers Union" x="616" y="642" z="10" />
+				<child name="Docks" x="731" y="466" z="6" />
+				<child name="Farmers Market - Sunny Produce" x="679" y="706" z="15" />
+				<child name="Fletcher - The Razor Quill" x="677" y="674" z="0" />
+				<child name="Flower Shop - The Green Thumb" x="757" y="652" z="10" />
+				<child name="Gem Crafter - Callous Heart Gems" x="753" y="684" z="-4" />
+				<child name="Glassblower - The Vial Hut" x="791" y="636" z="0" />
+				<child name="Healer - Chapel of St Kithra" x="791" y="588" z="-2" />
+				<child name="Inn - Firefly Lounge" x="758" y="575" z="0" />
+				<child name="Jeweler - Jewels of the Mountain Deep" x="766" y="599" z="-2" />
+				<child name="Library - Library of Historic Lore" x="710" y="600" z="-12" />
+				<child name="Provisioner - Travelers Warehouse" x="792" y="619" z="-6" />
+				<child name="Reagent Shop - Components R' Us" x="675" y="607" z="0" />
+				<child name="Scribe - Discounted Scrolls" x="683" y="575" z="-3" />
+				<child name="Stables - Equestrian Enterprise" x="713" y="635" z="0" />
+				<child name="Stonecrafter - The Stonecutters" x="706" y="562" z="-3" />
+				<child name="Tailor - The Silkiest Thread" x="673" y="643" z="4" />
+				<child name="Tavern - Oh Thank Heaven Pub" x="738" y="601" z="-4" />
+				<child name="Tinker - Real Steel Craftworks" x="638" y="600" z="0" />
+				<child name="Wand Crafter - Trinkets of the Arcane" x="664" y="679" z="0" />
+				<child name="Weaponsmith - Forged Punishment" x="621" y="582" z="0" />
+			</parent>
+			<parent name="Elandrim Nur Shaz">
+                                <child name="Moongate" x="534" y="728" z="29" />
+				<child name="Entrance" x="506" y="719" z="32" />
+			</parent>
+			<parent name="Old Plunderer's Haven">
+                                <child name="Moongate" x="754" y="1248" z="20" />
+				<child name="Campsite" x="740" y="1235" z="20" />
+			</parent>
+			<parent name="Coven's Landing">
+				<child name="Bank - Aqua Hedge Investors Bank" x="1760" y="430" z="35" />
+				<child name="Carpenter - Ministry of Wood Hammering" x="1788" y="437" z="35" />
+				<child name="Fletcher - Emiyoko Residence" x="1631" y="529" z="1" />
+				<child name="Healer" x="1777" y="441" z="35" />
+				<child name="Mage Shop - Secrets of the Abyssal Fathoms" x="1816" y="437" z="35" />
+				<child name="Stables" x="1825" y="394" z="45" />
+				<child name="Tailor - Maiden's Selections" x="1756" y="448" z="40" />
+				<child name="Tavern - The Winchester" x="1850" y="434" z="35" />
+			</parent>
+			<parent name="Guardians Horizon - WIP">
+				<child name="Camp Entrance" x="276" y="1683" z="16" />
+			</parent>
+			<parent name="Red Dagger Keep">
+                                <child name="Moongate" x="382" y="1884" z="29" />
+				<child name="SE Entrance" x="404" y="1921" z="14" />
+				<child name="Alchemist - Dark Chest of Wonders" x="271" y="1883" z="39" />
+				<child name="Arena" x="161" y="1871" z="39" />
+				<child name="Bank 1 - Ecstacy of Gold" x="370" y="1913" z="22" />
+				<child name="Bank 2 - YMCA Bank" x="291" y="1808" z="15" />
+				<child name="Bard - Dueling Banjos" x="389" y="1922" z="10" />
+				<child name="Beer Brewer" x="268" y="1785" z="15" />
+				<child name="Blacksmith 1" x="337" y="1910" z="25" />
+				<child name="Blacksmith 2" x="237" y="1702" z="27" />
+				<child name="Butcher - Hamlet Hamberders" x="282" y="1814" z="15" />
+				<child name="Carpenter" x="232" y="1810" z="15" />
+				<child name="Cook - Churchs Chicken" x="290" y="1893" z="39" />
+				<child name="Farm" x="199" y="1751" z="14" />
+				<child name="Fletcher - Fly Like An Eagle" x="282" y="1902" z="39" />
+				<child name="Healer 1 - Bring Me To Life" x="387" y="1906" z="10" />
+				<child name="Healer 2 - Wake Me Up Inside" x="293" y="1785" z="15" />
+				<child name="Inn 1 - The Old and the Restless" x="349" y="1878" z="29" />
+				<child name="Inn 2" x="325" y="1793" z="24" />
+				<child name="Jeweler - Eye of the Tiger" x="268" y="1870" z="39" />
+				<child name="Juice Maker" x="277" y="1784" z="15" />
+				<child name="Leather Worker" x="254" y="1785" z="15" />
+				<child name="Library - The Neverending Story" x="383" y="1841" z="34" />
+				<child name="Provisioner - Seed of Memory" x="271" y="1797" z="15" />
+				<child name="Reagent Shop" x="284" y="1817" z="15" />
+				<child name="Scribe - Dark Chest of Wonders" x="271" y="1883" z="39" />
+				<child name="Stables - Children of the Sandstorm" x="385" y="1864" z="10" />
+				<child name="Tailor - Dead Gardens" x="255" y="1808" z="15" />
+				<child name="Tavern 1 - The Slam Shuffle" x="326" y="1895" z="25" />
+				<child name="Tavern 2" x="225" y="1869" z="34" />
+				<child name="Tavern 3" x="265" y="1705" z="22" />
+				<child name="Theater" x="327" y="1810" z="24" />
+				<child name="Tinker" x="260" y="1811" z="15" />
+				<child name="Scurvy Skarmarhy Galleon" x="60" y="1811" z="13" />
+			</parent>
+			<parent name="Skaddria Naddheim">
+				<child name="Entrance to Zaythalor Region" x="1366" y="2021" z="0" />
+				<child name="Entrance to Side Island" x="1527" y="1959" z="5" />
+				<child name="Entrance to Dragon Storm Island Moongate" x="1831" y="1846" z="10" />
+				<child name="Dawnguard Cathedral" x="1553" y="1836" z="40" />
+				<child name="Alchemist - The Magicians Corner" x="1647" y="1857" z="5" />
+				<child name="Arena" x="1710" y="1854" z="22" />
+				<child name="Auction House" x="1620" y="1858" z="5" />
+				<child name="Baker - Muffin Mayhem" x="1687" y="1912" z="5" />
+				<child name="Bank - First State Bank of Skaddria Naddheim" x="1629" y="1880" z="5" />
+				<child name="Bard - The Bard's Tale" x="1614" y="1953" z="5" />
+				<child name="Blacksmith - Ruffneck Ironworks" x="1613" y="1935" z="5" />
+				<child name="Butcher - The Meat Cleaver" x="1623" y="1834" z="5" />
+				<child name="Carpenter - John Carpenter's Woodshop" x="1593" y="1843" z="5" />
+				<child name="Cartographer" x="1675" y="1889" z="5" />
+				<child name="Concert Hall" x="1673" y="1948" z="5" />
+				<child name="Fisherman" x="1604" y="1835" z="5" />
+				<child name="Fletcher - Eagle Eyes" x="1675" y="1898" z="5" />
+				<child name="Healer - Mystic Ark" x="1626" y="1959" z="5" />
+				<child name="Inn - Slumberland Inn" x="1601" y="1903" z="5" />
+				<child name="Jeweler - Ruby Tuesday" x="1613" y="1847" z="5" />
+				<child name="Library - Treasured Tomes" x="1613" y="1865" z="5" />
+				<child name="Provisioner - The Road Warrior" x="1687" y="1923" z="5" />
+				<child name="Reagent Shop - Resource Management" x="1677" y="1936" z="5" />
+				<child name="Stables" x="1613" y="1923" z="5" />
+				<child name="Tailor - The Needle's Thread" x="1630" y="1903" z="5" />
+				<child name="Tavern - Stag Beetle Lodge" x="1564" y="1936" z="25" />
+				<child name="Tinker" x="1589" y="1834" z="5" />
+				<child name="Training Grounds" x="1666" y="1880" z="5" />
+				<child name="Boulder Tunnel - Skaddria Entrance" x="1779" y="1775" z="6" />
+			</parent>
+			<parent name="Seraphim Peak - WIP">
+				<child name="West Entrance" x="706" y="155" z="17" />
+				<child name="Cathedral" x="782" y="297" z="0" />
+			</parent>
+		</parent>
+		<parent name="Dungeons">
+			<parent name="Dungeon Entrances">
+				<child name="Agurast Ascension" x="625" y="891" z="21" />
+				<child name="Amul Seketsi Royal Tomb" x="882" y="2001" z="10" />
+				<child name="Bharlim Passage - Autumnwood Entrance" x="1296" y="1499" z="0" />
+				<child name="Bharlim Passage - Desert Entrance" x="600" y="1839" z="0" />
+				<child name="Black Widow Pit" x="277" y="848" z="29" />
+				<child name="Bleak Wind Tunnels" x="1550" y="894" z="55" />
+				<child name="Boulder Tunnel - Skaddria Entrance" x="1779" y="1775" z="6" />
+				<child name="Boulder Tunnel - Zaythalor Entrance" x="1422" y="1095" z="0" />
+				<child name="Dragons Den" x="1825" y="1027" z="-23" />
+				<child name="Elmhaven Mineshaft" x="792" y="780" z="20" />
+				<child name="Everstar Estuary" x="969" y="185" z="-36" />
+				<child name="Fortress Calcifina" x="1078" y="1771" z="0" />
+				<child name="Fungully Grotto" x="907" y="637" z="28" />
+				<child name="Ghuul Sanctuary" x="791" y="1629" z="22" />
+				<child name="Guardians Desert Bunker" x="624" y="1589" z="20" />
+				<child name="Guardians Power Plant" x="278" y="1605" z="16" />
+				<child name="Hammerhill Sewers" x="1201" y="1073" z="-10" />
+				<child name="Iguana Cove" x="319" y="808" z="-28" />
+				<child name="Kal-Berbesia" x="1580" y="203" z="60" />
+				<child name="Mongbat Hideout" x="1341" y="1198" z="0" />
+				<child name="Murkmere Dwelling" x="1776" y="1425" z="0" />
+				<child name="Nimaku Lava Basin" x="564" y="1249" z="1" />
+				<child name="Oboru Burial Grounds" x="444" y="1229" z="12" />
+				<child name="Passage of Lost Souls" x="557" y="64" z="19" />
+				<child name="Rockbitter Vault" x="341" y="1434" z="12" />
+				<child name="Scurvy Skarmarhy Galleon" x="60" y="1811" z="13" />
+				<child name="Seaspray Solitude" x="635" y="1708" z="-15" />
+				<child name="Sentinels Military Base" x="1550" y="1190" z="3" />
+				<child name="Stone Burrow Mines" x="1395" y="1670" z="15" />
+				<child name="Swampwater Solitude" x="1064" y="1186" z="0" />
+				<child name="Tarnithok Fortress - PW Required" x="864" y="985" z="-45" />
+				<child name="Whispering Hollow" x="352" y="648" z="-39" />
+			</parent>
+		</parent>
+		<parent name="Sites">
+			<parent name="Alytharr Region">
+				<child name="Alytharr Tavern" x="712" y="802" z="4" />
+				<child name="Brigand Camp" x="913" y="780" z="3" />
+				<child name="Manchester Pub" x="510" y="804" z="15" />
+				<child name="Theresa Residence" x="720" y="793" z="5" />
+			</parent>
+			<parent name="Autumn Wood">
+				<child name="Abandoned Residence" x="1216" y="1411" z="20" />
+				<child name="Autumn Wood" x="1127" y="1274" z="2" />
+				<child name="Beach" x="1271" y="1483" z="-4" />
+				<child name="Fortress Calcifina Entrance" x="1141" y="1795" z="4" />
+				<child name="Harpy Nest" x="1193" y="1836" z="-2" />
+				<child name="Island of Giants Moongate" x="1334" y="1330" z="-2" />
+				<child name="Maggie's Produce" x="1223" y="1780" z="6" />
+			</parent>
+			<parent name="Dragon Storm Island">
+				<child name="Dragon Storm Island" x="1813" y="1102" z="6" />
+			</parent>
+			<parent name="Farron Glades">
+				<child name="South Entrance to Glimmerwood" x="225" y="301" z="11" />
+			</parent>
+			<parent name="Glimmerwood">
+				<child name="Entrance" x="364" y="733" z="-20" />
+				<child name="Cairn Forlorn" x="295" y="459" z="30" />
+				<child name="Cave 1" x="248" y="793" z="-22" />
+				<child name="Cave 2" x="82" y="711" z="-30" />
+				<child name="Cave 3" x="194" y="506" z="10" />
+				<child name="Cave 4" x="362" y="488" z="-1" />
+				<child name="Cave 5" x="338" y="473" z="20" />
+				<child name="Island Closest to Elysstia" x="352" y="135" z="25" />
+			</parent>
+			<parent name="Harashi Nabi Wastelands">
+				<child name="Harashi Nabi - North Entrance" x="664" y="1494" z="7" />
+				<child name="Harashi Nabi - East Entrance" x="717" y="1546" z="16" />
+				<child name="Harashi Nabi Tavern" x="678" y="1818" z="31" />
+				<child name="Comwell Manor" x="506" y="1743" z="26" />
+				<child name="Lakeshire Entrance" x="225" y="1838" z="16" />
+				<child name="Lorentius Manor" x="549" y="1617" z="29" />
+				<child name="Ophidian Palace" x="424" y="1505" z="10" />
+				<child name="Orwick Farmhouse" x="468" y="1945" z="20" />
+				<child name="St. Abitha Monastery" x="125" y="1575" z="0" />
+				<child name="Thalidor Residence" x="472" y="1704" z="30" />
+				<child name="The Cactus Hub" x="249" y="1537" z="15" />
+			</parent>
+			<parent name="Jade Jungle">
+				<child name="Entrance - Zaythalor Region" x="1083" y="750" z="5" />
+			</parent>
+			<parent name="Llama Island">
+				<child name="Llama Island" x="1750" y="1232" z="30" />
+			</parent>
+			<parent name="Oboru Jungle">
+				<child name="Bog of Toads" x="508" y="1236" z="5" />
+				<child name="Island Closest to Tartarrix" x="168" y="1151" z="32" />
+				<child name="Tiki Tsundara" x="125" y="967" z="5" />
+			</parent>
+			<parent name="Samson Swamplands">
+				<child name="Ponyo Plateau" x="1672" y="1691" z="75" />
+				<child name="Samson Swamplands - North Entrance" x="1638" y="1275" z="15" />
+				<child name="Samson Swamplands - South Entrance" x="1743" y="1650" z="50" />
+				<child name="Samson Swamplands - West Entrance" x="1483" y="1386" z="20" />
+			</parent>
+			<parent name="Wintergrove">
+				<child name="Entrance" x="934" y="294" z="-4" />
+				<child name="Lake Wanderlust" x="1468" y="282" z="29" />
+				<child name="Fletcher - Emiyoko Residence" x="1631" y="529" z="1" />
+			</parent>
+			<parent name="Zaythalor Region">
+				<child name="Zaythalor Forest - South Entrance 1" x="658" y="1292" z="5" />
+				<child name="Zaythalor Forest - South Entrance 2" x="792" y="1268" z="-1" />
+				<child name="Abandoned Mage Tower" x="1320" y="854" z="5" />
+				<child name="Camp Maplethorne" x="1301" y="1243" z="0" />
+				<child name="Crabtree Residence" x="1100" y="939" z="5" />
+				<child name="Cranshaw Residence" x="626" y="1216" z="14" />
+				<child name="Faerie Beetle Grove" x="1394" y="1151" z="11" />
+				<child name="Grasshopper Bog" x="1299" y="1010" z="3" />
+				<child name="Hammerhill Farmlands" x="1166" y="1147" z="2" />
+				<child name="Ivanguard Residence" x="1114" y="1011" z="-8" />
+				<child name="Lighthouse" x="651" y="1363" z="20" />
+				<child name="Lorentius Manor" x="824" y="1340" z="1" />
+				<child name="Popplewell Ranch" x="1225" y="1153" z="0" />
+				<child name="Pride Picnic" x="1012" y="990" z="6" />
+				<child name="Sabrina's Farm" x="1516" y="1127" z="0" />
+				<child name="Sagitta Residence" x="817" y="1084" z="0" />
+				<child name="Scholars of the Forbidden Sins" x="856" y="735" z="60" />
+				<child name="Smith and Westerson" x="773" y="1355" z="1" />
+				<child name="Star Lake" x="990" y="1208" z="-14" />
+				<child name="Thornforge Manor" x="1059" y="982" z="20" />
+				<child name="Wintergrove Entrance" x="1084" y="830" z="48" />
+				<child name="Zaythalor Colosseum" x="868" y="928" z="7" />
+				<child name="Zaythalor Graveyard" x="1206" y="961" z="0" />
+				<child name="Zaythalor Tavern" x="1134" y="938" z="15" />
+				<child name="Zaythalor Zoo" x="1361" y="1106" z="2" />
+			</parent>
+			<parent name="Unused Areas">
+				<child name="Ghost Island - WIP" x="322" y="1303" z="-5" />
+				<child name="Class Gates" x="2519" y="1972" z="0" />
+			</parent>
+			<parent name="Town Houses">
+				<child name="Alytharr Beach Home" x="509" y="866" z="-5" />
+				<child name="THX Theater Home" x="604" y="689" z="1" />
+			</parent>
+		</parent>
+		<parent name="Quest NPCs">
+			<parent name="A Flag For Hammerhill">
+				<child name="Quest NPC - Ralph" x="1253" y="1093" z="10" />
+			</parent>
+			<parent name="Baroque O Rama">
+				<child name="Quest NPC - Melanaha" x="1633" y="1899" z="10" />
+			</parent>
+			<parent name="Birdemic">
+				<child name="Quest NPC - Vas Gharn" x="944" y="1068" z="9" />
+			</parent>
+			<parent name="Bright Club">
+				<child name="Quest NPC - The Lighthouse Keeper" x="652" y="1362" z="20" />
+			</parent>
+			<parent name="Champion Hunt 1">
+				<child name="Quest NPC - Fharlune" x="721" y="605" z="-4" />
+			</parent>
+			<parent name="Egg Collector">
+				<child name="Quest NPC - Sabrina" x="1507" y="1129" z="0" />
+			</parent>
+			<parent name="Enchanted Shovel">
+				<child name="Quest NPC - Theresa" x="720" y="790" z="10" />
+			</parent>
+			<parent name="Feesh Tendees">
+				<child name="Quest NPC - Cottoneye Job" x="1207" y="1047" z="30" />
+			</parent>
+			<parent name="Full Metal Forgery">
+				<child name="Quest NPC - Engaged Orc" x="1228" y="1782" z="6" />
+			</parent>
+			<parent name="Haldurs Bait">
+				<child name="Quest NPC - Haldur the Fisherman" x="1136" y="938" z="15" />
+			</parent>
+			<parent name="Insecticide">
+				<child name="Quest NPC - David Cranshaw" x="626" y="1215" z="14" />
+			</parent>
+			<parent name="Jade Jungle Jems">
+				<child name="Quest NPC - Filkien" x="766" y="599" z="-2" />
+			</parent>
+			<parent name="Kiss of the Serpent Mistress">
+				<child name="Quest NPC - Quill Razorwind" x="486" y="684" z="52" />
+			</parent>
+			<parent name="Leather Shortage">
+				<child name="Quest NPC - Nathan Smith" x="1640" y="1892" z="10" />
+				<child name="Quest NPC - Talarah" x="665" y="635" z="4" />
+			</parent>
+			<parent name="Letter Delivery">
+				<child name="Quest NPC - Cecilia Wintergreen" x="758" y="575" z="0" />
+                                <child name="Quest NPC - Ozzy Mason" x="1243" y="1058" z="0" />
+			</parent>
+			<parent name="Molasses Greed">
+				<child name="Quest NPC - Feron" x="773" y="1354" z="1" />
+			</parent>
+			<parent name="Ore Shortage">
+				<child name="Quest NPC - Lewis Townsend" x="1608" y="1943" z="30" />
+				<child name="Quest NPC - Lynis" x="615" y="599" z="0" />
+			</parent>
+			<parent name="Spiderwick Chronicles">
+				<child name="Quest NPC - Gilmora" x="671" y="635" z="4" />
+			</parent>
+			<parent name="Staff of Flying Monkeys">
+				<child name="Quest NPC - Boryan" x="1656" y="1903" z="5" />
+			</parent>
+			<parent name="Star Lake Infestation">
+				<child name="Quest NPC - Travis Crabtree" x="1100" y="940" z="5" />
+			</parent>
+			<parent name="Stolen Necklace">
+				<child name="Quest NPC - Raina" x="1601" y="1903" z="5" />
+			</parent>
+			<parent name="Sweet Child of Mine">
+				<child name="Quest NPC - Debbie Ivanguard" x="1115" y="1014" z="-8" />
+			</parent>
+			<parent name="The Fair Elain">
+				<child name="Quest NPC - Acaras" x="699" y="908" z="9" />
+				<child name="Quest NPC - Alecsander" x="1548" y="1934" z="45" />
+				<child name="Quest NPC - Andora" x="1303" y="1230" z="0" />
+				<child name="Quest NPC - Erik Sullivan" x="1738" y="1983" z="-5" />
+				<child name="Quest NPC - Vacar James" x="1613" y="1865" z="5" />
+			</parent>
+			<parent name="Thinning Out The Herd">
+				<child name="Quest NPC - Fluffy Snapper" x="1297" y="1132" z="0" />
+			</parent>
+			<parent name="This Is Not Halloween">
+				<child name="Quest NPC - Vargas" x="727" y="1228" z="20" />
+			</parent>
+			<parent name="Those Blue Bastards">
+				<child name="Quest NPC - Ruffus Weinstein" x="1218" y="1171" z="0" />
+			</parent>
+			<parent name="Treasure of the Sands">
+				<child name="Quest NPC - Melinhara" x="505" y="672" z="32" />
+			</parent>
+			<parent name="Witch Apprentice">
+				<child name="Quest NPC - Blackheart" x="1550" y="1940" z="25" />
+				<child name="Quest NPC - Grizelda the Hag" x="1083" y="881" z="-19" />
+			</parent>
+			<parent name="Unmarked">
+				<child name="Quest NPC - Jasmin" x="317" y="806" z="-23" />
+				<child name="Quest NPC - Mycologist" x="267" y="1796" z="20" />
+				<child name="Quest NPC - Pilock" x="457" y="1949" z="40" />
+			</parent>
+		</parent>
+	</parent>
+</places>

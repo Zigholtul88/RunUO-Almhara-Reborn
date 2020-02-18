@@ -1,0 +1,36 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 7228.26719
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.9148
+Time: 11/21/2019 8:37:55 PM
+Mobiles: 3160
+Items: 22194
+Exception:
+System.TypeInitializationException: The type initializer for 'Server.Gumps.GoGump' threw an exception. ---> System.Xml.XmlException: An error occurred while parsing EntityName. Line 313, position 30.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseEntityName()
+   at System.Xml.XmlTextReaderImpl.ParseAttributeValueSlow(Int32 curPos, Char quoteChar, NodeData attr)
+   at System.Xml.XmlTextReaderImpl.ParseAttributes()
+   at System.Xml.XmlTextReaderImpl.ParseElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at Server.Gumps.ParentNode.Parse(XmlTextReader xml)
+   at Server.Gumps.ParentNode.Parse(XmlTextReader xml)
+   at Server.Gumps.ParentNode.Parse(XmlTextReader xml)
+   at Server.Gumps.LocationTree..ctor(String fileName, Map map)
+   at Server.Gumps.GoGump..cctor()
+   --- End of inner exception stack trace ---
+   at Server.Gumps.GoGump.DisplayTo(Mobile from)
+   at Server.Commands.CommandHandlers.Go_OnCommand(CommandEventArgs e)
+   at Server.Commands.CommandSystem.Handle(Mobile from, String text, MessageType type)
+   at Server.Mobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue)
+   at Server.Mobiles.PlayerMobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue)
+   at Server.Network.PacketHandlers.UnicodeSpeech(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x11 'gggg')

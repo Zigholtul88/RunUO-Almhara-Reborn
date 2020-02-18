@@ -1,0 +1,183 @@
+##############################
+Log started on 2/4/2019 8:10:15 PM
+
+2/4/2019 8:10:26 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'speedboost '
+2/4/2019 8:10:30 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'go '
+2/4/2019 8:10:46 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add spider'
+2/4/2019 8:10:51 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (274, 1693, 16) in Malas: "YoungSpiderling"
+2/4/2019 8:10:51 PM: 127.0.0.1: Serials: 0x78; 
+2/4/2019 8:11:29 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'props '
+2/4/2019 8:11:36 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add hangov'
+2/4/2019 8:11:37 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (273, 1694, 16) in Malas: "HangoverCure"
+2/4/2019 8:11:37 PM: 127.0.0.1: Serials: 0x4000039B; 
+2/4/2019 8:11:43 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'remove '
+2/4/2019 8:11:44 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x4000039B (HangoverCure)
+2/4/2019 8:12:01 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'remove '
+2/4/2019 8:12:04 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x4000039A (SpiderPotion)
+2/4/2019 8:12:07 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'admin '
+2/4/2019 8:12:10 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/4/2019 8:12:13 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/4/2019 8:44:16 PM
+
+2/4/2019 8:44:25 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'speedboost '
+2/4/2019 8:44:30 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add spiderpotion'
+2/4/2019 8:44:32 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (267, 1726, 20) in Malas: "spiderpotion"
+2/4/2019 8:44:32 PM: 127.0.0.1: Serials: 0x400003AA; 
+2/4/2019 8:44:42 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'remove '
+2/4/2019 8:44:44 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x400003AA (SpiderPotion)
+2/4/2019 8:55:21 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/4/2019 8:57:53 PM
+
+2/4/2019 10:27:37 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'speedboost '
+2/4/2019 10:27:47 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add spiderpotion'
+2/4/2019 10:27:48 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (268, 1725, 20) in Malas: "spiderpotion"
+2/4/2019 10:27:48 PM: 127.0.0.1: Serials: 0x40000AC0; 
+2/4/2019 10:28:09 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'setskill tasteid 49'
+2/4/2019 10:28:10 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') set property 'TasteID.Base' of 0x75 "Derp" ('Zigholtul88') to '49'
+2/4/2019 10:28:21 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'setskill tasteid 50'
+2/4/2019 10:28:21 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') set property 'TasteID.Base' of 0x75 "Derp" ('Zigholtul88') to '50'
+2/4/2019 10:28:54 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'remove '
+2/4/2019 10:28:56 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000AC0 (SpiderPotion)
+2/4/2019 10:37:47 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/4/2019 10:40:23 PM
+
+2/4/2019 10:41:36 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'speedboost '
+2/4/2019 10:41:42 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add spiderpotion'
+2/4/2019 10:41:43 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (259, 1717, 14) in Malas: "spiderpotion"
+2/4/2019 10:41:43 PM: 127.0.0.1: Serials: 0x40000AF0; 
+2/4/2019 10:41:55 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'setskill tasteid 49'
+2/4/2019 10:41:55 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') set property 'TasteID.Base' of 0x75 "Derp" ('Zigholtul88') to '49'
+2/4/2019 10:42:05 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'setskill tasteid 50'
+2/4/2019 10:42:05 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') set property 'TasteID.Base' of 0x75 "Derp" ('Zigholtul88') to '50'
+2/4/2019 10:42:24 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'remove '
+2/4/2019 10:42:26 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000AF0 (SpiderPotion)
+2/4/2019 10:46:49 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/4/2019 10:49:25 PM
+
+2/4/2019 10:58:49 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'speedboost '
+2/4/2019 10:58:56 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add spiderpotion'
+2/4/2019 10:58:57 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (259, 1717, 14) in Malas: "spiderpotion"
+2/4/2019 10:58:57 PM: 127.0.0.1: Serials: 0x40000B32; 
+2/4/2019 11:22:57 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'set hits 500'
+2/4/2019 11:22:59 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') set property 'hits' of 0x75 "Derp" ('Zigholtul88') to '500'
+2/4/2019 11:23:33 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add asharrow 500'
+2/4/2019 11:23:36 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1095, 1062, 8) in Malas: "asharrow" "500"
+2/4/2019 11:23:36 PM: 127.0.0.1: Serials: 0x40000C5E; 
+2/4/2019 11:23:50 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'set hits 500'
+2/4/2019 11:23:50 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') set property 'hits' of 0x75 "Derp" ('Zigholtul88') to '500'
+2/4/2019 11:23:55 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'setallskills 100'
+2/4/2019 11:23:56 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') set property 'EverySkill.Base' of 0x75 "Derp" ('Zigholtul88') to '100'
+2/4/2019 11:25:05 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') starting facet clear of Malas (4450 objects)
+2/4/2019 11:25:05 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'clearfacet '
+2/4/2019 11:25:07 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 4450 objects
+2/4/2019 11:25:10 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'm remove'
+2/4/2019 11:25:11 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x400006E2 (DeathRobe)
+2/4/2019 11:25:12 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x4000048E (DeathRobe)
+2/4/2019 11:25:13 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x4000069B (DeathRobe)
+2/4/2019 11:25:14 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000388 (ReinassanceShirt)
+2/4/2019 11:25:15 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000396 (Boots)
+2/4/2019 11:25:17 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000393 (LeatherGloves)
+2/4/2019 11:25:18 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x4000038A (Boots)
+2/4/2019 11:25:19 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000351 (Pitcher)
+2/4/2019 11:25:20 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x4000036A (PoisonPotion)
+2/4/2019 11:25:21 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000387 (DeadlyPoisonPotion)
+2/4/2019 11:25:22 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000990 (Bottle)
+2/4/2019 11:25:23 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000394 (Shirt)
+2/4/2019 11:25:23 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000382 (GreaterPoisonPotion)
+2/4/2019 11:25:24 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40000395 (Skirt)
+2/4/2019 11:25:28 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add gmrobe'
+2/4/2019 11:25:29 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1183, 1054, 0) in Malas: "gmrobe"
+2/4/2019 11:25:29 PM: 127.0.0.1: Serials: 0x40000C83; 
+2/4/2019 11:25:34 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'go '
+2/4/2019 11:26:37 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add minte'
+2/4/2019 11:26:42 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1634, 1876, 10) in Malas: "TownMinter"
+2/4/2019 11:26:42 PM: 127.0.0.1: Serials: 0x17F; 
+2/4/2019 11:26:45 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'remove '
+2/4/2019 11:26:56 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'remove '
+2/4/2019 11:26:57 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x17F "Forsythe" (no account)
+2/4/2019 11:27:32 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'where '
+2/4/2019 11:27:59 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'admin '
+2/4/2019 11:28:06 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add skaddria'
+2/4/2019 11:28:28 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'go '
+2/4/2019 11:28:46 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'where '
+2/4/2019 11:29:22 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'admin '
+2/4/2019 11:29:26 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'decorate '
+2/4/2019 11:30:09 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1618, 1905, 5) in Malas: "SkaddriaVarietyDealer"
+2/4/2019 11:30:09 PM: 127.0.0.1: Serials: 0x192; 
+2/4/2019 11:30:23 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'remove '
+2/4/2019 11:30:24 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x192 "Andries" (no account)
+2/4/2019 11:30:37 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'where '
+2/4/2019 11:30:39 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'go '
+2/4/2019 11:30:52 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'go '
+2/4/2019 11:31:11 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'where '
+2/4/2019 11:31:54 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'admin '
+2/4/2019 11:31:57 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'decorate '
+2/4/2019 11:33:09 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'go '
+2/4/2019 11:34:09 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'admin '
+2/4/2019 11:34:11 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'premiumspawner '
+2/4/2019 11:34:13 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'runuospawnerexporter '
+2/4/2019 11:34:13 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'spawner '
+2/4/2019 11:35:07 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'go '
+2/4/2019 11:35:55 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'where '
+2/4/2019 11:36:24 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'admin '
+2/4/2019 11:36:30 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') starting facet clear of Malas (960 objects)
+2/4/2019 11:36:30 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'clearfacet '
+2/4/2019 11:36:32 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 960 objects
+2/4/2019 11:36:34 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'admin '
+2/4/2019 11:36:37 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'decorate '
+2/4/2019 11:36:42 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'premiumspawner '
+2/4/2019 11:36:44 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'runuospawnerexporter '
+2/4/2019 11:36:44 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'spawner '
+2/4/2019 11:37:14 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') starting facet clear of Malas (955 objects)
+2/4/2019 11:37:14 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'clearfacet '
+2/4/2019 11:37:15 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 955 objects
+2/4/2019 11:40:46 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'spawngen malas/towns.map'
+2/4/2019 11:40:51 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'spawngen malas/regions.map'
+2/4/2019 11:40:55 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+2/4/2019 11:40:59 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'admin '
+2/4/2019 11:41:01 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'decorate '
+2/4/2019 11:41:07 PM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'save '
+2/5/2019 12:06:13 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add oakarrow'
+2/5/2019 12:06:14 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1238, 1049, 0) in Malas: "oakarrow"
+2/5/2019 12:06:14 AM: 127.0.0.1: Serials: 0x40004C68; 
+2/5/2019 12:06:17 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'props '
+2/5/2019 12:06:41 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add yewarrow'
+2/5/2019 12:06:42 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1239, 1048, 0) in Malas: "yewarrow"
+2/5/2019 12:06:42 AM: 127.0.0.1: Serials: 0x40004C6E; 
+2/5/2019 12:06:45 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'props '
+2/5/2019 12:07:01 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add asharrow'
+2/5/2019 12:07:03 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1238, 1050, 0) in Malas: "asharrow"
+2/5/2019 12:07:03 AM: 127.0.0.1: Serials: 0x40004C6F; 
+2/5/2019 12:07:05 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'props '
+2/5/2019 12:07:36 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'm remove'
+2/5/2019 12:07:38 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40004C68 (OakArrow)
+2/5/2019 12:07:38 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40004C6E (YewArrow)
+2/5/2019 12:07:39 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40004C6F (AshArrow)
+2/5/2019 12:08:53 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add dullcopperbolt'
+2/5/2019 12:08:54 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1238, 1048, 0) in Malas: "dullcopperbolt"
+2/5/2019 12:08:54 AM: 127.0.0.1: Serials: 0x40004C8B; 
+2/5/2019 12:08:57 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'props '
+2/5/2019 12:09:00 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'props '
+2/5/2019 12:09:20 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add shadowironbolt'
+2/5/2019 12:09:21 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1239, 1047, 0) in Malas: "shadowironbolt"
+2/5/2019 12:09:21 AM: 127.0.0.1: Serials: 0x40004C8C; 
+2/5/2019 12:09:24 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'props '
+2/5/2019 12:09:40 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add bronzebolt'
+2/5/2019 12:09:42 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1238, 1047, 0) in Malas: "bronzebolt"
+2/5/2019 12:09:42 AM: 127.0.0.1: Serials: 0x40004C93; 
+2/5/2019 12:09:44 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'props '
+2/5/2019 12:09:59 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'm remove'
+2/5/2019 12:10:01 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40004C93 (BronzeBolt)
+2/5/2019 12:10:01 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40004C8B (DullCopperBolt)
+2/5/2019 12:10:02 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40004C8C (ShadowIronBolt)
+2/5/2019 12:26:08 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'add young'
+2/5/2019 12:26:14 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') building at (1176, 980, 5) in Malas: "YoungSpiderling"
+2/5/2019 12:26:14 AM: 127.0.0.1: Serials: 0x4A6; 
+2/5/2019 12:26:31 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'remove '
+2/5/2019 12:26:33 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') deleting 0x40004D06 (Corpse)
+2/5/2019 12:27:03 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'go '
+2/5/2019 12:28:45 AM: 127.0.0.1: Owner 0x75 "Derp" ('Zigholtul88') used command 'restart '

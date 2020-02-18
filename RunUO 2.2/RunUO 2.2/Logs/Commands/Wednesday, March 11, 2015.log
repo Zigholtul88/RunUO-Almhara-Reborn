@@ -1,0 +1,64 @@
+##############################
+Log started on 3/11/2015 12:09:38 AM
+
+3/11/2015 12:09:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/11/2015 12:09:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+3/11/2015 12:10:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpic'
+3/11/2015 12:10:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/11/2015 12:11:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/11/2015 12:12:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:13:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add sewerbovi'
+3/11/2015 12:13:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2468, 1295, 5) in Malas: "SewerBovine"
+3/11/2015 12:13:16 AM: 127.0.0.1: Serials: 0x463; 
+3/11/2015 12:13:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/11/2015 12:13:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x463 "a sewer bovine" (no account)
+3/11/2015 12:14:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:14:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:15:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:15:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:16:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:17:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:17:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:17:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:18:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:19:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 12:19:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/11/2015 12:19:47 AM
+
+3/11/2015 12:20:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add sewerhobo'
+3/11/2015 12:20:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2522, 1307, 5) in Malas: "sewerhobo"
+3/11/2015 12:20:12 AM: 127.0.0.1: Serials: 0x463; 
+3/11/2015 12:20:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+3/11/2015 12:20:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+3/11/2015 12:20:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set rawstr 50'
+3/11/2015 12:20:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'rawstr' of 0x1 "Zigholtul" ('Zigholtul88') to '50'
+3/11/2015 12:20:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/11/2015 12:20:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400000CB (Corpse)
+3/11/2015 12:21:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add gaseousslime'
+3/11/2015 12:21:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2521, 1307, 5) in Malas: "gaseousslime"
+3/11/2015 12:21:02 AM: 127.0.0.1: Serials: 0x4C7; 
+3/11/2015 12:22:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 250'
+3/11/2015 12:22:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '250'
+3/11/2015 12:22:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/11/2015 12:22:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400000D9 (Corpse)
+3/11/2015 12:22:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/11/2015 12:22:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+3/11/2015 12:34:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/11/2015 12:34:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/11/2015 12:34:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/11/2015 12:34:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/11/2015 12:49:13 AM
+
+3/11/2015 1:18:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2015 1:22:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/11/2015 1:22:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/11/2015 1:22:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/11/2015 1:46:05 AM
+
+3/11/2015 2:38:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/11/2015 2:46:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/11/2015 2:46:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/11/2015 2:46:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

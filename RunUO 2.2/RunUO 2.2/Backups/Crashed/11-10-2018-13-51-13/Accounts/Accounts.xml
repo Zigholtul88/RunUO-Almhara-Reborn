@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="4">
+	<account>
+		<username>Zigholtul88</username>
+		<password>freeglepluk</password>
+		<accessLevel>Owner</accessLevel>
+		<flags>2</flags>
+		<created>2018-05-21T12:24:50.5963109-04:00</created>
+		<lastLogin>2018-10-11T10:52:10.7316826-04:00</lastLogin>
+		<totalGameTime>P31DT22H11M45.2651626S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+			<char index="1">1158</char>
+			<char index="2">3</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="3">
+			<ip>127.0.0.1</ip>
+			<ip>71.215.60.141</ip>
+			<ip>71.215.247.156</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Yugitashi</username>
+		<password>freeglepluk</password>
+		<created>2018-06-24T16:45:48.8988848-04:00</created>
+		<lastLogin>2018-10-03T04:49:53.7844678-04:00</lastLogin>
+		<totalGameTime>PT5H11M36.8543623S</totalGameTime>
+		<chars>
+			<char index="0">5</char>
+			<char index="1">2215</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="2">
+			<ip>127.0.0.1</ip>
+			<ip>71.215.60.141</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Yugitashi2</username>
+		<password>freeglepluk</password>
+		<accessLevel>Administrator</accessLevel>
+		<created>2018-07-17T06:11:15.4995627-04:00</created>
+		<lastLogin>2018-09-03T15:20:05.9890158-04:00</lastLogin>
+		<totalGameTime>PT1H25M12.454474S</totalGameTime>
+		<chars>
+			<char index="0">4</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>jtdubya92</username>
+		<password>lkw92711</password>
+		<created>2018-10-03T02:12:26.0774553-04:00</created>
+		<lastLogin>2018-10-03T02:13:43.1305798-04:00</lastLogin>
+		<totalGameTime>PT7M51.2806529S</totalGameTime>
+		<chars>
+			<char index="0">2211</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>47.200.212.210</ip>
+		</addressList>
+	</account>
+</accounts>

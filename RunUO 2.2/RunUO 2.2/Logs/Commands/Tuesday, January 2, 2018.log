@@ -1,0 +1,47 @@
+##############################
+Log started on 1/2/2018 2:16:05 AM
+
+1/2/2018 2:16:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+1/2/2018 2:16:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/2/2018 2:17:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') adding new account: Testdummy
+1/2/2018 2:19:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+1/2/2018 2:20:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+1/2/2018 2:20:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') going to 0xC "Sora" ('Testdummy'), Location (1159, 1033, 10), Map Malas
+1/2/2018 2:20:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'skills '
+1/2/2018 2:20:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Swordsmanship: 100].Base' of 0xC "Sora" ('Testdummy') to '100'
+1/2/2018 2:20:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Mace Fighting: 100].Base' of 0xC "Sora" ('Testdummy') to '100'
+1/2/2018 2:20:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Fencing: 100].Base' of 0xC "Sora" ('Testdummy') to '100'
+1/2/2018 2:20:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set str 100'
+1/2/2018 2:20:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'str' of 0xC "Sora" ('Testdummy') to '100'
+1/2/2018 2:20:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+1/2/2018 2:20:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0xC "Sora" ('Testdummy') to '500'
+1/2/2018 2:21:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Tactics: 100].Base' of 0xC "Sora" ('Testdummy') to '100'
+1/2/2018 2:21:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Wrestling: 100].Base' of 0xC "Sora" ('Testdummy') to '100'
+1/2/2018 2:21:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set dex 50'
+1/2/2018 2:21:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'dex' of 0xC "Sora" ('Testdummy') to '50'
+1/2/2018 2:21:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set stam 500'
+1/2/2018 2:21:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'stam' of 0xC "Sora" ('Testdummy') to '500'
+1/2/2018 2:21:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Healing: 100].Base' of 0xC "Sora" ('Testdummy') to '100'
+1/2/2018 2:22:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Anatomy: 100].Base' of 0xC "Sora" ('Testdummy') to '100'
+1/2/2018 2:22:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property '[Resisting Spells: 100].Base' of 0xC "Sora" ('Testdummy') to '100'
+1/2/2018 2:29:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+1/2/2018 2:29:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') going to 0xC "Sora" ('Testdummy'), Location (569, 1253, 5), Map Malas
+1/2/2018 2:33:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+1/2/2018 2:33:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0xC "Sora" ('Testdummy') to '500'
+1/2/2018 2:37:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+1/2/2018 2:37:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+1/2/2018 2:37:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+1/2/2018 2:37:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') bringing 0xC "Sora" ('Testdummy') to Location (1232, 1040, 0), Map Malas
+1/2/2018 3:07:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/2/2018 3:07:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/2/2018 3:07:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/2/2018 3:43:28 AM
+
+1/2/2018 3:43:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+1/2/2018 3:43:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add fancyrobe'
+1/2/2018 3:43:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1159, 1086, 0) in Malas: "fancyrobe"
+1/2/2018 3:43:51 AM: 127.0.0.1: Serials: 0x40000026; 
+1/2/2018 3:50:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/2/2018 3:51:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/2/2018 3:51:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

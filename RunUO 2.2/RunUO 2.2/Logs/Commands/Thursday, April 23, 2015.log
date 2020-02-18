@@ -1,0 +1,109 @@
+##############################
+Log started on 4/23/2015 4:39:49 AM
+
+4/23/2015 4:40:52 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+4/23/2015 4:40:57 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'decorate '
+4/23/2015 4:42:09 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') starting facet clear of Malas (2768 objects)
+4/23/2015 4:42:09 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'clearfacet '
+4/23/2015 4:42:11 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 2768 objects
+4/23/2015 4:43:05 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'tele '
+4/23/2015 4:43:10 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+4/23/2015 4:45:00 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add racechangeexit'
+4/23/2015 4:45:04 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'tele '
+4/23/2015 4:45:07 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2516, 1989, 0) in Malas: "RaceChangeExitGate"
+4/23/2015 4:45:07 AM: 127.0.0.1: Serials: 0x400014DF; 
+4/23/2015 4:45:16 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+4/23/2015 4:45:16 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400014DF (RaceChangeExitGate)
+4/23/2015 4:45:43 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 4/23/2015 4:47:38 AM
+
+4/23/2015 4:47:56 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+4/23/2015 4:47:59 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'decorate '
+4/23/2015 4:48:54 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add '
+4/23/2015 4:50:43 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 4:53:00 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 4:53:19 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'set rawstr 100'
+4/23/2015 4:53:20 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'rawstr' of 0x2 "Aurora" ('Zigholtul88') to '100'
+4/23/2015 4:53:53 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add ElvenShirt'
+4/23/2015 4:53:54 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2511, 1977, 0) in Malas: "ElvenShirt"
+4/23/2015 4:53:54 AM: 127.0.0.1: Serials: 0x4000152F; 
+4/23/2015 4:54:33 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add Skirt'
+4/23/2015 4:54:33 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2511, 1977, 0) in Malas: "Skirt"
+4/23/2015 4:54:33 AM: 127.0.0.1: Serials: 0x40001586; 
+4/23/2015 4:54:41 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add ElvenBoots'
+4/23/2015 4:54:41 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2511, 1977, 0) in Malas: "ElvenBoots"
+4/23/2015 4:54:41 AM: 127.0.0.1: Serials: 0x40001589; 
+4/23/2015 4:54:47 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add dyetub'
+4/23/2015 4:54:48 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2509, 1979, 0) in Malas: "dyetub"
+4/23/2015 4:54:48 AM: 127.0.0.1: Serials: 0x40001595; 
+4/23/2015 4:54:52 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add dyes'
+4/23/2015 4:54:53 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2510, 1979, 0) in Malas: "dyes"
+4/23/2015 4:54:53 AM: 127.0.0.1: Serials: 0x4000159B; 
+4/23/2015 4:56:36 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add Cloak'
+4/23/2015 4:56:37 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2510, 1979, 0) in Malas: "Cloak"
+4/23/2015 4:56:37 AM: 127.0.0.1: Serials: 0x40001656; 
+4/23/2015 4:57:11 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 4:57:27 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 4:57:43 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 4:57:57 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 4:58:07 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 4:58:16 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:02:17 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:02:23 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:02:29 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'BodyValue' of 0x2 "Aurora" ('Zigholtul88') to '605'
+4/23/2015 5:02:49 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'Female' of 0x2 "Aurora" ('Zigholtul88') to 'False'
+4/23/2015 5:04:45 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add '
+4/23/2015 5:05:02 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add Hakama'
+4/23/2015 5:05:03 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2509, 1979, 0) in Malas: "Hakama"
+4/23/2015 5:05:03 AM: 127.0.0.1: Serials: 0x4000177D; 
+4/23/2015 5:05:13 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add ClothNinjaJacket'
+4/23/2015 5:05:14 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2510, 1977, 0) in Malas: "ClothNinjaJacket"
+4/23/2015 5:05:14 AM: 127.0.0.1: Serials: 0x4000178A; 
+4/23/2015 5:05:26 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'Add Waraji'
+4/23/2015 5:05:27 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2510, 1977, 0) in Malas: "Waraji"
+4/23/2015 5:05:27 AM: 127.0.0.1: Serials: 0x4000178E; 
+4/23/2015 5:05:40 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add waraji'
+4/23/2015 5:05:41 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add waraj'
+4/23/2015 5:05:59 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add hakam'
+4/23/2015 5:06:17 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2510, 1977, 0) in Malas: "HakamaShita"
+4/23/2015 5:06:19 AM: 127.0.0.1: Serials: 0x400017A7; 
+4/23/2015 5:06:24 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+4/23/2015 5:06:25 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400017A7 (HakamaShita)
+4/23/2015 5:06:27 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2510, 1979, 0) in Malas: "HakamaShita"
+4/23/2015 5:06:27 AM: 127.0.0.1: Serials: 0x400017AE; 
+4/23/2015 5:06:56 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+4/23/2015 5:06:57 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000178A (ClothNinjaJacket)
+4/23/2015 5:07:43 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:07:55 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:08:03 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:10:33 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:10:41 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'BodyValue' of 0x2 "Aurora" ('Zigholtul88') to '606'
+4/23/2015 5:10:48 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') set property 'Female' of 0x2 "Aurora" ('Zigholtul88') to 'True'
+4/23/2015 5:11:11 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm remove'
+4/23/2015 5:11:11 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400017AE (HakamaShita)
+4/23/2015 5:11:12 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000177D (Hakama)
+4/23/2015 5:11:14 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000178E (Waraji)
+4/23/2015 5:11:18 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add '
+4/23/2015 5:12:52 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:13:34 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add leatherdyetub'
+4/23/2015 5:13:35 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2510, 1979, 0) in Malas: "leatherdyetub"
+4/23/2015 5:13:35 AM: 127.0.0.1: Serials: 0x40001816; 
+4/23/2015 5:13:49 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add leafgloves'
+4/23/2015 5:13:50 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2510, 1979, 0) in Malas: "leafgloves"
+4/23/2015 5:13:50 AM: 127.0.0.1: Serials: 0x40001819; 
+4/23/2015 5:14:19 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:14:50 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:15:18 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:15:28 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:15:38 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:15:59 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:16:09 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:17:22 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'tele '
+4/23/2015 5:18:07 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add darkelf'
+4/23/2015 5:18:27 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+4/23/2015 5:18:34 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+4/23/2015 5:18:35 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000031D (ElfChangeGate)
+4/23/2015 5:19:11 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+4/23/2015 5:19:16 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/23/2015 5:19:17 AM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'save '

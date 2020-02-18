@@ -1,0 +1,64 @@
+##############################
+Log started on 12/3/2016 1:25:43 AM
+
+12/3/2016 1:26:37 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set map malas'
+12/3/2016 1:26:38 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'map' of 0x3 "We Wuz Kings" ('Zigholtul88') to 'Malas'
+12/3/2016 1:26:46 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add ethereal'
+12/3/2016 1:26:53 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (1225, 1899, 0) in Malas: "EtherealHiryu"
+12/3/2016 1:26:53 AM: 127.0.0.1: Serials: 0x40000389; 
+12/3/2016 1:27:02 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+12/3/2016 1:27:45 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'admin '
+12/3/2016 1:27:48 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/3/2016 1:27:49 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/3/2016 1:32:13 AM
+
+12/3/2016 1:32:51 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'admin '
+12/3/2016 1:32:58 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/3/2016 1:32:58 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/3/2016 3:13:10 AM
+
+12/3/2016 3:14:39 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add spawne'
+12/3/2016 3:14:46 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (1175, 1157, 0) in Malas: "Spawner"
+12/3/2016 3:14:46 AM: 127.0.0.1: Serials: 0x4000038A; 
+12/3/2016 3:14:49 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+12/3/2016 3:15:28 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+12/3/2016 3:15:29 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x4000038A (Spawner)
+12/3/2016 3:15:31 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'sound '
+12/3/2016 3:15:36 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') playing sound 26 (toAll=True)
+12/3/2016 3:15:36 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'sound 26'
+12/3/2016 3:16:21 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add spawn'
+12/3/2016 3:17:49 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add spawner'
+12/3/2016 3:17:50 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (1176, 1157, 0) in Malas: "spawner"
+12/3/2016 3:17:50 AM: 127.0.0.1: Serials: 0x4000038B; 
+12/3/2016 3:17:55 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+12/3/2016 3:19:33 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+12/3/2016 3:19:34 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x2 "Tuggug" (no account)
+12/3/2016 3:21:33 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add proximity'
+12/3/2016 3:21:50 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+12/3/2016 3:26:03 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add region'
+12/3/2016 3:26:05 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add regio'
+12/3/2016 3:26:10 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (1167, 1149, 0) in Malas: "RegionControl"
+12/3/2016 3:26:10 AM: 127.0.0.1: Serials: 0x40000391; 
+12/3/2016 3:26:14 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+12/3/2016 3:26:15 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x4000038B (Spawner)
+12/3/2016 3:26:18 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+12/3/2016 3:26:27 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'CanEnter' of 0x40000391 (RegionControl) to 'True'
+12/3/2016 3:28:56 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+12/3/2016 3:28:56 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x40000391 (RegionControl)
+12/3/2016 3:32:22 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'bcast '
+12/3/2016 3:32:30 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'bcast o'
+12/3/2016 3:32:36 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'bcast sound 65'
+12/3/2016 3:38:26 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add etti'
+12/3/2016 3:38:31 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add reward'
+12/3/2016 3:38:36 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add monster'
+12/3/2016 3:38:39 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (991, 1206, -15) in Malas: "MonsterStatuette"
+12/3/2016 3:38:39 AM: 127.0.0.1: Serials: 0x40000392; 
+12/3/2016 3:38:45 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+12/3/2016 3:38:49 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'TurnedOn' of 0x40000392 (MonsterStatuette) to 'True'
+12/3/2016 3:39:08 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'IsRewardItem' of 0x40000392 (MonsterStatuette) to 'True'
+12/3/2016 3:39:25 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'Name' of 0x40000392 (MonsterStatuette) to '(null)'
+12/3/2016 3:43:13 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'admin '
+12/3/2016 3:43:16 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/3/2016 3:43:17 AM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'save '

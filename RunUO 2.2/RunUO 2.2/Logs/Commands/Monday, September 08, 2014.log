@@ -1,0 +1,197 @@
+##############################
+Log started on 9/8/2014 10:27:44 AM
+
+9/8/2014 10:28:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add letter'
+9/8/2014 10:28:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (678, 594, -4) in Malas: "LetterToCecilia"
+9/8/2014 10:28:50 AM: 127.0.0.1: Serials: 0x4000005E; 
+9/8/2014 10:30:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add static 5358 set movable False hue 0 light Circle225'
+9/8/2014 10:30:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (648, 585, 0) in Malas: "static" "5358" "set" "movable" "False" "hue" "0" "light" "Circle225"
+9/8/2014 10:30:35 AM: 127.0.0.1: Serials: 0x40000092; 
+9/8/2014 10:30:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/8/2014 10:30:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/8/2014 10:30:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000092 (Static)
+9/8/2014 10:30:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/8/2014 10:30:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000005E (LetterToCecilia)
+9/8/2014 10:31:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+9/8/2014 10:37:33 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'props '
+9/8/2014 10:38:14 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'add '
+9/8/2014 10:38:18 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'add dyetub'
+9/8/2014 10:38:19 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "dyetub"
+9/8/2014 10:38:19 AM: 127.0.0.1: Serials: 0x400001C3; 
+9/8/2014 10:38:22 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'add dyes'
+9/8/2014 10:38:23 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "dyes"
+9/8/2014 10:38:23 AM: 127.0.0.1: Serials: 0x400001C7; 
+9/8/2014 10:38:47 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'set rawstr 100'
+9/8/2014 10:38:49 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') set property 'rawstr' of 0x90 "Ozzy Mason" ('Zigholtul88') to '100'
+9/8/2014 10:38:56 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'add leatherdyetub'
+9/8/2014 10:38:58 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "leatherdyetub"
+9/8/2014 10:38:58 AM: 127.0.0.1: Serials: 0x40000204; 
+9/8/2014 10:39:09 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'Add StuddedChest'
+9/8/2014 10:39:10 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "StuddedChest"
+9/8/2014 10:39:10 AM: 127.0.0.1: Serials: 0x4000020A; 
+9/8/2014 10:39:35 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'Add LeatherLegs'
+9/8/2014 10:39:36 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "LeatherLegs"
+9/8/2014 10:39:36 AM: 127.0.0.1: Serials: 0x40000219; 
+9/8/2014 10:39:51 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'Add LeatherGloves'
+9/8/2014 10:39:52 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "LeatherGloves"
+9/8/2014 10:39:52 AM: 127.0.0.1: Serials: 0x40000222; 
+9/8/2014 10:40:17 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'props '
+9/8/2014 10:40:25 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'add boots'
+9/8/2014 10:40:26 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "boots"
+9/8/2014 10:40:26 AM: 127.0.0.1: Serials: 0x4000023D; 
+9/8/2014 10:40:32 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'set hue 2207'
+9/8/2014 10:40:33 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') set property 'hue' of 0x4000023D (Boots) to '2207'
+9/8/2014 10:40:40 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'add shoes'
+9/8/2014 10:40:41 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "shoes"
+9/8/2014 10:40:41 AM: 127.0.0.1: Serials: 0x40000244; 
+9/8/2014 10:40:43 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'set hue 2207'
+9/8/2014 10:40:44 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') set property 'hue' of 0x40000244 (Shoes) to '2207'
+9/8/2014 10:40:58 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'Add LeatherArms'
+9/8/2014 10:40:59 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "LeatherArms"
+9/8/2014 10:40:59 AM: 127.0.0.1: Serials: 0x4000024A; 
+9/8/2014 10:41:23 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'props '
+9/8/2014 10:41:33 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'set hue 2414'
+9/8/2014 10:41:34 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') set property 'hue' of 0x40000222 (LeatherGloves) to '2414'
+9/8/2014 10:41:38 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'set hue 2414'
+9/8/2014 10:41:38 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') set property 'hue' of 0x4000023D (Boots) to '2414'
+9/8/2014 10:41:42 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'set hue 2414'
+9/8/2014 10:41:42 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') set property 'hue' of 0x40000244 (Shoes) to '2414'
+9/8/2014 10:45:22 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'props '
+9/8/2014 10:45:34 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'props '
+9/8/2014 10:45:44 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'props '
+9/8/2014 10:45:53 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'props '
+9/8/2014 10:46:05 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'props '
+9/8/2014 10:48:53 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'add longsword'
+9/8/2014 10:48:54 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "longsword"
+9/8/2014 10:48:54 AM: 127.0.0.1: Serials: 0x400002DE; 
+9/8/2014 10:49:49 AM: 127.0.0.1: Owner 0x90 "Ozzy Mason" ('Zigholtul88') used command 'add longswor'
+9/8/2014 10:54:42 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'move '
+9/8/2014 10:54:43 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') moving 0x400001C3 (DyeTub) to (2510, 1978, 0)
+9/8/2014 10:54:45 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'move '
+9/8/2014 10:54:46 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') moving 0x40000204 (LeatherDyeTub) to (2510, 1978, 0)
+9/8/2014 10:54:48 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'move '
+9/8/2014 10:54:49 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') moving 0x400001C7 (Dyes) to (2510, 1977, 0)
+9/8/2014 10:55:24 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'add '
+9/8/2014 10:55:28 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'props '
+9/8/2014 10:55:57 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'props '
+9/8/2014 10:56:37 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'Add FancyShirt'
+9/8/2014 10:56:37 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') building at (2509, 1977, 0) in Malas: "FancyShirt"
+9/8/2014 10:56:37 AM: 127.0.0.1: Serials: 0x4000038B; 
+9/8/2014 10:56:52 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'Add Skirt'
+9/8/2014 10:56:52 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') building at (2510, 1977, 0) in Malas: "Skirt"
+9/8/2014 10:56:52 AM: 127.0.0.1: Serials: 0x4000038C; 
+9/8/2014 10:56:58 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'Add Shirt'
+9/8/2014 10:56:59 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') building at (2509, 1977, 0) in Malas: "Shirt"
+9/8/2014 10:56:59 AM: 127.0.0.1: Serials: 0x4000038D; 
+9/8/2014 10:57:13 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'Add ThighBoots'
+9/8/2014 10:57:13 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') building at (2510, 1977, 0) in Malas: "ThighBoots"
+9/8/2014 10:57:13 AM: 127.0.0.1: Serials: 0x4000039A; 
+9/8/2014 10:59:10 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'Add Bonnet'
+9/8/2014 10:59:10 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') building at (2509, 1977, 0) in Malas: "Bonnet"
+9/8/2014 10:59:10 AM: 127.0.0.1: Serials: 0x400003AE; 
+9/8/2014 10:59:20 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'Add FeatheredHat'
+9/8/2014 10:59:21 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') building at (2509, 1977, 0) in Malas: "FeatheredHat"
+9/8/2014 10:59:21 AM: 127.0.0.1: Serials: 0x400003B3; 
+9/8/2014 11:01:10 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'props '
+9/8/2014 11:01:19 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'props '
+9/8/2014 11:01:26 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'props '
+9/8/2014 11:01:35 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'props '
+9/8/2014 11:03:07 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'admin '
+9/8/2014 11:03:13 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+9/8/2014 11:03:13 AM: 127.0.0.1: Owner 0x94 "Cecilia" ('Zigholtul88') used command 'save '
+##############################
+Log started on 9/8/2014 5:07:38 PM
+
+##############################
+Log started on 9/8/2014 10:15:10 PM
+
+9/8/2014 10:30:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+9/8/2014 10:30:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+9/8/2014 10:30:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 9/8/2014 10:35:23 PM
+
+9/8/2014 10:36:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ozzy'
+9/8/2014 10:36:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1236, 1036, 0) in Malas: "OzzyMason"
+9/8/2014 10:36:44 PM: 127.0.0.1: Serials: 0xB7; 
+9/8/2014 10:38:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lesserhealpotion'
+9/8/2014 10:38:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 1036, 0) in Malas: "lesserhealpotion"
+9/8/2014 10:38:27 PM: 127.0.0.1: Serials: 0x400002B1; 
+9/8/2014 10:38:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add cecili'
+9/8/2014 10:38:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1233, 1036, 0) in Malas: "CeciliaWintergreen"
+9/8/2014 10:38:55 PM: 127.0.0.1: Serials: 0xDF; 
+9/8/2014 10:40:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+9/8/2014 10:40:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001084 (SummonDaemonScroll)
+9/8/2014 10:40:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001085 (VengefulSpiritScroll)
+9/8/2014 10:40:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000DDA (MagicArrowScroll)
+9/8/2014 10:40:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000DD8 (FeeblemindScroll)
+9/8/2014 10:40:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000DDB (WeakenScroll)
+9/8/2014 10:40:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000DD9 (HealScroll)
+9/8/2014 10:40:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000DD7 (ClumsyScroll)
+9/8/2014 10:40:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+9/8/2014 10:40:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000DE9 (OneGoldBar)
+9/8/2014 10:40:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/8/2014 10:40:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0xB7 "Ozzy Mason" (no account)
+9/8/2014 10:40:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/8/2014 10:40:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0xDF "Cecilia Wintergreen" (no account)
+9/8/2014 10:41:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ozzy'
+9/8/2014 10:42:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+9/8/2014 10:42:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1244, 1041, 1) in Malas: "spawner"
+9/8/2014 10:42:38 PM: 127.0.0.1: Serials: 0x4000031B; 
+9/8/2014 10:42:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/8/2014 10:42:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x4000031B (Spawner) to '0'
+9/8/2014 10:42:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/8/2014 10:43:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x100 "Ozzy Mason" (no account)
+9/8/2014 10:43:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/8/2014 10:43:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/8/2014 10:43:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000031B (Spawner)
+9/8/2014 10:43:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+9/8/2014 10:43:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+9/8/2014 10:43:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (746, 571, 21) in Malas: "spawner"
+9/8/2014 10:43:38 PM: 127.0.0.1: Serials: 0x40000328; 
+9/8/2014 10:43:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/8/2014 10:43:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000328 (Spawner) to '0'
+9/8/2014 10:43:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/8/2014 10:43:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x10F "Cecilia Wintergreen" (no account)
+9/8/2014 10:44:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add cecilia'
+9/8/2014 10:44:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+9/8/2014 10:45:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/8/2014 10:45:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000328 (Spawner)
+9/8/2014 10:46:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+9/8/2014 10:46:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+9/8/2014 10:46:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 9/8/2014 10:47:54 PM
+
+9/8/2014 10:49:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+9/8/2014 10:49:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+9/8/2014 10:49:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+9/8/2014 11:34:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+9/8/2014 11:34:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'waterwalk '
+9/8/2014 11:35:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+9/8/2014 11:35:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add static 489 set movable False hue 0 light Circle225'
+9/8/2014 11:35:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1051, 994, 40) in Malas: "static" "489" "set" "movable" "False" "hue" "0" "light" "Circle225"
+9/8/2014 11:35:48 PM: 127.0.0.1: Serials: 0x40000AB2; 
+9/8/2014 11:35:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add static 489 set movable False hue 0 light Circle225'
+9/8/2014 11:35:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1050, 994, 40) in Malas: "static" "489" "set" "movable" "False" "hue" "0" "light" "Circle225"
+9/8/2014 11:35:51 PM: 127.0.0.1: Serials: 0x40000AB3; 
+9/8/2014 11:35:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/8/2014 11:35:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000AB2 (Static)
+9/8/2014 11:36:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add static 488 set movable False hue 0 light Circle225'
+9/8/2014 11:36:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1052, 994, 40) in Malas: "static" "488" "set" "movable" "False" "hue" "0" "light" "Circle225"
+9/8/2014 11:36:01 PM: 127.0.0.1: Serials: 0x40000AC3; 
+9/8/2014 11:36:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add static 489 set movable False hue 0 light Circle225'
+9/8/2014 11:36:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1051, 994, 40) in Malas: "static" "489" "set" "movable" "False" "hue" "0" "light" "Circle225"
+9/8/2014 11:36:07 PM: 127.0.0.1: Serials: 0x40000AC4; 
+9/8/2014 11:36:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+9/8/2014 11:36:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000A8B (WaterWalk)
+9/8/2014 11:36:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'TileZ 40 static 489 set movable False hue 0 light {light}'
+9/8/2014 11:36:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1051, 970, 40) in Malas: "static" "489" "set" "movable" "False" "hue" "0" "light" "{light}"
+9/8/2014 11:36:36 PM: 127.0.0.1: Serials: 0x40000AD4; 
+9/8/2014 11:38:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+9/8/2014 11:38:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+9/8/2014 11:40:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'freezemap '
+9/8/2014 11:40:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') invoking freeze for every item in Owner
+9/8/2014 11:40:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+9/8/2014 11:40:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+9/8/2014 11:40:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

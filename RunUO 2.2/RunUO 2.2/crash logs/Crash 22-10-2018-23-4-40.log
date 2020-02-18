@@ -1,0 +1,19 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8936
+Time: 10/22/2018 11:04:40 PM
+Mobiles: 790
+Items: 10907
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Items.RegionControl.Serialize(GenericWriter writer)
+   at Server.StandardSaveStrategy.SaveItems(SaveMetrics metrics)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x3 'Womp Womp')

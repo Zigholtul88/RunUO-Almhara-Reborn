@@ -1,0 +1,497 @@
+##############################
+Log started on 2/8/2016 5:00:20 PM
+
+2/8/2016 5:00:51 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 5:01:05 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set race gargoyle'
+2/8/2016 5:01:06 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'race' of 0x24D "Melanchalth" ('Zigholtul88') to 'Gargoyle'
+2/8/2016 5:01:44 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add bag'
+2/8/2016 5:01:59 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add box'
+2/8/2016 5:02:04 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1235, 1041, 0) in Malas: "GiftBox"
+2/8/2016 5:02:04 PM: 127.0.0.1: Serials: 0x40000048; 
+2/8/2016 5:03:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'm remove'
+2/8/2016 5:03:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40000ADA (BoneLegs)
+2/8/2016 5:03:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400007D7 (BoneLegs)
+2/8/2016 5:03:28 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x4000075E (BalronVolcanicSting)
+2/8/2016 5:03:30 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400007E0 (Dyes)
+2/8/2016 5:03:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400007DF (DyeTub)
+2/8/2016 5:03:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002D87 (Tourmaline)
+2/8/2016 5:03:33 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400007BC (IrishSpirit)
+2/8/2016 5:03:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40000714 (Dagger)
+2/8/2016 5:03:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40000713 (RedBook)
+2/8/2016 5:04:17 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set race race human'
+2/8/2016 5:04:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set race human'
+2/8/2016 5:04:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'race' of 0xC "Kain" ('Zigholtul88') to 'Human'
+2/8/2016 5:04:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set race gargoyle'
+2/8/2016 5:04:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'race' of 0xC "Kain" ('Zigholtul88') to 'Gargoyle'
+2/8/2016 5:04:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set race human'
+2/8/2016 5:04:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'race' of 0xC "Kain" ('Zigholtul88') to 'Human'
+2/8/2016 5:06:23 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'cast '
+2/8/2016 5:06:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'cast fly'
+2/8/2016 5:06:33 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'cast fireball'
+2/8/2016 5:06:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'cast fire'
+2/8/2016 5:06:48 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'cast nightsight'
+2/8/2016 5:06:54 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spellbook'
+2/8/2016 5:06:56 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1235, 1040, 0) in Malas: "spellbook"
+2/8/2016 5:06:56 PM: 127.0.0.1: Serials: 0x40000797; 
+2/8/2016 5:07:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'cast nightsight'
+2/8/2016 5:07:12 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add spellbook'
+2/8/2016 5:07:14 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'cast nightsight'
+2/8/2016 5:07:19 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'cast nightsight'
+2/8/2016 5:11:09 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add test'
+2/8/2016 5:11:15 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1235, 1042, 0) in Malas: "TestTreasureChest"
+2/8/2016 5:11:15 PM: 127.0.0.1: Serials: 0x40000810; 
+2/8/2016 5:18:52 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set body'
+2/8/2016 5:18:55 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set body gargoyle'
+2/8/2016 5:19:04 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set body isgargoyle'
+2/8/2016 5:35:27 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 5:35:27 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40000810 (TestTreasureChest)
+2/8/2016 5:37:37 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set race gargoyle'
+2/8/2016 5:37:39 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'race' of 0x24D "Melanchalth" ('Zigholtul88') to 'Gargoyle'
+2/8/2016 5:37:44 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 5:41:05 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'cast fly'
+2/8/2016 5:41:08 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add fly'
+2/8/2016 5:41:39 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'cast gargoyle flight'
+2/8/2016 5:41:46 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'cast gargoyleflight'
+2/8/2016 5:41:49 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'cast gargoyle'
+2/8/2016 5:41:52 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'cast gargoyle flight'
+2/8/2016 5:46:16 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add glaci'
+2/8/2016 5:46:18 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1235, 1041, 0) in Malas: "GlacialStaff"
+2/8/2016 5:46:18 PM: 127.0.0.1: Serials: 0x40000FDA; 
+2/8/2016 5:46:37 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'setallskills 100'
+2/8/2016 5:46:38 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'EverySkill.Base' of 0x24D "Melanchalth" ('Zigholtul88') to '100'
+2/8/2016 5:48:40 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1236, 1042, 0) in Malas: "GlacialStaff"
+2/8/2016 5:48:40 PM: 127.0.0.1: Serials: 0x4000105E; 
+2/8/2016 5:48:44 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1235, 1041, 0) in Malas: "GlacialStaff"
+2/8/2016 5:48:44 PM: 127.0.0.1: Serials: 0x4000105F; 
+2/8/2016 5:49:13 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'm remove'
+2/8/2016 5:49:15 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'm remove'
+2/8/2016 5:49:16 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x4000105F (GlacialStaff)
+2/8/2016 5:49:18 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x4000105E (GlacialStaff)
+2/8/2016 5:49:21 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1235, 1041, 0) in Malas: "GlacialStaff"
+2/8/2016 5:49:21 PM: 127.0.0.1: Serials: 0x40001071; 
+2/8/2016 5:49:22 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1235, 1040, 0) in Malas: "GlacialStaff"
+2/8/2016 5:49:22 PM: 127.0.0.1: Serials: 0x40001072; 
+2/8/2016 5:49:22 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1235, 1042, 0) in Malas: "GlacialStaff"
+2/8/2016 5:49:22 PM: 127.0.0.1: Serials: 0x40001073; 
+2/8/2016 5:49:29 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'm remove'
+2/8/2016 5:49:29 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40001073 (GlacialStaff)
+2/8/2016 5:49:30 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40001071 (GlacialStaff)
+2/8/2016 5:49:31 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40001072 (GlacialStaff)
+2/8/2016 5:49:33 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1234, 1040, 0) in Malas: "GlacialStaff"
+2/8/2016 5:49:33 PM: 127.0.0.1: Serials: 0x40001087; 
+2/8/2016 5:49:33 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1235, 1041, 0) in Malas: "GlacialStaff"
+2/8/2016 5:49:33 PM: 127.0.0.1: Serials: 0x40001088; 
+2/8/2016 5:49:34 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1235, 1042, 0) in Malas: "GlacialStaff"
+2/8/2016 5:49:34 PM: 127.0.0.1: Serials: 0x40001089; 
+2/8/2016 5:50:37 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'm remove'
+2/8/2016 5:50:39 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40001087 (GlacialStaff)
+2/8/2016 5:50:40 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40001088 (GlacialStaff)
+2/8/2016 5:50:41 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40001089 (GlacialStaff)
+2/8/2016 5:50:42 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40000FDA (GlacialStaff)
+2/8/2016 5:53:19 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add glacialstaff'
+2/8/2016 5:53:21 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add glacialstaf'
+2/8/2016 5:53:23 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1234, 1040, 0) in Malas: "GlacialStaff"
+2/8/2016 5:53:23 PM: 127.0.0.1: Serials: 0x40001138; 
+2/8/2016 5:53:24 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1234, 1041, 0) in Malas: "GlacialStaff"
+2/8/2016 5:53:24 PM: 127.0.0.1: Serials: 0x40001139; 
+2/8/2016 5:53:24 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1235, 1042, 0) in Malas: "GlacialStaff"
+2/8/2016 5:53:24 PM: 127.0.0.1: Serials: 0x4000113A; 
+2/8/2016 5:54:19 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 5:54:20 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40001138 (GlacialStaff)
+2/8/2016 5:54:21 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 5:54:21 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40001139 (GlacialStaff)
+2/8/2016 5:54:22 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 5:54:22 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x4000113A (GlacialStaff)
+2/8/2016 5:59:09 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set map ilshenar'
+2/8/2016 5:59:10 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'map' of 0x24D "Melanchalth" ('Zigholtul88') to 'Ilshenar'
+2/8/2016 5:59:13 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+2/8/2016 5:59:28 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+2/8/2016 6:00:27 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set map malas'
+2/8/2016 6:00:28 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'map' of 0x24D "Melanchalth" ('Zigholtul88') to 'Malas'
+2/8/2016 6:00:30 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+2/8/2016 6:02:47 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add axe'
+2/8/2016 6:02:49 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1232, 1044, 0) in Malas: "axe"
+2/8/2016 6:02:49 PM: 127.0.0.1: Serials: 0x400012E6; 
+2/8/2016 6:02:57 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 6:02:58 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x400012E6 (Axe)
+2/8/2016 6:03:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add serpen'
+2/8/2016 6:04:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1235, 1039, 0) in Malas: "SerpentstoneStaff"
+2/8/2016 6:04:03 PM: 127.0.0.1: Serials: 0x400013BD; 
+2/8/2016 6:04:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add gnarledstaff'
+2/8/2016 6:04:12 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1235, 1041, 0) in Malas: "gnarledstaff"
+2/8/2016 6:04:12 PM: 127.0.0.1: Serials: 0x400013C7; 
+2/8/2016 6:04:17 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/8/2016 6:04:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set itemid 2310'
+2/8/2016 6:04:28 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'itemid' of 0x400013C7 (GnarledStaff) to '2310'
+2/8/2016 6:04:46 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/8/2016 6:04:47 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400013C7 (GnarledStaff)
+2/8/2016 6:17:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set bodyvalue 666'
+2/8/2016 6:17:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'bodyvalue' of 0xC "Kain" ('Zigholtul88') to '666'
+2/8/2016 6:17:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'kill '
+2/8/2016 6:17:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') killing 0xC "Kain" ('Zigholtul88')
+2/8/2016 6:17:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'res '
+2/8/2016 6:17:12 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') resurrecting 0xC "Kain" ('Zigholtul88')
+2/8/2016 6:50:15 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/8/2016 6:50:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:50:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'm tele'
+2/8/2016 6:51:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:51:40 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:51:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:52:30 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:52:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:53:07 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:53:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:53:52 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/8/2016 6:54:53 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/8/2016 6:56:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:56:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:57:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:57:28 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:58:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+2/8/2016 6:58:33 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/8/2016 6:58:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+2/8/2016 6:58:54 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/8/2016 6:58:54 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/8/2016 7:23:46 PM
+
+2/8/2016 7:24:04 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/8/2016 7:24:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add skeletalsaxe'
+2/8/2016 7:24:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add skeletalaxe'
+2/8/2016 7:24:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1183, 999, 2) in Malas: "skeletalaxe"
+2/8/2016 7:24:27 PM: 127.0.0.1: Serials: 0x40000059; 
+2/8/2016 7:25:42 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/8/2016 7:44:19 PM
+
+2/8/2016 7:45:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+2/8/2016 7:46:00 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+2/8/2016 7:46:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/8/2016 7:57:38 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/8/2016 7:59:24 PM
+
+2/8/2016 7:59:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add itembless'
+2/8/2016 7:59:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (557, 755, 66) in Malas: "ItemBlessDeed"
+2/8/2016 7:59:43 PM: 127.0.0.1: Serials: 0x400007A2; 
+2/8/2016 7:59:58 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+2/8/2016 8:00:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/8/2016 8:00:02 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/8/2016 8:20:40 PM
+
+2/8/2016 8:23:12 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+2/8/2016 8:23:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+2/8/2016 9:00:31 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add peasan'
+2/8/2016 9:00:34 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1230, 1038, 0) in Malas: "TownPeasant"
+2/8/2016 9:00:34 PM: 127.0.0.1: Serials: 0x6A; 
+2/8/2016 9:00:42 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 9:01:27 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 9:01:28 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x6A "Zigana" (no account)
+2/8/2016 9:03:37 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'set str 100'
+2/8/2016 9:03:38 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') set property 'str' of 0x6C "Carol" ('Zigholtul88') to '100'
+2/8/2016 9:03:40 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'add '
+2/8/2016 9:04:08 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'Add Skirt'
+2/8/2016 9:04:09 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "Skirt"
+2/8/2016 9:04:09 PM: 127.0.0.1: Serials: 0x400023FA; 
+2/8/2016 9:04:16 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'Add FancyShirt'
+2/8/2016 9:04:17 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "FancyShirt"
+2/8/2016 9:04:17 PM: 127.0.0.1: Serials: 0x400023FB; 
+2/8/2016 9:04:25 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'Add Boots'
+2/8/2016 9:04:25 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "Boots"
+2/8/2016 9:04:25 PM: 127.0.0.1: Serials: 0x40002400; 
+2/8/2016 9:04:37 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'add dyetub'
+2/8/2016 9:04:38 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "dyetub"
+2/8/2016 9:04:38 PM: 127.0.0.1: Serials: 0x4000240F; 
+2/8/2016 9:04:42 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'add dyes'
+2/8/2016 9:04:44 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "dyes"
+2/8/2016 9:04:44 PM: 127.0.0.1: Serials: 0x40002410; 
+2/8/2016 9:05:19 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'add cloak'
+2/8/2016 9:05:20 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "cloak"
+2/8/2016 9:05:20 PM: 127.0.0.1: Serials: 0x40002422; 
+2/8/2016 9:05:45 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'props '
+2/8/2016 9:05:56 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'props '
+2/8/2016 9:06:05 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'props '
+2/8/2016 9:07:54 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'admin '
+2/8/2016 9:07:58 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/8/2016 9:07:58 PM: 127.0.0.1: Owner 0x6C "Carol" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/8/2016 9:34:35 PM
+
+2/8/2016 9:35:07 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add jewel'
+2/8/2016 9:35:10 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1232, 1036, 0) in Malas: "HammerhillJeweler"
+2/8/2016 9:35:10 PM: 127.0.0.1: Serials: 0x1E; 
+2/8/2016 9:35:24 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 9:35:25 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x1E "Carol Branston" (no account)
+2/8/2016 9:35:29 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add bowye'
+2/8/2016 9:35:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1234, 1036, 0) in Malas: "HammerhillBowyer"
+2/8/2016 9:35:32 PM: 127.0.0.1: Serials: 0x6A; 
+2/8/2016 9:35:52 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 9:35:53 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x6A "Pedro Valentine" (no account)
+2/8/2016 9:37:20 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+2/8/2016 9:38:30 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add spawner'
+2/8/2016 9:38:33 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1147, 1061, 5) in Malas: "spawner"
+2/8/2016 9:38:33 PM: 127.0.0.1: Serials: 0x4000083A; 
+2/8/2016 9:38:38 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 9:38:41 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HomeRange' of 0x4000083A (Spawner) to '2'
+2/8/2016 9:39:05 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'move '
+2/8/2016 9:39:10 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'move '
+2/8/2016 9:39:11 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') moving 0x4000083A (Spawner) to (1151, 1060, 5)
+2/8/2016 9:39:20 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 9:39:20 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x688 "a hind" (no account)
+2/8/2016 9:39:27 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 9:40:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 9:40:34 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 9:40:34 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x4000083A (Spawner)
+2/8/2016 9:42:23 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+2/8/2016 9:42:26 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/8/2016 9:42:39 PM
+
+2/8/2016 9:43:01 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+2/8/2016 9:43:04 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'decorate '
+2/8/2016 9:48:31 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'tele '
+2/8/2016 9:49:00 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add spawner'
+2/8/2016 9:49:01 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1185, 1050, 5) in Malas: "spawner"
+2/8/2016 9:49:01 PM: 127.0.0.1: Serials: 0x400018A2; 
+2/8/2016 9:49:06 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 9:49:10 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HomeRange' of 0x400018A2 (Spawner) to '0'
+2/8/2016 9:49:21 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'tele '
+2/8/2016 9:49:37 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'tele '
+2/8/2016 9:49:41 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 9:49:43 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x400018A2 (Spawner)
+2/8/2016 9:49:46 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'tele '
+2/8/2016 9:50:44 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add chief'
+2/8/2016 9:55:37 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add hind'
+2/8/2016 9:55:38 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1205, 1057, 0) in Malas: "hind"
+2/8/2016 9:55:38 PM: 127.0.0.1: Serials: 0x72; 
+2/8/2016 9:55:51 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set bodyvalue 0x109'
+2/8/2016 9:55:52 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'bodyvalue' of 0x72 "a hind" (no account) to '265'
+2/8/2016 9:56:00 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 1926'
+2/8/2016 9:56:01 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x72 "a hind" (no account) to '1926'
+2/8/2016 9:56:38 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 9:57:37 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 2130'
+2/8/2016 9:57:38 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x72 "a hind" (no account) to '2130'
+2/8/2016 9:57:43 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 9:58:14 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 9:58:15 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x72 "a hind" (no account)
+2/8/2016 10:04:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound '
+2/8/2016 10:04:43 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1390 (toAll=True)
+2/8/2016 10:04:43 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x56e'
+2/8/2016 10:04:46 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1391 (toAll=True)
+2/8/2016 10:04:46 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x56f'
+2/8/2016 10:04:51 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1389 (toAll=True)
+2/8/2016 10:04:51 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x56d'
+2/8/2016 10:04:57 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1389 (toAll=True)
+2/8/2016 10:04:57 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x56d'
+2/8/2016 10:08:00 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 362 (toAll=True)
+2/8/2016 10:08:00 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x16a'
+2/8/2016 10:14:12 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1389 (toAll=True)
+2/8/2016 10:14:12 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x56d'
+2/8/2016 10:15:33 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 550 (toAll=True)
+2/8/2016 10:15:33 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x226'
+2/8/2016 10:15:50 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 550 (toAll=True)
+2/8/2016 10:15:50 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x226'
+2/8/2016 10:15:53 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1389 (toAll=True)
+2/8/2016 10:15:53 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x56d'
+2/8/2016 10:15:55 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 550 (toAll=True)
+2/8/2016 10:15:55 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x226'
+2/8/2016 10:16:42 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add dragon'
+2/8/2016 10:16:47 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1248, 1068, 0) in Malas: "dragon"
+2/8/2016 10:16:47 PM: 127.0.0.1: Serials: 0x78; 
+2/8/2016 10:20:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1559 (toAll=True)
+2/8/2016 10:20:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 1559'
+2/8/2016 10:20:34 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1558 (toAll=True)
+2/8/2016 10:20:34 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 1558'
+2/8/2016 10:21:16 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 534 (toAll=True)
+2/8/2016 10:21:16 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 534'
+2/8/2016 10:21:26 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 564 (toAll=True)
+2/8/2016 10:21:26 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 564'
+2/8/2016 10:21:28 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 563 (toAll=True)
+2/8/2016 10:21:28 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 563'
+2/8/2016 10:21:58 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 563 (toAll=True)
+2/8/2016 10:21:58 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 563'
+2/8/2016 10:22:42 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 895 (toAll=True)
+2/8/2016 10:22:42 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 895'
+2/8/2016 10:22:49 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 893 (toAll=True)
+2/8/2016 10:22:49 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 893'
+2/8/2016 10:22:54 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 892 (toAll=True)
+2/8/2016 10:22:54 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 892'
+2/8/2016 10:23:00 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 891 (toAll=True)
+2/8/2016 10:23:00 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 891'
+2/8/2016 10:23:07 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 890 (toAll=True)
+2/8/2016 10:23:07 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 890'
+2/8/2016 10:23:12 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 889 (toAll=True)
+2/8/2016 10:23:12 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 889'
+2/8/2016 10:23:17 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 888 (toAll=True)
+2/8/2016 10:23:17 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 888'
+2/8/2016 10:23:19 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 887 (toAll=True)
+2/8/2016 10:23:19 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 887'
+2/8/2016 10:23:21 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 886 (toAll=True)
+2/8/2016 10:23:21 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 886'
+2/8/2016 10:23:23 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 885 (toAll=True)
+2/8/2016 10:23:23 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 885'
+2/8/2016 10:23:26 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 884 (toAll=True)
+2/8/2016 10:23:26 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 884'
+2/8/2016 10:23:28 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 883 (toAll=True)
+2/8/2016 10:23:28 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 883'
+2/8/2016 10:23:29 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 882 (toAll=True)
+2/8/2016 10:23:29 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 882'
+2/8/2016 10:23:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 885 (toAll=True)
+2/8/2016 10:23:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 885'
+2/8/2016 10:23:33 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 885 (toAll=True)
+2/8/2016 10:23:33 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 885'
+2/8/2016 10:23:36 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 886 (toAll=True)
+2/8/2016 10:23:36 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 886'
+2/8/2016 10:23:39 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 895 (toAll=True)
+2/8/2016 10:23:39 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 895'
+2/8/2016 10:23:41 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 896 (toAll=True)
+2/8/2016 10:23:41 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 896'
+2/8/2016 10:23:44 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 897 (toAll=True)
+2/8/2016 10:23:44 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 897'
+2/8/2016 10:23:47 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 898 (toAll=True)
+2/8/2016 10:23:47 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 898'
+2/8/2016 10:23:48 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 899 (toAll=True)
+2/8/2016 10:23:48 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 899'
+2/8/2016 10:24:38 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1429 (toAll=True)
+2/8/2016 10:24:38 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 1429'
+2/8/2016 10:25:16 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') starting facet clear of Malas (3284 objects)
+2/8/2016 10:25:16 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'clearfacet '
+2/8/2016 10:25:17 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 3284 objects
+2/8/2016 10:25:40 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Add static 14732 set movable False hue 0 light Circle225'
+2/8/2016 10:26:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Add static 14013 set movable False hue 0 light Circle225'
+2/8/2016 10:26:34 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1245, 1064, 0) in Malas: "static" "14013" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/8/2016 10:26:34 PM: 127.0.0.1: Serials: 0x40002123; 
+2/8/2016 10:26:37 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'wipe '
+2/8/2016 10:26:39 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') wiping from (1242, 1061, 0) to (1247, 1066, 0) in Malas (Items, Mobiles)
+2/8/2016 10:27:57 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Add static 14013 set movable False hue 1179 light Circle225'
+2/8/2016 10:27:58 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1244, 1065, 0) in Malas: "static" "14013" "set" "movable" "False" "hue" "1179" "light" "Circle225"
+2/8/2016 10:27:58 PM: 127.0.0.1: Serials: 0x40002124; 
+2/8/2016 10:28:05 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 10:28:06 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40002124 (Static)
+2/8/2016 10:29:19 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1389 (toAll=True)
+2/8/2016 10:29:19 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x56d'
+2/8/2016 10:30:52 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1480 (toAll=True)
+2/8/2016 10:30:52 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x5c8'
+2/8/2016 10:30:56 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1479 (toAll=True)
+2/8/2016 10:30:56 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x5c7'
+2/8/2016 10:30:59 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1389 (toAll=True)
+2/8/2016 10:30:59 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x56d'
+2/8/2016 10:31:01 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1479 (toAll=True)
+2/8/2016 10:31:01 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x5c7'
+2/8/2016 10:32:22 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1479 (toAll=True)
+2/8/2016 10:32:22 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x5c7'
+2/8/2016 10:32:26 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1389 (toAll=True)
+2/8/2016 10:32:26 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x56d'
+2/8/2016 10:32:30 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1479 (toAll=True)
+2/8/2016 10:32:30 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x5c7'
+2/8/2016 10:32:33 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') playing sound 1389 (toAll=True)
+2/8/2016 10:32:33 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'sound 0x56d'
+2/8/2016 10:32:48 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+2/8/2016 10:32:52 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/8/2016 10:32:52 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/8/2016 11:06:13 PM
+
+2/8/2016 11:09:39 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add gaman'
+2/8/2016 11:09:41 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1245, 1060, 0) in Malas: "gaman"
+2/8/2016 11:09:41 PM: 127.0.0.1: Serials: 0x1; 
+2/8/2016 11:09:45 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 11:09:47 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'move '
+2/8/2016 11:09:48 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') moving 0x1 "a gaman" (no account) to (1246, 1053, 20)
+2/8/2016 11:09:50 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'tele '
+2/8/2016 11:09:54 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 11:10:05 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'Hue' of 0x1 "a gaman" (no account) to '2045'
+2/8/2016 11:10:16 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'Hue' of 0x1 "a gaman" (no account) to '2050'
+2/8/2016 11:10:30 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'Hue' of 0x1 "a gaman" (no account) to '2034'
+2/8/2016 11:11:56 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 11:11:56 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x1 "a gaman" (no account)
+2/8/2016 11:12:44 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add skitter'
+2/8/2016 11:12:46 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1242, 1046, 20) in Malas: "SkitteringHopper"
+2/8/2016 11:12:46 PM: 127.0.0.1: Serials: 0x2; 
+2/8/2016 11:13:04 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set hue 1927'
+2/8/2016 11:13:04 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x2 "a skittering hopper" (no account) to '1927'
+2/8/2016 11:14:27 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 11:14:28 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x2 "a skittering hopper" (no account)
+2/8/2016 11:15:05 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add bonedemon'
+2/8/2016 11:15:07 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1242, 1032, 20) in Malas: "bonedemon"
+2/8/2016 11:15:07 PM: 127.0.0.1: Serials: 0x3; 
+2/8/2016 11:15:16 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set hue 1266'
+2/8/2016 11:15:16 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x3 "a bone demon" (no account) to '1266'
+2/8/2016 11:15:31 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 11:15:31 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x3 "a bone demon" (no account)
+2/8/2016 11:16:05 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add '
+2/8/2016 11:16:24 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Add FleshRenderer'
+2/8/2016 11:16:25 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1242, 1031, 20) in Malas: "FleshRenderer"
+2/8/2016 11:16:25 PM: 127.0.0.1: Serials: 0x4; 
+2/8/2016 11:17:31 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set hue 2115'
+2/8/2016 11:17:32 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x4 "a fleshrenderer" (no account) to '2115'
+2/8/2016 11:17:59 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 11:17:59 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x4 "a fleshrenderer" (no account)
+2/8/2016 11:19:55 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add reaper'
+2/8/2016 11:19:56 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1244, 1035, 20) in Malas: "reaper"
+2/8/2016 11:19:56 PM: 127.0.0.1: Serials: 0x5; 
+2/8/2016 11:20:06 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set hue 2583'
+2/8/2016 11:20:06 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x5 "a reaper" (no account) to '2583'
+2/8/2016 11:20:43 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set hue 2953'
+2/8/2016 11:20:44 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x5 "a reaper" (no account) to '2953'
+2/8/2016 11:21:12 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 11:21:12 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x5 "a reaper" (no account)
+2/8/2016 11:23:11 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add serpenti'
+2/8/2016 11:23:14 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1243, 1032, 20) in Malas: "SerpentineDragon"
+2/8/2016 11:23:14 PM: 127.0.0.1: Serials: 0x6; 
+2/8/2016 11:23:26 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 2544'
+2/8/2016 11:23:27 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x6 "a serpentine dragon" (no account) to '2544'
+2/8/2016 11:23:31 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+2/8/2016 11:25:30 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 11:25:31 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x6 "a serpentine dragon" (no account)
+2/8/2016 11:27:12 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add flyin'
+2/8/2016 11:27:15 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1238, 1033, 20) in Malas: "FlyingFish"
+2/8/2016 11:27:15 PM: 127.0.0.1: Serials: 0x7; 
+2/8/2016 11:27:23 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 2556'
+2/8/2016 11:27:25 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x7 "a flying fish" (no account) to '2556'
+2/8/2016 11:27:33 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 2544'
+2/8/2016 11:27:34 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x7 "a flying fish" (no account) to '2544'
+2/8/2016 11:27:40 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 2604'
+2/8/2016 11:27:41 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x7 "a flying fish" (no account) to '2604'
+2/8/2016 11:28:03 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 1930'
+2/8/2016 11:28:04 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x7 "a flying fish" (no account) to '1930'
+2/8/2016 11:28:10 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 1931'
+2/8/2016 11:28:12 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x7 "a flying fish" (no account) to '1931'
+2/8/2016 11:28:19 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 1930'
+2/8/2016 11:28:19 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x7 "a flying fish" (no account) to '1930'
+2/8/2016 11:28:35 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 2643'
+2/8/2016 11:28:37 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x7 "a flying fish" (no account) to '2643'
+2/8/2016 11:28:44 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'Set hue 2512'
+2/8/2016 11:28:45 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'hue' of 0x7 "a flying fish" (no account) to '2512'
+2/8/2016 11:28:48 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+2/8/2016 11:28:48 PM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x7 "a flying fish" (no account)
+2/8/2016 11:32:36 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'add altera'
+2/8/2016 11:32:41 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') building at (2528, 1990, 0) in Malas: "MoonElfAlterationGate"
+2/8/2016 11:32:41 PM: 127.0.0.1: Serials: 0x4000003F; 
+2/8/2016 11:32:48 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'add hai'
+2/8/2016 11:32:51 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'add hair'
+2/8/2016 11:32:54 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'add hairs'
+2/8/2016 11:32:59 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'add hairs'
+2/8/2016 11:33:05 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'add hairre'
+2/8/2016 11:33:08 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') building at (2524, 1990, 0) in Malas: "HairRestylingDeed"
+2/8/2016 11:33:08 PM: 127.0.0.1: Serials: 0x40000040; 
+2/8/2016 11:33:28 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'remove '
+2/8/2016 11:33:31 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') deleting 0x4000003F (MoonElfAlterationGate)
+2/8/2016 11:33:38 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'set str 100'
+2/8/2016 11:33:39 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') set property 'str' of 0x8 "Winter" ('Zigholtul88') to '100'
+2/8/2016 11:33:43 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'add '
+2/8/2016 11:33:53 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'add drow'
+2/8/2016 11:33:56 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') building at (2530, 1989, 0) in Malas: "OborunianDrowSpiderTrainer"
+2/8/2016 11:33:56 PM: 127.0.0.1: Serials: 0x9; 
+2/8/2016 11:34:48 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'add '
+2/8/2016 11:34:50 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'add drow'
+2/8/2016 11:34:52 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') building at (2531, 1989, 0) in Malas: "OborunianDrowSpiderTrainer"
+2/8/2016 11:34:52 PM: 127.0.0.1: Serials: 0xA; 
+2/8/2016 11:34:56 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'remove '
+2/8/2016 11:34:57 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') deleting 0x9 "an oborunian drow spider trainer" (no account)
+2/8/2016 11:34:58 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'remove '
+2/8/2016 11:34:58 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') deleting 0xA "an oborunian drow spider trainer" (no account)
+2/8/2016 11:36:24 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'admin '
+2/8/2016 11:36:28 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/8/2016 11:36:28 PM: 127.0.0.1: Owner 0x8 "Winter" ('Zigholtul88') used command 'save '

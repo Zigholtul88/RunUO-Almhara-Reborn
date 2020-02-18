@@ -1,0 +1,174 @@
+##############################
+Log started on 2/19/2015 3:20:56 AM
+
+2/19/2015 3:21:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 3:22:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 3:22:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/19/2015 3:23:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 3:24:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'X' of 0x1 "Zigholtul" ('Zigholtul88') to '2362'
+2/19/2015 3:24:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Y' of 0x1 "Zigholtul" ('Zigholtul88') to '1281'
+2/19/2015 3:25:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/19/2015 3:32:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/19/2015 3:32:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+2/19/2015 3:32:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/19/2015 3:33:03 AM
+
+2/19/2015 3:33:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/19/2015 3:34:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 3:43:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add regio'
+2/19/2015 3:43:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2364, 1282, 26) in Malas: "RegionControl"
+2/19/2015 3:43:43 AM: 127.0.0.1: Serials: 0x4000053F; 
+2/19/2015 3:44:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 3:44:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 3:44:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/19/2015 3:44:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000053F (RegionControl)
+2/19/2015 3:45:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2392, 1300, -29) in Malas: "RegionControl"
+2/19/2015 3:45:06 AM: 127.0.0.1: Serials: 0x40000551; 
+2/19/2015 3:45:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'waterwalk '
+2/19/2015 3:45:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/19/2015 3:45:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000556 (WaterWalk)
+2/19/2015 3:45:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+2/19/2015 3:45:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 3:46:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'AllowBenefitNPC' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'AllowBenefitPlayer' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'AllowHarmNPC' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'AllowHarmPlayer' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'AllowSpawn' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanBeDamaged' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanEnter' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanHeal' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanLootNPCCorpse' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanLootOwnCorpse' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanLootPlayerCorpse' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanMountEthereal' of 0x40000551 (RegionControl) to 'False'
+2/19/2015 3:46:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanRessurect' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanUsePotions' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanUseStuckMenu' of 0x40000551 (RegionControl) to 'False'
+2/19/2015 3:46:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'DeleteNPCCorpse' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'DeletePlayerCorpse' of 0x40000551 (RegionControl) to 'True'
+2/19/2015 3:46:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/19/2015 3:47:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add chicken'
+2/19/2015 3:47:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2406, 1306, -20) in Malas: "chicken"
+2/19/2015 3:47:05 AM: 127.0.0.1: Serials: 0x100; 
+2/19/2015 3:47:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+2/19/2015 3:47:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+2/19/2015 3:47:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x100 "a chicken" (no account)
+2/19/2015 3:47:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'DeleteNPCCorpse' of 0x40000551 (RegionControl) to 'False'
+2/19/2015 3:47:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'DeletePlayerCorpse' of 0x40000551 (RegionControl) to 'False'
+2/19/2015 3:49:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40000551 (RegionControl) to 'ElfCity'
+2/19/2015 3:49:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'RegionPriority' of 0x40000551 (RegionControl) to '100'
+2/19/2015 4:11:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 4:14:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 4:14:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Map' of 0x40000551 (RegionControl) to 'Tokuno'
+2/19/2015 4:14:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Map' of 0x40000551 (RegionControl) to 'Malas'
+2/19/2015 4:15:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/19/2015 4:15:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000551 (RegionControl)
+2/19/2015 4:15:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/19/2015 4:16:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map tokuno'
+2/19/2015 4:16:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Tokuno'
+2/19/2015 4:16:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+2/19/2015 4:16:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+2/19/2015 4:26:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/19/2015 4:26:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+2/19/2015 4:26:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/19/2015 4:26:41 AM
+
+2/19/2015 4:27:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+2/19/2015 4:27:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+2/19/2015 4:32:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 4:32:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'X' of 0x1 "Zigholtul" ('Zigholtul88') to '2362'
+2/19/2015 4:32:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Y' of 0x1 "Zigholtul" ('Zigholtul88') to '1281'
+2/19/2015 4:32:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'YellHue' of 0x1 "Zigholtul" ('Zigholtul88') to '30'
+2/19/2015 4:32:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'YellHue' of 0x1 "Zigholtul" ('Zigholtul88') to '45'
+2/19/2015 4:33:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'YellHue' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+2/19/2015 4:33:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x1 "Zigholtul" ('Zigholtul88') to '20'
+2/19/2015 4:33:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/19/2015 4:33:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Warmode' of 0x1 "Zigholtul" ('Zigholtul88') to 'True'
+2/19/2015 4:36:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/19/2015 4:36:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/19/2015 4:36:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/19/2015 4:59:37 AM
+
+2/19/2015 5:00:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/19/2015 5:00:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 5:00:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add region'
+2/19/2015 5:00:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add regio'
+2/19/2015 5:00:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (517, 735, 25) in Malas: "RegionControl"
+2/19/2015 5:00:39 AM: 127.0.0.1: Serials: 0x400001B4; 
+2/19/2015 5:00:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 5:00:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanEnter' of 0x400001B4 (RegionControl) to 'True'
+2/19/2015 5:00:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 5:01:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400001B4 (RegionControl) to 'MinocNegative'
+2/19/2015 5:03:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/19/2015 5:03:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400001B4 (RegionControl)
+2/19/2015 5:03:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 5:03:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/19/2015 5:03:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+2/19/2015 5:03:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/19/2015 5:03:47 AM
+
+2/19/2015 5:03:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 5:06:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add region'
+2/19/2015 5:06:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add regio'
+2/19/2015 5:06:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2395, 1303, -12) in Malas: "RegionControl"
+2/19/2015 5:06:28 AM: 127.0.0.1: Serials: 0x40000293; 
+2/19/2015 5:06:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 5:06:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanEnter' of 0x40000293 (RegionControl) to 'True'
+2/19/2015 5:06:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 5:06:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40000293 (RegionControl) to 'GoodEndGame'
+2/19/2015 5:07:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40000293 (RegionControl) to 'Britain1'
+2/19/2015 5:07:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'RegionPriority' of 0x40000293 (RegionControl) to '150'
+2/19/2015 5:08:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/19/2015 5:08:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000293 (RegionControl)
+2/19/2015 5:08:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 5:08:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add regio'
+2/19/2015 5:08:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2515, 1974, 22) in Malas: "RegionControl"
+2/19/2015 5:08:31 AM: 127.0.0.1: Serials: 0x40000296; 
+2/19/2015 5:08:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 5:08:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanEnter' of 0x40000296 (RegionControl) to 'True'
+2/19/2015 5:08:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 5:09:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'RegionPriority' of 0x40000296 (RegionControl) to '100'
+2/19/2015 5:09:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40000296 (RegionControl) to 'Britain1'
+2/19/2015 5:09:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40000296 (RegionControl) to 'Serpents'
+2/19/2015 5:09:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/19/2015 5:09:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000296 (RegionControl)
+2/19/2015 5:09:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 5:10:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 5:10:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/19/2015 5:10:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add regio'
+2/19/2015 5:10:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2514, 1993, -20) in Malas: "RegionControl"
+2/19/2015 5:10:32 AM: 127.0.0.1: Serials: 0x400002A7; 
+2/19/2015 5:10:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/19/2015 5:10:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanEnter' of 0x400002A7 (RegionControl) to 'True'
+2/19/2015 5:10:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400002A7 (RegionControl) to 'Paws'
+2/19/2015 5:12:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400002A7 (RegionControl) to 'SelimsBar'
+2/19/2015 5:13:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400002A7 (RegionControl) to 'SerpentIsleCombat_U7'
+2/19/2015 5:15:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400002A7 (RegionControl) to 'GreatEarthSerpents'
+2/19/2015 5:16:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400002A7 (RegionControl) to 'Humanoids_U9'
+2/19/2015 5:17:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400002A7 (RegionControl) to 'Create1'
+2/19/2015 5:17:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400002A7 (RegionControl) to 'GoodVsEvil'
+2/19/2015 5:18:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400002A7 (RegionControl) to 'InTown01'
+2/19/2015 5:23:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400002A7 (RegionControl) to 'GrizzleDungeon'
+2/19/2015 5:24:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x400002A7 (RegionControl) to 'ValoriaShips'
+2/19/2015 5:29:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/19/2015 5:29:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+2/19/2015 5:29:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/19/2015 5:29:40 AM
+
+2/19/2015 5:29:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/19/2015 5:29:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400002A7 (RegionControl)
+2/19/2015 5:30:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 5:30:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 5:30:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/19/2015 5:31:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+2/19/2015 5:31:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x1 "Zigholtul" ('Zigholtul88')
+2/19/2015 5:31:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'res '
+2/19/2015 5:31:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') resurrecting 0x1 "Zigholtul" ('Zigholtul88')
+2/19/2015 5:33:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/19/2015 5:33:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/19/2015 5:33:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

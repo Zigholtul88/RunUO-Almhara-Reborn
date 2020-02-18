@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<places>
+	<parent name="Almhara Dungeons">
+		<parent name="Dungeons">
+			<parent name="Amul Seketsi Royal Tomb">
+				<child name="First Floor" x="1388" y="305" z="1" />
+				<child name="Second Floor" x="1273" y="363" z="1" />
+				<child name="Third Floor" x="1158" y="354" z="-10" />
+				<child name="Boss Room Entrance" x="1380" y="399" z="0" />
+				<child name="Boss Room" x="397" y="190" z="6" />
+			</parent>
+			<parent name="Azurite Caverns">
+				<child name="First Floor" x="1165" y="618" z="-5" />
+				<child name="Second Floor" x="1397" y="495" z="-25" />
+				<child name="Boss Room Entrance" x="1224" y="533" z="-52" />
+				<child name="Boss Room" x="271" y="196" z="11" />
+			</parent>
+			<parent name="Bharlim Passage">
+				<child name="First Floor" x="999" y="1194" z="30" />
+				<child name="Back Entrance" x="1050" y="1416" z="48" />
+			</parent>
+			<parent name="Black Widow Pit">
+				<child name="First Floor" x="1057" y="616" z="-4" />
+				<child name="Second Floor" x="1245" y="1300" z="25" />
+				<child name="Lady Lissith" x="1128" y="1295" z="30" />
+				<child name="Lady Sabrix" x="1130" y="1196" z="65" />
+			</parent>
+			<parent name="Bleak Wind Tunnels">
+				<child name="First Floor" x="597" y="396" z="-72" />
+				<child name="Ice Fortress" x="623" y="293" z="-7" />
+				<child name="Fortress 2nd Floor" x="1411" y="1292" z="0" />
+				<child name="Azurite Caverns Entrance" x="844" y="347" z="-44" />
+			</parent>
+			<parent name="Boulder Tunnel">
+				<child name="Skaddria Naddheim Entrance" x="910" y="1417" z="-27" />
+				<child name="Zaythalor Region Entrance" x="938" y="1232" z="-27" />
+			</parent>
+			<parent name="Dragons Den">
+				<child name="First Floor" x="958" y="297" z="26" />
+				<child name="Ancient Wyrm Lair" x="848" y="431" z="14" />
+				<child name="Dragon Passage" x="960" y="295" z="26" />
+				<child name="Entrance to Dragon Sanctuary" x="1091" y="295" z="-4" />
+			</parent>
+			<parent name="Elmhaven Mineshaft">
+				<child name="First Floor" x="959" y="552" z="40" />
+			</parent>
+			<parent name="Everstar Estuary">
+				<child name="Malas Entrance" x="709" y="1417" z="-14" />
+				<child name="First Floor" x="851" y="1163" z="0" />
+				<child name="Secret Exit" x="1049" y="995" z="2" />
+			</parent>
+			<parent name="Fungully Grotto">
+				<child name="First Floor" x="1097" y="507" z="0" />
+			</parent>
+			<parent name="Ghuul Sanctuary">
+				<child name="First Floor" x="631" y="1388" z="0" />
+			</parent>
+			<parent name="Guardians Desert Bunker">
+				<child name="First Floor" x="913" y="652" z="0" />
+			</parent>
+			<parent name="Hammerhill Sewers">
+				<child name="First Floor" x="739" y="460" z="20" />
+			</parent>
+			<parent name="Iquana Cove">
+				<child name="First Floor" x="1395" y="268" z="-20" />
+				<child name="Second Floor" x="1240" y="151" z="50" />
+				<child name="Gary Ivanguard" x="1163" y="206" z="52" />
+				<child name="Boss Room Entrance" x="1362" y="259" z="-17" />
+				<child name="Boss Room" x="412" y="82" z="0" />
+			</parent>
+			<parent name="Kal-Berbessia">
+				<child name="Entrance" x="1284" y="573" z="-20" />
+				<child name="First Floor" x="830" y="1213" z="-27" />
+				<child name="Stairs" x="827" y="1265" z="-32" />
+			</parent>
+			<parent name="Mongbat Hideout">
+				<child name="First Floor" x="595" y="30" z="-57" />
+				<child name="Second Floor" x="775" y="54" z="65" />
+				<child name="Third Floor" x="1367" y="804" z="-5" />
+				<child name="Building 1" x="1342" y="852" z="10" />
+				<child name="Building 2" x="1209" y="845" z="10" />
+				<child name="Boss Room Entrance" x="1161" y="895" z="10" />
+				<child name="Boss Room" x="286" y="91" z="-63" />
+			</parent>
+			<parent name="Murkmere Dwelling">
+				<child name="Entrance" x="791" y="993" z="-79" />
+				<child name="First Floor" x="642" y="1020" z="5" />
+				<child name="Center Island" x="747" y="849" z="45" />
+				<child name="Boss Room Entrance" x="595" y="1022" z="5" />
+				<child name="Boss Room" x="513" y="79" z="0" />
+			</parent>
+			<parent name="Nimaku Lava Basin">
+				<child name="First Floor" x="998" y="668" z="0" />
+			</parent>
+			<parent name="Oboru Burial Grounds">
+				<child name="First Floor" x="690" y="1070" z="0" />
+			</parent>
+			<parent name="Scurvy Skarmarhy Galleon">
+				<child name="First Floor" x="1114" y="657" z="2" />
+			</parent>
+			<parent name="Seaspray Solitude">
+				<child name="First Floor" x="1255" y="764" z="10" />
+				<child name="Second Floor" x="1358" y="754" z="0" />
+			</parent>
+			<parent name="Sentinels Military Base">
+				<child name="First Floor" x="868" y="699" z="0" />
+				<child name="Second Floor" x="1136" y="695" z="0" />
+				<child name="Third Floor" x="925" y="706" z="0" />
+				<child name="Fourth Floor" x="1095" y="755" z="0" />
+			</parent>
+			<parent name="Stone Burrow Mines">
+				<child name="First Floor" x="740" y="735" z="20" />
+				<child name="Mini Boss" x="809" y="556" z="20" />
+				<child name="Boss Room Entrance" x="610" y="615" z="11" />
+				<child name="Boss Room" x="885" y="526" z="46" />
+			</parent>
+			<parent name="Swampwater Solitude">
+				<child name="Entrance" x="1281" y="1324" z="-46" />
+				<child name="Swampland" x="1276" y="1382" z="-60" />
+			</parent>
+			<parent name="Whispering Hollow">
+				<child name="Boss Room" x="518" y="185" z="-60" />
+			</parent>
+			<parent name="Poultry Paradise">
+				<child name="Chicken" x="960" y="140" z="4" />
+			</parent>
+			<parent name="Unused Dungeon">
+				<child name="First Floor" x="1360" y="582" z="-15" />
+			</parent>
+		</parent>
+		<parent name="Old Tokuno Map Junk">
+			<parent name="Makoto-Jima">
+				<child name="Moongate" x="802" y="1204" z="25" />
+				<child name="Shrine" x="718" y="1161" z="25" />
+				<child name="The Waste" x="724" y="943" z="42" />
+			</parent>
+			<parent name="Isamu-Jima">			
+				<child name="Moongate" x="1169" y="998" z="41" />
+				<child name="Shrine" x="1047" y="512" z="15" />
+				<child name="Lotus Lakes" x="1066" y="817" z="20" />
+				<child name="Mount Sho" x="1159" y="696" z="70" />
+				<child name="Dragon Valley" x="948" y="432" z="8" />
+				<child name="Winter Spur" x="926" y="162" z="34" />
+			</parent>
+			<parent name="Homare-Jima">
+				<child name="Moongate" x="270" y="628" z="15" />
+				<child name="Shrine" x="295" y="712" z="55" />
+				<child name="Field of Echoes" x="160" y="654" z="36" />
+				<child name="Crane Marsh" x="232" y="1107" z="10" />
+				<child name="Bushido Dojo" x="334" y="407" z="32" />
+				<child name="Kitsune Woods" x="523" y="520" z="32" />
+			</parent>
+		</parent>
+	</parent>
+</places>

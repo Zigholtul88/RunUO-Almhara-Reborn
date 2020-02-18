@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="2">
+	<account>
+		<username>Zigholtul88</username>
+		<newCryptPassword>24-50-B1-77-28-20-A2-D0-96-43-71-32-35-37-B1-D2-AC-F8-14-5F</newCryptPassword>
+		<accessLevel>Owner</accessLevel>
+		<flags>2</flags>
+		<created>2015-03-07T18:41:36.967625-05:00</created>
+		<lastLogin>2016-01-03T12:02:58.212875-05:00</lastLogin>
+		<totalGameTime>P1DT20H5M15.578917S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+			<char index="1">2</char>
+			<char index="2">589</char>
+			<char index="3">3</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Freeglepluk</username>
+		<newCryptPassword>D2-81-15-8B-D2-AF-E9-05-58-85-35-71-CB-DE-CF-5C-18-57-A3-DE</newCryptPassword>
+		<created>2015-03-07T22:21:21.217625-05:00</created>
+		<lastLogin>2015-11-23T08:55:53.46875-05:00</lastLogin>
+		<totalGameTime>PT6H14M19.9375S</totalGameTime>
+		<chars>
+			<char index="0">1362</char>
+			<char index="1">4</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

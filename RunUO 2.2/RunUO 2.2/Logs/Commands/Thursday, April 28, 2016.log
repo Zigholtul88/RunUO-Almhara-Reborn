@@ -1,0 +1,39 @@
+##############################
+Log started on 4/28/2016 6:51:15 PM
+
+4/28/2016 6:52:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/28/2016 7:06:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/28/2016 7:27:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/28/2016 7:30:22 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'set str 100'
+4/28/2016 7:30:23 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') set property 'str' of 0x426 "Therasa" ('Zigholtul88') to '100'
+4/28/2016 7:30:27 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'add fancydress'
+4/28/2016 7:30:30 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') building at (2536, 1975, 0) in Malas: "fancydress"
+4/28/2016 7:30:30 PM: 127.0.0.1: Serials: 0x4000160E; 
+4/28/2016 7:30:41 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'set hue 1172'
+4/28/2016 7:30:43 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') set property 'hue' of 0x4000160E (FancyDress) to '1172'
+4/28/2016 7:30:52 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'add sandles'
+4/28/2016 7:31:00 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'add sandals'
+4/28/2016 7:31:01 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') building at (2533, 1976, 0) in Malas: "sandals"
+4/28/2016 7:31:01 PM: 127.0.0.1: Serials: 0x40001642; 
+4/28/2016 7:31:03 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'set hue 1172'
+4/28/2016 7:31:04 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') set property 'hue' of 0x40001642 (Sandals) to '1172'
+4/28/2016 7:31:16 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'props '
+4/28/2016 7:50:08 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'go '
+4/28/2016 8:17:33 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'go '
+4/28/2016 8:37:26 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'add spawner'
+4/28/2016 8:37:28 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') building at (717, 782, 35) in Malas: "spawner"
+4/28/2016 8:37:28 PM: 127.0.0.1: Serials: 0x400025FC; 
+4/28/2016 8:37:32 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'props '
+4/28/2016 8:37:35 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') set property 'HomeRange' of 0x400025FC (Spawner) to '0'
+4/28/2016 8:37:49 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'remove '
+4/28/2016 8:37:50 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') deleting 0x445 "Adrian" (no account)
+4/28/2016 8:37:52 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'props '
+4/28/2016 8:38:26 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'remove '
+4/28/2016 8:38:29 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') deleting 0x400025FC (Spawner)
+4/28/2016 8:38:38 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'remove '
+4/28/2016 8:38:45 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') deleting 0x400024C1 (SpawningClutterDresser)
+4/28/2016 8:38:45 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'remove '
+4/28/2016 8:38:46 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') deleting 0x40000679 (Spawner)
+4/28/2016 10:42:07 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'admin '
+4/28/2016 10:42:11 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/28/2016 10:42:11 PM: 127.0.0.1: Owner 0x426 "Therasa" ('Zigholtul88') used command 'save '

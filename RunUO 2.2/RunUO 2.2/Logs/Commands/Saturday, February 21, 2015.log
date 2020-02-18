@@ -1,0 +1,129 @@
+##############################
+Log started on 2/21/2015 4:11:22 AM
+
+2/21/2015 4:12:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/21/2015 4:29:00 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add specialhairdye'
+2/21/2015 4:29:01 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2528, 1976, 0) in Malas: "specialhairdye"
+2/21/2015 4:29:01 AM: 127.0.0.1: Serials: 0x40000504; 
+2/21/2015 4:29:29 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add '
+2/21/2015 4:29:41 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add drow'
+2/21/2015 4:29:43 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2533, 1975, 0) in Malas: "DrowSpiderCloak"
+2/21/2015 4:29:43 AM: 127.0.0.1: Serials: 0x40000510; 
+2/21/2015 4:30:47 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add cloa'
+2/21/2015 4:31:18 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add cloa'
+2/21/2015 4:31:20 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2531, 1975, 0) in Malas: "CloakOfHumility"
+2/21/2015 4:31:20 AM: 127.0.0.1: Serials: 0x40000521; 
+2/21/2015 4:31:24 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'props '
+2/21/2015 4:31:28 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'props '
+2/21/2015 4:31:39 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'ItemID' of 0x40000510 (DrowSpiderCloak) to '11013'
+2/21/2015 4:31:52 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:31:53 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x40000521 (CloakOfHumility)
+2/21/2015 4:33:33 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add '
+2/21/2015 4:34:49 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add amazonian'
+2/21/2015 4:34:56 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1975, 0) in Malas: "AmazonianFighterBustier"
+2/21/2015 4:34:56 AM: 127.0.0.1: Serials: 0x4000057F; 
+2/21/2015 4:35:06 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'set rawstr 100'
+2/21/2015 4:35:06 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'rawstr' of 0xF9 "Fharlune" ('Zigholtul88') to '100'
+2/21/2015 4:35:11 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'set rawdex 100'
+2/21/2015 4:35:12 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'rawdex' of 0xF9 "Fharlune" ('Zigholtul88') to '100'
+2/21/2015 4:35:33 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1975, 0) in Malas: "AmazonianFighterBelt"
+2/21/2015 4:35:33 AM: 127.0.0.1: Serials: 0x4000058D; 
+2/21/2015 4:35:39 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1981, -20) in Malas: "AmazonianFighterBoots"
+2/21/2015 4:35:39 AM: 127.0.0.1: Serials: 0x40000593; 
+2/21/2015 4:35:39 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1975, 0) in Malas: "AmazonianFighterBoots"
+2/21/2015 4:35:39 AM: 127.0.0.1: Serials: 0x40000594; 
+2/21/2015 4:35:45 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1974, 0) in Malas: "AmazonianFighterGloves"
+2/21/2015 4:35:45 AM: 127.0.0.1: Serials: 0x40000595; 
+2/21/2015 4:36:34 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add boots'
+2/21/2015 4:36:36 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1975, 0) in Malas: "boots"
+2/21/2015 4:36:36 AM: 127.0.0.1: Serials: 0x400005AE; 
+2/21/2015 4:36:47 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add thighboots'
+2/21/2015 4:36:48 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1975, 0) in Malas: "thighboots"
+2/21/2015 4:36:48 AM: 127.0.0.1: Serials: 0x400005B0; 
+2/21/2015 4:36:51 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:36:52 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x400005AE (Boots)
+2/21/2015 4:37:00 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add woodlandbelt'
+2/21/2015 4:37:02 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1975, 0) in Malas: "woodlandbelt"
+2/21/2015 4:37:02 AM: 127.0.0.1: Serials: 0x400005B7; 
+2/21/2015 4:37:09 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add female'
+2/21/2015 4:37:15 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1975, 0) in Malas: "FemalePlateChest"
+2/21/2015 4:37:18 AM: 127.0.0.1: Serials: 0x400005E6; 
+2/21/2015 4:37:42 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add plate'
+2/21/2015 4:37:44 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add plat'
+2/21/2015 4:38:21 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add busti'
+2/21/2015 4:38:30 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add busti'
+2/21/2015 4:38:31 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1980, -20) in Malas: "StuddedBustierArms"
+2/21/2015 4:38:31 AM: 127.0.0.1: Serials: 0x400006F5; 
+2/21/2015 4:38:39 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:38:39 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x40000593 (AmazonianFighterBoots)
+2/21/2015 4:38:43 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:38:48 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:38:49 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x400006F5 (StuddedBustierArms)
+2/21/2015 4:38:50 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2537, 1976, 0) in Malas: "StuddedBustierArms"
+2/21/2015 4:38:50 AM: 127.0.0.1: Serials: 0x400006FC; 
+2/21/2015 4:39:03 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:39:03 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x400005E6 (FemalePlateChest)
+2/21/2015 4:39:16 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add studdedgloves'
+2/21/2015 4:39:18 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1974, 0) in Malas: "studdedgloves"
+2/21/2015 4:39:18 AM: 127.0.0.1: Serials: 0x40000731; 
+2/21/2015 4:39:25 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:39:27 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x40000594 (AmazonianFighterBoots)
+2/21/2015 4:39:28 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:39:29 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x4000058D (AmazonianFighterBelt)
+2/21/2015 4:39:30 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:39:38 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x40000595 (AmazonianFighterGloves)
+2/21/2015 4:39:39 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:39:40 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x4000057F (AmazonianFighterBustier)
+2/21/2015 4:39:42 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:39:50 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x40000502 (HairDye)
+2/21/2015 4:41:36 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add specialhairdye'
+2/21/2015 4:41:38 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2533, 1975, 0) in Malas: "specialhairdye"
+2/21/2015 4:41:38 AM: 127.0.0.1: Serials: 0x40000777; 
+2/21/2015 4:41:50 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add specialhairdye'
+2/21/2015 4:41:51 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2533, 1975, 0) in Malas: "specialhairdye"
+2/21/2015 4:41:51 AM: 127.0.0.1: Serials: 0x4000077E; 
+2/21/2015 4:43:47 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'props '
+2/21/2015 4:45:45 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add studdedbust'
+2/21/2015 4:45:48 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2533, 1975, 0) in Malas: "StuddedBustierArms"
+2/21/2015 4:45:48 AM: 127.0.0.1: Serials: 0x4000094B; 
+2/21/2015 4:45:52 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'remove '
+2/21/2015 4:45:53 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') deleting 0x4000094B (StuddedBustierArms)
+2/21/2015 4:53:06 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 1158'
+2/21/2015 4:53:09 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x400006FC (StuddedBustierArms) to '1158'
+2/21/2015 4:53:21 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 2406'
+2/21/2015 4:53:23 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x400005B0 (ThighBoots) to '2406'
+2/21/2015 4:53:34 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 2105'
+2/21/2015 4:53:37 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x40000510 (DrowSpiderCloak) to '2105'
+2/21/2015 4:54:34 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 1278'
+2/21/2015 4:54:35 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x400005B7 (WoodlandBelt) to '1278'
+2/21/2015 4:54:38 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 1278'
+2/21/2015 4:54:40 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x40000731 (StuddedGloves) to '1278'
+2/21/2015 4:54:43 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 2105'
+2/21/2015 4:54:44 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x40000731 (StuddedGloves) to '2105'
+2/21/2015 4:55:11 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 1160'
+2/21/2015 4:55:11 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 1160'
+2/21/2015 4:55:14 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x400005B7 (WoodlandBelt) to '1160'
+2/21/2015 4:55:47 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 1160'
+2/21/2015 4:55:49 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x40000731 (StuddedGloves) to '1160'
+2/21/2015 4:55:58 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 1160'
+2/21/2015 4:55:59 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x400006FC (StuddedBustierArms) to '1160'
+2/21/2015 4:56:06 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 1160'
+2/21/2015 4:56:07 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x400005B0 (ThighBoots) to '1160'
+2/21/2015 4:56:22 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 1162'
+2/21/2015 4:56:24 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x40000510 (DrowSpiderCloak) to '1162'
+2/21/2015 4:56:33 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add specialhairdye'
+2/21/2015 4:56:35 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1975, 0) in Malas: "specialhairdye"
+2/21/2015 4:56:35 AM: 127.0.0.1: Serials: 0x40000ACD; 
+2/21/2015 4:56:55 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'props '
+2/21/2015 4:57:23 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'props '
+2/21/2015 4:57:40 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'props '
+2/21/2015 4:58:09 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'add yumi'
+2/21/2015 4:58:10 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') building at (2534, 1975, 0) in Malas: "yumi"
+2/21/2015 4:58:11 AM: 127.0.0.1: Serials: 0x40000B27; 
+2/21/2015 5:01:15 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'props '
+2/21/2015 5:02:25 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'Set hue 1591'
+2/21/2015 5:02:27 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') set property 'hue' of 0x40000B27 (Yumi) to '1591'
+2/21/2015 5:05:27 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'props '
+2/21/2015 5:09:51 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'admin '
+2/21/2015 5:09:59 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/21/2015 5:09:59 AM: 127.0.0.1: Owner 0xF9 "Fharlune" ('Zigholtul88') used command 'save '

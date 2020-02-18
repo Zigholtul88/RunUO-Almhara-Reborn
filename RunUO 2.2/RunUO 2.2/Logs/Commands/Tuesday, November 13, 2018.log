@@ -1,0 +1,827 @@
+##############################
+Log started on 11/13/2018 12:48:57 AM
+
+11/13/2018 12:49:05 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'speedboost '
+11/13/2018 12:49:09 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'go '
+11/13/2018 12:51:04 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tracking 5'
+11/13/2018 12:51:06 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') set property 'Tracking.Base' of 0x5 "Doopie" ('Zigholtul88') to '5'
+11/13/2018 1:00:39 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add appleofcorrosion'
+11/13/2018 1:00:40 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') building at (1360, 1156, 0) in Malas: "appleofcorrosion"
+11/13/2018 1:00:40 AM: 71.215.61.81: Serials: 0x400002D2; 
+11/13/2018 1:01:01 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 50'
+11/13/2018 1:01:01 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '50'
+11/13/2018 1:01:18 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 75'
+11/13/2018 1:01:19 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '75'
+11/13/2018 1:01:28 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 100'
+11/13/2018 1:01:29 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '100'
+11/13/2018 1:01:40 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'props '
+11/13/2018 1:01:49 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') set property 'Poison' of 0x400002D2 (AppleOfCorrosion) to 'Lesser'
+11/13/2018 1:01:51 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'props '
+11/13/2018 1:02:05 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 10'
+11/13/2018 1:02:06 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '10'
+11/13/2018 1:05:33 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 1:05:36 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/13/2018 1:05:40 AM: 71.215.61.81: Owner 0x5 "Doopie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/13/2018 2:35:18 AM
+
+11/13/2018 2:39:17 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'speedboost '
+11/13/2018 2:39:24 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'props '
+11/13/2018 2:39:38 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 15'
+11/13/2018 2:39:39 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '15'
+11/13/2018 2:40:10 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 25'
+11/13/2018 2:40:10 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '25'
+11/13/2018 2:40:19 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'remove '
+11/13/2018 2:40:36 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x400002D2 (AppleOfCorrosion)
+11/13/2018 2:40:44 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add bananas'
+11/13/2018 2:40:45 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1361, 1157, 1) in Malas: "bananas"
+11/13/2018 2:40:45 AM: 127.0.0.1: Serials: 0x400002E9; 
+11/13/2018 2:41:05 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 15'
+11/13/2018 2:41:05 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '15'
+11/13/2018 2:41:15 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 25'
+11/13/2018 2:41:16 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '25'
+11/13/2018 2:42:19 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 100'
+11/13/2018 2:42:20 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '100'
+11/13/2018 2:42:33 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 2:44:16 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 90'
+11/13/2018 2:44:20 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 25'
+11/13/2018 2:44:20 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '25'
+11/13/2018 2:44:35 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 50'
+11/13/2018 2:44:36 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '50'
+11/13/2018 2:46:41 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'props '
+11/13/2018 2:46:45 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'Poison' of 0x40000155 (Apple) to 'Lesser'
+11/13/2018 2:46:52 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'Poison' of 0x40000155 (Apple) to 'Lethal'
+11/13/2018 2:47:03 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'Poison' of 0x40000155 (Apple) to 'Deadly'
+11/13/2018 2:48:12 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add coconut'
+11/13/2018 2:48:14 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1367, 1157, 0) in Malas: "coconut"
+11/13/2018 2:48:14 AM: 127.0.0.1: Serials: 0x4000030A; 
+11/13/2018 2:48:23 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 100'
+11/13/2018 2:48:24 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '100'
+11/13/2018 2:50:25 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'Poison' of 0x40000155 (Apple) to 'Lesser'
+11/13/2018 2:50:30 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 25'
+11/13/2018 2:50:30 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '25'
+11/13/2018 2:50:43 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'props '
+11/13/2018 2:50:50 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 100'
+11/13/2018 2:50:51 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '100'
+11/13/2018 2:51:18 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 2:51:22 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/13/2018 2:51:25 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/13/2018 3:41:42 AM
+
+11/13/2018 3:41:51 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'speedboost '
+11/13/2018 3:41:56 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add swampvine'
+11/13/2018 3:41:57 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1367, 1156, 0) in Malas: "swampvine"
+11/13/2018 3:41:57 AM: 127.0.0.1: Serials: 0x10; 
+11/13/2018 3:41:59 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'kill '
+11/13/2018 3:42:00 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') killing 0x10 "a swamp vine" (no account)
+11/13/2018 3:42:16 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add swampvine'
+11/13/2018 3:42:17 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1369, 1155, 0) in Malas: "swampvine"
+11/13/2018 3:42:17 AM: 127.0.0.1: Serials: 0x11; 
+11/13/2018 3:42:22 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill forensics 25'
+11/13/2018 3:42:23 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'Forensics.Base' of 0x5 "Doopie" ('Zigholtul88') to '25'
+11/13/2018 3:42:26 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'kill '
+11/13/2018 3:42:28 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') killing 0x11 "a swamp vine" (no account)
+11/13/2018 3:42:41 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill forensics 100'
+11/13/2018 3:42:41 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'Forensics.Base' of 0x5 "Doopie" ('Zigholtul88') to '100'
+11/13/2018 3:42:45 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add swampvine'
+11/13/2018 3:42:45 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1362, 1166, 0) in Malas: "swampvine"
+11/13/2018 3:42:45 AM: 127.0.0.1: Serials: 0x12; 
+11/13/2018 3:42:48 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'kill '
+11/13/2018 3:42:50 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') killing 0x12 "a swamp vine" (no account)
+11/13/2018 3:48:16 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add apple'
+11/13/2018 3:48:17 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1387, 1135, 6) in Malas: "apple"
+11/13/2018 3:48:17 AM: 127.0.0.1: Serials: 0x4000034D; 
+11/13/2018 3:49:38 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add bananas'
+11/13/2018 3:49:40 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1388, 1134, 6) in Malas: "bananas"
+11/13/2018 3:49:40 AM: 127.0.0.1: Serials: 0x4000039F; 
+11/13/2018 3:50:00 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 0'
+11/13/2018 3:50:00 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '0'
+11/13/2018 3:50:44 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 5'
+11/13/2018 3:50:45 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '5'
+11/13/2018 3:51:17 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 0'
+11/13/2018 3:51:17 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '0'
+11/13/2018 3:51:54 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'go '
+11/13/2018 3:57:02 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 3:57:06 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/13/2018 3:57:11 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/13/2018 4:24:08 AM
+
+11/13/2018 4:24:17 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'speedboost '
+11/13/2018 4:24:26 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 0'
+11/13/2018 4:24:27 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '0'
+11/13/2018 4:24:39 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 25'
+11/13/2018 4:24:39 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '25'
+11/13/2018 4:24:59 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 25'
+11/13/2018 4:25:00 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '25'
+11/13/2018 4:25:27 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 86'
+11/13/2018 4:25:28 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '86'
+11/13/2018 4:25:50 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setskill tasteid 55'
+11/13/2018 4:25:51 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'TasteID.Base' of 0x5 "Doopie" ('Zigholtul88') to '55'
+11/13/2018 4:27:06 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add blackan'
+11/13/2018 4:27:10 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1215, 1060, 0) in Malas: "BlackAntZaythalorForest"
+11/13/2018 4:27:10 AM: 127.0.0.1: Serials: 0x10; 
+11/13/2018 4:27:39 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'remove '
+11/13/2018 4:27:40 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x10 "a black ant" (no account)
+11/13/2018 4:29:38 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 4:29:41 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/13/2018 4:29:45 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/13/2018 5:13:51 AM
+
+11/13/2018 5:13:59 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'speedboost '
+11/13/2018 5:15:41 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 5:15:42 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 5:18:07 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add poison'
+11/13/2018 5:18:09 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add poisonarr'
+11/13/2018 5:18:12 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1284, 1012, 0) in Malas: "PoisonArrowFrog"
+11/13/2018 5:18:12 AM: 127.0.0.1: Serials: 0x11; 
+11/13/2018 5:18:43 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 5:18:44 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 5:18:48 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'remove '
+11/13/2018 5:18:49 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x11 "a poison arrow frog" (no account)
+11/13/2018 5:19:55 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 5:20:00 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'props '
+11/13/2018 5:21:07 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 5:21:11 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/13/2018 5:21:15 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/13/2018 6:06:18 AM
+
+11/13/2018 6:06:27 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'speedboost '
+11/13/2018 6:06:45 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'set hits 500'
+11/13/2018 6:06:46 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'hits' of 0x5 "Doopie" ('Zigholtul88') to '500'
+11/13/2018 6:07:11 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setallskills 50'
+11/13/2018 6:07:12 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'EverySkill.Base' of 0x5 "Doopie" ('Zigholtul88') to '50'
+11/13/2018 6:07:39 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') starting facet clear of Malas (4113 objects)
+11/13/2018 6:07:39 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'clearfacet '
+11/13/2018 6:07:43 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 4113 objects
+11/13/2018 6:07:49 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add greenslime'
+11/13/2018 6:07:51 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1300, 970, 0) in Malas: "greenslime"
+11/13/2018 6:07:51 AM: 127.0.0.1: Serials: 0x2; 
+11/13/2018 6:08:28 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add greenslime'
+11/13/2018 6:08:28 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1300, 969, 0) in Malas: "greenslime"
+11/13/2018 6:08:28 AM: 127.0.0.1: Serials: 0x3; 
+11/13/2018 6:08:52 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setallskills 51'
+11/13/2018 6:08:53 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'EverySkill.Base' of 0x5 "Doopie" ('Zigholtul88') to '51'
+11/13/2018 6:08:55 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add greenslime'
+11/13/2018 6:08:56 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1304, 963, 0) in Malas: "greenslime"
+11/13/2018 6:08:56 AM: 127.0.0.1: Serials: 0x4; 
+11/13/2018 6:10:49 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'go '
+11/13/2018 6:10:59 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add pookah'
+11/13/2018 6:11:00 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (361, 724, -6) in Malas: "pookah"
+11/13/2018 6:11:00 AM: 127.0.0.1: Serials: 0x8; 
+11/13/2018 6:11:12 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'remove '
+11/13/2018 6:11:12 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x8 "a pookah" (no account)
+11/13/2018 6:13:48 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 6:13:53 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/13/2018 6:13:54 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/13/2018 6:44:39 AM
+
+11/13/2018 6:45:13 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'speedboost '
+11/13/2018 6:45:21 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'setallskills 50'
+11/13/2018 6:45:23 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') set property 'EverySkill.Base' of 0x5 "Doopie" ('Zigholtul88') to '50'
+11/13/2018 6:45:53 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 6:45:54 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 6:46:13 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 6:46:14 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 6:46:26 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'm remove'
+11/13/2018 6:46:27 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x40000155 (Apple)
+11/13/2018 6:46:28 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x400002E9 (Bananas)
+11/13/2018 6:46:31 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x4000015B (Cloak)
+11/13/2018 6:46:47 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'remove '
+11/13/2018 6:46:48 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x4000030A (Coconut)
+11/13/2018 6:46:54 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add gazerlarva'
+11/13/2018 6:46:55 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (348, 703, -9) in Malas: "gazerlarva"
+11/13/2018 6:46:56 AM: 127.0.0.1: Serials: 0x2; 
+11/13/2018 6:47:43 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add madpumpk'
+11/13/2018 6:47:46 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (345, 706, -8) in Malas: "MadPumpkinSpirit"
+11/13/2018 6:47:46 AM: 127.0.0.1: Serials: 0x3; 
+11/13/2018 6:48:15 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'remove '
+11/13/2018 6:48:17 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x400002A8 (Corpse)
+11/13/2018 7:32:56 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'go '
+11/13/2018 7:56:42 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'go '
+11/13/2018 7:57:02 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'props '
+11/13/2018 8:00:04 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add static'
+11/13/2018 8:00:06 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1603, 1917, 10) in Malas: "static"
+11/13/2018 8:00:08 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add static 1'
+11/13/2018 8:00:09 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1603, 1918, 10) in Malas: "static" "1"
+11/13/2018 8:00:09 AM: 127.0.0.1: Serials: 0x40000327; 
+11/13/2018 8:00:13 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add static 13'
+11/13/2018 8:00:14 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1603, 1918, 10) in Malas: "static" "13"
+11/13/2018 8:00:14 AM: 127.0.0.1: Serials: 0x40000333; 
+11/13/2018 8:00:18 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'remove '
+11/13/2018 8:00:19 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x40000333 (Static)
+11/13/2018 8:00:23 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'wipe '
+11/13/2018 8:00:25 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') wiping from (1603, 1916, 10) to (1607, 1921, 20) in Malas (Items, Mobiles)
+11/13/2018 8:07:53 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 8:08:02 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 8:08:07 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/13/2018 8:08:10 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/13/2018 8:48:34 AM
+
+11/13/2018 8:48:48 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'speedboost '
+11/13/2018 8:49:02 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add decohorsedung'
+11/13/2018 8:49:04 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1603, 1917, 10) in Malas: "decohorsedung"
+11/13/2018 8:49:04 AM: 127.0.0.1: Serials: 0x40000058; 
+11/13/2018 8:49:19 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'remove '
+11/13/2018 8:49:23 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 8:49:25 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 8:49:36 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 8:49:36 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 8:49:55 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'remove '
+11/13/2018 8:49:56 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') deleting 0x40000058 (DecoHorseDung)
+11/13/2018 8:51:47 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'where '
+11/13/2018 8:52:16 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'where '
+11/13/2018 8:53:04 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'admin '
+11/13/2018 8:53:10 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/13/2018 8:53:13 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/13/2018 9:24:28 AM
+
+11/13/2018 9:29:43 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'speedboost '
+11/13/2018 9:29:50 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'add decohorsedung'
+11/13/2018 9:29:51 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') building at (1603, 1918, 10) in Malas: "decohorsedung"
+11/13/2018 9:29:51 AM: 127.0.0.1: Serials: 0x40000058; 
+11/13/2018 9:30:15 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 9:30:17 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 9:30:23 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 9:30:24 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 9:30:29 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 9:30:30 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 9:30:34 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 9:30:35 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 9:30:39 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 9:30:41 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 9:30:45 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 9:30:46 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 9:30:50 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 9:30:51 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 9:30:55 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') used command 'res '
+11/13/2018 9:30:56 AM: 127.0.0.1: Owner 0x5 "Doopie" ('Zigholtul88') resurrecting 0x5 "Doopie" ('Zigholtul88')
+11/13/2018 9:31:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/13/2018 9:31:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/13/2018 9:31:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/13/2018 9:31:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000058 (DecoHorseDung)
+11/13/2018 9:31:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+11/13/2018 9:32:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'age '
+11/13/2018 9:37:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/13/2018 9:37:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+11/13/2018 9:38:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/13/2018 9:38:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+11/13/2018 9:38:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+11/13/2018 9:38:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+11/13/2018 9:39:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (885 objects)
+11/13/2018 9:39:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+11/13/2018 9:39:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 885 objects
+11/13/2018 9:39:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+11/13/2018 9:39:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+11/13/2018 9:39:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+11/13/2018 9:39:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/13/2018 9:39:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+11/13/2018 9:39:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+11/13/2018 9:40:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/13/2018 9:40:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/13/2018 9:40:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/13/2018 9:55:45 AM
+
+11/13/2018 9:57:00 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/13/2018 10:16:42 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/13/2018 10:31:16 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Language' of 0x1 "Zigholtul" ('Zigholtul88') to 'ENU'
+11/13/2018 10:31:19 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Language' of 0x1 "Zigholtul" ('Zigholtul88') to '(null)'
+11/13/2018 10:31:31 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Language' of 0x1 "Zigholtul" ('Zigholtul88') to 'SPA'
+11/13/2018 10:32:21 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Language' of 0x1 "Zigholtul" ('Zigholtul88') to 'RUS'
+11/13/2018 10:33:02 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MagicDamageAbsorb' of 0x1 "Zigholtul" ('Zigholtul88') to '-50'
+11/13/2018 10:33:21 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MagicDamageAbsorb' of 0x1 "Zigholtul" ('Zigholtul88') to '-200'
+11/13/2018 10:33:33 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MagicDamageAbsorb' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+11/13/2018 10:35:48 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'LightLevel' of 0x1 "Zigholtul" ('Zigholtul88') to '-50'
+11/13/2018 10:35:54 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'LightLevel' of 0x1 "Zigholtul" ('Zigholtul88') to '10'
+11/13/2018 10:35:58 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'LightLevel' of 0x1 "Zigholtul" ('Zigholtul88') to '50'
+11/13/2018 10:36:01 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'LightLevel' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+11/13/2018 10:36:28 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills -5'
+11/13/2018 10:36:29 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '-5'
+11/13/2018 10:36:42 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills -15.0'
+11/13/2018 10:36:42 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '-15'
+11/13/2018 11:04:08 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/13/2018 11:09:57 AM
+
+11/13/2018 11:10:05 AM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/13/2018 11:10:24 AM: 71.208.10.79: Owner 0x55B "Duh" ('Zigholtul88') used command 'speedboost '
+11/13/2018 11:10:37 AM: 71.208.10.79: Owner 0x55B "Duh" ('Zigholtul88') used command 'tele '
+11/13/2018 11:10:47 AM: 71.208.10.79: Owner 0x55B "Duh" ('Zigholtul88') used command 'm tele'
+11/13/2018 11:10:55 AM: 71.208.10.79: Owner 0x55B "Duh" ('Zigholtul88') used command 'add yourefucked'
+11/13/2018 11:11:00 AM: 71.208.10.79: Owner 0x55B "Duh" ('Zigholtul88') building at (2522, 2001, 0) in Malas: "YoureFuckedClassGate"
+11/13/2018 11:11:00 AM: 71.208.10.79: Serials: 0x4000015F; 
+11/13/2018 11:12:03 AM: 71.208.10.79: Owner 0x55B "Duh" ('Zigholtul88') used command 'res '
+11/13/2018 11:12:04 AM: 71.208.10.79: Owner 0x55B "Duh" ('Zigholtul88') resurrecting 0x55B "Duh" ('Zigholtul88')
+11/13/2018 11:20:14 AM: 71.208.10.79: Owner 0x55B "Duh" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/13/2018 11:31:51 AM
+
+11/13/2018 11:33:20 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'speedboost '
+11/13/2018 11:33:42 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'tele '
+11/13/2018 11:33:53 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'tele '
+11/13/2018 11:34:01 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/13/2018 11:34:03 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:34:21 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/13/2018 11:34:22 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:34:35 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/13/2018 11:34:37 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:35:36 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'setallskills 100'
+11/13/2018 11:35:37 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'EverySkill.Base' of 0x55B "Oops" ('Zigholtul88') to '100'
+11/13/2018 11:35:47 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'kill '
+11/13/2018 11:35:48 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') killing 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:35:51 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/13/2018 11:35:53 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:36:27 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add dagger'
+11/13/2018 11:36:28 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1615, 1843, 5) in Malas: "dagger"
+11/13/2018 11:36:28 AM: 71.208.10.79: Serials: 0x400002AF; 
+11/13/2018 11:37:54 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') hiding 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:37:55 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Self Hide'
+11/13/2018 11:38:20 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'go '
+11/13/2018 11:38:41 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'tele '
+11/13/2018 11:38:43 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') unhiding 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:38:43 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Self Unhide'
+11/13/2018 11:39:04 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') hiding 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:39:04 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Self Hide'
+11/13/2018 11:39:20 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'setallskills 0'
+11/13/2018 11:39:21 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'EverySkill.Base' of 0x55B "Oops" ('Zigholtul88') to '0'
+11/13/2018 11:40:16 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add meermage'
+11/13/2018 11:40:17 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1825, 1020, 50) in Malas: "meermage"
+11/13/2018 11:40:17 AM: 71.208.10.79: Serials: 0x55D; 
+11/13/2018 11:40:22 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:40:22 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x55D "a meer mage" (no account)
+11/13/2018 11:40:26 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add ophidian'
+11/13/2018 11:40:30 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1824, 1020, 50) in Malas: "OphidianKnightErrant"
+11/13/2018 11:40:30 AM: 71.208.10.79: Serials: 0x55E; 
+11/13/2018 11:40:35 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1825, 1020, 50) in Malas: "OphidianShaman"
+11/13/2018 11:40:35 AM: 71.208.10.79: Serials: 0x55F; 
+11/13/2018 11:40:40 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:40:40 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x55E "Abha" (no account)
+11/13/2018 11:40:42 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:40:42 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x55F "Hrekshega" (no account)
+11/13/2018 11:41:10 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'go '
+11/13/2018 11:41:20 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:41:20 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x4000015F (YoureFuckedClassGate)
+11/13/2018 11:42:12 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add gizzard'
+11/13/2018 11:42:13 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (2527, 1991, 0) in Malas: "gizzard"
+11/13/2018 11:42:13 AM: 71.208.10.79: Serials: 0x560; 
+11/13/2018 11:42:16 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 11:42:20 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:42:20 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x560 "a gizzard" (no account)
+11/13/2018 11:42:24 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add gizzard'
+11/13/2018 11:42:25 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (2516, 1990, 0) in Malas: "gizzard"
+11/13/2018 11:42:25 AM: 71.208.10.79: Serials: 0x561; 
+11/13/2018 11:42:28 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 11:42:32 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:42:33 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x561 "a gizzard" (no account)
+11/13/2018 11:43:38 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (2516, 1990, 0) in Malas: "OphidianApprenticeMage"
+11/13/2018 11:43:39 AM: 71.208.10.79: Serials: 0x562; 
+11/13/2018 11:43:42 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 11:43:48 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:43:48 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x562 "Ishkida" (no account)
+11/13/2018 11:44:57 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (2516, 1991, -2) in Malas: "OphidianAvenger"
+11/13/2018 11:44:57 AM: 71.208.10.79: Serials: 0x563; 
+11/13/2018 11:45:01 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 11:45:07 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:45:08 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x563 "Issishee" (no account)
+11/13/2018 11:46:24 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (2519, 1990, 0) in Malas: "OphidianMatriarch"
+11/13/2018 11:46:24 AM: 71.208.10.79: Serials: 0x564; 
+11/13/2018 11:46:28 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'm remove'
+11/13/2018 11:46:29 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x568 "Syucsesa" (no account)
+11/13/2018 11:46:30 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x565 "Eedaashe" (no account)
+11/13/2018 11:46:44 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:46:45 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x567 "Certheth" (no account)
+11/13/2018 11:46:48 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:46:48 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x566 "Vrantushnat" (no account)
+11/13/2018 11:46:50 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:46:55 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 11:47:04 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:47:04 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x564 "Prakyahdhya" (no account)
+11/13/2018 11:53:14 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/13/2018 11:55:27 AM
+
+11/13/2018 11:55:40 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'speedboost '
+11/13/2018 11:56:00 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add ophidian'
+11/13/2018 11:56:02 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (2516, 1990, 0) in Malas: "OphidianAlterationGate"
+11/13/2018 11:56:03 AM: 71.208.10.79: Serials: 0x400000D7; 
+11/13/2018 11:56:05 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') unhiding 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:56:05 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Self Unhide'
+11/13/2018 11:56:19 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:56:25 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 11:56:38 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'Female' of 0x55B "Oops" ('Zigholtul88') to 'True'
+11/13/2018 11:56:47 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 11:56:48 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x400000D7 (OphidianAlterationGate)
+11/13/2018 11:56:51 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'kill '
+11/13/2018 11:56:54 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') killing 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:56:56 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/13/2018 11:56:58 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:57:10 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'setskill magicresist 100'
+11/13/2018 11:57:11 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'MagicResist.Base' of 0x55B "Oops" ('Zigholtul88') to '100'
+11/13/2018 11:57:15 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'kill '
+11/13/2018 11:57:16 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') killing 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:57:18 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/13/2018 11:57:19 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/13/2018 11:58:53 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'cast fly'
+11/13/2018 11:59:01 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'cast flyspell'
+11/13/2018 12:01:32 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add succubus'
+11/13/2018 12:01:34 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1777, 1893, 0) in Malas: "succubus"
+11/13/2018 12:01:34 PM: 71.208.10.79: Serials: 0x55F; 
+11/13/2018 12:01:50 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:01:54 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x55F "Agate" (no account)
+11/13/2018 12:01:56 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add '
+11/13/2018 12:02:28 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add DemonKnight'
+11/13/2018 12:02:29 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1774, 1889, 0) in Malas: "DemonKnight"
+11/13/2018 12:02:29 PM: 71.208.10.79: Serials: 0x560; 
+11/13/2018 12:02:31 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:02:32 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x560 "Grigorus" (no account)
+11/13/2018 12:02:37 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add MoundOfMaggots'
+11/13/2018 12:02:37 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1776, 1888, 0) in Malas: "MoundOfMaggots"
+11/13/2018 12:02:37 PM: 71.208.10.79: Serials: 0x561; 
+11/13/2018 12:02:40 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:02:40 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x561 "a mound of maggots" (no account)
+11/13/2018 12:02:43 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add ShadowKnight'
+11/13/2018 12:02:44 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1776, 1890, 0) in Malas: "ShadowKnight"
+11/13/2018 12:02:44 PM: 71.208.10.79: Serials: 0x562; 
+11/13/2018 12:02:47 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:02:47 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x562 "Erdok" (no account)
+11/13/2018 12:02:49 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add WailingBanshee'
+11/13/2018 12:02:49 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1778, 1890, 0) in Malas: "WailingBanshee"
+11/13/2018 12:02:49 PM: 71.208.10.79: Serials: 0x563; 
+11/13/2018 12:02:52 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:02:53 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x563 "a wailing banshee" (no account)
+11/13/2018 12:03:00 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add TundraMaiden'
+11/13/2018 12:03:01 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1773, 1891, 0) in Malas: "TundraMaiden"
+11/13/2018 12:03:01 PM: 71.208.10.79: Serials: 0x564; 
+11/13/2018 12:03:04 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:03:04 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x564 "a tundra maiden" (no account)
+11/13/2018 12:03:06 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add IceFiend'
+11/13/2018 12:03:07 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1775, 1890, 0) in Malas: "IceFiend"
+11/13/2018 12:03:07 PM: 71.208.10.79: Serials: 0x565; 
+11/13/2018 12:03:09 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:03:10 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x565 "an ice fiend" (no account)
+11/13/2018 12:03:12 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Balron'
+11/13/2018 12:03:12 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1774, 1890, 0) in Malas: "Balron"
+11/13/2018 12:03:13 PM: 71.208.10.79: Serials: 0x566; 
+11/13/2018 12:03:15 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:03:16 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x566 "the Slayer" (no account)
+11/13/2018 12:03:20 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add AncientWyrm'
+11/13/2018 12:03:21 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1773, 1888, 0) in Malas: "AncientWyrm"
+11/13/2018 12:03:21 PM: 71.208.10.79: Serials: 0x567; 
+11/13/2018 12:03:23 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Dragon'
+11/13/2018 12:03:24 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1774, 1892, 0) in Malas: "Dragon"
+11/13/2018 12:03:24 PM: 71.208.10.79: Serials: 0x568; 
+11/13/2018 12:03:25 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Drake'
+11/13/2018 12:03:27 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add SerpentineDragon'
+11/13/2018 12:03:28 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1774, 1894, 0) in Malas: "SerpentineDragon"
+11/13/2018 12:03:28 PM: 71.208.10.79: Serials: 0x569; 
+11/13/2018 12:03:35 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'm remove'
+11/13/2018 12:03:35 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x567 "Xoiphuss the Seeker of Dark Cleansing" (no account)
+11/13/2018 12:03:36 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x568 "a dragon" (no account)
+11/13/2018 12:03:37 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x569 "a serpentine dragon" (no account)
+11/13/2018 12:03:42 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add StoneHarpy'
+11/13/2018 12:03:43 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1778, 1890, 0) in Malas: "StoneHarpy"
+11/13/2018 12:03:43 PM: 71.208.10.79: Serials: 0x56A; 
+11/13/2018 12:03:46 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:03:46 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x56A "a stone harpy" (no account)
+11/13/2018 12:03:47 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Harpy'
+11/13/2018 12:03:48 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1774, 1891, 0) in Malas: "Harpy"
+11/13/2018 12:03:48 PM: 71.208.10.79: Serials: 0x56B; 
+11/13/2018 12:04:27 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:04:28 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x56B "a harpy" (no account)
+11/13/2018 12:04:49 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Gargoyle'
+11/13/2018 12:04:50 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1766, 1887, 0) in Malas: "Gargoyle"
+11/13/2018 12:04:50 PM: 71.208.10.79: Serials: 0x56C; 
+11/13/2018 12:04:53 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:04:53 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x56C "a gargoyle" (no account)
+11/13/2018 12:04:55 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add FireGargoyle'
+11/13/2018 12:04:55 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1765, 1888, 0) in Malas: "FireGargoyle"
+11/13/2018 12:04:55 PM: 71.208.10.79: Serials: 0x56D; 
+11/13/2018 12:04:57 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:04:58 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x56D "a sweltering gargoyle" (no account)
+11/13/2018 12:04:59 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add StoneGargoyle'
+11/13/2018 12:04:59 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1767, 1888, 0) in Malas: "StoneGargoyle"
+11/13/2018 12:05:00 PM: 71.208.10.79: Serials: 0x56E; 
+11/13/2018 12:05:00 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:05:02 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x56E "a stone gargoyle" (no account)
+11/13/2018 12:05:38 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add TerathanMatriarch'
+11/13/2018 12:05:39 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1766, 1889, 0) in Malas: "TerathanMatriarch"
+11/13/2018 12:05:39 PM: 71.208.10.79: Serials: 0x56F; 
+11/13/2018 12:05:43 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add TerathanAvenger'
+11/13/2018 12:05:44 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1767, 1881, 0) in Malas: "TerathanAvenger"
+11/13/2018 12:05:44 PM: 71.208.10.79: Serials: 0x570; 
+11/13/2018 12:05:47 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:05:50 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x570 "Qualnvrae" (no account)
+11/13/2018 12:05:51 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add TerathanDrone'
+11/13/2018 12:05:52 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1768, 1885, 0) in Malas: "TerathanDrone"
+11/13/2018 12:05:52 PM: 71.208.10.79: Serials: 0x571; 
+11/13/2018 12:05:55 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:05:56 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x571 "Ringo" (no account)
+11/13/2018 12:05:58 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:05:58 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x56F "Bloodbite" (no account)
+11/13/2018 12:06:29 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Doppleganger'
+11/13/2018 12:06:29 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1768, 1884, 0) in Malas: "Doppleganger"
+11/13/2018 12:06:29 PM: 71.208.10.79: Serials: 0x572; 
+11/13/2018 12:06:33 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:06:34 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x572 "a doppleganger" (no account)
+11/13/2018 12:06:35 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Efreet'
+11/13/2018 12:06:36 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1767, 1883, 0) in Malas: "Efreet"
+11/13/2018 12:06:36 PM: 71.208.10.79: Serials: 0x573; 
+11/13/2018 12:06:38 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:06:39 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x573 "an efreet" (no account)
+11/13/2018 12:06:57 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add JukaMage'
+11/13/2018 12:06:58 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1767, 1881, 0) in Malas: "JukaMage"
+11/13/2018 12:06:58 PM: 71.208.10.79: Serials: 0x574; 
+11/13/2018 12:07:01 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:07:02 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x574 "a juka mage" (no account)
+11/13/2018 12:07:06 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add MeerCaptain'
+11/13/2018 12:07:07 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1766, 1882, 0) in Malas: "MeerCaptain"
+11/13/2018 12:07:07 PM: 71.208.10.79: Serials: 0x575; 
+11/13/2018 12:07:15 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:07:16 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x575 "a meer captain" (no account)
+11/13/2018 12:07:23 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add RuneBeetle'
+11/13/2018 12:07:24 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1767, 1875, 0) in Malas: "RuneBeetle"
+11/13/2018 12:07:24 PM: 71.208.10.79: Serials: 0x576; 
+11/13/2018 12:07:29 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:07:30 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x576 "a rune beetle" (no account)
+11/13/2018 12:07:42 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add YomotsuElder'
+11/13/2018 12:07:43 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1762, 1875, 0) in Malas: "YomotsuElder"
+11/13/2018 12:07:43 PM: 71.208.10.79: Serials: 0x577; 
+11/13/2018 12:07:45 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:07:46 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x577 "a yomotsu elder" (no account)
+11/13/2018 12:07:54 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add BlackSolenInfiltratorQueen'
+11/13/2018 12:07:55 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1764, 1877, 0) in Malas: "BlackSolenInfiltratorQueen"
+11/13/2018 12:07:55 PM: 71.208.10.79: Serials: 0x578; 
+11/13/2018 12:07:58 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:07:58 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x578 "a black solen infiltrator" (no account)
+11/13/2018 12:08:04 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add EtherealWarrior'
+11/13/2018 12:08:04 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1764, 1879, 0) in Malas: "EtherealWarrior"
+11/13/2018 12:08:04 PM: 71.208.10.79: Serials: 0x579; 
+11/13/2018 12:08:20 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Pixie'
+11/13/2018 12:08:20 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1758, 1883, 0) in Malas: "Pixie"
+11/13/2018 12:08:20 PM: 71.208.10.79: Serials: 0x57A; 
+11/13/2018 12:08:23 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:08:24 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x57A "Wienne" (no account)
+11/13/2018 12:08:40 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:08:49 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:09:02 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'BodyValue' of 0x55B "Oops" ('Zigholtul88') to '123'
+11/13/2018 12:09:13 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'BodyValue' of 0x55B "Oops" ('Zigholtul88') to '123'
+11/13/2018 12:09:44 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:09:52 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:10:00 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'BodyValue' of 0x55B "Oops" ('Zigholtul88') to '123'
+11/13/2018 12:10:07 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set bodyvalue 123'
+11/13/2018 12:10:09 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'bodyvalue' of 0x55B "Oops" ('Zigholtul88') to '123'
+11/13/2018 12:10:25 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set body 0x7b'
+11/13/2018 12:10:33 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set bodymod 0x0'
+11/13/2018 12:10:41 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set title dude'
+11/13/2018 12:10:43 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'title' of 0x55B "Oops" ('Zigholtul88') to 'dude'
+11/13/2018 12:10:45 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'kill '
+11/13/2018 12:10:46 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') killing 0x55B "Oops" ('Zigholtul88')
+11/13/2018 12:10:48 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/13/2018 12:10:49 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/13/2018 12:10:54 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set bodyvalue 123'
+11/13/2018 12:10:56 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'bodyvalue' of 0x55B "Oops" ('Zigholtul88') to '123'
+11/13/2018 12:11:04 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:11:05 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x579 "Polis" (no account)
+11/13/2018 12:11:11 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set hue 0'
+11/13/2018 12:11:11 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'hue' of 0x55B "Oops" ('Zigholtul88') to '0'
+11/13/2018 12:11:23 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add '
+11/13/2018 12:11:35 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add drya'
+11/13/2018 12:11:37 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1771, 1886, 0) in Malas: "MLDryad"
+11/13/2018 12:11:37 PM: 71.208.10.79: Serials: 0x57B; 
+11/13/2018 12:11:40 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:11:41 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x57B "a dryad" (no account)
+11/13/2018 12:11:47 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add verdantsprite'
+11/13/2018 12:11:48 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1773, 1885, 0) in Malas: "verdantsprite"
+11/13/2018 12:11:48 PM: 71.208.10.79: Serials: 0x57C; 
+11/13/2018 12:11:55 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:11:56 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x57C "a verdant sprite" (no account)
+11/13/2018 12:12:04 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Silvani'
+11/13/2018 12:12:05 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1771, 1888, 0) in Malas: "Silvani"
+11/13/2018 12:12:05 PM: 71.208.10.79: Serials: 0x57D; 
+11/13/2018 12:12:08 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:12:08 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x57D "Silvani" (no account)
+11/13/2018 12:12:16 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Semidar'
+11/13/2018 12:12:16 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1769, 1887, 0) in Malas: "Semidar"
+11/13/2018 12:12:16 PM: 71.208.10.79: Serials: 0x57E; 
+11/13/2018 12:12:22 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:12:35 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set bodyvalue 174'
+11/13/2018 12:12:35 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'bodyvalue' of 0x55B "Oops" ('Zigholtul88') to '174'
+11/13/2018 12:12:46 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:12:46 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x57E "Semidar" (no account)
+11/13/2018 12:12:52 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add succubus'
+11/13/2018 12:12:53 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1776, 1889, 0) in Malas: "succubus"
+11/13/2018 12:12:53 PM: 71.208.10.79: Serials: 0x57F; 
+11/13/2018 12:12:55 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:13:03 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set bodyvalue 149'
+11/13/2018 12:13:03 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'bodyvalue' of 0x55B "Oops" ('Zigholtul88') to '149'
+11/13/2018 12:13:09 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:13:10 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x57F "Ayane" (no account)
+11/13/2018 12:13:35 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add FireElemental'
+11/13/2018 12:13:35 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1778, 1892, 0) in Malas: "FireElemental"
+11/13/2018 12:13:35 PM: 71.208.10.79: Serials: 0x580; 
+11/13/2018 12:13:38 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:13:40 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x580 "a fire elemental" (no account)
+11/13/2018 12:13:46 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add lady'
+11/13/2018 12:13:50 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1777, 1895, 0) in Malas: "LadyJennifyr"
+11/13/2018 12:13:50 PM: 71.208.10.79: Serials: 0x581; 
+11/13/2018 12:13:53 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:13:54 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x581 "Lady Jennifyr" (no account)
+11/13/2018 12:14:10 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Harpy'
+11/13/2018 12:14:11 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1775, 1894, 0) in Malas: "Harpy"
+11/13/2018 12:14:11 PM: 71.208.10.79: Serials: 0x582; 
+11/13/2018 12:14:13 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:14:21 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set bodyvalue 30'
+11/13/2018 12:14:21 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'bodyvalue' of 0x55B "Oops" ('Zigholtul88') to '30'
+11/13/2018 12:14:29 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:14:30 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x582 "a harpy" (no account)
+11/13/2018 12:14:56 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add dyetub'
+11/13/2018 12:14:58 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1767, 1883, 0) in Malas: "dyetub"
+11/13/2018 12:14:58 PM: 71.208.10.79: Serials: 0x40000544; 
+11/13/2018 12:15:01 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add dyes'
+11/13/2018 12:15:02 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1767, 1882, 0) in Malas: "dyes"
+11/13/2018 12:15:02 PM: 71.208.10.79: Serials: 0x40000549; 
+11/13/2018 12:15:22 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:15:30 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set hue 483'
+11/13/2018 12:15:30 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'hue' of 0x55B "Oops" ('Zigholtul88') to '483'
+11/13/2018 12:16:34 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add SeaSerpent'
+11/13/2018 12:16:34 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1770, 1884, 0) in Malas: "SeaSerpent"
+11/13/2018 12:16:34 PM: 71.208.10.79: Serials: 0x583; 
+11/13/2018 12:16:37 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:16:37 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x583 "a sea serpent" (no account)
+11/13/2018 12:17:59 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set hue 0'
+11/13/2018 12:18:00 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'hue' of 0x55B "Oops" ('Zigholtul88') to '0'
+11/13/2018 12:19:33 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add ElderGazer'
+11/13/2018 12:19:33 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1773, 1894, 0) in Malas: "ElderGazer"
+11/13/2018 12:19:33 PM: 71.208.10.79: Serials: 0x584; 
+11/13/2018 12:19:36 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:19:36 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x584 "an elder gazer" (no account)
+11/13/2018 12:19:41 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add FanDancer'
+11/13/2018 12:19:42 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1775, 1895, 0) in Malas: "FanDancer"
+11/13/2018 12:19:42 PM: 71.208.10.79: Serials: 0x585; 
+11/13/2018 12:19:45 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:19:46 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x585 "a fan dancer" (no account)
+11/13/2018 12:19:56 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add JukaLord'
+11/13/2018 12:19:56 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1773, 1894, 0) in Malas: "JukaLord"
+11/13/2018 12:19:56 PM: 71.208.10.79: Serials: 0x586; 
+11/13/2018 12:19:59 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:20:00 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x586 "a juka lord" (no account)
+11/13/2018 12:20:01 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add JukaMage'
+11/13/2018 12:20:02 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1775, 1893, 0) in Malas: "JukaMage"
+11/13/2018 12:20:02 PM: 71.208.10.79: Serials: 0x587; 
+11/13/2018 12:20:04 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:20:05 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x587 "a juka mage" (no account)
+11/13/2018 12:20:06 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add MeerEternal'
+11/13/2018 12:20:07 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1773, 1894, 0) in Malas: "MeerEternal"
+11/13/2018 12:20:07 PM: 71.208.10.79: Serials: 0x588; 
+11/13/2018 12:20:10 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:20:10 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x588 "a meer eternal" (no account)
+11/13/2018 12:20:12 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add MeerMage'
+11/13/2018 12:20:13 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1772, 1899, 0) in Malas: "MeerMage"
+11/13/2018 12:20:13 PM: 71.208.10.79: Serials: 0x589; 
+11/13/2018 12:20:16 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:20:17 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x589 "a meer mage" (no account)
+11/13/2018 12:20:31 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add ServantOfSemidar'
+11/13/2018 12:20:31 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1773, 1894, 0) in Malas: "ServantOfSemidar"
+11/13/2018 12:20:31 PM: 71.208.10.79: Serials: 0x58A; 
+11/13/2018 12:20:35 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:20:36 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x58A "a servant of Semidar" (no account)
+11/13/2018 12:20:49 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Yamandon'
+11/13/2018 12:20:49 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1773, 1895, 0) in Malas: "Yamandon"
+11/13/2018 12:20:49 PM: 71.208.10.79: Serials: 0x58B; 
+11/13/2018 12:20:57 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:21:05 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:21:06 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x58B "a yamandon" (no account)
+11/13/2018 12:22:55 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add Centaur'
+11/13/2018 12:22:55 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1781, 1897, 0) in Malas: "Centaur"
+11/13/2018 12:22:55 PM: 71.208.10.79: Serials: 0x58C; 
+11/13/2018 12:22:58 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'Add EtherealWarrior'
+11/13/2018 12:22:59 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1778, 1906, 0) in Malas: "EtherealWarrior"
+11/13/2018 12:22:59 PM: 71.208.10.79: Serials: 0x58D; 
+11/13/2018 12:23:02 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:23:02 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x58C "Myrsinus" (no account)
+11/13/2018 12:23:32 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:23:34 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:24:01 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:24:03 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x58D "Charpris" (no account)
+11/13/2018 12:24:57 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:25:22 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add dracon'
+11/13/2018 12:25:26 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add dra'
+11/13/2018 12:25:37 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1781, 1905, 0) in Malas: "DragonianZealot"
+11/13/2018 12:25:37 PM: 71.208.10.79: Serials: 0x58E; 
+11/13/2018 12:25:41 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1785, 1903, 0) in Malas: "DragonianRavager"
+11/13/2018 12:25:41 PM: 71.208.10.79: Serials: 0x58F; 
+11/13/2018 12:25:44 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:25:45 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x58E "Erlidi" (no account)
+11/13/2018 12:25:51 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1787, 1901, 0) in Malas: "DragonianEnforcer"
+11/13/2018 12:25:51 PM: 71.208.10.79: Serials: 0x590; 
+11/13/2018 12:25:54 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:25:54 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x590 "Yrroraynth" (no account)
+11/13/2018 12:25:58 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1785, 1901, 0) in Malas: "DragonianOverlord"
+11/13/2018 12:25:58 PM: 71.208.10.79: Serials: 0x591; 
+11/13/2018 12:26:01 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:26:02 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x591 "Amrioss" (no account)
+11/13/2018 12:27:43 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1789, 1915, 0) in Malas: "SkullDragon"
+11/13/2018 12:27:43 PM: 71.208.10.79: Serials: 0x592; 
+11/13/2018 12:27:49 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:27:49 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x592 "Skull Dragon" (no account)
+11/13/2018 12:27:51 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:27:51 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x58F "Ogedil" (no account)
+11/13/2018 12:27:54 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1790, 1928, 30) in Malas: "TundraGiant"
+11/13/2018 12:27:54 PM: 71.208.10.79: Serials: 0x593; 
+11/13/2018 12:27:59 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:27:59 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x593 "a tundra giant" (no account)
+11/13/2018 12:29:22 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add amoeba'
+11/13/2018 12:29:24 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1791, 1926, 30) in Malas: "GiantAmoeba"
+11/13/2018 12:29:24 PM: 71.208.10.79: Serials: 0x594; 
+11/13/2018 12:29:27 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:29:29 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x594 "a giant amoeba" (no account)
+11/13/2018 12:31:20 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add terathan'
+11/13/2018 12:31:27 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1777, 1897, 0) in Malas: "TerathanWarrior"
+11/13/2018 12:31:27 PM: 71.208.10.79: Serials: 0x595; 
+11/13/2018 12:31:38 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1782, 1894, 0) in Malas: "TerathanMatriarch"
+11/13/2018 12:31:38 PM: 71.208.10.79: Serials: 0x596; 
+11/13/2018 12:31:42 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:31:43 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x596 "Iiphstra" (no account)
+11/13/2018 12:31:45 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/13/2018 12:31:46 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x595 "Elarinya" (no account)
+11/13/2018 12:33:06 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:33:19 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'BodyValue' of 0x55B "Oops" ('Zigholtul88') to '728'
+11/13/2018 12:37:04 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set bodyvalue 258'
+11/13/2018 12:37:04 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'bodyvalue' of 0x55B "Oops" ('Zigholtul88') to '258'
+11/13/2018 12:38:36 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set bodyvalue 358'
+11/13/2018 12:38:36 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'bodyvalue' of 0x55B "Oops" ('Zigholtul88') to '358'
+11/13/2018 12:39:27 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set bodyvalue 250'
+11/13/2018 12:39:32 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'bodyvalue' of 0x55B "Oops" ('Zigholtul88') to '250'
+11/13/2018 12:40:33 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set bodyvalue 2'
+11/13/2018 12:40:37 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add ridgeback'
+11/13/2018 12:40:38 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1775, 1895, 0) in Malas: "ridgeback"
+11/13/2018 12:40:38 PM: 71.208.10.79: Serials: 0x597; 
+11/13/2018 12:40:40 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:41:09 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add ridgebac'
+11/13/2018 12:41:11 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1776, 1890, 0) in Malas: "SavageRidgeback"
+11/13/2018 12:41:11 PM: 71.208.10.79: Serials: 0x598; 
+11/13/2018 12:41:14 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/13/2018 12:41:21 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'm remove'
+11/13/2018 12:41:21 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x598 "a savage ridgeback" (no account)
+11/13/2018 12:41:22 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x597 "a ridgeback" (no account)
+11/13/2018 12:42:52 PM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/13/2018 12:46:00 PM
+
+11/14/2018 4:49:51 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'speedboost '
+11/14/2018 4:50:24 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set title the Valborix'
+11/14/2018 4:50:25 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'title' of 0x55B "Oops" ('Zigholtul88') to 'the'
+11/14/2018 4:50:27 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'kill '
+11/14/2018 4:50:28 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') killing 0x55B "Oops" ('Zigholtul88')
+11/14/2018 4:50:30 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/14/2018 4:50:31 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/14/2018 4:50:48 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/14/2018 4:51:05 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'Title' of 0x55B "Oops" ('Zigholtul88') to 'the Valborix'
+11/14/2018 4:51:08 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'kill '
+11/14/2018 4:51:09 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') killing 0x55B "Oops" ('Zigholtul88')
+11/14/2018 4:51:11 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/14/2018 4:51:13 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/14/2018 4:51:44 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'set title the Ophidian'
+11/14/2018 4:51:45 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'title' of 0x55B "Oops" ('Zigholtul88') to 'the'
+11/14/2018 4:51:52 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/14/2018 4:52:02 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'Title' of 0x55B "Oops" ('Zigholtul88') to 'the Ophidian'
+11/14/2018 4:52:04 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'kill '
+11/14/2018 4:52:06 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') killing 0x55B "Oops" ('Zigholtul88')
+11/14/2018 4:52:08 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/14/2018 4:52:10 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/14/2018 4:52:25 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add dualka'
+11/14/2018 4:52:28 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1846, 1861, 10) in Malas: "EbonyDualKatanas"
+11/14/2018 4:52:28 AM: 71.208.10.79: Serials: 0x40004DB4; 
+11/14/2018 4:52:37 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/14/2018 4:52:48 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'StrRequirement' of 0x40004DB4 (EbonyDualKatanas) to '0'
+11/14/2018 4:52:56 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'Movable' of 0x40004DB4 (EbonyDualKatanas) to 'False'
+11/14/2018 4:54:00 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'setallskills 0'
+11/14/2018 4:54:01 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'EverySkill.Base' of 0x55B "Oops" ('Zigholtul88') to '0'
+11/14/2018 4:54:10 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add ophidia'
+11/14/2018 4:54:16 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1775, 1874, 0) in Malas: "OphidianAlterationGate"
+11/14/2018 4:54:16 AM: 71.208.10.79: Serials: 0x40004DC5; 
+11/14/2018 4:54:19 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'kill '
+11/14/2018 4:54:20 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') killing 0x55B "Oops" ('Zigholtul88')
+11/14/2018 4:54:23 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'res '
+11/14/2018 4:54:24 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') resurrecting 0x55B "Oops" ('Zigholtul88')
+11/14/2018 4:54:40 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/14/2018 4:54:42 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x40004DB4 (EbonyDualKatanas)
+11/14/2018 4:54:48 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'add crystals'
+11/14/2018 4:54:50 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') building at (1779, 1881, 0) in Malas: "CrystalStaff"
+11/14/2018 4:54:50 AM: 71.208.10.79: Serials: 0x40004DCD; 
+11/14/2018 4:54:56 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/14/2018 4:55:02 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'StrRequirement' of 0x40004DCD (CrystalStaff) to '0'
+11/14/2018 4:55:22 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'props '
+11/14/2018 4:55:29 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') set property 'Hue' of 0x40004DCD (CrystalStaff) to '73'
+11/14/2018 4:57:34 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'remove '
+11/14/2018 4:57:34 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') deleting 0x40004DC5 (OphidianAlterationGate)
+11/14/2018 5:12:01 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'admin '
+11/14/2018 5:12:05 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/14/2018 5:12:06 AM: 71.208.10.79: Owner 0x55B "Oops" ('Zigholtul88') used command 'save '

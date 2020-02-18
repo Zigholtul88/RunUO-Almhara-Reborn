@@ -1,0 +1,392 @@
+##############################
+Log started on 7/3/2019 11:47:46 PM
+
+7/3/2019 11:49:00 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/3/2019 11:49:31 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'go '
+7/3/2019 11:49:52 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/3/2019 11:49:54 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (641, 1260, 6) in Malas: "spawner"
+7/3/2019 11:49:54 PM: 71.208.38.129: Serials: 0x40000062; 
+7/3/2019 11:49:58 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/3/2019 11:50:05 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40000062 (Spawner) to '10'
+7/3/2019 11:50:12 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000062 (Spawner) to '40'
+7/3/2019 11:51:50 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/3/2019 11:51:52 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (729, 1102, 14) in Malas: "spawner"
+7/3/2019 11:51:52 PM: 71.208.38.129: Serials: 0x40000064; 
+7/3/2019 11:51:55 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/3/2019 11:51:58 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000064 (Spawner) to '50'
+7/3/2019 11:52:01 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40000064 (Spawner) to '25'
+7/3/2019 11:52:05 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000064 (Spawner) to '80'
+7/3/2019 11:52:37 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/3/2019 11:52:38 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (818, 1049, 8) in Malas: "spawner"
+7/3/2019 11:52:38 PM: 71.208.38.129: Serials: 0x40000070; 
+7/3/2019 11:52:41 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/3/2019 11:52:45 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000070 (Spawner) to '8'
+7/3/2019 11:52:48 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40000070 (Spawner) to '3'
+7/3/2019 11:53:23 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'go '
+7/3/2019 11:53:39 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/3/2019 11:53:47 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (660, 1356, 14) in Malas: "spawner"
+7/3/2019 11:53:47 PM: 71.208.38.129: Serials: 0x4000007A; 
+7/3/2019 11:53:51 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/3/2019 11:53:54 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x4000007A (Spawner) to '20'
+7/3/2019 11:53:56 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x4000007A (Spawner) to '6'
+7/3/2019 11:54:11 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'go '
+7/3/2019 11:54:24 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/3/2019 11:54:25 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1152, 1146, 0) in Malas: "spawner"
+7/3/2019 11:54:25 PM: 71.208.38.129: Serials: 0x4000007D; 
+7/3/2019 11:54:32 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/3/2019 11:54:36 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x4000007D (Spawner) to '20'
+7/3/2019 11:54:39 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x4000007D (Spawner) to '5'
+7/3/2019 11:55:34 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm tele'
+7/3/2019 11:55:51 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/3/2019 11:55:53 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1367, 1233, 7) in Malas: "spawner"
+7/3/2019 11:55:53 PM: 71.208.38.129: Serials: 0x400000AB; 
+7/3/2019 11:55:56 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/3/2019 11:56:01 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x400000AB (Spawner) to '30'
+7/3/2019 11:56:05 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400000AB (Spawner) to '5'
+7/3/2019 11:56:22 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') hiding 0x11 "Zigholtul" ('Zigholtul88')
+7/3/2019 11:56:22 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Hide'
+7/3/2019 11:56:36 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/3/2019 11:56:37 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1353, 1287, 7) in Malas: "spawner"
+7/3/2019 11:56:37 PM: 71.208.38.129: Serials: 0x400000C0; 
+7/3/2019 11:56:39 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/3/2019 11:56:43 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x400000C0 (Spawner) to '20'
+7/3/2019 11:56:45 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400000C0 (Spawner) to '4'
+7/3/2019 11:57:16 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/3/2019 11:57:18 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1296, 1172, -10) in Malas: "spawner"
+7/3/2019 11:57:18 PM: 71.208.38.129: Serials: 0x400000CD; 
+7/3/2019 11:57:21 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/3/2019 11:57:25 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x400000CD (Spawner) to '8'
+7/3/2019 11:57:28 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400000CD (Spawner) to '4'
+7/3/2019 11:57:59 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'go '
+7/3/2019 11:58:30 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/3/2019 11:58:31 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1482, 1064, 60) in Malas: "spawner"
+7/3/2019 11:58:31 PM: 71.208.38.129: Serials: 0x400000D9; 
+7/3/2019 11:58:34 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/3/2019 11:58:38 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x400000D9 (Spawner) to '50'
+7/3/2019 11:58:40 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400000D9 (Spawner) to '3'
+7/3/2019 11:59:22 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/3/2019 11:59:23 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1432, 1060, 58) in Malas: "spawner"
+7/3/2019 11:59:23 PM: 71.208.38.129: Serials: 0x400000DB; 
+7/3/2019 11:59:26 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/3/2019 11:59:29 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x400000DB (Spawner) to '80'
+7/3/2019 11:59:33 PM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400000DB (Spawner) to '5'
+7/4/2019 12:00:24 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:00:25 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1525, 1197, 0) in Malas: "spawner"
+7/4/2019 12:00:25 AM: 71.208.38.129: Serials: 0x400000DC; 
+7/4/2019 12:00:30 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:00:38 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x400000DC (Spawner) to '20'
+7/4/2019 12:00:40 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400000DC (Spawner) to '4'
+7/4/2019 12:01:24 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:01:27 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1535, 1115, 0) in Malas: "spawner"
+7/4/2019 12:01:27 AM: 71.208.38.129: Serials: 0x400000ED; 
+7/4/2019 12:01:32 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:01:35 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x400000ED (Spawner) to '10'
+7/4/2019 12:01:40 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400000ED (Spawner) to '5'
+7/4/2019 12:01:58 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:02:00 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1534, 1126, 0) in Malas: "spawner"
+7/4/2019 12:02:00 AM: 71.208.38.129: Serials: 0x400000EE; 
+7/4/2019 12:02:02 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:02:05 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x400000EE (Spawner) to '6'
+7/4/2019 12:02:08 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400000EE (Spawner) to '3'
+7/4/2019 12:02:46 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2019 12:03:08 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2019 12:03:23 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2019 12:04:00 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:04:01 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1137, 842, 0) in Malas: "spawner"
+7/4/2019 12:04:01 AM: 71.208.38.129: Serials: 0x400000F4; 
+7/4/2019 12:04:05 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:04:08 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x400000F4 (Spawner) to '8'
+7/4/2019 12:04:11 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400000F4 (Spawner) to '5'
+7/4/2019 12:04:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400000F4 (Spawner) to '3'
+7/4/2019 12:04:29 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:04:31 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1158, 833, 0) in Malas: "spawner"
+7/4/2019 12:04:31 AM: 71.208.38.129: Serials: 0x40000101; 
+7/4/2019 12:04:32 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:04:36 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000101 (Spawner) to '6'
+7/4/2019 12:04:39 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40000101 (Spawner) to '4'
+7/4/2019 12:04:42 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40000101 (Spawner) to '3'
+7/4/2019 12:05:16 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:05:16 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1104, 879, 8) in Malas: "spawner"
+7/4/2019 12:05:16 AM: 71.208.38.129: Serials: 0x4000010E; 
+7/4/2019 12:05:24 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:05:27 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'move '
+7/4/2019 12:05:33 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') moving 0x4000010E (Spawner) to (1098, 908, 0)
+7/4/2019 12:05:36 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:05:40 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x4000010E (Spawner) to '80'
+7/4/2019 12:05:44 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x4000010E (Spawner) to '20'
+7/4/2019 12:07:24 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:07:28 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x4000010E (Spawner) to '35'
+7/4/2019 12:08:09 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:08:10 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1033, 1043, 0) in Malas: "spawner"
+7/4/2019 12:08:10 AM: 71.208.38.129: Serials: 0x4000013D; 
+7/4/2019 12:08:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:08:19 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x4000013D (Spawner) to '4'
+7/4/2019 12:08:21 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x4000013D (Spawner) to '5'
+7/4/2019 12:08:43 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:08:45 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (972, 1089, 6) in Malas: "spawner"
+7/4/2019 12:08:45 AM: 71.208.38.129: Serials: 0x4000014A; 
+7/4/2019 12:08:47 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:08:54 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x4000014A (Spawner) to '35'
+7/4/2019 12:08:57 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x4000014A (Spawner) to '80'
+7/4/2019 12:10:43 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/4/2019 12:10:44 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x10E "Iarsos" (no account)
+7/4/2019 12:11:13 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:11:15 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1106, 1111, 2) in Malas: "spawner"
+7/4/2019 12:11:15 AM: 71.208.38.129: Serials: 0x40000169; 
+7/4/2019 12:11:18 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:11:21 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000169 (Spawner) to '80'
+7/4/2019 12:11:24 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40000169 (Spawner) to '35'
+7/4/2019 12:14:25 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:14:26 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1011, 990, 6) in Malas: "spawner"
+7/4/2019 12:14:26 AM: 71.208.38.129: Serials: 0x40000195; 
+7/4/2019 12:14:29 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:14:33 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40000195 (Spawner) to '5'
+7/4/2019 12:14:36 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000195 (Spawner) to '10'
+7/4/2019 12:16:59 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/4/2019 12:17:00 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1214, 1219, 7) in Malas: "spawner"
+7/4/2019 12:17:00 AM: 71.208.38.129: Serials: 0x4000019A; 
+7/4/2019 12:17:03 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'props '
+7/4/2019 12:17:06 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x4000019A (Spawner) to '80'
+7/4/2019 12:17:09 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x4000019A (Spawner) to '35'
+7/4/2019 12:18:56 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+7/4/2019 12:18:59 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+7/4/2019 12:18:59 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawner '
+7/4/2019 12:19:48 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (5920 objects)
+7/4/2019 12:19:48 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/4/2019 12:19:49 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 5920 objects
+7/4/2019 12:20:30 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+7/4/2019 12:20:31 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+7/4/2019 12:20:44 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+7/4/2019 12:20:50 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/4/2019 12:20:54 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/4/2019 12:21:00 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'save '
+7/4/2019 1:58:24 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') unhiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 1:58:24 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+7/4/2019 2:00:38 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'setskill animaltaming 100'
+7/4/2019 2:00:38 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'AnimalTaming.Base' of 0x11 "Zigholtul" ('Zigholtul88') to '100'
+7/4/2019 2:12:47 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add dagger'
+7/4/2019 2:12:49 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1141, 1453, -36) in Malas: "dagger"
+7/4/2019 2:12:49 AM: 71.208.38.129: Serials: 0x4000350E; 
+7/4/2019 2:16:33 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') hiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 2:16:33 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Hide'
+7/4/2019 2:16:45 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') unhiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 2:16:45 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+7/4/2019 2:17:26 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') hiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 2:17:26 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Hide'
+7/4/2019 2:18:09 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') unhiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 2:18:09 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+7/4/2019 2:20:21 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') unhiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 2:20:21 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+7/4/2019 2:20:22 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') hiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 2:20:22 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Hide'
+7/4/2019 2:20:51 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') unhiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 2:20:51 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+7/4/2019 2:23:09 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'setskill fencing 100'
+7/4/2019 2:23:10 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') set property 'Fencing.Base' of 0x11 "Zigholtul" ('Zigholtul88') to '100'
+7/4/2019 2:25:21 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turdy'
+7/4/2019 2:25:23 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1213, 1041, 10) in Malas: "turdy"
+7/4/2019 2:25:23 AM: 71.208.38.129: Serials: 0x741; 
+7/4/2019 2:25:24 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turdy'
+7/4/2019 2:25:24 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1213, 1041, 10) in Malas: "turdy"
+7/4/2019 2:25:24 AM: 71.208.38.129: Serials: 0x742; 
+7/4/2019 2:25:26 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turdy'
+7/4/2019 2:25:26 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1214, 1041, 10) in Malas: "turdy"
+7/4/2019 2:25:26 AM: 71.208.38.129: Serials: 0x743; 
+7/4/2019 2:25:28 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') unhiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 2:25:28 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+7/4/2019 2:25:28 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') hiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 2:25:28 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Hide'
+7/4/2019 2:25:45 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'kill '
+7/4/2019 2:26:00 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') killing 0x741 "a turdy" (no account)
+7/4/2019 2:26:02 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'kill '
+7/4/2019 2:26:05 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') killing 0x742 "a turdy" (no account)
+7/4/2019 2:26:06 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'kill '
+7/4/2019 2:26:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') killing 0x743 "a turdy" (no account)
+7/4/2019 2:26:17 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') unhiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 2:26:17 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+7/4/2019 4:12:39 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turret'
+7/4/2019 4:12:41 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1058, 0) in Malas: "turret"
+7/4/2019 4:12:41 AM: 71.208.38.129: Serials: 0x748; 
+7/4/2019 4:12:54 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turret'
+7/4/2019 4:12:54 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1204, 1054, 0) in Malas: "turret"
+7/4/2019 4:12:54 AM: 71.208.38.129: Serials: 0x749; 
+7/4/2019 4:12:55 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turret'
+7/4/2019 4:12:56 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1205, 1055, 0) in Malas: "turret"
+7/4/2019 4:12:56 AM: 71.208.38.129: Serials: 0x74A; 
+7/4/2019 4:12:57 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turret'
+7/4/2019 4:12:57 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1205, 1056, 0) in Malas: "turret"
+7/4/2019 4:12:57 AM: 71.208.38.129: Serials: 0x74B; 
+7/4/2019 4:12:58 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turret'
+7/4/2019 4:12:59 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1054, 0) in Malas: "turret"
+7/4/2019 4:12:59 AM: 71.208.38.129: Serials: 0x74C; 
+7/4/2019 4:13:02 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turret'
+7/4/2019 4:13:03 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1200, 1053, 0) in Malas: "turret"
+7/4/2019 4:13:03 AM: 71.208.38.129: Serials: 0x74D; 
+7/4/2019 4:13:04 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turret'
+7/4/2019 4:13:04 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1058, 0) in Malas: "turret"
+7/4/2019 4:13:04 AM: 71.208.38.129: Serials: 0x74E; 
+7/4/2019 4:13:05 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turret'
+7/4/2019 4:13:06 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1195, 1058, 0) in Malas: "turret"
+7/4/2019 4:13:06 AM: 71.208.38.129: Serials: 0x74F; 
+7/4/2019 4:13:07 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turret'
+7/4/2019 4:13:07 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1197, 1055, 0) in Malas: "turret"
+7/4/2019 4:13:07 AM: 71.208.38.129: Serials: 0x750; 
+7/4/2019 4:13:08 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turret'
+7/4/2019 4:13:09 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1199, 1058, 0) in Malas: "turret"
+7/4/2019 4:13:09 AM: 71.208.38.129: Serials: 0x751; 
+7/4/2019 4:13:10 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turre'
+7/4/2019 4:13:12 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:13 AM: 71.208.38.129: Serials: 0x752; 
+7/4/2019 4:13:13 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:13 AM: 71.208.38.129: Serials: 0x753; 
+7/4/2019 4:13:13 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:13 AM: 71.208.38.129: Serials: 0x754; 
+7/4/2019 4:13:13 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:13 AM: 71.208.38.129: Serials: 0x755; 
+7/4/2019 4:13:13 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:13 AM: 71.208.38.129: Serials: 0x756; 
+7/4/2019 4:13:13 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:13 AM: 71.208.38.129: Serials: 0x757; 
+7/4/2019 4:13:13 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:13 AM: 71.208.38.129: Serials: 0x758; 
+7/4/2019 4:13:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:14 AM: 71.208.38.129: Serials: 0x759; 
+7/4/2019 4:13:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:14 AM: 71.208.38.129: Serials: 0x75A; 
+7/4/2019 4:13:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:14 AM: 71.208.38.129: Serials: 0x75B; 
+7/4/2019 4:13:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:14 AM: 71.208.38.129: Serials: 0x75C; 
+7/4/2019 4:13:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:14 AM: 71.208.38.129: Serials: 0x75D; 
+7/4/2019 4:13:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:14 AM: 71.208.38.129: Serials: 0x75E; 
+7/4/2019 4:13:15 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:15 AM: 71.208.38.129: Serials: 0x75F; 
+7/4/2019 4:13:15 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:15 AM: 71.208.38.129: Serials: 0x760; 
+7/4/2019 4:13:15 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:15 AM: 71.208.38.129: Serials: 0x761; 
+7/4/2019 4:13:15 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1050, 0) in Malas: "Turret"
+7/4/2019 4:13:15 AM: 71.208.38.129: Serials: 0x762; 
+7/4/2019 4:13:15 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1050, 0) in Malas: "Turret"
+7/4/2019 4:13:15 AM: 71.208.38.129: Serials: 0x763; 
+7/4/2019 4:13:16 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1050, 0) in Malas: "Turret"
+7/4/2019 4:13:16 AM: 71.208.38.129: Serials: 0x764; 
+7/4/2019 4:13:16 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1050, 0) in Malas: "Turret"
+7/4/2019 4:13:16 AM: 71.208.38.129: Serials: 0x765; 
+7/4/2019 4:13:16 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1050, 0) in Malas: "Turret"
+7/4/2019 4:13:16 AM: 71.208.38.129: Serials: 0x766; 
+7/4/2019 4:13:16 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1050, 0) in Malas: "Turret"
+7/4/2019 4:13:16 AM: 71.208.38.129: Serials: 0x767; 
+7/4/2019 4:13:16 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1050, 0) in Malas: "Turret"
+7/4/2019 4:13:16 AM: 71.208.38.129: Serials: 0x768; 
+7/4/2019 4:13:17 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1195, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:17 AM: 71.208.38.129: Serials: 0x769; 
+7/4/2019 4:13:17 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1195, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:17 AM: 71.208.38.129: Serials: 0x76A; 
+7/4/2019 4:13:17 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1195, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:17 AM: 71.208.38.129: Serials: 0x76B; 
+7/4/2019 4:13:17 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1195, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:17 AM: 71.208.38.129: Serials: 0x76C; 
+7/4/2019 4:13:17 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1195, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:17 AM: 71.208.38.129: Serials: 0x76D; 
+7/4/2019 4:13:18 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1195, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:18 AM: 71.208.38.129: Serials: 0x76E; 
+7/4/2019 4:13:18 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1195, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:18 AM: 71.208.38.129: Serials: 0x76F; 
+7/4/2019 4:13:18 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1053, 0) in Malas: "Turret"
+7/4/2019 4:13:18 AM: 71.208.38.129: Serials: 0x770; 
+7/4/2019 4:13:18 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1053, 0) in Malas: "Turret"
+7/4/2019 4:13:18 AM: 71.208.38.129: Serials: 0x771; 
+7/4/2019 4:13:18 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1200, 1050, 0) in Malas: "Turret"
+7/4/2019 4:13:18 AM: 71.208.38.129: Serials: 0x772; 
+7/4/2019 4:13:19 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1200, 1051, 0) in Malas: "Turret"
+7/4/2019 4:13:19 AM: 71.208.38.129: Serials: 0x773; 
+7/4/2019 4:13:19 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1200, 1051, 0) in Malas: "Turret"
+7/4/2019 4:13:19 AM: 71.208.38.129: Serials: 0x774; 
+7/4/2019 4:13:19 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1200, 1053, 0) in Malas: "Turret"
+7/4/2019 4:13:19 AM: 71.208.38.129: Serials: 0x775; 
+7/4/2019 4:13:19 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1200, 1052, 0) in Malas: "Turret"
+7/4/2019 4:13:19 AM: 71.208.38.129: Serials: 0x776; 
+7/4/2019 4:13:20 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1056, 0) in Malas: "Turret"
+7/4/2019 4:13:20 AM: 71.208.38.129: Serials: 0x777; 
+7/4/2019 4:13:20 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1057, 0) in Malas: "Turret"
+7/4/2019 4:13:20 AM: 71.208.38.129: Serials: 0x778; 
+7/4/2019 4:13:20 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1198, 1057, 0) in Malas: "Turret"
+7/4/2019 4:13:20 AM: 71.208.38.129: Serials: 0x779; 
+7/4/2019 4:13:21 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1200, 1054, 0) in Malas: "Turret"
+7/4/2019 4:13:21 AM: 71.208.38.129: Serials: 0x77A; 
+7/4/2019 4:13:21 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1052, 0) in Malas: "Turret"
+7/4/2019 4:13:21 AM: 71.208.38.129: Serials: 0x77B; 
+7/4/2019 4:13:21 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1202, 1052, 0) in Malas: "Turret"
+7/4/2019 4:13:21 AM: 71.208.38.129: Serials: 0x77C; 
+7/4/2019 4:13:57 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/4/2019 4:13:58 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B70 (Corpse)
+7/4/2019 4:13:59 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x76D "a turret" (no account)
+7/4/2019 4:13:59 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x768 "a turret" (no account)
+7/4/2019 4:14:00 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x772 "a turret" (no account)
+7/4/2019 4:14:01 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x773 "a turret" (no account)
+7/4/2019 4:14:01 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x765 "a turret" (no account)
+7/4/2019 4:14:02 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x764 "a turret" (no account)
+7/4/2019 4:14:02 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x767 "a turret" (no account)
+7/4/2019 4:14:02 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x766 "a turret" (no account)
+7/4/2019 4:14:02 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x763 "a turret" (no account)
+7/4/2019 4:14:02 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x762 "a turret" (no account)
+7/4/2019 4:14:05 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/4/2019 4:14:05 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x774 "a turret" (no account)
+7/4/2019 4:14:07 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/4/2019 4:14:07 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x776 "a turret" (no account)
+7/4/2019 4:14:10 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/4/2019 4:14:10 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x76A "a turret" (no account)
+7/4/2019 4:14:11 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x76C "a turret" (no account)
+7/4/2019 4:14:11 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x76E "a turret" (no account)
+7/4/2019 4:14:12 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x769 "a turret" (no account)
+7/4/2019 4:14:12 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x76B "a turret" (no account)
+7/4/2019 4:14:13 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x76F "a turret" (no account)
+7/4/2019 4:14:13 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x771 "a turret" (no account)
+7/4/2019 4:14:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x770 "a turret" (no account)
+7/4/2019 4:14:15 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B5F (Corpse)
+7/4/2019 4:14:16 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x777 "a turret" (no account)
+7/4/2019 4:14:16 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x779 "a turret" (no account)
+7/4/2019 4:14:17 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x778 "a turret" (no account)
+7/4/2019 4:14:18 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B65 (Corpse)
+7/4/2019 4:14:18 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B6A (Corpse)
+7/4/2019 4:14:19 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003BCB (Corpse)
+7/4/2019 4:14:20 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x77B "a turret" (no account)
+7/4/2019 4:14:21 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x77C "a turret" (no account)
+7/4/2019 4:14:21 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003BD5 (Corpse)
+7/4/2019 4:14:22 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003BD0 (Corpse)
+7/4/2019 4:14:23 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B59 (Corpse)
+7/4/2019 4:14:23 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B44 (Corpse)
+7/4/2019 4:14:24 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003BC5 (Corpse)
+7/4/2019 4:14:25 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B49 (Corpse)
+7/4/2019 4:14:25 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003BBF (Corpse)
+7/4/2019 4:14:26 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B3E (Corpse)
+7/4/2019 4:14:26 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003BB9 (Corpse)
+7/4/2019 4:14:27 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B4E (Corpse)
+7/4/2019 4:14:27 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003BB4 (Corpse)
+7/4/2019 4:14:28 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B54 (Corpse)
+7/4/2019 4:14:29 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003BAF (Corpse)
+7/4/2019 4:14:29 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003BA9 (Corpse)
+7/4/2019 4:14:30 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003BA3 (Corpse)
+7/4/2019 4:14:31 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B9D (Corpse)
+7/4/2019 4:14:31 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B97 (Corpse)
+7/4/2019 4:14:32 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B91 (Corpse)
+7/4/2019 4:14:32 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B8B (Corpse)
+7/4/2019 4:14:33 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B86 (Corpse)
+7/4/2019 4:14:33 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B80 (Corpse)
+7/4/2019 4:14:34 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B7B (Corpse)
+7/4/2019 4:14:34 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x40003B76 (Corpse)
+7/4/2019 4:14:37 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/4/2019 4:14:44 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x744 "Tyee" (no account)
+7/4/2019 4:15:15 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'add turdy'
+7/4/2019 4:15:17 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') building at (1188, 1040, 5) in Malas: "turdy"
+7/4/2019 4:15:17 AM: 71.208.38.129: Serials: 0x77D; 
+7/4/2019 4:15:37 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') hiding 0x11 "Zigholtul" ('Zigholtul88')
+7/4/2019 4:15:37 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'Self Hide'
+7/4/2019 4:16:15 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/4/2019 4:16:17 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') deleting 0x77D "a turdy" (no account)
+7/4/2019 4:42:10 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/4/2019 4:42:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/4/2019 4:42:14 AM: 71.208.38.129: Owner 0x11 "Zigholtul" ('Zigholtul88') used command 'save '

@@ -1,0 +1,76 @@
+##############################
+Log started on 3/8/2016 5:31:25 AM
+
+3/8/2016 5:32:26 AM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+3/8/2016 5:33:48 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+3/8/2016 5:33:49 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x490 "Zigholtul" ('Zigholtul88') to '100'
+3/8/2016 5:33:52 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'set str 100'
+3/8/2016 5:33:53 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') set property 'str' of 0x490 "Zigholtul" ('Zigholtul88') to '100'
+3/8/2016 5:33:57 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'set dex 100'
+3/8/2016 5:33:58 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') set property 'dex' of 0x490 "Zigholtul" ('Zigholtul88') to '100'
+3/8/2016 5:34:01 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'set int 100'
+3/8/2016 5:34:01 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') set property 'int' of 0x490 "Zigholtul" ('Zigholtul88') to '100'
+3/8/2016 5:34:11 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add '
+3/8/2016 5:34:16 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+3/8/2016 5:34:18 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x490 "Zigholtul" ('Zigholtul88') to '500'
+3/8/2016 5:34:21 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'set stam 500'
+3/8/2016 5:34:22 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') set property 'stam' of 0x490 "Zigholtul" ('Zigholtul88') to '500'
+3/8/2016 5:34:25 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'set mana 500'
+3/8/2016 5:34:26 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') set property 'mana' of 0x490 "Zigholtul" ('Zigholtul88') to '500'
+3/8/2016 5:34:48 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add '
+3/8/2016 5:35:01 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add TattsukeHakama'
+3/8/2016 5:35:02 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "TattsukeHakama"
+3/8/2016 5:35:02 AM: 127.0.0.1: Serials: 0x400000DE; 
+3/8/2016 5:35:13 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add ClothNinjaJacket'
+3/8/2016 5:35:14 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "ClothNinjaJacket"
+3/8/2016 5:35:14 AM: 127.0.0.1: Serials: 0x400000E5; 
+3/8/2016 5:35:21 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add Cloak'
+3/8/2016 5:35:22 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "Cloak"
+3/8/2016 5:35:22 AM: 127.0.0.1: Serials: 0x400000E6; 
+3/8/2016 5:35:35 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add grimo'
+3/8/2016 5:35:38 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "SpellcastersGrimoire"
+3/8/2016 5:35:38 AM: 127.0.0.1: Serials: 0x400000F1; 
+3/8/2016 5:35:48 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add Boots'
+3/8/2016 5:35:48 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "Boots"
+3/8/2016 5:35:48 AM: 127.0.0.1: Serials: 0x400000F6; 
+3/8/2016 5:35:54 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add Waraji'
+3/8/2016 5:35:55 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "Waraji"
+3/8/2016 5:35:55 AM: 127.0.0.1: Serials: 0x400000F7; 
+3/8/2016 5:36:02 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/8/2016 5:36:02 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400000F7 (Waraji)
+3/8/2016 5:36:07 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add dyetub'
+3/8/2016 5:36:08 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "dyetub"
+3/8/2016 5:36:08 AM: 127.0.0.1: Serials: 0x400007FA; 
+3/8/2016 5:36:11 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add dyes'
+3/8/2016 5:36:12 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "dyes"
+3/8/2016 5:36:12 AM: 127.0.0.1: Serials: 0x400007FB; 
+3/8/2016 5:36:50 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add bear'
+3/8/2016 5:36:54 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add special'
+3/8/2016 5:36:56 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "SpecialBeardDye"
+3/8/2016 5:36:56 AM: 127.0.0.1: Serials: 0x40000807; 
+3/8/2016 5:36:58 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "SpecialHairDye"
+3/8/2016 5:36:58 AM: 127.0.0.1: Serials: 0x40000809; 
+3/8/2016 5:37:31 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add katana'
+3/8/2016 5:37:33 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "katana"
+3/8/2016 5:37:33 AM: 127.0.0.1: Serials: 0x4000088F; 
+3/8/2016 5:37:36 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'props '
+3/8/2016 5:37:42 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') set property 'Resource' of 0x4000088F (Katana) to 'Valorite'
+3/8/2016 5:37:57 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add etherea'
+3/8/2016 5:38:03 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "EtherealHiryu"
+3/8/2016 5:38:03 AM: 127.0.0.1: Serials: 0x40000896; 
+3/8/2016 5:38:12 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'go '
+3/8/2016 5:38:24 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add nightsightscroll 100'
+3/8/2016 5:38:26 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2440, 1796, 20) in Malas: "nightsightscroll" "100"
+3/8/2016 5:38:26 AM: 127.0.0.1: Serials: 0x4000089D; 
+3/8/2016 5:39:26 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/8/2016 5:39:30 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'decorate '
+3/8/2016 5:43:19 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'go '
+3/8/2016 5:43:52 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'go '
+3/8/2016 5:45:11 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'go '
+3/8/2016 6:03:18 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add pants'
+3/8/2016 6:03:22 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (1145, 961, 0) in Malas: "ShortPants"
+3/8/2016 6:03:22 AM: 127.0.0.1: Serials: 0x40001D46; 
+3/8/2016 6:07:39 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'props '
+3/8/2016 6:23:03 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/8/2016 6:23:08 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/8/2016 6:23:08 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'save '

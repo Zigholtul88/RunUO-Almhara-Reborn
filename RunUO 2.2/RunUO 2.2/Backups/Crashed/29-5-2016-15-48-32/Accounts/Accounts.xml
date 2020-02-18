@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="2">
+	<account>
+		<username>Zigholtul88</username>
+		<newCryptPassword>42-BB-D2-58-82-E6-C6-39-E4-26-72-3C-88-25-B4-20-54-21-C3-D7</newCryptPassword>
+		<accessLevel>Owner</accessLevel>
+		<created>2016-04-23T15:31:48.889375-04:00</created>
+		<lastLogin>2016-05-29T15:20:18.09375-04:00</lastLogin>
+		<totalGameTime>P1DT7M59.3905265S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+			<char index="1">1135</char>
+			<char index="2">1256</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2016-04-29T19:14:14.796875-04:00">Character #2 0x426 "Therasa" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-04-29T19:33:03.96875-04:00">Character #2 0x426 "Test Dummy" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-03T21:43:06.987875-04:00">Character #2 0x426 "Test Dummy" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-06T20:01:21.191-04:00">Character #2 0x50C "Ruby Rosebud" deleted by 127.0.0.1</comment>
+		</comments>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Freeglepluk</username>
+		<newCryptPassword>D2-81-15-8B-D2-AF-E9-05-58-85-35-71-CB-DE-CF-5C-18-57-A3-DE</newCryptPassword>
+		<created>2016-04-23T15:49:05.43625-04:00</created>
+		<lastLogin>2016-05-13T06:23:32.15625-04:00</lastLogin>
+		<totalGameTime>PT15H13M19.28125S</totalGameTime>
+		<chars>
+			<char index="0">1777</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2016-05-10T08:39:18.390625-04:00">Character #1 0x41C "Kyra Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-10T08:39:20.1875-04:00">Character #2 0x2B4 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-10T09:07:26.109375-04:00">Character #1 0x2B8 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-12T23:03:43.421875-04:00">Character #1 0x2CA "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-12T23:03:45.65625-04:00">Character #2 0x496 "Kyra Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-13T01:37:09.390625-04:00">Character #1 0x2B8 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-13T05:09:57.984375-04:00">Character #1 0x343 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2016-05-13T06:23:21.96875-04:00">Character #1 0x2 "Nastlia Kensley" deleted by 127.0.0.1</comment>
+		</comments>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

@@ -1,0 +1,194 @@
+##############################
+Log started on 7/4/2013 1:13:59 AM
+
+7/4/2013 1:14:31 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add animal'
+7/4/2013 1:14:33 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (633, 581, 0) in Malas: "AnimalTrainerLord"
+7/4/2013 1:14:34 AM: 127.0.0.1: Serials: 0x2E3; 
+7/4/2013 1:14:41 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add cat'
+7/4/2013 1:14:42 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (631, 582, 0) in Malas: "cat"
+7/4/2013 1:14:42 AM: 127.0.0.1: Serials: 0x2E4; 
+7/4/2013 1:15:03 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'set animaltaming 100'
+7/4/2013 1:15:15 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'setskill animaltaming 100'
+7/4/2013 1:15:16 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'AnimalTaming.Base' of 0x280 "hhh" ('Zigholtul88') to '100'
+7/4/2013 1:15:51 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+7/4/2013 1:15:52 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x2E3 "Hilda" (no account)
+7/4/2013 1:18:40 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/4/2013 1:20:33 AM
+
+7/4/2013 1:20:44 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add elmh'
+7/4/2013 1:20:46 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (632, 577, 0) in Malas: "ElmhavenHorseVet"
+7/4/2013 1:20:46 AM: 127.0.0.1: Serials: 0x2E3; 
+7/4/2013 1:20:59 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add dian'
+7/4/2013 1:21:05 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add hors'
+7/4/2013 1:21:08 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (631, 574, 0) in Malas: "KarinasHorse"
+7/4/2013 1:21:08 AM: 127.0.0.1: Serials: 0x2E4; 
+7/4/2013 1:21:44 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+7/4/2013 1:21:45 AM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x2E3 "Redmond" (no account)
+7/4/2013 1:43:20 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add leathergloves'
+7/4/2013 1:43:21 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "leathergloves"
+7/4/2013 1:43:21 AM: 127.0.0.1: Serials: 0x40000063; 
+7/4/2013 1:43:25 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add '
+7/4/2013 1:43:35 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Add ShortPants'
+7/4/2013 1:43:36 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "ShortPants"
+7/4/2013 1:43:36 AM: 127.0.0.1: Serials: 0x40000064; 
+7/4/2013 1:43:39 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Add LongPants'
+7/4/2013 1:43:40 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "LongPants"
+7/4/2013 1:43:40 AM: 127.0.0.1: Serials: 0x40000065; 
+7/4/2013 1:43:50 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Add FancyShirt'
+7/4/2013 1:43:50 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (2519, 1975, 25) in Malas: "FancyShirt"
+7/4/2013 1:43:50 AM: 127.0.0.1: Serials: 0x40000066; 
+7/4/2013 1:44:08 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Add Boots'
+7/4/2013 1:44:09 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "Boots"
+7/4/2013 1:44:09 AM: 127.0.0.1: Serials: 0x40000067; 
+7/4/2013 1:44:13 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'm remove'
+7/4/2013 1:44:13 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') deleting 0x40000064 (ShortPants)
+7/4/2013 1:44:14 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') deleting 0x40000063 (LeatherGloves)
+7/4/2013 1:44:27 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Add StrawHat'
+7/4/2013 1:44:28 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (2519, 1976, 25) in Malas: "StrawHat"
+7/4/2013 1:44:28 AM: 127.0.0.1: Serials: 0x40000068; 
+7/4/2013 1:44:43 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Set hue 195'
+7/4/2013 1:44:44 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') set property 'hue' of 0x40000065 (LongPants) to '195'
+7/4/2013 1:44:53 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Set hue 923'
+7/4/2013 1:44:54 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') set property 'hue' of 0x40000066 (FancyShirt) to '923'
+7/4/2013 1:45:01 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Set hue 46'
+7/4/2013 1:45:02 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') set property 'hue' of 0x40000068 (StrawHat) to '46'
+7/4/2013 1:45:27 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add leathergloves'
+7/4/2013 1:45:28 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "leathergloves"
+7/4/2013 1:45:28 AM: 127.0.0.1: Serials: 0x40000071; 
+7/4/2013 1:45:44 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Set hue 738'
+7/4/2013 1:45:45 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') set property 'hue' of 0x40000071 (LeatherGloves) to '738'
+7/4/2013 1:45:51 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:45:58 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add strawha'
+7/4/2013 1:46:14 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add fancy'
+7/4/2013 1:46:23 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add fancy'
+7/4/2013 1:46:25 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:46:37 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:46:47 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add longp'
+7/4/2013 1:46:50 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add longp'
+7/4/2013 1:46:53 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:46:57 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:47:06 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:47:12 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Set hue 1044'
+7/4/2013 1:47:13 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') set property 'hue' of 0x40000067 (Boots) to '1044'
+7/4/2013 1:47:19 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'Set hue 1055'
+7/4/2013 1:47:20 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') set property 'hue' of 0x40000067 (Boots) to '1055'
+7/4/2013 1:47:24 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:47:33 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:47:46 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:48:09 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:48:20 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'props '
+7/4/2013 1:50:36 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'admin '
+7/4/2013 1:50:42 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/4/2013 1:50:42 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/4/2013 4:43:39 AM
+
+7/4/2013 4:44:17 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add elm'
+7/4/2013 4:44:20 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (1174, 1057, 0) in Malas: "ElmhavenRancher"
+7/4/2013 4:44:20 AM: 127.0.0.1: Serials: 0x2E3; 
+7/4/2013 4:44:39 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add karina'
+7/4/2013 4:44:42 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (1169, 1059, 0) in Malas: "KarinasHorse"
+7/4/2013 4:44:42 AM: 127.0.0.1: Serials: 0x2E4; 
+7/4/2013 4:45:09 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'setskill animaltaming 100'
+7/4/2013 4:45:10 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') set property 'AnimalTaming.Base' of 0x2E5 "Karina" ('Zigholtul88') to '100'
+7/4/2013 4:45:22 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'move '
+7/4/2013 4:45:24 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') moving 0x2E3 "Karina" (no account) to (1161, 1057, 0)
+7/4/2013 4:46:23 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'kill '
+7/4/2013 4:46:24 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') killing 0x2E6 "a hell cat" (no account)
+7/4/2013 4:46:36 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'kill '
+7/4/2013 4:46:41 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'remove '
+7/4/2013 4:46:41 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') deleting 0x2E6 "a hell cat" (no account)
+7/4/2013 4:46:53 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'remove '
+7/4/2013 4:46:54 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') deleting 0x2E3 "Karina" (no account)
+7/4/2013 5:15:23 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'admin '
+7/4/2013 5:15:26 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/4/2013 5:15:26 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/4/2013 7:22:40 AM
+
+7/4/2013 7:23:25 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add elmhav'
+7/4/2013 7:23:32 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (1152, 1059, 5) in Malas: "ElmhavenRancher"
+7/4/2013 7:23:32 AM: 127.0.0.1: Serials: 0x2E3; 
+7/4/2013 7:24:03 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'add karina'
+7/4/2013 7:24:05 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') building at (1153, 1060, 5) in Malas: "KarinasHorse"
+7/4/2013 7:24:05 AM: 127.0.0.1: Serials: 0x2E4; 
+7/4/2013 7:25:34 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'remove '
+7/4/2013 7:25:35 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') deleting 0x2E3 "Karina" (no account)
+7/4/2013 7:25:36 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'remove '
+7/4/2013 7:25:37 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') deleting 0x2E6 "a hell cat" (no account)
+7/4/2013 7:49:26 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'admin '
+7/4/2013 7:49:42 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/4/2013 7:49:43 AM: 127.0.0.1: Owner 0x2E5 "Karina" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/4/2013 9:16:05 PM
+
+7/4/2013 9:17:34 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set str 100'
+7/4/2013 9:17:35 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'str' of 0x2E3 "Zigholtul" ('Zigholtul88') to '100'
+7/4/2013 9:17:39 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set dex 100'
+7/4/2013 9:17:40 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'dex' of 0x2E3 "Zigholtul" ('Zigholtul88') to '100'
+7/4/2013 9:17:45 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+7/4/2013 9:17:45 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x2E3 "Zigholtul" ('Zigholtul88') to '500'
+7/4/2013 9:17:50 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set stam 500'
+7/4/2013 9:17:51 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'stam' of 0x2E3 "Zigholtul" ('Zigholtul88') to '500'
+7/4/2013 9:17:53 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set int 100'
+7/4/2013 9:17:54 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'int' of 0x2E3 "Zigholtul" ('Zigholtul88') to '100'
+7/4/2013 9:17:58 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set mana 500'
+7/4/2013 9:17:59 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'mana' of 0x2E3 "Zigholtul" ('Zigholtul88') to '500'
+7/4/2013 9:18:07 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add '
+7/4/2013 9:18:20 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add Cloak'
+7/4/2013 9:18:21 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "Cloak"
+7/4/2013 9:18:21 PM: 127.0.0.1: Serials: 0x4000001E; 
+7/4/2013 9:18:27 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add FancyShirt'
+7/4/2013 9:18:27 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "FancyShirt"
+7/4/2013 9:18:27 PM: 127.0.0.1: Serials: 0x4000001F; 
+7/4/2013 9:18:34 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add ShortPants'
+7/4/2013 9:18:34 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "ShortPants"
+7/4/2013 9:18:34 PM: 127.0.0.1: Serials: 0x40000020; 
+7/4/2013 9:18:39 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add Boots'
+7/4/2013 9:18:40 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2521, 1977, 25) in Malas: "Boots"
+7/4/2013 9:18:40 PM: 127.0.0.1: Serials: 0x40000023; 
+7/4/2013 9:18:46 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add dyetub'
+7/4/2013 9:18:47 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "dyetub"
+7/4/2013 9:18:47 PM: 127.0.0.1: Serials: 0x40000024; 
+7/4/2013 9:18:49 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add dyes'
+7/4/2013 9:18:50 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "dyes"
+7/4/2013 9:18:50 PM: 127.0.0.1: Serials: 0x40000025; 
+7/4/2013 9:19:34 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add special'
+7/4/2013 9:19:37 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "SpecialBeardDye"
+7/4/2013 9:19:37 PM: 127.0.0.1: Serials: 0x40000028; 
+7/4/2013 9:19:39 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "SpecialHairDye"
+7/4/2013 9:19:39 PM: 127.0.0.1: Serials: 0x40000029; 
+7/4/2013 9:20:06 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add beard'
+7/4/2013 9:20:07 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add bear'
+7/4/2013 9:20:12 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add bearddy'
+7/4/2013 9:20:57 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:21:23 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+7/4/2013 9:21:24 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x2E3 "Zigholtul" ('Zigholtul88') to '100'
+7/4/2013 9:21:31 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add nightsightscroo'
+7/4/2013 9:21:34 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add nightsightscroll'
+7/4/2013 9:21:35 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2005, 370, 12) in Malas: "nightsightscroll"
+7/4/2013 9:21:35 PM: 127.0.0.1: Serials: 0x40000058; 
+7/4/2013 9:21:47 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add nightsightscroll 100'
+7/4/2013 9:21:48 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2009, 378, -1) in Malas: "nightsightscroll" "100"
+7/4/2013 9:21:48 PM: 127.0.0.1: Serials: 0x40000059; 
+7/4/2013 9:23:30 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:24:07 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:24:39 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:24:43 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'm tele'
+7/4/2013 9:25:47 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:25:57 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'm tele'
+7/4/2013 9:27:06 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:27:59 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:28:11 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'm tele'
+7/4/2013 9:28:21 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:29:10 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/4/2013 9:29:13 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/4/2013 9:29:28 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:30:17 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:33:35 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:34:03 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 9:34:14 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/4/2013 10:04:52 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/4/2013 10:04:56 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/4/2013 10:04:56 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'save '

@@ -1,0 +1,142 @@
+##############################
+Log started on 2/7/2013 1:13:01 PM
+
+2/7/2013 1:14:10 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add elfga'
+2/7/2013 1:14:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add elvenra'
+2/7/2013 1:14:28 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (2518, 1976, 25) in Malas: "ElvenRaceGate1"
+2/7/2013 1:14:28 PM: 127.0.0.1: Serials: 0x400003F2; 
+2/7/2013 1:14:34 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (2519, 1976, 25) in Malas: "ElvenRaceGate2"
+2/7/2013 1:14:34 PM: 127.0.0.1: Serials: 0x400003F3; 
+2/7/2013 1:14:36 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (2520, 1975, 25) in Malas: "ElvenRaceGate3"
+2/7/2013 1:14:36 PM: 127.0.0.1: Serials: 0x400003F4; 
+2/7/2013 1:15:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'm remove'
+2/7/2013 1:15:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400003F2 (ElvenRaceGate1)
+2/7/2013 1:15:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400003F3 (ElvenRaceGate2)
+2/7/2013 1:15:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400003F4 (ElvenRaceGate3)
+2/7/2013 1:15:21 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (2516, 1977, 25) in Malas: "ElvenRaceGate1"
+2/7/2013 1:15:21 PM: 127.0.0.1: Serials: 0x40000402; 
+2/7/2013 1:15:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (2519, 1976, 25) in Malas: "ElvenRaceGate2"
+2/7/2013 1:15:23 PM: 127.0.0.1: Serials: 0x40000404; 
+2/7/2013 1:15:25 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (2522, 1976, 25) in Malas: "ElvenRaceGate3"
+2/7/2013 1:15:25 PM: 127.0.0.1: Serials: 0x40000405; 
+2/7/2013 1:15:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'm remove'
+2/7/2013 1:15:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000402 (ElvenRaceGate1)
+2/7/2013 1:15:57 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000404 (ElvenRaceGate2)
+2/7/2013 1:15:57 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000405 (ElvenRaceGate3)
+2/7/2013 1:18:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+2/7/2013 1:18:02 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x280 "hhh" ('Zigholtul88')
+2/7/2013 1:18:12 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'res '
+2/7/2013 1:18:13 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') resurrecting 0x280 "hhh" ('Zigholtul88')
+2/7/2013 1:19:08 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+2/7/2013 1:19:09 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x280 "hhh" ('Zigholtul88')
+2/7/2013 1:19:15 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'res '
+2/7/2013 1:19:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') resurrecting 0x280 "hhh" ('Zigholtul88')
+2/7/2013 1:20:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add elven'
+2/7/2013 1:20:46 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add elvenr'
+2/7/2013 1:20:48 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1190, 1055, 0) in Malas: "ElvenRaceGate1"
+2/7/2013 1:20:48 PM: 127.0.0.1: Serials: 0x400004F0; 
+2/7/2013 1:21:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/7/2013 1:21:57 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400004F0 (ElvenRaceGate1)
+2/7/2013 1:21:58 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1192, 1054, 0) in Malas: "ElvenRaceGate2"
+2/7/2013 1:21:58 PM: 127.0.0.1: Serials: 0x400004F9; 
+2/7/2013 1:22:40 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/7/2013 1:23:13 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1183, 1055, 0) in Malas: "ElvenRaceGate3"
+2/7/2013 1:23:13 PM: 127.0.0.1: Serials: 0x4000055D; 
+2/7/2013 1:23:29 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1187, 1054, 0) in Malas: "ElvenRaceGate2"
+2/7/2013 1:23:29 PM: 127.0.0.1: Serials: 0x4000056F; 
+2/7/2013 1:23:37 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'm remove'
+2/7/2013 1:23:38 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400004F9 (ElvenRaceGate2)
+2/7/2013 1:23:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000056F (ElvenRaceGate2)
+2/7/2013 1:23:40 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000055D (ElvenRaceGate3)
+2/7/2013 1:23:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1188, 1055, 0) in Malas: "ElvenRaceGate3"
+2/7/2013 1:23:43 PM: 127.0.0.1: Serials: 0x40000578; 
+2/7/2013 1:23:50 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add darkelf'
+2/7/2013 1:23:53 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1187, 1057, 0) in Malas: "DarkElfRaceGate1"
+2/7/2013 1:23:53 PM: 127.0.0.1: Serials: 0x4000059A; 
+2/7/2013 1:23:57 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1189, 1056, 0) in Malas: "DarkElfRaceGate2"
+2/7/2013 1:23:57 PM: 127.0.0.1: Serials: 0x400005A1; 
+2/7/2013 1:24:05 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1188, 1058, 0) in Malas: "DarkElfRaceGate3"
+2/7/2013 1:24:05 PM: 127.0.0.1: Serials: 0x400005B0; 
+2/7/2013 1:24:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'm remove'
+2/7/2013 1:24:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000578 (ElvenRaceGate3)
+2/7/2013 1:24:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400005A1 (DarkElfRaceGate2)
+2/7/2013 1:24:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000059A (DarkElfRaceGate1)
+2/7/2013 1:24:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400005B0 (DarkElfRaceGate3)
+2/7/2013 1:25:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') starting facet clear of Malas (1098 objects)
+2/7/2013 1:25:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'clearfacet '
+2/7/2013 1:25:20 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 1098 objects
+2/7/2013 1:25:22 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'admin '
+2/7/2013 1:25:26 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'decorate '
+2/7/2013 1:29:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add beetle'
+2/7/2013 1:29:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1076, 1010, 0) in Malas: "beetle"
+2/7/2013 1:29:43 PM: 127.0.0.1: Serials: 0x321; 
+2/7/2013 1:32:54 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add spawner'
+2/7/2013 1:32:59 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add spawner boar'
+2/7/2013 1:33:00 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1095, 904, 0) in Malas: "spawner" "boar"
+2/7/2013 1:33:00 PM: 127.0.0.1: Serials: 0x40000A1B; 
+2/7/2013 1:33:02 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/7/2013 1:33:05 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/7/2013 1:33:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'WalkingRange' of 0x40000A1B (Spawner) to '-50'
+2/7/2013 1:33:37 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'Count' of 0x40000A1B (Spawner) to '2'
+2/7/2013 1:33:59 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'HomeRange' of 0x40000A1B (Spawner) to '50'
+2/7/2013 1:35:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/7/2013 1:35:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000A1B (Spawner)
+2/7/2013 1:35:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/7/2013 1:35:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x364 "a boar" (no account)
+2/7/2013 1:36:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add spawner'
+2/7/2013 1:36:19 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1018, 862, 10) in Malas: "spawner"
+2/7/2013 1:36:19 PM: 127.0.0.1: Serials: 0x40000A53; 
+2/7/2013 1:36:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/7/2013 1:36:27 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'Count' of 0x40000A53 (Spawner) to '3'
+2/7/2013 1:37:53 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/7/2013 1:37:54 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000A53 (Spawner)
+2/7/2013 1:38:13 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 1:46:00 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 1:47:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 1:50:59 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 1:51:36 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 1:52:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 1:53:31 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 1:54:40 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 1:56:31 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 1:58:14 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:00:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:05:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add hilltoad'
+2/7/2013 2:05:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (709, 821, 15) in Malas: "hilltoad"
+2/7/2013 2:05:43 PM: 127.0.0.1: Serials: 0x40C; 
+2/7/2013 2:05:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/7/2013 2:05:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/7/2013 2:05:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40C "a hill toad" (no account)
+2/7/2013 2:06:22 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:07:28 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:10:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:11:08 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:12:14 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:13:40 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:15:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:15:36 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:16:07 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:16:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:17:49 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:18:36 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:22:31 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:23:11 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:40:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/7/2013 2:40:05 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'HomeRange' of 0x400005B2 (Spawner) to '3'
+2/7/2013 2:40:19 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'WalkingRange' of 0x400005B2 (Spawner) to '-3'
+2/7/2013 2:40:57 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/7/2013 2:40:57 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400005B2 (Spawner)
+2/7/2013 2:41:02 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/7/2013 2:41:03 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x282 "an amazonian spear fighter" (no account)
+2/7/2013 2:41:05 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/7/2013 2:41:05 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400005B3 (Spawner)
+2/7/2013 2:42:11 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/7/2013 2:42:35 PM
+
+2/7/2013 2:42:49 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'admin '
+2/7/2013 2:42:53 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'decorate '
+2/7/2013 2:49:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'where '
+2/7/2013 2:54:09 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'admin '
+2/7/2013 2:54:13 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/7/2013 2:54:13 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'save '

@@ -1,0 +1,801 @@
+##############################
+Log started on 2/9/2019 12:55:33 AM
+
+2/9/2019 12:55:40 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+2/9/2019 12:55:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 12:57:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+2/9/2019 12:57:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+2/9/2019 12:57:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 12:57:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 12:58:05 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 12:58:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 12:58:48 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 12:58:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:03:46 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 1:22:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawningclutte'
+2/9/2019 1:22:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (378, 1823, 39) in Malas: "SpawningClutterBookcase2"
+2/9/2019 1:22:55 AM: 71.215.212.77: Serials: 0x400014B6; 
+2/9/2019 1:22:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 1:22:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400014B6 (SpawningClutterBookcase2)
+2/9/2019 1:23:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:23:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:23:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:24:03 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:24:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:24:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:24:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:24:30 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 1:24:31 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002097 (SpawningClutterBookcase1)
+2/9/2019 1:24:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 1:24:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002099 (SpawningClutterBookcase1)
+2/9/2019 1:24:34 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (379, 1828, 39) in Malas: "SpawningClutterBookcase1"
+2/9/2019 1:24:34 AM: 71.215.212.77: Serials: 0x4000209B; 
+2/9/2019 1:24:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 1:24:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000209B (SpawningClutterBookcase1)
+2/9/2019 1:25:01 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 1:25:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001AAD (SpawningClutterBookcase2)
+2/9/2019 1:25:03 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 1:25:03 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000165B (Spawner)
+2/9/2019 1:25:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:25:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:25:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 1:25:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400026BE (SpawningClutterBookcase1)
+2/9/2019 1:25:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 1:25:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001C4E (Spawner)
+2/9/2019 1:25:41 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'wipe '
+2/9/2019 1:25:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') wiping from (378, 1825, 34) to (382, 1826, 39) in Malas (Items, Mobiles)
+2/9/2019 1:25:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/9/2019 1:25:51 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (378, 1829, 39) in Malas: "SpawningClutterBookcase2"
+2/9/2019 1:25:51 AM: 71.215.212.77: Serials: 0x400026C0; 
+2/9/2019 1:25:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 1:25:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400026C0 (SpawningClutterBookcase2)
+2/9/2019 1:26:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:26:09 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:26:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:26:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:27:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:27:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:27:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:28:03 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:28:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:28:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:28:30 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:29:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:29:34 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:29:48 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:30:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:30:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:30:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:30:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:31:03 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:31:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 1:31:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:32:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:32:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+2/9/2019 1:32:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+2/9/2019 1:32:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add scroll'
+2/9/2019 1:33:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (376, 1830, 65) in Malas: "BlizzardStrikeScroll"
+2/9/2019 1:33:12 AM: 71.215.212.77: Serials: 0x40006B64; 
+2/9/2019 1:33:15 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/9/2019 1:33:50 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:33:53 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:34:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add potion'
+2/9/2019 1:35:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:35:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (362, 1841, 65)
+2/9/2019 1:36:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:36:31 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (363, 1842, 65)
+2/9/2019 1:37:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:37:15 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:37:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:37:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (364, 1840, 65)
+2/9/2019 1:37:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add scroll'
+2/9/2019 1:38:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:38:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:39:41 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:39:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (364, 1841, 65)
+2/9/2019 1:40:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:40:08 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (364, 1839, 65)
+2/9/2019 1:40:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:40:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (364, 1838, 65)
+2/9/2019 1:41:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:41:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:42:30 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:42:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:43:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:43:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (363, 1843, 65)
+2/9/2019 1:44:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:44:48 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:46:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:46:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (378, 1831, 65)
+2/9/2019 1:46:43 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:46:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (376, 1831, 65)
+2/9/2019 1:47:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:47:18 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (377, 1829, 65)
+2/9/2019 1:47:41 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:47:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:51:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:51:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (361, 1829, 45)
+2/9/2019 1:51:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:51:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:51:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (360, 1831, 39)
+2/9/2019 1:51:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:51:30 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (361, 1831, 45)
+2/9/2019 1:51:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:51:49 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:53:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:53:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (362, 1842, 45)
+2/9/2019 1:53:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:53:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (361, 1843, 45)
+2/9/2019 1:54:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:54:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:54:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:54:41 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (371, 1844, 45)
+2/9/2019 1:55:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add rangerspell'
+2/9/2019 1:55:15 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add rangerspel'
+2/9/2019 1:55:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 1:55:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (372, 1843, 45)
+2/9/2019 1:55:49 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:55:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:56:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add rogue'
+2/9/2019 1:57:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 1:57:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 1:58:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+2/9/2019 1:58:05 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+2/9/2019 1:58:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+2/9/2019 2:01:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (4744 objects)
+2/9/2019 2:01:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+2/9/2019 2:01:30 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 4744 objects
+2/9/2019 2:01:49 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+2/9/2019 2:01:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:01:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:10:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawningclutter'
+2/9/2019 2:12:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 2:12:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (270, 1794, 21)
+2/9/2019 2:12:56 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 2:12:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (270, 1792, 21)
+2/9/2019 2:13:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 2:13:01 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (270, 1792, 21)
+2/9/2019 2:13:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:13:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:13:41 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:13:56 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:14:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:14:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:14:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:14:49 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:14:53 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:15:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:15:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:15:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:15:39 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:15:51 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:16:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:16:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:16:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:16:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:16:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:17:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:17:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:17:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:17:39 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:17:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:18:14 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:18:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:18:40 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:18:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:19:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:19:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:19:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:19:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:19:41 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:20:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:20:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:20:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:20:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:20:50 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:21:01 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:21:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:21:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:21:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:22:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:22:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:22:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:22:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:22:51 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:22:53 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:23:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:23:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:23:49 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:23:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:24:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:24:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:24:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:24:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:25:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:26:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:26:30 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:26:46 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:27:03 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:27:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:27:18 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:27:40 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:28:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:28:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:28:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:28:34 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:28:50 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:28:53 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:29:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:29:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:29:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:30:08 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:30:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:30:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:30:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:30:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:31:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:32:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 2:32:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (383, 1869, 13)
+2/9/2019 2:33:03 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 2:33:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (383, 1866, 13)
+2/9/2019 2:33:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 2:33:28 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (383, 1870, 10)
+2/9/2019 2:33:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:33:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:35:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 2:35:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (262, 1869, 45)
+2/9/2019 2:35:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:35:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:35:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:36:01 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:37:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:37:28 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:38:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:38:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:38:46 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:38:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:39:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:39:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/9/2019 2:40:09 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:40:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:40:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:41:15 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:41:18 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:42:01 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:42:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 2:42:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:42:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 2:43:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+2/9/2019 2:43:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+2/9/2019 2:43:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+2/9/2019 2:47:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (2882 objects)
+2/9/2019 2:47:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+2/9/2019 2:47:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 2882 objects
+2/9/2019 2:47:46 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+2/9/2019 2:48:01 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 2:48:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:02:51 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (251, 1779, 20) in Malas: "SpawningClutterDresser5"
+2/9/2019 3:02:51 AM: 71.215.212.77: Serials: 0x40018590; 
+2/9/2019 3:02:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 3:02:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40018590 (SpawningClutterDresser5)
+2/9/2019 3:02:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (251, 1779, 20) in Malas: "SpawningClutterDresser6"
+2/9/2019 3:02:58 AM: 71.215.212.77: Serials: 0x40018591; 
+2/9/2019 3:03:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:03:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 3:03:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40018591 (SpawningClutterDresser6)
+2/9/2019 3:03:34 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:03:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:03:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:04:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:04:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:04:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:05:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (255, 1814, 20) in Malas: "SpawningClutterDresser3"
+2/9/2019 3:05:26 AM: 71.215.212.77: Serials: 0x4001914C; 
+2/9/2019 3:05:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 3:05:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4001914C (SpawningClutterDresser3)
+2/9/2019 3:05:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:05:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:05:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:06:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (292, 1813, 20) in Malas: "SpawningClutterDresser2"
+2/9/2019 3:06:21 AM: 71.215.212.77: Serials: 0x4001972C; 
+2/9/2019 3:06:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 3:06:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4001972C (SpawningClutterDresser2)
+2/9/2019 3:06:28 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (292, 1813, 20) in Malas: "SpawningClutterDresser3"
+2/9/2019 3:06:28 AM: 71.215.212.77: Serials: 0x40019730; 
+2/9/2019 3:06:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:06:56 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:07:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 3:07:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40019730 (SpawningClutterDresser3)
+2/9/2019 3:07:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:07:15 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:07:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 3:07:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400198C7 (Spawner)
+2/9/2019 3:07:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:07:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:08:08 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (317, 1782, 49) in Malas: "SpawningClutterDresser5"
+2/9/2019 3:08:08 AM: 71.215.212.77: Serials: 0x4001A2F1; 
+2/9/2019 3:08:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 3:08:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4001A2F1 (SpawningClutterDresser5)
+2/9/2019 3:08:15 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:08:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:08:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:09:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (317, 1790, 49) in Malas: "SpawningClutterDresser"
+2/9/2019 3:09:02 AM: 71.215.212.77: Serials: 0x4001A8D3; 
+2/9/2019 3:09:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 3:09:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4001A8D3 (SpawningClutterDresser)
+2/9/2019 3:09:39 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:09:49 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:10:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:10:05 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:10:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/9/2019 3:11:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:12:05 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:12:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:12:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:12:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:13:05 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:13:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:13:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:14:15 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:14:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:14:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:14:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:16:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+2/9/2019 3:16:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+2/9/2019 3:16:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+2/9/2019 3:18:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (2912 objects)
+2/9/2019 3:18:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+2/9/2019 3:18:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 2912 objects
+2/9/2019 3:18:34 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+2/9/2019 3:18:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:18:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:18:48 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 3:23:34 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 3:24:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 3:25:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 3:25:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 3:25:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4A1 "Lilith" (no account) to (257, 1799, 20)
+2/9/2019 3:25:30 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:25:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:26:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:26:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:26:09 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 3:26:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:26:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:27:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/9/2019 3:27:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 3:27:28 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 3:27:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (256, 1796, 26)
+2/9/2019 3:27:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 3:27:43 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (256, 1794, 26)
+2/9/2019 3:28:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 3:28:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (257, 1794, 26)
+2/9/2019 3:28:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 3:28:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 3:57:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 3:57:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 4:04:48 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 4:04:53 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/9/2019 4:04:56 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/9/2019 4:26:08 AM
+
+2/9/2019 4:28:50 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+2/9/2019 4:28:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add slamshuff'
+2/9/2019 4:30:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 4:30:34 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 4:30:49 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 4:30:53 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 4:31:03 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 4:31:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000AD0 (Spawner)
+2/9/2019 4:31:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 4:31:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000AD2 (Spawner)
+2/9/2019 4:31:18 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 4:31:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 4:34:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+2/9/2019 4:34:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+2/9/2019 4:34:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+2/9/2019 4:35:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (2924 objects)
+2/9/2019 4:35:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+2/9/2019 4:35:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 2924 objects
+2/9/2019 4:35:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add zaythalor'
+2/9/2019 4:36:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 4:36:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 4:36:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 4:36:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 4:37:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 4:37:28 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 4:37:31 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 4:37:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 4:38:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add cactushub'
+2/9/2019 4:38:46 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 4:39:28 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 4:39:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 4:40:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 4:40:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 4:40:30 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+2/9/2019 4:40:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+2/9/2019 4:40:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+2/9/2019 4:42:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (1093 objects)
+2/9/2019 4:42:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+2/9/2019 4:42:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1093 objects
+2/9/2019 4:42:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+2/9/2019 4:42:39 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+2/9/2019 4:42:48 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+2/9/2019 4:42:50 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 4:42:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 4:43:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+2/9/2019 4:52:40 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 4:54:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') unhiding 0x1 "Zigholtul" ('Zigholtul88')
+2/9/2019 4:54:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+2/9/2019 4:58:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 5:05:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:05:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/9/2019 5:08:01 AM
+
+2/9/2019 5:09:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+2/9/2019 5:11:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:11:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 5:12:01 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 5:12:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+2/9/2019 5:12:15 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+2/9/2019 5:12:15 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+2/9/2019 5:13:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (4910 objects)
+2/9/2019 5:13:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+2/9/2019 5:13:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 4910 objects
+2/9/2019 5:13:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+2/9/2019 5:13:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+2/9/2019 5:13:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+2/9/2019 5:13:30 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 5:13:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 5:13:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+2/9/2019 5:20:18 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 5:31:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/9/2019 5:31:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/9/2019 5:31:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/9/2019 5:31:31 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:31:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/9/2019 5:31:48 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:31:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/9/2019 5:32:01 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 5:32:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 5:33:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+2/9/2019 5:33:18 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+2/9/2019 5:33:18 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+2/9/2019 5:34:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (4918 objects)
+2/9/2019 5:34:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+2/9/2019 5:34:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 4918 objects
+2/9/2019 5:34:15 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 5:34:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 5:35:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Tokuno (1282 objects)
+2/9/2019 5:35:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+2/9/2019 5:35:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1282 objects
+2/9/2019 5:35:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawningclutter'
+2/9/2019 5:36:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1110, 666, 10) in Tokuno: "SpawningClutterDresser2"
+2/9/2019 5:36:13 AM: 71.215.212.77: Serials: 0x40004C4F; 
+2/9/2019 5:36:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 5:36:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004C4F (SpawningClutterDresser2)
+2/9/2019 5:36:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:36:43 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1110, 647, 10) in Tokuno: "SpawningClutterBookcase2"
+2/9/2019 5:36:43 AM: 71.215.212.77: Serials: 0x40004C53; 
+2/9/2019 5:36:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 5:36:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004C53 (SpawningClutterBookcase2)
+2/9/2019 5:36:49 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1110, 647, 10) in Tokuno: "SpawningClutterBookcase1"
+2/9/2019 5:36:49 AM: 71.215.212.77: Serials: 0x40004C56; 
+2/9/2019 5:36:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 5:36:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004C56 (SpawningClutterBookcase1)
+2/9/2019 5:36:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:37:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1110, 647, 10) in Tokuno: "SpawningClutterBookcase1"
+2/9/2019 5:37:17 AM: 71.215.212.77: Serials: 0x40004C58; 
+2/9/2019 5:37:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 5:37:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004C58 (SpawningClutterBookcase1)
+2/9/2019 5:37:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:37:49 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:38:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/9/2019 5:38:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 5:38:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (1102, 642, 20)
+2/9/2019 5:38:34 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 5:38:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (1095, 642, 21)
+2/9/2019 5:38:53 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 5:39:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (1097, 667, 21)
+2/9/2019 5:39:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 5:39:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (1099, 670, 21)
+2/9/2019 5:39:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 5:39:39 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40006B64 (BlizzardStrikeScroll) to (1101, 670, 21)
+2/9/2019 5:40:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 5:40:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 5:40:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add shimmering'
+2/9/2019 5:40:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1066, 668, 20) in Tokuno: "ShimmeringCrossbowOfAquaticElegance"
+2/9/2019 5:40:57 AM: 71.215.212.77: Serials: 0x400052A6; 
+2/9/2019 5:41:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/9/2019 5:41:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/9/2019 5:41:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 5:41:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 5:41:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400052A6 (ShimmeringCrossbowOfAquaticElegance)
+2/9/2019 5:41:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:45:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:45:53 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 5:45:56 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 5:46:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:47:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:47:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:47:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:48:14 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:48:40 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 5:48:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 5:49:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:49:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:49:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:49:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:49:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:50:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:50:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:50:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:50:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:51:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:51:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:51:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 5:51:28 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 5:51:46 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:52:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookcas'
+2/9/2019 5:52:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1068, 642, 20) in Tokuno: "SpawningClutterBookcase2"
+2/9/2019 5:52:10 AM: 71.215.212.77: Serials: 0x400064A8; 
+2/9/2019 5:52:14 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 5:52:14 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400064A8 (SpawningClutterBookcase2)
+2/9/2019 5:52:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:52:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add dresser'
+2/9/2019 5:52:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1070, 665, 20) in Tokuno: "SpawningClutterDresser4"
+2/9/2019 5:52:47 AM: 71.215.212.77: Serials: 0x400064AA; 
+2/9/2019 5:52:50 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 5:52:51 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400064AA (SpawningClutterDresser4)
+2/9/2019 5:52:53 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1070, 665, 20) in Tokuno: "SpawningClutterDresser3"
+2/9/2019 5:52:53 AM: 71.215.212.77: Serials: 0x400064AB; 
+2/9/2019 5:52:56 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:53:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 5:53:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400064AB (SpawningClutterDresser3)
+2/9/2019 5:53:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1064, 662, 20) in Tokuno: "SpawningClutterDresser4"
+2/9/2019 5:53:25 AM: 71.215.212.77: Serials: 0x400064AC; 
+2/9/2019 5:53:28 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 5:53:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400064AC (SpawningClutterDresser4)
+2/9/2019 5:53:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:53:44 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 5:53:46 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 5:53:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:54:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 5:54:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 5:54:26 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 5:57:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 5:58:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+2/9/2019 5:58:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+2/9/2019 5:58:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+2/9/2019 6:02:51 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Tokuno (331 objects)
+2/9/2019 6:02:51 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+2/9/2019 6:02:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 331 objects
+2/9/2019 6:03:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen tokuno/dungeons.map'
+2/9/2019 6:03:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 6:03:09 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 6:03:41 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+2/9/2019 6:03:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+2/9/2019 6:03:51 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+2/9/2019 6:03:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 6:04:01 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/9/2019 6:04:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+2/9/2019 6:45:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/9/2019 6:48:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 6:51:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add peasant'
+2/9/2019 6:51:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (306, 1794, 24) in Malas: "peasant"
+2/9/2019 6:51:13 AM: 71.215.212.77: Serials: 0x9BF; 
+2/9/2019 6:51:18 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 6:51:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x9BF "Shanata" (no account)
+2/9/2019 6:51:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 7:02:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add robe'
+2/9/2019 7:02:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (271, 1769, 15) in Malas: "robe"
+2/9/2019 7:02:55 AM: 71.215.212.77: Serials: 0x4000AF33; 
+2/9/2019 7:02:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 7:03:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost off'
+2/9/2019 7:04:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pitcher'
+2/9/2019 7:05:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1705, 1858, 22) in Malas: "pitcher"
+2/9/2019 7:05:00 AM: 71.215.212.77: Serials: 0x4000AF34; 
+2/9/2019 7:09:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add blackdragon'
+2/9/2019 7:09:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1335, 1096, 4) in Malas: "blackdragon"
+2/9/2019 7:09:25 AM: 71.215.212.77: Serials: 0x9CB; 
+2/9/2019 7:10:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 7:10:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x9CB "Amrioss" (no account)
+2/9/2019 7:12:28 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add blackdragon'
+2/9/2019 7:12:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1239, 1167, 0) in Malas: "blackdragon"
+2/9/2019 7:12:29 AM: 71.215.212.77: Serials: 0x9CF; 
+2/9/2019 7:12:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+2/9/2019 7:12:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x9CF "Iodhiag" (no account)
+2/9/2019 7:12:56 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add blackdragon'
+2/9/2019 7:12:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1239, 1171, 0) in Malas: "blackdragon"
+2/9/2019 7:12:57 AM: 71.215.212.77: Serials: 0x9D0; 
+2/9/2019 7:12:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+2/9/2019 7:13:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+2/9/2019 7:13:09 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+2/9/2019 7:13:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x9D0 "Highuphi" (no account) to (1237, 1168, 0)
+2/9/2019 7:13:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+2/9/2019 7:13:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x9D0 "Highuphi" (no account)
+2/9/2019 7:14:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+2/9/2019 7:14:12 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x80B "a cow" (no account)
+2/9/2019 7:18:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 7:18:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400020D7 (DyeTub)
+2/9/2019 7:18:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/9/2019 7:18:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400020D8 (Dyes)
+2/9/2019 7:19:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 7:23:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'afk '
+2/9/2019 7:23:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'afk '
+2/9/2019 7:23:56 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') hiding 0x1 "Zigholtul" ('Zigholtul88')
+2/9/2019 7:23:56 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Self Hide'
+2/9/2019 9:22:34 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+2/9/2019 9:24:00 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/9/2019 9:24:47 PM
+
+2/9/2019 9:24:52 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+2/9/2019 9:24:56 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+2/9/2019 9:25:27 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') unhiding 0x1 "Zigholtul" ('Zigholtul88')
+2/9/2019 9:25:27 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+2/9/2019 10:30:22 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/9/2019 10:30:26 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/9/2019 10:30:31 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/9/2019 11:19:06 PM
+
+2/9/2019 11:19:36 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+2/9/2019 11:19:45 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add crystalstaff'
+2/9/2019 11:19:47 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1614, 1886, 5) in Malas: "crystalstaff"
+2/9/2019 11:19:55 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add crystalstaf'
+2/9/2019 11:19:57 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1614, 1886, 5) in Malas: "CrystalStaff"
+2/9/2019 11:20:58 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/9/2019 11:24:59 PM
+
+2/9/2019 11:25:30 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+2/9/2019 11:25:35 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add crystalstaff'
+2/9/2019 11:25:37 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1613, 1884, 5) in Malas: "crystalstaff"
+2/9/2019 11:25:37 PM: 71.215.212.77: Serials: 0x400003B5; 
+2/9/2019 11:26:00 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 11:26:08 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 11:33:26 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 11:33:39 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 11:34:26 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') unhiding 0x1 "Zigholtul" ('Zigholtul88')
+2/9/2019 11:34:26 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+2/9/2019 11:37:45 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:37:46 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+2/9/2019 11:37:57 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:37:57 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+2/9/2019 11:39:27 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/9/2019 11:39:52 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:39:53 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+##############################
+Log started on 2/9/2019 11:48:02 PM
+
+2/9/2019 11:48:12 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+2/9/2019 11:48:18 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add crystalstaff'
+2/9/2019 11:48:19 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1613, 1884, 5) in Malas: "crystalstaff"
+2/9/2019 11:48:19 PM: 71.215.212.77: Serials: 0x400003B5; 
+2/9/2019 11:48:24 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/9/2019 11:49:10 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:49:10 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+2/9/2019 11:49:57 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:49:57 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+2/9/2019 11:50:13 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:50:13 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x782 "Tuarwen" (no account) to '500'
+2/9/2019 11:50:18 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:50:18 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+2/9/2019 11:50:34 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:50:34 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+2/9/2019 11:50:46 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:50:47 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+2/9/2019 11:51:14 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:51:14 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+2/9/2019 11:51:33 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:51:33 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+2/9/2019 11:52:31 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+2/9/2019 11:52:31 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+2/9/2019 11:53:23 PM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 12:12:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 12:12:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/10/2019 12:12:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/10/2019 12:12:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 12:13:05 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 12:13:14 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 12:13:39 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:14:09 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:14:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:14:56 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:15:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:16:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:16:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:17:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:17:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:18:08 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:18:20 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:18:39 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:18:54 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:19:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/10/2019 12:19:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/10/2019 12:20:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 12:20:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:20:59 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:21:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:21:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:22:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:22:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:22:46 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:23:31 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:24:06 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:24:32 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:24:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:25:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:25:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/10/2019 12:25:40 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/10/2019 12:25:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:26:03 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:26:18 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/10/2019 12:26:23 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/10/2019 12:26:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/10/2019 12:26:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001638 (StrongWoodDoor)
+2/10/2019 12:26:48 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:27:05 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/10/2019 12:27:10 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/10/2019 12:28:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:39:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 12:40:18 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/10/2019 12:40:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/10/2019 12:40:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 12:41:07 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:41:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:41:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:42:13 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:42:42 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:43:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:43:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:43:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:43:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:43:58 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:44:04 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:44:17 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:44:41 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:45:45 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:45:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:46:21 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:46:33 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:46:50 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:47:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:47:11 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:48:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:48:37 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:48:55 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/10/2019 12:48:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/10/2019 12:49:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:50:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 12:50:49 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:51:08 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:51:25 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:51:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:52:09 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:52:35 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:52:52 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:53:29 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:53:46 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 12:53:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:54:36 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:55:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:55:19 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/10/2019 12:55:22 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/10/2019 12:56:02 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:56:16 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:56:27 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/10/2019 12:56:30 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/10/2019 12:56:40 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/10/2019 12:56:57 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/10/2019 12:57:00 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+2/10/2019 12:57:41 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 12:58:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/10/2019 1:00:14 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 1:00:24 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+2/10/2019 1:16:38 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/10/2019 1:16:47 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/10/2019 1:16:50 AM: 71.215.212.77: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

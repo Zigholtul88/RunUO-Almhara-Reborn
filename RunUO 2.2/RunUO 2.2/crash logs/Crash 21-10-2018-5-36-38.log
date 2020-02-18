@@ -1,0 +1,32 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8936
+Time: 10/21/2018 5:36:38 AM
+Mobiles: 1356
+Items: 13196
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Regions.ZaythalorForestRegion.OnEnter(Mobile m)
+   at Server.Region.OnRegionChange(Mobile m, Region oldRegion, Region newRegion)
+   at Server.Mobile.UpdateRegion()
+   at Server.Mobile.MoveToWorld(Point3D newLocation, Map map)
+   at Server.Mobiles.PremiumSpawner.SpawnTwo(Int32 index, Int32 CreatNameCount, List`1 m_Creat, Int32 m_Countt, List`1 m_CreatName)
+   at Server.Mobiles.PremiumSpawner.Spawn(Int32 CreatNameCount, List`1 m_Creat, Int32 m_Countt, List`1 m_CreatName)
+   at Server.Mobiles.PremiumSpawner.Respawn()
+   at Server.SpawnGenerator.MakeSpawner(String[] types, String[] fakespawnsA, String[] fakespawnsB, String[] fakespawnsC, String[] fakespawnsD, String[] fakespawnsE, Int32 x, Int32 y, Int32 z, Map map, TimeSpan mintime, TimeSpan maxtime, Int32 walkingrange, Int32 homerange, Int32 spawnid, Int32 npccount, Int32 fakecountA, Int32 fakecountB, Int32 fakecountC, Int32 fakecountD, Int32 fakecountE)
+   at Server.SpawnGenerator.PlaceNPC(String[] fakespawnsA, String[] fakespawnsB, String[] fakespawnsC, String[] fakespawnsD, String[] fakespawnsE, String sx, String sy, String sz, String sm, String smintime, String smaxtime, String swalkingrange, String shomerange, String sspawnid, String snpccount, String sfakecountA, String sfakecountB, String sfakecountC, String sfakecountD, String sfakecountE, String[] types)
+   at Server.SpawnGenerator.Parse(Mobile from, String filename)
+   at Server.Commands.CommandSystem.Handle(Mobile from, String text, MessageType type)
+   at Server.Mobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue)
+   at Server.Mobiles.PlayerMobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue)
+   at Server.Network.PacketHandlers.UnicodeSpeech(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x3 'Womp Womp')

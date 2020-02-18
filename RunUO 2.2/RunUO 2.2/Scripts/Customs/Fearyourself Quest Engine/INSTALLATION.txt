@@ -1,0 +1,31 @@
+To install this little script nothing is needed to be done in the rest of RunUO scripts...
+
+All you have to do is put this Fearyourself folder in your Customs directory.
+
+Then load up the game and you have to first create a center :
+
+[add LoggedQuestCenter 
+
+Note : Only create one LoggedQuestCenter, for the moment I haven't handled the case of multiple centers.
+
+You can then play with the BunnyAttack Quest :
+
+[add Bob
+
+Or with the ChainOfMammals Quest
+
+[add Alfred
+
+Note : Make sure you have a nice line on the X axis for this one, he automatically creates 4 guys... 
+
+
+
+If you want to remove the animals their names are :
+
+BobsRabbit
+AlfredsRat
+BriansJackRabbit
+
+
+Have fun and good luck,
+Jc

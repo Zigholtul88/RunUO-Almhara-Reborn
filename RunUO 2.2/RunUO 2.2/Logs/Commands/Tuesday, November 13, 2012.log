@@ -1,0 +1,41 @@
+##############################
+Log started on 11/13/2012 6:39:34 AM
+
+11/13/2012 6:40:47 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'who '
+11/13/2012 6:40:55 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') starting facet clear of Malas (686 objects)
+11/13/2012 6:40:55 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'clearfacet '
+11/13/2012 6:41:06 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') deleting 686 objects
+11/13/2012 6:41:13 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'set map tokuno'
+11/13/2012 6:41:16 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') set property 'map' of 0x1 "Ragnar" ('Zigholtul88') to 'Tokuno'
+11/13/2012 6:41:18 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') starting facet clear of Tokuno (85 objects)
+11/13/2012 6:41:19 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'clearfacet '
+11/13/2012 6:41:20 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') deleting 85 objects
+11/13/2012 6:41:25 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'set map ilshenar'
+11/13/2012 6:41:26 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') set property 'map' of 0x1 "Ragnar" ('Zigholtul88') to 'Ilshenar'
+11/13/2012 6:41:28 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') starting facet clear of Ilshenar (4140 objects)
+11/13/2012 6:41:28 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'clearfacet '
+11/13/2012 6:41:29 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') deleting 4140 objects
+11/13/2012 6:41:32 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'set map trammel'
+11/13/2012 6:41:34 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') set property 'map' of 0x1 "Ragnar" ('Zigholtul88') to 'Trammel'
+11/13/2012 6:41:35 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') starting facet clear of Trammel (27082 objects)
+11/13/2012 6:41:35 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'clearfacet '
+11/13/2012 6:41:36 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') deleting 27082 objects
+11/13/2012 6:41:41 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'set map felucca'
+11/13/2012 6:41:42 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') set property 'map' of 0x1 "Ragnar" ('Zigholtul88') to 'Felucca'
+11/13/2012 6:41:44 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') starting facet clear of Felucca (27500 objects)
+11/13/2012 6:41:44 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'clearfacet '
+11/13/2012 6:41:45 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') deleting 27500 objects
+11/13/2012 6:41:48 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'set map mala'
+11/13/2012 6:41:50 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'set map malas'
+11/13/2012 6:41:51 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') set property 'map' of 0x1 "Ragnar" ('Zigholtul88') to 'Malas'
+11/13/2012 6:41:54 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'clearfacet '
+11/13/2012 6:41:56 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'admin '
+11/13/2012 6:42:03 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'decorate '
+11/13/2012 6:47:59 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'add phoenix'
+11/13/2012 6:48:00 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') building at (1195, 1052, 0) in Malas: "phoenix"
+11/13/2012 6:48:00 AM: 127.0.0.1: Serials: 0xA3; 
+11/13/2012 6:48:03 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'remove '
+11/13/2012 6:48:05 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') deleting 0xA3 "a phoenix" (no account)
+11/13/2012 6:48:09 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'admin '
+11/13/2012 6:48:12 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/13/2012 6:48:12 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'save '

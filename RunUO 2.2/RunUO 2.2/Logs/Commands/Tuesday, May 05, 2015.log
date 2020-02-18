@@ -1,0 +1,87 @@
+##############################
+Log started on 5/5/2015 8:34:09 PM
+
+5/5/2015 8:35:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm tele'
+5/5/2015 8:35:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+5/5/2015 8:35:33 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add alythar'
+5/5/2015 8:35:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (622, 881, 21) in Malas: "WorldGateAlytharrCave"
+5/5/2015 8:35:37 PM: 127.0.0.1: Serials: 0x40000AC6; 
+5/5/2015 8:35:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/5/2015 8:35:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/5/2015 8:35:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000678 (Teleporter)
+5/5/2015 8:36:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add terathanpass'
+5/5/2015 8:36:14 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (621, 885, 21) in Malas: "WorldGateTerathanPass1"
+5/5/2015 8:36:14 PM: 127.0.0.1: Serials: 0x40000B1B; 
+5/5/2015 8:36:24 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm remove'
+5/5/2015 8:36:24 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000B1B (WorldGateTerathanPass1)
+5/5/2015 8:36:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000AC6 (WorldGateAlytharrCave)
+5/5/2015 8:36:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/5/2015 8:36:33 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') starting facet clear of Malas (3596 objects)
+5/5/2015 8:36:33 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'clearfacet '
+5/5/2015 8:36:34 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 3596 objects
+5/5/2015 8:36:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/5/2015 8:36:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/5/2015 8:36:44 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/5/2015 8:37:45 PM
+
+5/5/2015 8:38:18 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 1 (toAll=True)
+5/5/2015 8:38:18 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 1'
+5/5/2015 8:38:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 525 (toAll=True)
+5/5/2015 8:38:27 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 525'
+5/5/2015 8:38:30 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 526 (toAll=True)
+5/5/2015 8:38:30 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 526'
+5/5/2015 8:38:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 526 (toAll=True)
+5/5/2015 8:38:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 526'
+5/5/2015 8:38:32 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 526 (toAll=True)
+5/5/2015 8:38:32 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 526'
+5/5/2015 8:39:04 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/5/2015 8:39:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/5/2015 8:39:09 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/5/2015 8:47:52 PM
+
+5/5/2015 8:48:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/5/2015 8:48:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'decorate '
+5/5/2015 8:48:52 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+5/5/2015 8:50:20 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+5/5/2015 8:52:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+5/5/2015 8:53:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+5/5/2015 8:53:30 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'm tele'
+5/5/2015 8:57:15 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+5/5/2015 9:57:00 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+5/5/2015 9:58:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add mongba'
+5/5/2015 9:59:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 9:59:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 9:59:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:00:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:00:45 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:00:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:01:07 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:01:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:01:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:01:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:02:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:02:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:03:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/5/2015 10:03:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/5/2015 10:03:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x2EF "Boryan" (no account)
+5/5/2015 10:03:40 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/5/2015 10:03:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000069F (Spawner)
+5/5/2015 10:04:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/5/2015 10:06:06 PM
+
+5/5/2015 10:06:21 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/5/2015 10:06:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'decorate '
+5/5/2015 10:06:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add elder'
+5/5/2015 10:06:45 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add staffofmongbats'
+5/5/2015 10:06:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (1232, 1072, 10) in Malas: "staffofmongbats"
+5/5/2015 10:06:46 PM: 127.0.0.1: Serials: 0x400010EA; 
+5/5/2015 10:07:33 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/5/2015 10:07:34 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0xDD "Boryan" (no account)
+5/5/2015 10:07:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/5/2015 10:07:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400010D5 (Spawner)
+5/5/2015 10:07:37 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/5/2015 10:07:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/5/2015 10:07:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'save '

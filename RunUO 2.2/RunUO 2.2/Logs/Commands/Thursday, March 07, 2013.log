@@ -1,0 +1,384 @@
+##############################
+Log started on 3/7/2013 12:29:26 PM
+
+3/7/2013 12:32:11 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'go '
+3/7/2013 12:33:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add zaythalo'
+3/7/2013 12:33:38 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1155, 954, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:33:38 PM: 127.0.0.1: Serials: 0x40000870; 
+3/7/2013 12:33:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add lockpick 100'
+3/7/2013 12:33:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1154, 955, 0) in Malas: "lockpick" "100"
+3/7/2013 12:33:47 PM: 127.0.0.1: Serials: 0x40000875; 
+3/7/2013 12:34:19 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1155, 953, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:34:19 PM: 127.0.0.1: Serials: 0x40000876; 
+3/7/2013 12:34:20 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1156, 953, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:34:20 PM: 127.0.0.1: Serials: 0x4000087A; 
+3/7/2013 12:34:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:34:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000876 (ZaythalorForestLockedTreasureChest1)
+3/7/2013 12:34:34 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:34:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000870 (ZaythalorForestLockedTreasureChest1)
+3/7/2013 12:34:50 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1156, 954, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:34:50 PM: 127.0.0.1: Serials: 0x40000880; 
+3/7/2013 12:35:02 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:35:03 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000087A (ZaythalorForestLockedTreasureChest1)
+3/7/2013 12:35:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:35:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000880 (ZaythalorForestLockedTreasureChest1)
+3/7/2013 12:35:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1156, 954, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:35:39 PM: 127.0.0.1: Serials: 0x40000885; 
+3/7/2013 12:35:50 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1156, 955, 0) in Malas: "ZaythalorForestLockedTreasureChest2"
+3/7/2013 12:35:50 PM: 127.0.0.1: Serials: 0x4000088D; 
+3/7/2013 12:36:22 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'm remove'
+3/7/2013 12:36:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000885 (ZaythalorForestLockedTreasureChest1)
+3/7/2013 12:36:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000088D (ZaythalorForestLockedTreasureChest2)
+3/7/2013 12:36:27 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1155, 953, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:36:27 PM: 127.0.0.1: Serials: 0x40000895; 
+3/7/2013 12:36:27 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1156, 953, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:36:27 PM: 127.0.0.1: Serials: 0x40000899; 
+3/7/2013 12:36:28 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1155, 952, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:36:28 PM: 127.0.0.1: Serials: 0x4000089E; 
+3/7/2013 12:36:29 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1156, 952, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:36:29 PM: 127.0.0.1: Serials: 0x400008A4; 
+3/7/2013 12:36:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1157, 952, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:36:30 PM: 127.0.0.1: Serials: 0x400008A9; 
+3/7/2013 12:36:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1157, 953, 0) in Malas: "ZaythalorForestLockedTreasureChest1"
+3/7/2013 12:36:30 PM: 127.0.0.1: Serials: 0x400008AD; 
+3/7/2013 12:37:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'wipe '
+3/7/2013 12:37:57 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') wiping from (1155, 952, 0) to (1157, 953, 4) in Malas (Items, Mobiles)
+3/7/2013 12:41:05 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'go '
+3/7/2013 12:42:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add tinker'
+3/7/2013 12:42:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1139, 926, 15) in Malas: "tinker"
+3/7/2013 12:42:18 PM: 127.0.0.1: Serials: 0x2C6; 
+3/7/2013 12:42:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:42:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x2C6 "Nyssa" (no account)
+3/7/2013 12:42:40 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add provisoner'
+3/7/2013 12:42:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add provis'
+3/7/2013 12:42:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1138, 927, 15) in Malas: "Provisioner"
+3/7/2013 12:42:47 PM: 127.0.0.1: Serials: 0x2C8; 
+3/7/2013 12:44:53 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:44:54 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x2C8 "Sheridan" (no account)
+3/7/2013 12:54:08 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add kefka'
+3/7/2013 12:54:09 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (653, 711, 0) in Malas: "kefka"
+3/7/2013 12:54:09 PM: 127.0.0.1: Serials: 0x2D9; 
+3/7/2013 12:54:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+3/7/2013 12:54:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x2D9 "" (no account)
+3/7/2013 12:54:40 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:54:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400009CA (Corpse)
+3/7/2013 12:55:07 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add zoneeater'
+3/7/2013 12:55:09 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (657, 707, 0) in Malas: "zoneeater"
+3/7/2013 12:55:09 PM: 127.0.0.1: Serials: 0x2DD; 
+3/7/2013 12:55:15 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+3/7/2013 12:55:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x2DD "Zone Eater" (no account)
+3/7/2013 12:55:52 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:55:53 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400009E3 (Corpse)
+3/7/2013 12:56:00 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add whelk'
+3/7/2013 12:56:02 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (655, 709, 0) in Malas: "whelk"
+3/7/2013 12:56:02 PM: 127.0.0.1: Serials: 0x2DF; 
+3/7/2013 12:56:12 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+3/7/2013 12:56:12 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x2DF "Whelk" (no account)
+3/7/2013 12:56:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:56:19 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400009F1 (Corpse)
+3/7/2013 12:56:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add ultro'
+3/7/2013 12:56:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (655, 709, 0) in Malas: "Ultros"
+3/7/2013 12:56:41 PM: 127.0.0.1: Serials: 0x2E1; 
+3/7/2013 12:56:46 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+3/7/2013 12:56:46 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x2E1 "Ultros" (no account)
+3/7/2013 12:56:55 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:56:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000A00 (Corpse)
+3/7/2013 12:58:44 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add hidon'
+3/7/2013 12:58:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (655, 707, 0) in Malas: "hidon"
+3/7/2013 12:58:45 PM: 127.0.0.1: Serials: 0x2E4; 
+3/7/2013 12:58:48 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+3/7/2013 12:58:49 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x2E4 "Hidon" (no account)
+3/7/2013 12:59:11 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 12:59:12 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000A0F (Corpse)
+3/7/2013 12:59:34 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add edgar'
+3/7/2013 12:59:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (658, 704, 0) in Malas: "EdgarArms"
+3/7/2013 12:59:39 PM: 127.0.0.1: Serials: 0x40000A15; 
+3/7/2013 12:59:44 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (659, 703, 0) in Malas: "EdgarBoots"
+3/7/2013 12:59:44 PM: 127.0.0.1: Serials: 0x40000A16; 
+3/7/2013 12:59:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (658, 703, 0) in Malas: "EdgarCloak"
+3/7/2013 12:59:56 PM: 127.0.0.1: Serials: 0x40000A17; 
+3/7/2013 1:00:00 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (658, 703, 0) in Malas: "EdgarJacket"
+3/7/2013 1:00:00 PM: 127.0.0.1: Serials: 0x40000A18; 
+3/7/2013 1:00:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (657, 704, 0) in Malas: "EdgarLegs"
+3/7/2013 1:00:04 PM: 127.0.0.1: Serials: 0x40000A19; 
+3/7/2013 1:00:08 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (658, 703, 0) in Malas: "EdgarShirt"
+3/7/2013 1:00:08 PM: 127.0.0.1: Serials: 0x40000A1A; 
+3/7/2013 1:00:24 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (651, 711, 0) in Malas: "EdgarBioBlaster"
+3/7/2013 1:00:24 PM: 127.0.0.1: Serials: 0x40000A1B; 
+3/7/2013 1:18:08 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add crossbow'
+3/7/2013 1:18:09 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (651, 711, 0) in Malas: "crossbow"
+3/7/2013 1:18:09 PM: 127.0.0.1: Serials: 0x40000A37; 
+3/7/2013 1:20:25 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add cross'
+3/7/2013 1:23:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add mog'
+3/7/2013 1:23:26 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (654, 710, 0) in Malas: "MogApron"
+3/7/2013 1:23:26 PM: 127.0.0.1: Serials: 0x40000A3E; 
+3/7/2013 1:23:29 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (654, 710, 0) in Malas: "MogArms"
+3/7/2013 1:23:29 PM: 127.0.0.1: Serials: 0x40000A3F; 
+3/7/2013 1:23:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (654, 709, 0) in Malas: "MogBrace"
+3/7/2013 1:23:33 PM: 127.0.0.1: Serials: 0x40000A40; 
+3/7/2013 1:23:36 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (654, 709, 0) in Malas: "MogChest"
+3/7/2013 1:23:36 PM: 127.0.0.1: Serials: 0x40000A41; 
+3/7/2013 1:23:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (654, 708, 0) in Malas: "MogCloak"
+3/7/2013 1:23:39 PM: 127.0.0.1: Serials: 0x40000A42; 
+3/7/2013 1:23:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (654, 709, 0) in Malas: "MogGloves"
+3/7/2013 1:23:43 PM: 127.0.0.1: Serials: 0x40000A43; 
+3/7/2013 1:23:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (653, 709, 0) in Malas: "MogGorget"
+3/7/2013 1:23:47 PM: 127.0.0.1: Serials: 0x40000A44; 
+3/7/2013 1:23:52 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (653, 709, 0) in Malas: "MogHelm"
+3/7/2013 1:23:52 PM: 127.0.0.1: Serials: 0x40000A45; 
+3/7/2013 1:24:14 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'wipe '
+3/7/2013 1:24:15 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') wiping from (649, 706, 0) to (657, 712, 0) in Malas (Items, Mobiles)
+3/7/2013 1:24:46 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'set bodyvalue 401'
+3/7/2013 1:24:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'bodyvalue' of 0x280 "hhh" ('Zigholtul88') to '401'
+3/7/2013 1:24:54 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add specialha'
+3/7/2013 1:24:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (656, 709, 0) in Malas: "SpecialHairDye"
+3/7/2013 1:24:56 PM: 127.0.0.1: Serials: 0x40000A47; 
+3/7/2013 1:25:08 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (656, 709, 0) in Malas: "SpecialHairDye"
+3/7/2013 1:25:08 PM: 127.0.0.1: Serials: 0x40000A48; 
+3/7/2013 1:25:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1045'
+3/7/2013 1:25:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x280 "hhh" ('Zigholtul88') to '1045'
+3/7/2013 1:25:48 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1037'
+3/7/2013 1:25:49 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x280 "hhh" ('Zigholtul88') to '1037'
+3/7/2013 1:26:09 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add cele'
+3/7/2013 1:26:11 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (656, 708, 0) in Malas: "CelesArms"
+3/7/2013 1:26:11 PM: 127.0.0.1: Serials: 0x40000A4B; 
+3/7/2013 1:26:14 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (657, 709, 0) in Malas: "CelesBoots"
+3/7/2013 1:26:14 PM: 127.0.0.1: Serials: 0x40000A4C; 
+3/7/2013 1:26:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (657, 708, 0) in Malas: "CelesCloak"
+3/7/2013 1:26:16 PM: 127.0.0.1: Serials: 0x40000A4D; 
+3/7/2013 1:26:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (655, 710, 0) in Malas: "CelesHelm"
+3/7/2013 1:26:18 PM: 127.0.0.1: Serials: 0x40000A4E; 
+3/7/2013 1:26:27 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'set race elf'
+3/7/2013 1:26:28 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'race' of 0x280 "hhh" ('Zigholtul88') to 'Elf'
+3/7/2013 1:26:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'set bodyvalue 401'
+3/7/2013 1:26:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'set bodyvalue 606'
+3/7/2013 1:26:40 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'bodyvalue' of 0x280 "hhh" ('Zigholtul88') to '606'
+3/7/2013 1:26:51 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (656, 709, 0) in Malas: "CelesShirt"
+3/7/2013 1:26:51 PM: 127.0.0.1: Serials: 0x40000A4F; 
+3/7/2013 1:26:53 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (656, 709, 0) in Malas: "CelesSkirt"
+3/7/2013 1:26:53 PM: 127.0.0.1: Serials: 0x40000A50; 
+3/7/2013 1:27:36 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1150'
+3/7/2013 1:27:38 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000A4D (CelesCloak) to '1150'
+3/7/2013 1:27:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1153'
+3/7/2013 1:27:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000A4C (CelesBoots) to '1153'
+3/7/2013 1:27:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1153'
+3/7/2013 1:27:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000A4D (CelesCloak) to '1153'
+3/7/2013 1:27:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1153'
+3/7/2013 1:27:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000A4B (CelesArms) to '1153'
+3/7/2013 1:27:49 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1153'
+3/7/2013 1:27:51 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000A4D (CelesCloak) to '1153'
+3/7/2013 1:31:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+3/7/2013 1:37:24 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add specialh'
+3/7/2013 1:37:27 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (657, 709, 0) in Malas: "SpecialHairDye"
+3/7/2013 1:37:27 PM: 127.0.0.1: Serials: 0x40000A60; 
+3/7/2013 1:37:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add hairre'
+3/7/2013 1:37:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (657, 709, 0) in Malas: "HairRestylingDeed"
+3/7/2013 1:37:35 PM: 127.0.0.1: Serials: 0x40000A61; 
+3/7/2013 1:37:51 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (657, 706, 0) in Malas: "HairRestylingDeed"
+3/7/2013 1:37:51 PM: 127.0.0.1: Serials: 0x40000A62; 
+3/7/2013 1:38:06 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (655, 713, 0) in Malas: "HairRestylingDeed"
+3/7/2013 1:38:06 PM: 127.0.0.1: Serials: 0x40000A63; 
+3/7/2013 1:38:25 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (655, 704, 0) in Malas: "HairRestylingDeed"
+3/7/2013 1:38:25 PM: 127.0.0.1: Serials: 0x40000A64; 
+3/7/2013 1:40:07 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (659, 701, 0) in Malas: "HairRestylingDeed"
+3/7/2013 1:40:07 PM: 127.0.0.1: Serials: 0x40000A67; 
+3/7/2013 1:40:25 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add terra'
+3/7/2013 1:40:27 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (658, 698, 0) in Malas: "TerraArms"
+3/7/2013 1:40:27 PM: 127.0.0.1: Serials: 0x40000A68; 
+3/7/2013 1:40:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (659, 698, 0) in Malas: "TerraBoots"
+3/7/2013 1:40:30 PM: 127.0.0.1: Serials: 0x40000A69; 
+3/7/2013 1:40:32 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (658, 699, 0) in Malas: "TerraChest"
+3/7/2013 1:40:33 PM: 127.0.0.1: Serials: 0x40000A6A; 
+3/7/2013 1:40:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (659, 699, 0) in Malas: "TerraGorget"
+3/7/2013 1:40:35 PM: 127.0.0.1: Serials: 0x40000A6D; 
+3/7/2013 1:40:44 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (660, 698, 0) in Malas: "TerraHelm"
+3/7/2013 1:40:44 PM: 127.0.0.1: Serials: 0x40000A6E; 
+3/7/2013 1:41:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'wipe '
+3/7/2013 1:41:02 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') wiping from (656, 699, 0) to (661, 704, 0) in Malas (Items, Mobiles)
+3/7/2013 1:44:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'admin '
+3/7/2013 1:44:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/7/2013 1:44:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/7/2013 4:20:20 PM
+
+3/7/2013 4:21:22 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'wipe '
+3/7/2013 4:21:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') wiping from (702, 709, 1) to (706, 712, 1) in Malas (Items, Mobiles)
+3/7/2013 4:22:19 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add studded'
+3/7/2013 4:22:22 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (702, 713, 2) in Malas: "StuddedBustierArms"
+3/7/2013 4:22:22 PM: 127.0.0.1: Serials: 0x40000341; 
+3/7/2013 4:22:27 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (703, 713, 2) in Malas: "FemaleStuddedChest"
+3/7/2013 4:22:27 PM: 127.0.0.1: Serials: 0x40000342; 
+3/7/2013 4:22:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add thighboots'
+3/7/2013 4:22:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (702, 714, 1) in Malas: "thighboots"
+3/7/2013 4:22:43 PM: 127.0.0.1: Serials: 0x40000343; 
+3/7/2013 4:22:51 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add ringmailgloves'
+3/7/2013 4:22:53 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (703, 713, 2) in Malas: "ringmailgloves"
+3/7/2013 4:22:53 PM: 127.0.0.1: Serials: 0x40000344; 
+3/7/2013 4:23:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (703, 713, 2) in Malas: "StuddedGorget"
+3/7/2013 4:23:01 PM: 127.0.0.1: Serials: 0x40000345; 
+3/7/2013 4:23:05 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 4:23:06 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000341 (StuddedBustierArms)
+3/7/2013 4:24:12 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1757'
+3/7/2013 4:24:13 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000342 (FemaleStuddedChest) to '1757'
+3/7/2013 4:24:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1757'
+3/7/2013 4:24:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000344 (RingmailGloves) to '1757'
+3/7/2013 4:24:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1757'
+3/7/2013 4:24:19 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000345 (StuddedGorget) to '1757'
+3/7/2013 4:24:20 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1757'
+3/7/2013 4:24:20 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000343 (ThighBoots) to '1757'
+3/7/2013 4:24:25 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1764'
+3/7/2013 4:24:26 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000343 (ThighBoots) to '1764'
+3/7/2013 4:24:28 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1764'
+3/7/2013 4:24:28 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000343 (ThighBoots) to '1764'
+3/7/2013 4:24:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1764'
+3/7/2013 4:24:31 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000342 (FemaleStuddedChest) to '1764'
+3/7/2013 4:24:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1764'
+3/7/2013 4:24:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000343 (ThighBoots) to '1764'
+3/7/2013 4:24:38 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1769'
+3/7/2013 4:24:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000343 (ThighBoots) to '1769'
+3/7/2013 4:24:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1769'
+3/7/2013 4:24:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000343 (ThighBoots) to '1769'
+3/7/2013 4:24:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1769'
+3/7/2013 4:24:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000342 (FemaleStuddedChest) to '1769'
+3/7/2013 4:24:46 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1769'
+3/7/2013 4:24:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000344 (RingmailGloves) to '1769'
+3/7/2013 4:24:48 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1769'
+3/7/2013 4:24:48 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000345 (StuddedGorget) to '1769'
+3/7/2013 4:26:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add quiver'
+3/7/2013 4:26:08 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (700, 716, 1) in Malas: "ElvenQuiver"
+3/7/2013 4:26:08 PM: 127.0.0.1: Serials: 0x400004A0; 
+3/7/2013 4:27:53 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (701, 716, 2) in Malas: "QuiverOfFire"
+3/7/2013 4:27:53 PM: 127.0.0.1: Serials: 0x400004A6; 
+3/7/2013 4:28:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (701, 716, 2) in Malas: "QuiverOfIce"
+3/7/2013 4:28:01 PM: 127.0.0.1: Serials: 0x400004A8; 
+3/7/2013 4:28:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'wipe '
+3/7/2013 4:28:19 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') wiping from (701, 715, 1) to (701, 716, 2) in Malas (Items, Mobiles)
+3/7/2013 4:28:26 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (700, 716, 1) in Malas: "QuiverOfInfinity"
+3/7/2013 4:28:26 PM: 127.0.0.1: Serials: 0x400004AA; 
+3/7/2013 4:28:34 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 4:28:34 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x400004AA (QuiverOfInfinity)
+3/7/2013 4:30:50 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+3/7/2013 4:32:20 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add specialhair'
+3/7/2013 4:32:22 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (703, 715, 3) in Malas: "SpecialHairDye"
+3/7/2013 4:32:23 PM: 127.0.0.1: Serials: 0x40000546; 
+3/7/2013 4:32:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (703, 715, 3) in Malas: "SpecialHairDye"
+3/7/2013 4:32:23 PM: 127.0.0.1: Serials: 0x40000547; 
+3/7/2013 4:32:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (703, 715, 3) in Malas: "SpecialHairDye"
+3/7/2013 4:32:23 PM: 127.0.0.1: Serials: 0x40000548; 
+3/7/2013 4:32:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (703, 715, 3) in Malas: "SpecialHairDye"
+3/7/2013 4:32:23 PM: 127.0.0.1: Serials: 0x40000549; 
+3/7/2013 4:32:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (703, 715, 3) in Malas: "SpecialHairDye"
+3/7/2013 4:32:23 PM: 127.0.0.1: Serials: 0x4000054A; 
+3/7/2013 4:32:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (703, 715, 3) in Malas: "SpecialHairDye"
+3/7/2013 4:32:23 PM: 127.0.0.1: Serials: 0x4000054B; 
+3/7/2013 4:32:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (703, 715, 3) in Malas: "SpecialHairDye"
+3/7/2013 4:32:23 PM: 127.0.0.1: Serials: 0x4000054E; 
+3/7/2013 4:33:10 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1038'
+3/7/2013 4:33:11 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x280 "hhh" ('Zigholtul88') to '1038'
+3/7/2013 4:33:32 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1039'
+3/7/2013 4:33:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x280 "hhh" ('Zigholtul88') to '1039'
+3/7/2013 4:35:53 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add studded'
+3/7/2013 4:36:12 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+3/7/2013 4:36:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add ringmail'
+3/7/2013 4:37:24 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add woodlandbelt'
+3/7/2013 4:37:26 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (700, 715, 1) in Malas: "woodlandbelt"
+3/7/2013 4:37:26 PM: 127.0.0.1: Serials: 0x40000601; 
+3/7/2013 4:37:48 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1759'
+3/7/2013 4:37:49 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000601 (WoodlandBelt) to '1759'
+3/7/2013 4:46:37 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'wipe '
+3/7/2013 4:46:38 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') wiping from (702, 714, 1) to (704, 715, 2) in Malas (Items, Mobiles)
+3/7/2013 4:50:21 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add drya'
+3/7/2013 4:50:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (701, 715, 1) in Malas: "MLDryad"
+3/7/2013 4:50:23 PM: 127.0.0.1: Serials: 0x303; 
+3/7/2013 4:50:27 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+3/7/2013 4:50:44 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 4:50:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x303 "a dryad" (no account)
+3/7/2013 4:51:32 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add specia'
+3/7/2013 4:51:34 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 725, 1) in Malas: "SpecialHairDye"
+3/7/2013 4:51:34 PM: 127.0.0.1: Serials: 0x40000706; 
+3/7/2013 4:51:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 725, 1) in Malas: "SpecialHairDye"
+3/7/2013 4:51:35 PM: 127.0.0.1: Serials: 0x4000070F; 
+3/7/2013 4:51:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 725, 1) in Malas: "SpecialHairDye"
+3/7/2013 4:51:35 PM: 127.0.0.1: Serials: 0x40000713; 
+3/7/2013 4:51:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 725, 1) in Malas: "SpecialHairDye"
+3/7/2013 4:51:35 PM: 127.0.0.1: Serials: 0x40000739; 
+3/7/2013 4:51:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 725, 1) in Malas: "SpecialHairDye"
+3/7/2013 4:51:35 PM: 127.0.0.1: Serials: 0x40000750; 
+3/7/2013 4:51:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 725, 1) in Malas: "SpecialHairDye"
+3/7/2013 4:51:35 PM: 127.0.0.1: Serials: 0x4000075F; 
+3/7/2013 4:51:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add hairre'
+3/7/2013 4:51:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 724, 1) in Malas: "HairRestylingDeed"
+3/7/2013 4:51:41 PM: 127.0.0.1: Serials: 0x40000787; 
+3/7/2013 4:51:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 724, 1) in Malas: "HairRestylingDeed"
+3/7/2013 4:51:41 PM: 127.0.0.1: Serials: 0x4000078B; 
+3/7/2013 4:51:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 724, 1) in Malas: "HairRestylingDeed"
+3/7/2013 4:51:41 PM: 127.0.0.1: Serials: 0x4000079C; 
+3/7/2013 4:51:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 724, 1) in Malas: "HairRestylingDeed"
+3/7/2013 4:51:41 PM: 127.0.0.1: Serials: 0x400007A2; 
+3/7/2013 4:51:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 724, 1) in Malas: "HairRestylingDeed"
+3/7/2013 4:51:42 PM: 127.0.0.1: Serials: 0x400007A3; 
+3/7/2013 4:51:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (672, 724, 1) in Malas: "HairRestylingDeed"
+3/7/2013 4:51:42 PM: 127.0.0.1: Serials: 0x400007B0; 
+3/7/2013 4:52:46 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add gnarledstaff'
+3/7/2013 4:52:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (670, 724, 0) in Malas: "gnarledstaff"
+3/7/2013 4:52:47 PM: 127.0.0.1: Serials: 0x400007C0; 
+3/7/2013 4:52:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add thighboots'
+3/7/2013 4:53:02 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (671, 724, 0) in Malas: "thighboots"
+3/7/2013 4:53:02 PM: 127.0.0.1: Serials: 0x400007C3; 
+3/7/2013 4:53:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add sandals'
+3/7/2013 4:53:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (670, 724, 0) in Malas: "sandals"
+3/7/2013 4:53:04 PM: 127.0.0.1: Serials: 0x400007C4; 
+3/7/2013 4:53:11 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 574'
+3/7/2013 4:53:12 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x400007C4 (Sandals) to '574'
+3/7/2013 4:53:15 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 574'
+3/7/2013 4:53:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000601 (WoodlandBelt) to '574'
+3/7/2013 4:53:52 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Add LeatherBustierArms'
+3/7/2013 4:53:53 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (670, 722, 0) in Malas: "LeatherBustierArms"
+3/7/2013 4:53:53 PM: 127.0.0.1: Serials: 0x400007D7; 
+3/7/2013 4:54:03 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Add FemaleLeatherChest'
+3/7/2013 4:54:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (670, 722, 0) in Malas: "FemaleLeatherChest"
+3/7/2013 4:54:04 PM: 127.0.0.1: Serials: 0x400007DB; 
+3/7/2013 4:54:52 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add '
+3/7/2013 4:55:15 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Add JinBaori'
+3/7/2013 4:55:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (670, 723, 0) in Malas: "JinBaori"
+3/7/2013 4:55:16 PM: 127.0.0.1: Serials: 0x40000837; 
+3/7/2013 4:55:22 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Add FullApron'
+3/7/2013 4:55:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (670, 723, 0) in Malas: "FullApron"
+3/7/2013 4:55:23 PM: 127.0.0.1: Serials: 0x40000840; 
+3/7/2013 4:55:28 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Add BodySash'
+3/7/2013 4:55:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (669, 724, 0) in Malas: "BodySash"
+3/7/2013 4:55:30 PM: 127.0.0.1: Serials: 0x40000841; 
+3/7/2013 4:56:10 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Add FurSarong'
+3/7/2013 4:56:11 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (669, 723, 0) in Malas: "FurSarong"
+3/7/2013 4:56:11 PM: 127.0.0.1: Serials: 0x40000842; 
+3/7/2013 4:56:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Add Hakama'
+3/7/2013 4:56:18 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (669, 724, 0) in Malas: "Hakama"
+3/7/2013 4:56:18 PM: 127.0.0.1: Serials: 0x40000856; 
+3/7/2013 4:56:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 574'
+3/7/2013 4:56:31 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x40000856 (Hakama) to '574'
+3/7/2013 4:59:09 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'Set hue 1037'
+3/7/2013 4:59:09 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'hue' of 0x280 "hhh" ('Zigholtul88') to '1037'
+3/7/2013 4:59:29 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'wipe '
+3/7/2013 4:59:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') wiping from (669, 721, 0) to (672, 725, 1) in Malas (Items, Mobiles)
+3/7/2013 4:59:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add mela'
+3/7/2013 4:59:44 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (674, 722, 0) in Malas: "MelancholicGargoyleWarrior"
+3/7/2013 4:59:44 PM: 127.0.0.1: Serials: 0x305; 
+3/7/2013 4:59:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (674, 720, 0) in Malas: "MelancholicGargoyleWarrior"
+3/7/2013 4:59:45 PM: 127.0.0.1: Serials: 0x306; 
+3/7/2013 4:59:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (674, 720, 0) in Malas: "MelancholicGargoyleWarrior"
+3/7/2013 4:59:45 PM: 127.0.0.1: Serials: 0x307; 
+3/7/2013 4:59:57 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+3/7/2013 4:59:58 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x306 "a melancholic gargoyle warrior" (no account)
+3/7/2013 4:59:59 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+3/7/2013 5:00:00 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x307 "a melancholic gargoyle warrior" (no account)
+3/7/2013 5:00:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+3/7/2013 5:00:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x305 "a melancholic gargoyle warrior" (no account)
+3/7/2013 5:00:13 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 5:00:14 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000894 (Corpse)
+3/7/2013 5:00:15 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 5:00:15 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000892 (Corpse)
+3/7/2013 5:00:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/7/2013 5:00:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000088E (Corpse)
+3/7/2013 5:01:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'admin '
+3/7/2013 5:01:03 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/7/2013 5:01:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'save '

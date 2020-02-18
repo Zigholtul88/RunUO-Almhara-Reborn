@@ -1,0 +1,964 @@
+##############################
+Log started on 3/6/2017 1:55:12 AM
+
+##############################
+Log started on 3/6/2017 2:00:56 AM
+
+3/6/2017 2:02:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add chest'
+3/6/2017 2:02:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1241, 1272, 0) in Malas: "AmazonTreeSettlementTreasureChest"
+3/6/2017 2:02:17 AM: 127.0.0.1: Serials: 0x400003E5; 
+3/6/2017 2:02:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/6/2017 2:02:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400003E5 (AmazonTreeSettlementTreasureChest)
+3/6/2017 2:03:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+##############################
+Log started on 3/6/2017 2:08:11 AM
+
+3/6/2017 2:09:50 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set str 100'
+3/6/2017 2:09:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'str' of 0xB3 "Elandria" ('Zigholtul88') to '100'
+3/6/2017 2:10:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set hits 500'
+3/6/2017 2:10:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'hits' of 0xB3 "Elandria" ('Zigholtul88') to '500'
+3/6/2017 2:10:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 2:10:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 2:10:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'Set Blessed True'
+3/6/2017 2:10:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Blessed' of 0xB3 "Elandria" ('Zigholtul88') to 'True'
+3/6/2017 2:10:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add amazonia'
+3/6/2017 2:10:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set dex 100'
+3/6/2017 2:10:29 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'dex' of 0xB3 "Elandria" ('Zigholtul88') to '100'
+3/6/2017 2:10:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set stam 500'
+3/6/2017 2:10:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'stam' of 0xB3 "Elandria" ('Zigholtul88') to '500'
+3/6/2017 2:10:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "AmazonianFighterBelt"
+3/6/2017 2:10:37 AM: 127.0.0.1: Serials: 0x400003F8; 
+3/6/2017 2:10:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "AmazonianFighterBoots"
+3/6/2017 2:10:39 AM: 127.0.0.1: Serials: 0x400003FD; 
+3/6/2017 2:10:42 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "AmazonianFighterBustier"
+3/6/2017 2:10:42 AM: 127.0.0.1: Serials: 0x400003FE; 
+3/6/2017 2:10:44 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (2518, 1989, 0) in Malas: "AmazonianFighterGloves"
+3/6/2017 2:10:44 AM: 127.0.0.1: Serials: 0x400003FF; 
+3/6/2017 2:10:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (2519, 1988, 0) in Malas: "AmazonianFighterHelmet"
+3/6/2017 2:10:46 AM: 127.0.0.1: Serials: 0x40000400; 
+3/6/2017 2:11:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "AmazonianWarSpear"
+3/6/2017 2:11:01 AM: 127.0.0.1: Serials: 0x40000401; 
+3/6/2017 2:11:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 2:11:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 2:11:45 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 2:11:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 2:20:59 AM
+
+3/6/2017 2:23:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 2:23:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 2:23:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 2:27:25 AM
+
+##############################
+Log started on 3/6/2017 2:35:48 AM
+
+##############################
+Log started on 3/6/2017 2:41:09 AM
+
+3/6/2017 2:42:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack nightsightscroll 100'
+3/6/2017 2:42:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1204, 1054, 0) in Malas: "nightsightscroll" "100"
+3/6/2017 2:42:02 AM: 127.0.0.1: Serials: 0x4000042E; 
+3/6/2017 2:42:19 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 2:44:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add map'
+3/6/2017 2:45:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add ma'
+3/6/2017 2:45:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add map'
+3/6/2017 2:45:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (733, 1111, 8) in Malas: "map"
+3/6/2017 2:45:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add map malas'
+3/6/2017 2:45:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (733, 1111, 8) in Malas: "map" "malas"
+3/6/2017 2:45:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add cartograp'
+3/6/2017 2:45:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add carto'
+3/6/2017 2:45:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add mapma'
+3/6/2017 2:45:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (734, 1112, 8) in Malas: "Mapmaker"
+3/6/2017 2:45:25 AM: 127.0.0.1: Serials: 0xF1; 
+3/6/2017 2:45:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (735, 1111, 8) in Malas: "MapmakersPen"
+3/6/2017 2:45:46 AM: 127.0.0.1: Serials: 0x40000631; 
+3/6/2017 2:46:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setskill cartography 100'
+3/6/2017 2:46:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Cartography.Base' of 0xB3 "Elandria" ('Zigholtul88') to '100'
+3/6/2017 2:46:14 AM: 127.0.0.1: Crafting 0x40000634 (IndecipherableMap) with craft system DefCartography
+3/6/2017 2:46:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 2:46:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add bag'
+3/6/2017 2:46:56 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (727, 1120, 0) in Malas: "bag"
+3/6/2017 2:46:56 AM: 127.0.0.1: Serials: 0x4000066D; 
+3/6/2017 2:46:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 2:46:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0xF1 "Vincent" (no account)
+3/6/2017 2:47:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/6/2017 2:47:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000669 (BlankMap)
+3/6/2017 2:47:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000660 (BlankMap)
+3/6/2017 2:47:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400003E5 (Backpack)
+3/6/2017 2:47:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add backpack'
+3/6/2017 2:47:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (729, 1120, 1) in Malas: "backpack"
+3/6/2017 2:47:30 AM: 127.0.0.1: Serials: 0x4000066E; 
+3/6/2017 2:47:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add mapmakingpen'
+3/6/2017 2:47:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add mapmaking'
+3/6/2017 2:47:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add mapmak'
+3/6/2017 2:47:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (729, 1120, 1) in Malas: "MapmakersPen"
+3/6/2017 2:47:48 AM: 127.0.0.1: Serials: 0x4000066F; 
+3/6/2017 2:47:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set map trammel'
+3/6/2017 2:47:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'map' of 0xB3 "Elandria" ('Zigholtul88') to 'Trammel'
+3/6/2017 2:48:11 AM: 127.0.0.1: Crafting 0x40000670 (WorldMap) with craft system DefCartography
+3/6/2017 2:48:22 AM: 127.0.0.1: Crafting 0x40000672 (CityMap) with craft system DefCartography
+3/6/2017 2:54:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 2:54:29 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 2:54:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 3:05:57 AM
+
+3/6/2017 3:06:35 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set map malas'
+3/6/2017 3:06:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'map' of 0xB3 "Elandria" ('Zigholtul88') to 'Malas'
+3/6/2017 3:06:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 3:06:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 3:06:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000670 (WorldMap)
+3/6/2017 3:06:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 3:06:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000672 (CityMap)
+3/6/2017 3:07:03 AM: 127.0.0.1: Crafting 0x400003E6 (CityMap) with craft system DefCartography
+3/6/2017 3:07:14 AM: 127.0.0.1: Crafting 0x40000401 (WorldMap) with craft system DefCartography
+3/6/2017 3:07:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 3:07:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 3:07:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 3:28:21 AM
+
+3/6/2017 3:29:14 AM: 127.0.0.1: Crafting 0x400004AC (LocalMap) with craft system DefCartography
+3/6/2017 3:29:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack blankscroll 100'
+3/6/2017 3:29:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1178, 1050, 5) in Malas: "blankscroll" "100"
+3/6/2017 3:29:36 AM: 127.0.0.1: Serials: 0x400004E9; 
+3/6/2017 3:29:42 AM: 127.0.0.1: Crafting 0x400004EB (SeaChart) with craft system DefCartography
+3/6/2017 3:29:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 3:30:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/6/2017 3:30:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400004AC (LocalMap)
+3/6/2017 3:30:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000401 (WorldMap)
+3/6/2017 3:30:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400003E6 (CityMap)
+3/6/2017 3:30:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400004EB (SeaChart)
+3/6/2017 3:30:13 AM: 127.0.0.1: Crafting 0x400004EC (CityMap) with craft system DefCartography
+3/6/2017 3:30:21 AM: 127.0.0.1: Crafting 0x400004FC (LocalMap) with craft system DefCartography
+3/6/2017 3:30:47 AM: 127.0.0.1: Crafting 0x400004FE (WorldMap) with craft system DefCartography
+3/6/2017 3:31:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 3:32:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 3:32:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/6/2017 3:32:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400004EC (CityMap)
+3/6/2017 3:33:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400004FC (LocalMap)
+3/6/2017 3:33:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400004FE (WorldMap)
+3/6/2017 3:33:07 AM: 127.0.0.1: Crafting 0x40000643 (CityMap) with craft system DefCartography
+3/6/2017 3:33:16 AM: 127.0.0.1: Crafting 0x40000653 (WorldMap) with craft system DefCartography
+3/6/2017 3:33:24 AM: 127.0.0.1: Crafting 0x40000658 (SeaChart) with craft system DefCartography
+3/6/2017 3:42:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasuremap'
+3/6/2017 3:43:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (725, 679, -5) in Malas: "treasuremap"
+3/6/2017 3:43:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasuremap 5 malas'
+3/6/2017 3:43:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (723, 678, -5) in Malas: "treasuremap" "5" "malas"
+3/6/2017 3:43:07 AM: 127.0.0.1: Serials: 0x4000068F; 
+3/6/2017 3:48:14 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 3:48:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 3:48:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 4:01:47 AM
+
+3/6/2017 4:02:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/6/2017 4:02:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000068F (TreasureMap)
+3/6/2017 4:02:29 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000643 (CityMap)
+3/6/2017 4:02:29 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000653 (WorldMap)
+3/6/2017 4:02:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000658 (SeaChart)
+3/6/2017 4:02:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasuremap 1 malas'
+3/6/2017 4:02:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (723, 679, -5) in Malas: "treasuremap" "1" "malas"
+3/6/2017 4:02:39 AM: 127.0.0.1: Serials: 0x400003E6; 
+3/6/2017 4:02:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setskill mining 100'
+3/6/2017 4:02:56 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Mining.Base' of 0xB3 "Elandria" ('Zigholtul88') to '100'
+3/6/2017 4:03:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack shovel'
+3/6/2017 4:03:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (723, 680, -8) in Malas: "shovel"
+3/6/2017 4:03:04 AM: 127.0.0.1: Serials: 0x400004AE; 
+3/6/2017 4:03:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:03:15 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 4:12:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setallskills 100'
+3/6/2017 4:12:49 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'EverySkill.Base' of 0xB3 "Elandria" ('Zigholtul88') to '100'
+3/6/2017 4:12:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack balro'
+3/6/2017 4:13:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack balronic'
+3/6/2017 4:13:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add balronic'
+3/6/2017 4:13:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add balro'
+3/6/2017 4:13:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1505, 186, 62) in Malas: "BalronVolcanicSting"
+3/6/2017 4:13:10 AM: 127.0.0.1: Serials: 0x40000898; 
+3/6/2017 4:13:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack lockpick 100'
+3/6/2017 4:13:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1505, 185, 62) in Malas: "lockpick" "100"
+3/6/2017 4:13:22 AM: 127.0.0.1: Serials: 0x40000899; 
+3/6/2017 4:20:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 4:20:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400003E6 (TreasureMap)
+3/6/2017 4:20:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 4:20:14 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400006FC (TreasureMapChest)
+3/6/2017 4:20:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'freezemap '
+3/6/2017 4:20:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') invoking freeze for every item in Owner
+3/6/2017 4:20:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 4:20:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 4:20:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 4:29:00 AM
+
+3/6/2017 4:29:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasure map 1 malas'
+3/6/2017 4:29:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasure map malas'
+3/6/2017 4:29:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasuremap 1 malas'
+3/6/2017 4:30:00 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1505, 181, 63) in Malas: "treasuremap" "1" "malas"
+3/6/2017 4:30:01 AM: 127.0.0.1: Serials: 0x400003E6; 
+3/6/2017 4:30:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasuremap 1 malas'
+3/6/2017 4:30:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1504, 182, 63) in Malas: "treasuremap" "1" "malas"
+3/6/2017 4:30:06 AM: 127.0.0.1: Serials: 0x400004FC; 
+3/6/2017 4:30:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasuremap 1 malas'
+3/6/2017 4:30:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1504, 181, 61) in Malas: "treasuremap" "1" "malas"
+3/6/2017 4:30:16 AM: 127.0.0.1: Serials: 0x400004FE; 
+3/6/2017 4:30:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasuremap 1 malas'
+3/6/2017 4:30:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1504, 181, 61) in Malas: "treasuremap" "1" "malas"
+3/6/2017 4:30:24 AM: 127.0.0.1: Serials: 0x40000503; 
+3/6/2017 4:30:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasuremap 1 malas'
+3/6/2017 4:30:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1504, 181, 61) in Malas: "treasuremap" "1" "malas"
+3/6/2017 4:30:30 AM: 127.0.0.1: Serials: 0x40000565; 
+3/6/2017 4:30:35 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasuremap 1 malas'
+3/6/2017 4:30:35 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1503, 182, 61) in Malas: "treasuremap" "1" "malas"
+3/6/2017 4:30:35 AM: 127.0.0.1: Serials: 0x4000056E; 
+3/6/2017 4:32:29 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/6/2017 4:32:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000056E (TreasureMap)
+3/6/2017 4:32:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400004FC (TreasureMap)
+3/6/2017 4:32:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400003E6 (TreasureMap)
+3/6/2017 4:32:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000503 (TreasureMap)
+3/6/2017 4:32:35 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400004FE (TreasureMap)
+3/6/2017 4:32:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000565 (TreasureMap)
+3/6/2017 4:35:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'motd '
+3/6/2017 4:35:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 4:36:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add nightsightscroll 100'
+3/6/2017 4:36:14 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1575, 561, 0) in Malas: "nightsightscroll" "100"
+3/6/2017 4:36:14 AM: 127.0.0.1: Serials: 0x4000066B; 
+3/6/2017 4:36:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:38:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:39:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 4:39:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:40:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:41:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:42:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:44:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:45:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 4:46:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add woodenslidingdoor northcw'
+3/6/2017 4:46:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1845, 427, 35) in Malas: "woodenslidingdoor" "northcw"
+3/6/2017 4:46:12 AM: 127.0.0.1: Serials: 0x40000883; 
+3/6/2017 4:46:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 4:46:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000883 (WoodenSlidingDoor)
+3/6/2017 4:46:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add woodenslidingdoor northcw'
+3/6/2017 4:46:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1845, 427, 35) in Malas: "woodenslidingdoor" "northcw"
+3/6/2017 4:46:21 AM: 127.0.0.1: Serials: 0x40000884; 
+3/6/2017 4:46:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 4:46:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000884 (WoodenSlidingDoor)
+3/6/2017 4:46:42 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add woodenslidingdoor northccw'
+3/6/2017 4:46:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1845, 427, 35) in Malas: "woodenslidingdoor" "northccw"
+3/6/2017 4:46:43 AM: 127.0.0.1: Serials: 0x4000088F; 
+3/6/2017 4:46:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 4:46:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000088F (WoodenSlidingDoor)
+3/6/2017 4:46:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add woodenslidingdoor eastcw'
+3/6/2017 4:46:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1849, 429, 35) in Malas: "woodenslidingdoor" "eastcw"
+3/6/2017 4:46:54 AM: 127.0.0.1: Serials: 0x40000890; 
+3/6/2017 4:46:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 4:46:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000890 (WoodenSlidingDoor)
+3/6/2017 4:47:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add woodenslidingdoor eastcw'
+3/6/2017 4:47:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1845, 427, 35) in Malas: "woodenslidingdoor" "eastcw"
+3/6/2017 4:47:02 AM: 127.0.0.1: Serials: 0x40000891; 
+3/6/2017 4:47:27 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 4:47:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add woodenslidingdoor westccw'
+3/6/2017 4:47:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1845, 428, 35) in Malas: "woodenslidingdoor" "westccw"
+3/6/2017 4:47:57 AM: 127.0.0.1: Serials: 0x40000897; 
+3/6/2017 4:48:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 4:48:56 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add woodenslidingdoor westccw'
+3/6/2017 4:49:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/6/2017 4:49:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000891 (WoodenSlidingDoor)
+3/6/2017 4:49:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000897 (WoodenSlidingDoor)
+3/6/2017 4:49:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:49:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:49:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:49:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 4:50:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:50:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 4:51:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 4:51:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 4:51:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 4:54:09 AM
+
+3/6/2017 4:55:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 4:56:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:56:45 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:56:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 4:57:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 4:57:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 4:57:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40000D86 (LocalizedSign)
+3/6/2017 4:57:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:57:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:57:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 4:57:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 4:57:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 5:00:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/6/2017 5:00:44 AM
+
+3/6/2017 5:00:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 5:01:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 5:01:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 5:01:29 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 5:01:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 5:02:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 5:08:14 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add paperslidingdoor westcw'
+3/6/2017 5:08:15 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1773, 440, 45) in Malas: "paperslidingdoor" "westcw"
+3/6/2017 5:08:15 AM: 127.0.0.1: Serials: 0x4000309E; 
+3/6/2017 5:08:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 5:08:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000309E (PaperSlidingDoor)
+3/6/2017 5:08:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add paperslidingdoor northcw'
+3/6/2017 5:08:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1773, 440, 45) in Malas: "paperslidingdoor" "northcw"
+3/6/2017 5:08:23 AM: 127.0.0.1: Serials: 0x4000309F; 
+3/6/2017 5:08:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 5:09:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add paperslidingdoor southccw'
+3/6/2017 5:09:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1773, 441, 45) in Malas: "paperslidingdoor" "southccw"
+3/6/2017 5:09:09 AM: 127.0.0.1: Serials: 0x400030A0; 
+3/6/2017 5:09:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 5:09:35 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/6/2017 5:09:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400030A0 (PaperSlidingDoor)
+3/6/2017 5:09:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000309F (PaperSlidingDoor)
+3/6/2017 5:10:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add clothslidingdoor northcw'
+3/6/2017 5:10:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1753, 448, 45) in Malas: "clothslidingdoor" "northcw"
+3/6/2017 5:10:47 AM: 127.0.0.1: Serials: 0x400030A1; 
+3/6/2017 5:10:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 5:10:54 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400030A1 (ClothSlidingDoor)
+3/6/2017 5:11:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add paperslidingdoor northcw'
+3/6/2017 5:11:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1753, 448, 45) in Malas: "paperslidingdoor" "northcw"
+3/6/2017 5:11:04 AM: 127.0.0.1: Serials: 0x400030A9; 
+3/6/2017 5:11:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 5:11:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400030A9 (PaperSlidingDoor)
+3/6/2017 5:11:52 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add paperslidingdoor northcw'
+3/6/2017 5:11:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1753, 448, 45) in Malas: "paperslidingdoor" "northcw"
+3/6/2017 5:11:53 AM: 127.0.0.1: Serials: 0x400030AA; 
+3/6/2017 5:11:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 5:11:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400030AA (PaperSlidingDoor)
+3/6/2017 5:12:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 5:12:45 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 5:13:49 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'unfreeze '
+3/6/2017 5:14:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') invoking unfreeze from (1734, 444) to (1754, 455) in Malas
+3/6/2017 5:14:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 5:14:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 5:14:44 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 5:15:28 AM
+
+3/6/2017 5:16:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 5:16:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 5:16:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400031EB (Static)
+3/6/2017 5:16:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 5:16:13 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003202 (Static)
+3/6/2017 5:16:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 5:16:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003245 (Static)
+3/6/2017 5:16:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 5:16:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40003171 (Static)
+3/6/2017 5:16:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 5:16:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000311F (Static)
+3/6/2017 5:16:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 5:16:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 5:18:02 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'freezemap '
+3/6/2017 5:18:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') invoking freeze for every item in Owner
+3/6/2017 5:18:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 5:18:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 5:18:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 5:19:09 AM
+
+3/6/2017 5:19:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 5:20:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 5:20:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 5:20:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 5:26:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 5:26:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 5:26:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 7:31:22 AM
+
+3/6/2017 7:36:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 7:37:15 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 7:39:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (4601 objects)
+3/6/2017 7:39:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/6/2017 7:39:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 4601 objects
+3/6/2017 7:42:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set map ilshenar'
+3/6/2017 7:42:27 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'map' of 0xB3 "Elandria" ('Zigholtul88') to 'Ilshenar'
+3/6/2017 7:42:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Ilshenar (951 objects)
+3/6/2017 7:42:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/6/2017 7:42:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 951 objects
+3/6/2017 7:42:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set map felucca'
+3/6/2017 7:42:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'map' of 0xB3 "Elandria" ('Zigholtul88') to 'Felucca'
+3/6/2017 7:42:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Felucca (92 objects)
+3/6/2017 7:42:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/6/2017 7:42:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 92 objects
+3/6/2017 7:42:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'set map malas'
+3/6/2017 7:42:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'map' of 0xB3 "Elandria" ('Zigholtul88') to 'Malas'
+3/6/2017 7:44:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 7:44:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 7:44:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 8:02:13 AM
+
+3/6/2017 8:03:35 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 8:03:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 8:04:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 8:04:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:04:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:04:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:04:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:05:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 8:05:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 8:06:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:07:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/6/2017 8:07:45 AM
+
+3/6/2017 8:07:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 8:08:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 8:10:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 8:11:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 8:19:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 8:20:45 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 8:20:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 8:24:56 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:26:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 8:26:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:32:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/6/2017 8:32:35 AM
+
+3/6/2017 8:33:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 8:33:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 8:33:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 8:38:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add metaldoor northcw'
+3/6/2017 8:38:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1234, 930, 0) in Malas: "metaldoor" "northcw"
+3/6/2017 8:38:38 AM: 127.0.0.1: Serials: 0x40002515; 
+3/6/2017 8:38:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 8:39:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add metaldoor northcw'
+3/6/2017 8:39:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 8:39:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002515 (MetalDoor)
+3/6/2017 8:39:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:39:52 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:40:15 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:40:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:40:58 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:41:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'tele '
+3/6/2017 8:41:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add metaldoor southccw'
+3/6/2017 8:41:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1234, 931, 0) in Malas: "metaldoor" "southccw"
+3/6/2017 8:41:32 AM: 127.0.0.1: Serials: 0x400025DC; 
+3/6/2017 8:41:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 8:42:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 8:42:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400025DC (MetalDoor)
+3/6/2017 8:42:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:42:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:42:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:43:08 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:43:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:44:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add metaldoor eastcw'
+3/6/2017 8:44:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1250, 886, 15) in Malas: "metaldoor" "eastcw"
+3/6/2017 8:44:11 AM: 127.0.0.1: Serials: 0x400025EE; 
+3/6/2017 8:44:15 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 8:44:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400025EE (MetalDoor)
+3/6/2017 8:44:22 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add metaldoor westccw'
+3/6/2017 8:44:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add metaldoor westcw'
+3/6/2017 8:44:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1250, 886, 15) in Malas: "metaldoor" "westcw"
+3/6/2017 8:44:25 AM: 127.0.0.1: Serials: 0x400025F5; 
+3/6/2017 8:44:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 8:45:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add metaldoor westcw'
+3/6/2017 8:45:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 8:45:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400025F5 (MetalDoor)
+3/6/2017 8:45:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add metaldoor eastccw'
+3/6/2017 8:45:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1252, 886, 15) in Malas: "metaldoor" "eastccw"
+3/6/2017 8:45:17 AM: 127.0.0.1: Serials: 0x400025FC; 
+3/6/2017 8:45:21 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 8:46:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add metaldoor eastccw'
+3/6/2017 8:46:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 8:46:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400025FC (MetalDoor)
+3/6/2017 8:46:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:46:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 8:46:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/6/2017 8:47:07 AM
+
+3/6/2017 8:47:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 8:47:29 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 8:47:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 8:49:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 8:49:24 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setallskills 100'
+3/6/2017 8:49:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'EverySkill.Base' of 0xB3 "Elandria" ('Zigholtul88') to '100'
+3/6/2017 8:49:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setallskills 100'
+3/6/2017 8:49:31 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'EverySkill.Base' of 0xB3 "Elandria" ('Zigholtul88') to '100'
+3/6/2017 8:49:36 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'Set Blessed False'
+3/6/2017 8:49:37 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Blessed' of 0xB3 "Elandria" ('Zigholtul88') to 'False'
+3/6/2017 8:49:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setallskills 100'
+3/6/2017 8:49:40 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'EverySkill.Base' of 0xB3 "Elandria" ('Zigholtul88') to '100'
+3/6/2017 8:50:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add mace'
+3/6/2017 8:50:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1236, 875, 0) in Malas: "mace"
+3/6/2017 8:50:06 AM: 127.0.0.1: Serials: 0x40002C32; 
+3/6/2017 8:58:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 9:00:44 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 9:05:06 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 9:06:23 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 9:08:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 9:09:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add drake'
+3/6/2017 9:09:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (2286, 1408, 28) in Malas: "drake"
+3/6/2017 9:09:34 AM: 127.0.0.1: Serials: 0x3EA; 
+3/6/2017 9:10:28 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 9:10:48 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'ControlTarget' of 0x3EA "a drake" (no account) to '0xB3 "Elandria"'
+3/6/2017 9:10:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Controlled' of 0x3EA "a drake" (no account) to 'True'
+3/6/2017 9:11:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'ControlMaster' of 0x3EA "a drake" (no account) to '0xB3 "Elandria"'
+3/6/2017 9:11:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '713'
+3/6/2017 9:11:57 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '718'
+3/6/2017 9:12:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '719'
+3/6/2017 9:13:03 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '725'
+3/6/2017 9:13:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '732'
+3/6/2017 9:13:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '735'
+3/6/2017 9:13:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '736'
+3/6/2017 9:13:51 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '737'
+3/6/2017 9:14:01 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '738'
+3/6/2017 9:14:04 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '737'
+3/6/2017 9:14:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '739'
+3/6/2017 9:14:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '287'
+3/6/2017 9:15:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '740'
+3/6/2017 9:15:46 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '1069'
+3/6/2017 9:16:26 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '421'
+3/6/2017 9:16:35 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '1071'
+3/6/2017 9:17:32 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '830'
+3/6/2017 9:19:53 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '269'
+3/6/2017 9:20:14 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '258'
+3/6/2017 9:20:50 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'BodyValue' of 0x3EA "a drake" (no account) to '259'
+3/6/2017 9:21:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add melanc'
+3/6/2017 9:21:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (2285, 1380, 38) in Malas: "MelancholicGargoyleWarrior"
+3/6/2017 9:21:34 AM: 127.0.0.1: Serials: 0x3FD; 
+3/6/2017 9:22:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 9:22:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x3EA "a drake" (no account)
+3/6/2017 9:22:30 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 9:23:22 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'props '
+3/6/2017 9:23:53 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'BodyValue' of 0x3FF "Testie" ('Zigholtul88') to '666'
+3/6/2017 9:24:10 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Hue' of 0x3FF "Testie" ('Zigholtul88') to '1775'
+3/6/2017 9:24:14 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Hue' of 0x3FF "Testie" ('Zigholtul88') to '1777'
+3/6/2017 9:24:17 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Hue' of 0x3FF "Testie" ('Zigholtul88') to '1780'
+3/6/2017 9:24:20 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Hue' of 0x3FF "Testie" ('Zigholtul88') to '1785'
+3/6/2017 9:24:22 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Hue' of 0x3FF "Testie" ('Zigholtul88') to '1789'
+3/6/2017 9:24:28 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Hue' of 0x3FF "Testie" ('Zigholtul88') to '1779'
+3/6/2017 9:24:33 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Hue' of 0x3FF "Testie" ('Zigholtul88') to '1775'
+3/6/2017 9:24:42 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Hue' of 0x3FF "Testie" ('Zigholtul88') to '1770'
+3/6/2017 9:24:55 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'HairItemID' of 0x3FF "Testie" ('Zigholtul88') to '499'
+3/6/2017 9:25:00 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'HairItemID' of 0x3FF "Testie" ('Zigholtul88') to '500'
+3/6/2017 9:25:06 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'HairItemID' of 0x3FF "Testie" ('Zigholtul88') to '498'
+3/6/2017 9:25:09 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'HairItemID' of 0x3FF "Testie" ('Zigholtul88') to '499'
+3/6/2017 9:25:31 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'add dyetub'
+3/6/2017 9:25:32 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "dyetub"
+3/6/2017 9:25:32 AM: 127.0.0.1: Serials: 0x40002CD8; 
+3/6/2017 9:25:38 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'add dyes'
+3/6/2017 9:25:40 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "dyes"
+3/6/2017 9:25:40 AM: 127.0.0.1: Serials: 0x40002CD9; 
+3/6/2017 9:25:58 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'props '
+3/6/2017 9:26:07 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'HairHue' of 0x3FF "Testie" ('Zigholtul88') to '418'
+3/6/2017 9:26:12 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'HairHue' of 0x3FF "Testie" ('Zigholtul88') to '450'
+3/6/2017 9:26:18 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'HairHue' of 0x3FF "Testie" ('Zigholtul88') to '499'
+3/6/2017 9:26:22 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'HairHue' of 0x3FF "Testie" ('Zigholtul88') to '600'
+3/6/2017 9:26:27 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'HairHue' of 0x3FF "Testie" ('Zigholtul88') to '780'
+3/6/2017 9:26:31 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'HairHue' of 0x3FF "Testie" ('Zigholtul88') to '587'
+3/6/2017 9:26:38 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'add gargis'
+3/6/2017 9:27:14 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "GargishDagger"
+3/6/2017 9:27:14 AM: 127.0.0.1: Serials: 0x40002CDD; 
+3/6/2017 9:27:36 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "GargishMaul"
+3/6/2017 9:27:36 AM: 127.0.0.1: Serials: 0x40002CDE; 
+3/6/2017 9:27:48 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2519, 1988, 0) in Malas: "GargishLeatherWingArmor"
+3/6/2017 9:27:48 AM: 127.0.0.1: Serials: 0x40002CDF; 
+3/6/2017 9:28:08 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "GargishClothWingArmor"
+3/6/2017 9:28:08 AM: 127.0.0.1: Serials: 0x40002CE0; 
+3/6/2017 9:28:16 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "MaleGargishClothArms"
+3/6/2017 9:28:16 AM: 127.0.0.1: Serials: 0x40002CE1; 
+3/6/2017 9:28:20 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "MaleGargishClothChest"
+3/6/2017 9:28:20 AM: 127.0.0.1: Serials: 0x40002CE2; 
+3/6/2017 9:28:26 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "MaleGargishClothLegs"
+3/6/2017 9:28:26 AM: 127.0.0.1: Serials: 0x40002CE3; 
+3/6/2017 9:28:39 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'add gargi[m remove'
+3/6/2017 9:28:44 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'm remove'
+3/6/2017 9:28:46 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') deleting 0x40002CDF (GargishLeatherWingArmor)
+3/6/2017 9:28:47 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') deleting 0x40002CDD (GargishDagger)
+3/6/2017 9:28:59 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'add crysta'
+3/6/2017 9:29:06 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'add serpent'
+3/6/2017 9:29:14 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2519, 1989, 0) in Malas: "SerpentstoneStaff"
+3/6/2017 9:29:14 AM: 127.0.0.1: Serials: 0x40002CE4; 
+3/6/2017 9:29:52 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'add glasssword'
+3/6/2017 9:29:53 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2519, 1989, 0) in Malas: "glasssword"
+3/6/2017 9:29:53 AM: 127.0.0.1: Serials: 0x40002CE8; 
+3/6/2017 9:30:01 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Flying' of 0x3FF "Testie" ('Zigholtul88') to 'True'
+3/6/2017 9:30:46 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'props '
+3/6/2017 9:31:03 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Hue' of 0x3FF "Testie" ('Zigholtul88') to '1266'
+3/6/2017 9:32:01 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'props '
+3/6/2017 9:32:06 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'set hue 98'
+3/6/2017 9:32:07 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'hue' of 0x40002CE8 (GlassSword) to '98'
+3/6/2017 9:33:03 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'props '
+3/6/2017 9:33:09 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'Hue' of 0x3FF "Testie" ('Zigholtul88') to '663'
+3/6/2017 9:33:22 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'add robe'
+3/6/2017 9:33:23 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2514, 1988, 0) in Malas: "robe"
+3/6/2017 9:33:23 AM: 127.0.0.1: Serials: 0x40002CF3; 
+3/6/2017 9:33:32 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'remove '
+3/6/2017 9:33:33 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') deleting 0x40002CF3 (Robe)
+3/6/2017 9:37:44 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'go '
+3/6/2017 9:38:56 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'add woodlandbelt'
+3/6/2017 9:38:57 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') building at (2510, 2009, 0) in Malas: "woodlandbelt"
+3/6/2017 9:38:57 AM: 127.0.0.1: Serials: 0x40002D06; 
+3/6/2017 9:40:39 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'props '
+3/6/2017 9:41:10 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'admin '
+3/6/2017 9:41:14 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 9:41:15 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 10:59:16 AM
+
+3/6/2017 11:01:26 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'speedboost '
+3/6/2017 11:05:43 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'set hits 50'
+3/6/2017 11:05:44 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'hits' of 0x3FF "Testie" ('Zigholtul88') to '50'
+3/6/2017 11:05:48 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'kill '
+3/6/2017 11:05:48 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') killing 0xC5 "a frost spider" (no account)
+3/6/2017 11:06:05 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'set str 20'
+3/6/2017 11:06:05 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'str' of 0x3FF "Testie" ('Zigholtul88') to '20'
+3/6/2017 11:06:09 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'set hits 100'
+3/6/2017 11:06:09 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'hits' of 0x3FF "Testie" ('Zigholtul88') to '100'
+3/6/2017 11:06:26 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'set hits 100'
+3/6/2017 11:06:26 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'hits' of 0x3FF "Testie" ('Zigholtul88') to '100'
+3/6/2017 11:06:29 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'kill '
+3/6/2017 11:06:30 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') killing 0xDB "a wandering snowman" (no account)
+3/6/2017 11:07:04 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'go '
+3/6/2017 11:07:45 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'set hits 100'
+3/6/2017 11:07:45 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'hits' of 0x3FF "Testie" ('Zigholtul88') to '100'
+3/6/2017 11:07:58 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'set hits 100'
+3/6/2017 11:08:13 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'res '
+3/6/2017 11:08:14 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') resurrecting 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:08:44 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'res '
+3/6/2017 11:08:45 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') resurrecting 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:09:10 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'go '
+3/6/2017 11:09:17 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'set map malas'
+3/6/2017 11:09:18 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') set property 'map' of 0x3FF "Testie" ('Zigholtul88') to 'Malas'
+3/6/2017 11:09:20 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'go '
+3/6/2017 11:09:36 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'res '
+3/6/2017 11:09:37 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') resurrecting 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:12:53 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'res '
+3/6/2017 11:12:54 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') resurrecting 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:15:58 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/6/2017 11:16:17 AM
+
+3/6/2017 11:16:32 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'res '
+3/6/2017 11:16:33 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') resurrecting 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:17:21 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'where '
+3/6/2017 11:17:46 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'go '
+3/6/2017 11:17:54 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'go '
+3/6/2017 11:17:57 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'res '
+3/6/2017 11:17:58 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') resurrecting 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:18:04 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'where '
+3/6/2017 11:18:08 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'kill '
+3/6/2017 11:18:08 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') killing 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:18:36 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'go '
+3/6/2017 11:18:42 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'where '
+3/6/2017 11:18:44 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'res '
+3/6/2017 11:18:45 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') resurrecting 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:18:51 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'kill '
+3/6/2017 11:18:52 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') killing 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:19:07 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'go '
+3/6/2017 11:19:14 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'res '
+3/6/2017 11:19:15 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') resurrecting 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:19:33 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'res '
+3/6/2017 11:19:34 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') resurrecting 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 11:19:51 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') used command 'res '
+3/6/2017 11:19:52 AM: 127.0.0.1: Owner 0x3FF "Testie" ('Zigholtul88') resurrecting 0x3FF "Testie" ('Zigholtul88')
+3/6/2017 7:41:23 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 7:41:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 7:41:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 7:45:29 PM
+
+3/6/2017 7:51:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/6/2017 7:51:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/6/2017 7:51:51 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') adding new account: tomgranvidas
+3/6/2017 7:56:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 7:58:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 8:02:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'hide '
+3/6/2017 8:02:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') hiding 0xB3 "Elandria" ('Zigholtul88')
+3/6/2017 8:06:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 8:06:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/6/2017 8:38:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add blankscroll'
+3/6/2017 8:38:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (712, 671, 10) in Malas: "blankscroll"
+3/6/2017 8:38:52 PM: 127.0.0.1: Serials: 0x400016AD; 
+3/6/2017 8:39:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'unhide '
+3/6/2017 8:47:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'unhide '
+3/6/2017 8:47:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') unhiding 0xB3 "Elandria" ('Zigholtul88')
+3/6/2017 8:48:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setallskills 100'
+3/6/2017 8:48:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'EverySkill.Base' of 0xB3 "Elandria" ('Zigholtul88') to '100'
+3/6/2017 8:48:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 8:48:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 8:51:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack unlockscroll'
+3/6/2017 8:51:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (713, 678, 0) in Malas: "unlockscroll"
+3/6/2017 8:51:15 PM: 127.0.0.1: Serials: 0x4000193B; 
+3/6/2017 8:51:17 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack unlockscroll'
+3/6/2017 8:51:17 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (713, 678, 0) in Malas: "unlockscroll"
+3/6/2017 8:51:17 PM: 127.0.0.1: Serials: 0x4000193C; 
+3/6/2017 8:51:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack unlockscroll'
+3/6/2017 8:51:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (713, 678, 0) in Malas: "unlockscroll"
+3/6/2017 8:51:19 PM: 127.0.0.1: Serials: 0x4000193D; 
+3/6/2017 8:51:21 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack unlockscroll 99'
+3/6/2017 8:51:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (713, 678, 0) in Malas: "unlockscroll" "99"
+3/6/2017 8:51:22 PM: 127.0.0.1: Serials: 0x4000193E; 
+3/6/2017 8:51:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add chest'
+3/6/2017 8:51:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (712, 679, 0) in Malas: "BlightedGroveTreasureChest"
+3/6/2017 8:51:36 PM: 127.0.0.1: Serials: 0x40001943; 
+3/6/2017 8:51:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 8:51:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40001943 (BlightedGroveTreasureChest)
+3/6/2017 8:52:02 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add chest'
+3/6/2017 8:52:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (712, 679, 0) in Malas: "BlightedGroveTreasureChest"
+3/6/2017 8:52:08 PM: 127.0.0.1: Serials: 0x4000194B; 
+3/6/2017 8:52:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack spellbook'
+3/6/2017 8:52:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (713, 678, 0) in Malas: "spellbook"
+3/6/2017 8:52:38 PM: 127.0.0.1: Serials: 0x40001952; 
+3/6/2017 8:53:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add chest'
+3/6/2017 8:54:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 8:54:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000194B (BlightedGroveTreasureChest)
+3/6/2017 8:54:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (712, 679, 0) in Malas: "MongbatCavernsTreasureChest1"
+3/6/2017 8:54:40 PM: 127.0.0.1: Serials: 0x40001955; 
+3/6/2017 8:55:24 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/6/2017 8:55:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x56B "a young spiderling" (no account)
+3/6/2017 8:55:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x56C "an oborunian jumping spider" (no account)
+3/6/2017 8:55:33 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setskill magery 20'
+3/6/2017 8:55:33 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Magery.Base' of 0x3FF "Poncho Vila" ('tomgranvidas') to '20'
+3/6/2017 8:56:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (713, 679, 0) in Malas: "BlightedGroveTreasureChest"
+3/6/2017 8:56:15 PM: 127.0.0.1: Serials: 0x40001959; 
+3/6/2017 8:56:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 8:56:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40001955 (MongbatCavernsTreasureChest1)
+3/6/2017 8:56:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (712, 679, 0) in Malas: "MongbatCavernsTreasureChest2"
+3/6/2017 8:56:41 PM: 127.0.0.1: Serials: 0x4000195F; 
+3/6/2017 8:57:04 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setskill magery 30'
+3/6/2017 8:57:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Magery.Base' of 0x3FF "Poncho Vila" ('tomgranvidas') to '30'
+3/6/2017 8:57:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 8:57:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 8:57:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000195F (MongbatCavernsTreasureChest2)
+3/6/2017 8:57:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setskill magery 35'
+3/6/2017 8:57:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Magery.Base' of 0x3FF "Poncho Vila" ('tomgranvidas') to '35'
+3/6/2017 8:58:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack greatermanapotion'
+3/6/2017 8:58:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (714, 677, 0) in Malas: "greatermanapotion"
+3/6/2017 8:58:16 PM: 127.0.0.1: Serials: 0x40001968; 
+3/6/2017 8:58:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack greatermanapotion'
+3/6/2017 8:58:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (714, 677, 0) in Malas: "greatermanapotion"
+3/6/2017 8:58:18 PM: 127.0.0.1: Serials: 0x40001969; 
+3/6/2017 8:58:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setskill magery 40'
+3/6/2017 8:58:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Magery.Base' of 0x3FF "Poncho Vila" ('tomgranvidas') to '40'
+3/6/2017 8:58:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setskill magery 45'
+3/6/2017 8:58:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setskill magery 45'
+3/6/2017 8:58:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Magery.Base' of 0x3FF "Poncho Vila" ('tomgranvidas') to '45'
+3/6/2017 9:00:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 9:00:10 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40001959 (BlightedGroveTreasureChest)
+3/6/2017 9:00:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 9:00:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40001974 (Bottle)
+3/6/2017 9:00:21 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 9:00:21 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x4000193E (UnlockScroll)
+3/6/2017 9:00:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'emote sad'
+3/6/2017 9:01:05 PM: 79.68.46.94: Player 0x3FF "Poncho Vila" ('tomgranvidas') used command 'emote '
+3/6/2017 9:02:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/6/2017 9:02:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (608, 705, 5), Map Malas
+3/6/2017 9:02:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setskill magery 15'
+3/6/2017 9:02:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Magery.Base' of 0x3FF "Poncho Vila" ('tomgranvidas') to '15'
+3/6/2017 9:09:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 9:16:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 9:16:20 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 9:17:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:17:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:17:23 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:17:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:17:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:17:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:18:04 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:18:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:18:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:19:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:19:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:19:44 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:19:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:19:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:19:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:20:05 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:20:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:20:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:21:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/6/2017 9:21:21 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/6/2017 9:21:23 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:21:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:21:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:21:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:21:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:21:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:22:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 9:23:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/6/2017 9:24:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/6/2017 9:24:20 PM
+
+3/6/2017 9:24:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 9:24:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 9:25:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 9:26:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/6/2017 9:26:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x400022F9 (Spawner)
+3/6/2017 9:26:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'wipe '
+3/6/2017 9:26:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') wiping from (866, 897, 7) to (873, 903, 7) in Malas (Items, Mobiles)
+3/6/2017 9:27:29 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/6/2017 9:27:47 PM
+
+3/6/2017 9:28:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 9:28:07 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 9:28:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 9:44:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 9:45:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 9:45:02 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 9:51:57 PM
+
+3/6/2017 9:52:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 9:52:24 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 9:52:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (5792 objects)
+3/6/2017 9:52:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/6/2017 9:52:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 5792 objects
+3/6/2017 9:52:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 9:52:55 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 9:55:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (4030 objects)
+3/6/2017 9:55:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/6/2017 9:55:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 4030 objects
+3/6/2017 9:55:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 9:55:23 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 9:55:24 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 9:59:35 PM
+
+3/6/2017 10:01:44 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 10:01:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 10:02:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 10:04:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+3/6/2017 10:04:17 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'motd '
+3/6/2017 10:05:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/6/2017 10:05:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x40002C32 (Mace) to (2479, 1296, 8)
+3/6/2017 10:05:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/6/2017 10:06:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:06:46 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 10:07:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:08:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:09:02 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:09:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:09:55 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:10:24 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:11:27 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:12:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:13:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:13:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add spawningclutter'
+3/6/2017 10:14:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:15:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:16:17 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:16:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:17:10 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:18:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:18:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 10:19:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 10:20:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 10:20:57 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 10:22:38 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 10:31:02 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 10:34:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm remove'
+3/6/2017 10:34:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002142 (TamersHandbookVol2)
+3/6/2017 10:34:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002124 (TamersHandbookVol2)
+3/6/2017 10:34:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002154 (TamersHandbookVol4)
+3/6/2017 10:34:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002136 (TamersHandbookVol5)
+3/6/2017 10:45:10 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 10:46:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 10:54:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 10:54:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/6/2017 10:54:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/6/2017 11:27:12 PM
+
+3/6/2017 11:28:03 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 11:28:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 11:28:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 11:29:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') starting facet clear of Malas (4264 objects)
+3/6/2017 11:29:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'clearfacet '
+3/6/2017 11:29:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 4264 objects
+3/6/2017 11:31:33 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/6/2017 11:31:48 PM
+
+3/6/2017 11:32:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 11:32:12 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 11:32:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 11:33:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 11:33:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 11:35:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 11:37:11 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 11:38:35 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/6/2017 11:38:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x400026A8 (Gold) to (1574, 573, 0)
+3/6/2017 11:38:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/6/2017 11:38:49 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x40002F4A (Gold) to (1575, 573, 0)
+3/6/2017 11:38:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/6/2017 11:38:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x40002F4B (Gold) to (1576, 573, 0)
+3/6/2017 11:38:55 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/6/2017 11:38:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x40002F4C (Gold) to (1577, 573, 0)
+3/6/2017 11:39:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/6/2017 11:39:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x40002F56 (Gold) to (1578, 573, 0)
+3/6/2017 11:39:45 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/6/2017 11:39:47 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x40002F57 (Gold) to (1579, 573, 0)
+3/6/2017 11:39:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/6/2017 11:39:50 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x40002F4D (Gold) to (1580, 573, 0)
+3/6/2017 11:39:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/6/2017 11:39:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x40002F4E (Gold) to (1581, 573, 0)
+3/6/2017 11:39:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'move '
+3/6/2017 11:39:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') moving 0x40002F4F (Gold) to (1582, 573, 0)
+3/6/2017 11:40:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:40:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:40:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:40:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:41:08 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:41:17 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:41:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:41:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:41:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:41:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:42:01 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:42:54 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:43:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 11:43:20 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:43:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:43:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:44:15 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:44:31 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:44:55 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'm tele'
+3/6/2017 11:45:00 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:45:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:45:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:45:58 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:46:20 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/6/2017 11:48:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/6/2017 11:48:29 PM
+
+3/6/2017 11:49:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/6/2017 11:49:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'decorate '
+3/6/2017 11:49:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/6/2017 11:49:55 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/6/2017 11:54:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/7/2017 12:01:39 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:03:11 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:03:43 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/7/2017 12:04:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:05:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:05:38 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:05:56 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:06:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:07:20 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:08:10 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:09:05 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:09:33 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:11:16 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:11:34 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:11:59 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:12:18 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:12:47 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:13:07 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:13:41 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:13:55 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:14:15 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:14:25 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'where '
+3/7/2017 12:15:09 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'restart '

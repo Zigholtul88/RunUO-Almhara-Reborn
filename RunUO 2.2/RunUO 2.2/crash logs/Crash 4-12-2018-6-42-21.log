@@ -1,0 +1,35 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 6910.6664
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8937
+Time: 12/4/2018 6:42:21 AM
+Mobiles: 1284
+Items: 14770
+Exception:
+System.Exception: Bad type: Server.Items.HagStew ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Items.BaseAddon.AddComponent(AddonComponent c, Int32 x, Int32 y, Int32 z)
+   at Server.Items.HagStew..ctor()
+   --- End of inner exception stack trace ---
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandle& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean fillCache)
+   at System.RuntimeType.CreateInstanceImpl(Boolean publicOnly, Boolean skipVisibilityChecks, Boolean fillCache)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at Server.Commands.DecorationList.Construct()
+   --- End of inner exception stack trace ---
+   at Server.Commands.DecorationList.Construct()
+   at Server.Commands.DecorationList.Generate(Map[] maps)
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps)
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e)
+   at Server.Commands.CommandSystem.Handle(Mobile from, String text, MessageType type)
+   at Server.Gumps.AdminGump.InvokeCommand(String c)
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info)
+   at Server.Network.PacketHandlers.DisplayGumpResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 71.208.10.79: (account = Zigholtul88) (mobile = 0x109 'dude')

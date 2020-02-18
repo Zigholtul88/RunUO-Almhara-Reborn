@@ -1,0 +1,158 @@
+##############################
+Log started on 4/29/2016 7:13:50 PM
+
+4/29/2016 7:14:57 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'set str 30'
+4/29/2016 7:14:58 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'str' of 0x426 "Test Dummy" ('Zigholtul88') to '30'
+4/29/2016 7:15:02 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'set dex 25'
+4/29/2016 7:15:02 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'dex' of 0x426 "Test Dummy" ('Zigholtul88') to '25'
+4/29/2016 7:15:06 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'set hits 300'
+4/29/2016 7:15:07 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'hits' of 0x426 "Test Dummy" ('Zigholtul88') to '300'
+4/29/2016 7:15:14 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'setallskills 80'
+4/29/2016 7:15:15 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'EverySkill.Base' of 0x426 "Test Dummy" ('Zigholtul88') to '80'
+4/29/2016 7:15:28 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'go '
+4/29/2016 7:15:43 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'm tele'
+4/29/2016 7:15:57 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add thera'
+4/29/2016 7:16:01 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (774, 803, 11) in Malas: "Therasa"
+4/29/2016 7:16:01 PM: 127.0.0.1: Serials: 0x445; 
+4/29/2016 7:16:42 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add magicbox'
+4/29/2016 7:16:45 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (772, 803, 11) in Malas: "MagicBoxDresser"
+4/29/2016 7:16:45 PM: 127.0.0.1: Serials: 0x400003FC; 
+4/29/2016 7:16:59 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+4/29/2016 7:17:00 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x400003FC (MagicBoxDresser)
+4/29/2016 7:17:02 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add '
+4/29/2016 7:17:32 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'Add RangerArms'
+4/29/2016 7:17:33 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (776, 803, 9) in Malas: "RangerArms"
+4/29/2016 7:17:33 PM: 127.0.0.1: Serials: 0x40000400; 
+4/29/2016 7:17:37 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'Add RangerChest'
+4/29/2016 7:17:38 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (776, 803, 9) in Malas: "RangerChest"
+4/29/2016 7:17:38 PM: 127.0.0.1: Serials: 0x40000401; 
+4/29/2016 7:17:40 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'Add RangerGloves'
+4/29/2016 7:17:41 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (775, 803, 10) in Malas: "RangerGloves"
+4/29/2016 7:17:41 PM: 127.0.0.1: Serials: 0x40000402; 
+4/29/2016 7:17:43 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'Add RangerGorget'
+4/29/2016 7:17:44 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (776, 803, 9) in Malas: "RangerGorget"
+4/29/2016 7:17:44 PM: 127.0.0.1: Serials: 0x40000403; 
+4/29/2016 7:17:47 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'Add RangerLegs'
+4/29/2016 7:17:47 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (776, 803, 9) in Malas: "RangerLegs"
+4/29/2016 7:17:47 PM: 127.0.0.1: Serials: 0x40000404; 
+4/29/2016 7:17:54 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'set str 35'
+4/29/2016 7:17:55 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'str' of 0x426 "Test Dummy" ('Zigholtul88') to '35'
+4/29/2016 7:18:01 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add bow'
+4/29/2016 7:18:03 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (777, 802, 6) in Malas: "bow"
+4/29/2016 7:18:03 PM: 127.0.0.1: Serials: 0x40000410; 
+4/29/2016 7:18:13 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add arrow 500'
+4/29/2016 7:18:14 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (777, 803, 7) in Malas: "arrow" "500"
+4/29/2016 7:18:14 PM: 127.0.0.1: Serials: 0x40000411; 
+4/29/2016 7:18:21 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'm remove'
+4/29/2016 7:18:22 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x4000039F (ShortPants)
+4/29/2016 7:18:23 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x4000039E (Shirt)
+4/29/2016 7:18:23 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x400003A0 (Boots)
+4/29/2016 7:18:24 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x400003A1 (OneGoldBar)
+4/29/2016 7:18:27 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x4000039D (LeatherGloves)
+4/29/2016 7:18:28 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x40000398 (RedBook)
+4/29/2016 7:18:32 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add gang'
+4/29/2016 7:18:42 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (781, 803, 3) in Malas: "RatmanGangMember"
+4/29/2016 7:18:42 PM: 127.0.0.1: Serials: 0x449; 
+4/29/2016 7:19:49 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (768, 796, 0) in Malas: "LizardmanGangMember"
+4/29/2016 7:19:49 PM: 127.0.0.1: Serials: 0x44C; 
+4/29/2016 7:21:35 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'setskill archery 100'
+4/29/2016 7:21:36 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'Archery.Base' of 0x426 "Test Dummy" ('Zigholtul88') to '100'
+4/29/2016 7:22:50 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'm tele'
+4/29/2016 7:23:36 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+4/29/2016 7:23:37 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x445 "Therasa" (no account)
+4/29/2016 7:24:02 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'admin '
+4/29/2016 7:24:05 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/29/2016 7:24:06 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/29/2016 7:32:22 PM
+
+4/29/2016 7:33:23 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'set str 100'
+4/29/2016 7:33:25 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'str' of 0x426 "Test Dummy" ('Zigholtul88') to '100'
+4/29/2016 7:33:29 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'set dex 100'
+4/29/2016 7:33:30 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'dex' of 0x426 "Test Dummy" ('Zigholtul88') to '100'
+4/29/2016 7:33:36 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'setallskills 100'
+4/29/2016 7:33:37 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'EverySkill.Base' of 0x426 "Test Dummy" ('Zigholtul88') to '100'
+4/29/2016 7:33:38 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add '
+4/29/2016 7:33:42 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'go '
+4/29/2016 7:33:48 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'm tele'
+4/29/2016 7:33:58 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+4/29/2016 7:33:59 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x40000434 (Corpse)
+4/29/2016 7:34:01 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add thera'
+4/29/2016 7:34:03 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (767, 799, 3) in Malas: "Therasa"
+4/29/2016 7:34:03 PM: 127.0.0.1: Serials: 0x445; 
+4/29/2016 7:34:07 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add magicbo'
+4/29/2016 7:34:09 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (763, 801, 1) in Malas: "MagicBoxDresser"
+4/29/2016 7:34:09 PM: 127.0.0.1: Serials: 0x400004B7; 
+4/29/2016 7:34:28 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add bo'
+4/29/2016 7:34:34 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add bowof'
+4/29/2016 7:34:37 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (768, 800, 6) in Malas: "ShimmeringCrossbowOfAquaticElegance"
+4/29/2016 7:34:37 PM: 127.0.0.1: Serials: 0x400004BB; 
+4/29/2016 7:34:47 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add bolt 500'
+4/29/2016 7:34:48 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (767, 800, 4) in Malas: "bolt" "500"
+4/29/2016 7:34:48 PM: 127.0.0.1: Serials: 0x400004DF; 
+4/29/2016 7:34:56 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'add gangme'
+4/29/2016 7:35:03 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (772, 801, 9) in Malas: "RatmanGangMember"
+4/29/2016 7:35:03 PM: 127.0.0.1: Serials: 0x449; 
+4/29/2016 7:35:10 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'set hits 500'
+4/29/2016 7:35:11 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') set property 'hits' of 0x426 "Test Dummy" ('Zigholtul88') to '500'
+4/29/2016 7:35:44 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (773, 801, 7) in Malas: "RatmanGangMember"
+4/29/2016 7:35:44 PM: 127.0.0.1: Serials: 0x44C; 
+4/29/2016 7:35:49 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+4/29/2016 7:35:49 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x44C "Xakshuku" (no account)
+4/29/2016 7:35:54 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') building at (773, 800, 6) in Malas: "LizardmanGangMember"
+4/29/2016 7:35:54 PM: 127.0.0.1: Serials: 0x453; 
+4/29/2016 7:37:03 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+4/29/2016 7:37:03 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x400004B7 (MagicBoxDresser)
+4/29/2016 7:37:26 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'remove '
+4/29/2016 7:37:27 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') deleting 0x445 "Therasa" (no account)
+4/29/2016 7:37:51 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'admin '
+4/29/2016 7:37:54 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/29/2016 7:37:55 PM: 127.0.0.1: Owner 0x426 "Test Dummy" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/29/2016 7:43:50 PM
+
+4/29/2016 7:48:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/29/2016 7:51:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/29/2016 7:53:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 7:53:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add gangme'
+4/29/2016 7:54:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/29/2016 7:55:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 4/29/2016 7:55:30 PM
+
+4/29/2016 7:55:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/29/2016 7:55:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+4/29/2016 7:58:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 7:58:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 7:59:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 8:00:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 8:01:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 8:01:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 8:02:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/29/2016 8:02:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 8:02:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add gang'
+4/29/2016 8:02:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 8:03:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/29/2016 8:03:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 8:04:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/29/2016 8:04:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 8:04:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/29/2016 8:04:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/29/2016 8:05:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 4/29/2016 8:06:01 PM
+
+4/29/2016 8:06:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/29/2016 8:06:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+4/29/2016 8:07:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/29/2016 8:07:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/29/2016 8:08:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/29/2016 8:08:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/29/2016 8:10:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bow'
+4/29/2016 8:10:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (703, 790, 1) in Malas: "bow"
+4/29/2016 8:10:43 PM: 127.0.0.1: Serials: 0x40002177; 
+4/29/2016 8:10:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/29/2016 8:10:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002177 (Bow)
+4/29/2016 8:15:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/29/2016 8:15:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/29/2016 8:15:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

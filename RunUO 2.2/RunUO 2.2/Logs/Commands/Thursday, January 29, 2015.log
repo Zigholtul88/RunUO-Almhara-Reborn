@@ -1,0 +1,42 @@
+##############################
+Log started on 1/29/2015 1:17:38 PM
+
+1/29/2015 1:20:06 PM: 127.0.0.1: Owner 0x100 "ooo" ('Zigholtul88') used command 'props '
+1/29/2015 1:25:36 PM: 127.0.0.1: Owner 0x100 "ooo" ('Zigholtul88') used command 'admin '
+1/29/2015 1:25:42 PM: 127.0.0.1: Owner 0x100 "ooo" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+1/29/2015 1:25:42 PM: 127.0.0.1: Owner 0x100 "ooo" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/29/2015 1:38:06 PM
+
+1/29/2015 1:38:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add raina'
+1/29/2015 1:38:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1210, 1055, 0) in Malas: "RainaGollemere"
+1/29/2015 1:38:34 PM: 127.0.0.1: Serials: 0x100; 
+1/29/2015 1:38:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookcase'
+1/29/2015 1:38:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1205, 1055, 0) in Malas: "StolenNecklaceBookcase"
+1/29/2015 1:38:57 PM: 127.0.0.1: Serials: 0x400002F9; 
+1/29/2015 1:40:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/29/2015 1:40:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400002F9 (StolenNecklaceBookcase)
+1/29/2015 1:40:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/29/2015 1:40:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x100 "Raina Gollemere" (no account)
+1/29/2015 1:40:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+1/29/2015 1:41:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+1/29/2015 1:43:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+1/29/2015 1:43:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+1/29/2015 1:43:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (922, 749, 8) in Malas: "spawner"
+1/29/2015 1:43:42 PM: 127.0.0.1: Serials: 0x40000382; 
+1/29/2015 1:43:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/29/2015 1:43:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000382 (Spawner) to '0'
+1/29/2015 1:43:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookcase'
+1/29/2015 1:44:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/29/2015 1:45:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+1/29/2015 1:45:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400003A2 (StolenNecklaceBookcase)
+1/29/2015 1:45:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000382 (Spawner)
+1/29/2015 1:54:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+1/29/2015 1:54:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add plun'
+1/29/2015 1:55:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1030, 882, 2) in Malas: "PlundersHavenThief"
+1/29/2015 1:55:00 PM: 127.0.0.1: Serials: 0x2B0; 
+1/29/2015 1:55:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/29/2015 1:55:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2B0 "Melinda" (no account)
+1/29/2015 2:01:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/29/2015 2:01:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/29/2015 2:01:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

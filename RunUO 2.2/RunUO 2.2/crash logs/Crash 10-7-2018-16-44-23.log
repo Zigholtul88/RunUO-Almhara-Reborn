@@ -1,0 +1,23 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8922
+Time: 7/10/2018 4:44:23 PM
+Mobiles: 2225
+Items: 19042
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Spells.Bushido.LightningStrike.Validate(Mobile from)
+   at Server.Spells.SpecialMove.SetCurrentMove(Mobile m, SpecialMove move)
+   at Server.Mobiles.OmniAI.UseBushidoMove()
+   at Server.Mobiles.OmniAI.DoActionCombat()
+   at Server.Mobiles.OmniAI.Think()
+   at Server.Mobiles.BaseAI.AITimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x1 'Zigholtul')

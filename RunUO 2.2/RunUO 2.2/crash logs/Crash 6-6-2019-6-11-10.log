@@ -1,0 +1,29 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 7032.20333
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8941
+Time: 6/6/2019 6:11:10 AM
+Mobiles: 361
+Items: 3536
+Exception:
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at Server.Point3D.Parse(String value)
+   at Server.Commands.DecorationList.Construct()
+   at Server.Commands.DecorationList.Generate(Map[] maps)
+   at Server.Commands.Decorate.Generate(String folder, Map[] maps)
+   at Server.Commands.Decorate.Decorate_OnCommand(CommandEventArgs e)
+   at Server.Commands.CommandSystem.Handle(Mobile from, String text, MessageType type)
+   at Server.Gumps.AdminGump.InvokeCommand(String c)
+   at Server.Gumps.AdminGump.OnResponse(NetState sender, RelayInfo info)
+   at Server.Network.PacketHandlers.DisplayGumpResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x1A 'Tobe Faire')

@@ -1,0 +1,408 @@
+##############################
+Log started on 7/24/2018 1:57:00 AM
+
+7/24/2018 2:03:26 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 2:03:31 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'go '
+7/24/2018 2:03:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set map tokuno'
+7/24/2018 2:03:42 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'map' of 0x4E9 "Tuuti" ('Zigholtul88') to 'Tokuno'
+7/24/2018 2:03:44 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'go '
+7/24/2018 2:03:54 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'm tele'
+7/24/2018 2:05:08 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'where '
+7/24/2018 2:05:37 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'save '
+7/24/2018 2:05:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluff'
+7/24/2018 2:05:43 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (964, 139, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 2:05:44 AM: 127.0.0.1: Serials: 0x500; 
+7/24/2018 2:06:13 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add torch'
+7/24/2018 2:06:15 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (962, 142, 4) in Tokuno: "torch"
+7/24/2018 2:06:15 AM: 127.0.0.1: Serials: 0x40000581; 
+7/24/2018 2:07:39 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'setallskills 10'
+7/24/2018 2:07:39 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'EverySkill.Base' of 0x4E9 "Tuuti" ('Zigholtul88') to '10'
+7/24/2018 2:07:42 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluff'
+7/24/2018 2:07:48 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (984, 130, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 2:07:48 AM: 127.0.0.1: Serials: 0x5EB; 
+7/24/2018 2:08:38 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 2:08:39 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5EB "carrot on my" (no account)
+7/24/2018 2:22:46 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/24/2018 2:24:51 AM
+
+7/24/2018 2:25:08 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 2:25:16 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'setallskills 100'
+7/24/2018 2:25:17 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'EverySkill.Base' of 0x4E9 "Tuuti" ('Zigholtul88') to '100'
+7/24/2018 2:25:25 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluff'
+7/24/2018 2:25:28 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (977, 132, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 2:25:28 AM: 127.0.0.1: Serials: 0x500; 
+7/24/2018 2:28:28 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 2:28:30 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (965, 120, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 2:28:30 AM: 127.0.0.1: Serials: 0x5F0; 
+7/24/2018 2:28:49 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'tele '
+7/24/2018 2:29:31 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 2:29:31 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 2:30:09 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 2:30:10 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 2:30:33 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 2:30:33 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 2:31:24 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 2:31:24 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 2:32:10 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 2:32:10 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 2:32:40 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 2:32:40 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 2:33:19 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'tele '
+7/24/2018 2:35:04 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add toa'
+7/24/2018 2:35:06 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (966, 112, 4) in Tokuno: "GiantToad"
+7/24/2018 2:35:07 AM: 127.0.0.1: Serials: 0x600; 
+7/24/2018 2:35:09 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 2:35:12 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x600 "a giant toad" (no account)
+7/24/2018 2:37:08 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add chicken'
+7/24/2018 2:37:09 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (955, 113, 4) in Tokuno: "chicken"
+7/24/2018 2:37:09 AM: 127.0.0.1: Serials: 0x601; 
+7/24/2018 2:37:11 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 2:37:13 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x601 "a chicken" (no account)
+7/24/2018 2:37:31 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add daemon'
+7/24/2018 2:37:32 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (950, 116, 4) in Tokuno: "daemon"
+7/24/2018 2:37:32 AM: 127.0.0.1: Serials: 0x602; 
+7/24/2018 2:37:33 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 2:37:34 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x602 "Bathim" (no account)
+7/24/2018 2:41:06 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'admin '
+7/24/2018 2:41:12 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/24/2018 2:41:14 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/24/2018 3:05:51 AM
+
+7/24/2018 3:06:15 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 3:06:22 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add chicken'
+7/24/2018 3:06:23 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (943, 115, 4) in Tokuno: "chicken"
+7/24/2018 3:06:24 AM: 127.0.0.1: Serials: 0x500; 
+7/24/2018 3:07:00 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add daemon'
+7/24/2018 3:07:01 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (945, 109, 4) in Tokuno: "daemon"
+7/24/2018 3:07:01 AM: 127.0.0.1: Serials: 0x5E5; 
+7/24/2018 3:07:04 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 3:07:05 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5E5 "Eligor" (no account)
+7/24/2018 3:08:00 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'admin '
+7/24/2018 3:08:04 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/24/2018 3:08:06 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/24/2018 3:17:38 AM
+
+7/24/2018 3:18:00 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 3:18:06 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluff'
+7/24/2018 3:18:07 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (940, 110, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 3:18:08 AM: 127.0.0.1: Serials: 0x500; 
+7/24/2018 3:18:17 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 5'
+7/24/2018 3:18:17 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x500 "Won't you think of the poor" (no account) to '5'
+7/24/2018 3:18:32 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 3:18:33 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x400006F6 (Corpse)
+7/24/2018 3:18:36 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 3:18:36 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x400006C3 (Corpse)
+7/24/2018 3:18:37 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 3:18:38 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x40003808 (Corpse)
+7/24/2018 3:18:47 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 3:18:47 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x4000371E (CheeseWheel)
+7/24/2018 3:19:13 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 3:19:28 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 3:19:40 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'admin '
+7/24/2018 3:19:45 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/24/2018 3:19:47 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/24/2018 4:04:47 AM
+
+7/24/2018 4:06:42 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 4:06:57 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 4:06:59 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (963, 135, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:07:00 AM: 127.0.0.1: Serials: 0x500; 
+7/24/2018 4:08:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 4:08:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x40002E79 (CheeseWheel)
+7/24/2018 4:08:43 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 4:08:44 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x40003E68 (CheeseWheel)
+7/24/2018 4:08:45 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 4:08:45 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x40000B28 (CheeseWheel)
+7/24/2018 4:08:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 4:08:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x40003E38 (CheeseWheel)
+7/24/2018 4:08:52 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 4:08:52 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x40002E1E (CheeseWheel)
+7/24/2018 4:12:33 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/24/2018 4:14:39 AM
+
+7/24/2018 4:14:46 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 4:14:51 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 4:14:53 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (967, 119, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:14:53 AM: 127.0.0.1: Serials: 0x500; 
+7/24/2018 4:15:45 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 4:15:46 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x40004166 (CheeseWheel)
+7/24/2018 4:15:48 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 4:15:48 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x40003E5C (CheeseWheel)
+7/24/2018 4:15:51 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 4:15:51 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x40000B22 (CheeseWheel)
+7/24/2018 4:15:53 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 4:15:53 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x400028FF (CheeseWheel)
+7/24/2018 4:16:33 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add toad'
+7/24/2018 4:16:35 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (956, 106, 4) in Tokuno: "GiantToad"
+7/24/2018 4:16:35 AM: 127.0.0.1: Serials: 0x5EB; 
+7/24/2018 4:17:06 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 4:17:09 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (952, 116, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:17:09 AM: 127.0.0.1: Serials: 0x5EC; 
+7/24/2018 4:17:09 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (954, 116, 5) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:17:09 AM: 127.0.0.1: Serials: 0x5ED; 
+7/24/2018 4:17:09 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (955, 116, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:17:09 AM: 127.0.0.1: Serials: 0x5EE; 
+7/24/2018 4:17:21 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 4:17:22 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 4:17:58 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 4:17:58 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 4:18:08 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'tele '
+7/24/2018 4:18:14 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'tele '
+7/24/2018 4:18:19 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 4:18:19 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 4:19:06 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 4:19:07 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 4:19:09 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 4:19:14 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5F3 "the spoony" (no account)
+7/24/2018 4:19:16 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 4:19:18 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5EC "Geek Maggot Bingo with the" (no account)
+7/24/2018 4:19:19 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 4:19:25 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5EF "Spank that" (no account)
+7/24/2018 4:19:26 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 4:19:28 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x606 "Rhymes with Digger and resembles this one particular" (no account)
+7/24/2018 4:19:29 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 4:19:33 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5ED "Spank that" (no account)
+7/24/2018 4:19:34 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 4:19:36 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5EE "You know who needs a home this" (no account)
+7/24/2018 4:19:38 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'tele '
+7/24/2018 4:20:12 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 4:20:19 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add guardi'
+7/24/2018 4:20:33 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (951, 107, 4) in Tokuno: "HammerhillGuardianFighter"
+7/24/2018 4:20:33 AM: 127.0.0.1: Serials: 0x621; 
+7/24/2018 4:20:35 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (952, 106, 4) in Tokuno: "HammerhillGuardianFighter"
+7/24/2018 4:20:35 AM: 127.0.0.1: Serials: 0x622; 
+7/24/2018 4:20:39 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 4:20:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (952, 101, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:20:41 AM: 127.0.0.1: Serials: 0x623; 
+7/24/2018 4:20:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (954, 101, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:20:42 AM: 127.0.0.1: Serials: 0x624; 
+7/24/2018 4:20:42 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (954, 100, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:20:42 AM: 127.0.0.1: Serials: 0x625; 
+7/24/2018 4:20:43 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (950, 99, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:20:43 AM: 127.0.0.1: Serials: 0x626; 
+7/24/2018 4:20:43 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (953, 100, 5) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:20:43 AM: 127.0.0.1: Serials: 0x627; 
+7/24/2018 4:20:43 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (955, 101, 5) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:20:43 AM: 127.0.0.1: Serials: 0x628; 
+7/24/2018 4:21:15 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (953, 101, 5) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:21:15 AM: 127.0.0.1: Serials: 0x629; 
+7/24/2018 4:21:15 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (954, 99, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:21:15 AM: 127.0.0.1: Serials: 0x62A; 
+7/24/2018 4:21:15 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (954, 98, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:21:15 AM: 127.0.0.1: Serials: 0x62B; 
+7/24/2018 4:21:16 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (955, 99, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:21:16 AM: 127.0.0.1: Serials: 0x62C; 
+7/24/2018 4:21:16 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (954, 100, 5) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:21:16 AM: 127.0.0.1: Serials: 0x62D; 
+7/24/2018 4:21:16 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (954, 98, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:21:16 AM: 127.0.0.1: Serials: 0x62E; 
+7/24/2018 4:21:17 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (954, 100, 5) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:21:17 AM: 127.0.0.1: Serials: 0x62F; 
+7/24/2018 4:23:22 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') starting facet clear of Tokuno (10751 objects)
+7/24/2018 4:23:22 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'clearfacet '
+7/24/2018 4:23:24 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 10751 objects
+7/24/2018 4:23:53 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (948, 96, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:23:53 AM: 127.0.0.1: Serials: 0x630; 
+7/24/2018 4:24:07 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 4:24:09 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x630 "I recently owned an obnoxious" (no account)
+7/24/2018 4:24:48 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (943, 117, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:24:48 AM: 127.0.0.1: Serials: 0x636; 
+7/24/2018 4:24:49 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (949, 109, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:24:49 AM: 127.0.0.1: Serials: 0x637; 
+7/24/2018 4:24:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (949, 115, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:24:50 AM: 127.0.0.1: Serials: 0x638; 
+7/24/2018 4:24:54 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'm kill'
+7/24/2018 4:24:56 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x636 "the spoony" (no account)
+7/24/2018 4:25:02 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x638 "Won't you think of the poor" (no account)
+7/24/2018 4:25:11 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x637 "Geek Maggot Bingo with the" (no account)
+7/24/2018 4:25:14 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'm kill'
+7/24/2018 4:25:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (965, 127, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:25:41 AM: 127.0.0.1: Serials: 0x639; 
+7/24/2018 4:25:42 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (970, 122, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:25:42 AM: 127.0.0.1: Serials: 0x63A; 
+7/24/2018 4:25:42 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (972, 118, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:25:42 AM: 127.0.0.1: Serials: 0x63B; 
+7/24/2018 4:25:46 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'm kill'
+7/24/2018 4:25:49 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x63B "Ah Shit a" (no account)
+7/24/2018 4:26:01 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x639 "Crap I am a silly little" (no account)
+7/24/2018 4:26:08 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x63A "I can't find my" (no account)
+7/24/2018 4:34:46 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (967, 120, 5) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:34:46 AM: 127.0.0.1: Serials: 0x63C; 
+7/24/2018 4:34:47 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (968, 118, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:34:48 AM: 127.0.0.1: Serials: 0x63D; 
+7/24/2018 4:34:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (967, 117, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:34:50 AM: 127.0.0.1: Serials: 0x63E; 
+7/24/2018 4:34:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (967, 117, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:34:50 AM: 127.0.0.1: Serials: 0x63F; 
+7/24/2018 4:34:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (967, 117, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:34:50 AM: 127.0.0.1: Serials: 0x640; 
+7/24/2018 4:34:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (967, 117, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:34:50 AM: 127.0.0.1: Serials: 0x641; 
+7/24/2018 4:34:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (967, 117, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:34:50 AM: 127.0.0.1: Serials: 0x642; 
+7/24/2018 4:34:51 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (967, 117, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:34:51 AM: 127.0.0.1: Serials: 0x643; 
+7/24/2018 4:35:31 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'tele '
+7/24/2018 4:35:46 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 4:35:47 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 4:36:31 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 4:36:31 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 4:36:42 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set str 500'
+7/24/2018 4:36:42 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'str' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 4:36:46 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500000'
+7/24/2018 4:36:47 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500000'
+7/24/2018 4:39:08 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 50000000'
+7/24/2018 4:39:08 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '50000000'
+7/24/2018 4:42:00 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'tele '
+7/24/2018 4:42:26 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost off'
+7/24/2018 4:42:48 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') starting facet clear of Tokuno (6680 objects)
+7/24/2018 4:42:48 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'clearfacet '
+7/24/2018 4:42:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 6680 objects
+7/24/2018 4:47:32 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'admin '
+7/24/2018 4:47:38 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/24/2018 4:47:40 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/24/2018 6:10:58 AM
+
+7/24/2018 6:12:10 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 6:12:16 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add gaseou'
+7/24/2018 6:12:24 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (991, 152, 4) in Tokuno: "GaseousSlime"
+7/24/2018 6:12:25 AM: 127.0.0.1: Serials: 0x3C0; 
+7/24/2018 6:12:38 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set str 100'
+7/24/2018 6:12:39 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'str' of 0x4E9 "Tuuti" ('Zigholtul88') to '100'
+7/24/2018 6:19:02 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluff'
+7/24/2018 6:19:05 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (990, 160, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 6:19:05 AM: 127.0.0.1: Serials: 0x500; 
+7/24/2018 6:20:23 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') starting facet clear of Tokuno (5225 objects)
+7/24/2018 6:20:23 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'clearfacet '
+7/24/2018 6:20:25 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 5225 objects
+7/24/2018 6:22:08 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/24/2018 6:25:18 AM
+
+7/24/2018 6:25:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 6:25:56 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluff'
+7/24/2018 6:25:59 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (998, 147, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 6:25:59 AM: 127.0.0.1: Serials: 0x3C0; 
+7/24/2018 6:27:40 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') starting facet clear of Tokuno (83 objects)
+7/24/2018 6:27:40 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'clearfacet '
+7/24/2018 6:27:42 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 83 objects
+7/24/2018 6:28:29 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/24/2018 6:30:37 AM
+
+7/24/2018 6:30:46 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 6:30:50 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 6:30:53 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (996, 148, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 6:30:53 AM: 127.0.0.1: Serials: 0x3C0; 
+7/24/2018 6:33:25 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') starting facet clear of Tokuno (82 objects)
+7/24/2018 6:33:25 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'clearfacet '
+7/24/2018 6:33:27 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 82 objects
+7/24/2018 6:34:19 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/24/2018 6:36:27 AM
+
+7/24/2018 7:06:11 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 7:06:15 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 7:06:18 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1004, 152, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 7:06:18 AM: 127.0.0.1: Serials: 0x3C0; 
+##############################
+Log started on 7/24/2018 7:10:30 AM
+
+7/24/2018 7:10:37 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 7:10:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 7:10:44 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1013, 145, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 7:10:45 AM: 127.0.0.1: Serials: 0x3C0; 
+7/24/2018 7:13:12 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 7:13:15 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1015, 152, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 7:13:15 AM: 127.0.0.1: Serials: 0x5EA; 
+7/24/2018 7:13:20 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'kill '
+7/24/2018 7:13:25 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5EA "Poofles the vacuous" (no account)
+7/24/2018 7:16:07 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/24/2018 7:18:14 AM
+
+7/24/2018 7:23:07 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'speedboost '
+7/24/2018 7:23:10 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 7:23:12 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1015, 154, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 7:23:13 AM: 127.0.0.1: Serials: 0x3C0; 
+7/24/2018 7:24:36 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') starting facet clear of Tokuno (564 objects)
+7/24/2018 7:24:36 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'clearfacet '
+7/24/2018 7:24:37 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 564 objects
+7/24/2018 7:24:40 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 7:24:42 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1011, 155, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 7:24:42 AM: 127.0.0.1: Serials: 0x500; 
+7/24/2018 7:26:19 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add gaseo'
+7/24/2018 7:26:23 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (990, 140, 4) in Tokuno: "GaseousSlime"
+7/24/2018 7:26:23 AM: 127.0.0.1: Serials: 0x5EB; 
+7/24/2018 7:26:24 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (992, 139, 4) in Tokuno: "GaseousSlime"
+7/24/2018 7:26:24 AM: 127.0.0.1: Serials: 0x5EC; 
+7/24/2018 7:26:24 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (992, 138, 4) in Tokuno: "GaseousSlime"
+7/24/2018 7:26:24 AM: 127.0.0.1: Serials: 0x5ED; 
+7/24/2018 7:26:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 7:26:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x5ED "a gaseous slime" (no account)
+7/24/2018 7:26:51 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 7:26:52 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x5EC "a gaseous slime" (no account)
+7/24/2018 7:26:53 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 7:26:53 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x5EB "a gaseous slime" (no account)
+7/24/2018 7:26:58 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'tele '
+7/24/2018 7:27:02 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add gaseo'
+7/24/2018 7:27:04 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1019, 138, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:05 AM: 127.0.0.1: Serials: 0x5EE; 
+7/24/2018 7:27:05 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1019, 138, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:05 AM: 127.0.0.1: Serials: 0x5EF; 
+7/24/2018 7:27:05 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1019, 138, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:05 AM: 127.0.0.1: Serials: 0x5F0; 
+7/24/2018 7:27:05 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1019, 138, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:05 AM: 127.0.0.1: Serials: 0x5F1; 
+7/24/2018 7:27:05 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1019, 138, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:05 AM: 127.0.0.1: Serials: 0x5F2; 
+7/24/2018 7:27:19 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'waterwalk '
+7/24/2018 7:27:40 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'wipe '
+7/24/2018 7:27:41 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') wiping from (1016, 140, -1) to (1024, 148, 4) in Tokuno (Items, Mobiles)
+7/24/2018 7:27:46 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 7:27:47 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x5F1 "a gaseous slime" (no account)
+7/24/2018 7:27:49 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'remove '
+7/24/2018 7:27:49 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 0x5F2 "a gaseous slime" (no account)
+7/24/2018 7:27:54 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1019, 138, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:54 AM: 127.0.0.1: Serials: 0x5F3; 
+7/24/2018 7:27:54 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1019, 138, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:54 AM: 127.0.0.1: Serials: 0x5F4; 
+7/24/2018 7:27:54 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1019, 138, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:54 AM: 127.0.0.1: Serials: 0x5F5; 
+7/24/2018 7:27:55 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1021, 138, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:55 AM: 127.0.0.1: Serials: 0x5F6; 
+7/24/2018 7:27:55 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1020, 137, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:56 AM: 127.0.0.1: Serials: 0x5F7; 
+7/24/2018 7:27:56 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1019, 137, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:56 AM: 127.0.0.1: Serials: 0x5F8; 
+7/24/2018 7:27:57 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1020, 140, -1) in Tokuno: "GaseousSlime"
+7/24/2018 7:27:57 AM: 127.0.0.1: Serials: 0x5F9; 
+7/24/2018 7:29:03 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'm kill'
+7/24/2018 7:29:05 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5F6 "a gaseous slime" (no account)
+7/24/2018 7:29:06 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5F9 "a gaseous slime" (no account)
+7/24/2018 7:29:07 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5F7 "a gaseous slime" (no account)
+7/24/2018 7:29:08 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5F4 "a gaseous slime" (no account)
+7/24/2018 7:29:09 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5F8 "a gaseous slime" (no account)
+7/24/2018 7:29:10 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') killing 0x5F0 "a gaseous slime" (no account)
+7/24/2018 7:29:47 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'wipe '
+7/24/2018 7:29:49 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') wiping from (1016, 136, -1) to (1023, 142, -1) in Tokuno (Items, Mobiles)
+7/24/2018 7:31:52 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'tele '
+7/24/2018 7:32:00 AM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (1002, 138, 4) in Tokuno: "GaseousSlime"
+7/24/2018 7:32:00 AM: 127.0.0.1: Serials: 0x5FA; 
+7/24/2018 4:01:01 PM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'add fluffy'
+7/24/2018 4:01:03 PM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (968, 133, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:01:03 PM: 127.0.0.1: Serials: 0x5FC; 
+7/24/2018 4:03:23 PM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'set hits 500'
+7/24/2018 4:03:23 PM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') set property 'hits' of 0x4E9 "Tuuti" ('Zigholtul88') to '500'
+7/24/2018 4:07:46 PM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') building at (957, 172, 4) in Tokuno: "FluffySnapperSpearThruster"
+7/24/2018 4:07:46 PM: 127.0.0.1: Serials: 0x614; 
+7/24/2018 4:13:27 PM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') starting facet clear of Tokuno (409 objects)
+7/24/2018 4:13:27 PM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'clearfacet '
+7/24/2018 4:13:29 PM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') deleting 409 objects
+7/24/2018 4:13:34 PM: 127.0.0.1: Owner 0x4E9 "Tuuti" ('Zigholtul88') used command 'save '

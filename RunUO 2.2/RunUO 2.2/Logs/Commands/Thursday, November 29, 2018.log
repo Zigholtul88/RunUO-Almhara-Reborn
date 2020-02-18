@@ -1,0 +1,238 @@
+##############################
+Log started on 11/29/2018 12:02:26 AM
+
+11/29/2018 12:03:10 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+11/29/2018 12:03:14 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'go '
+11/29/2018 12:03:31 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add quest'
+11/29/2018 12:03:55 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1129, 929, 15) in Malas: "QuestBulletinBoardZaythalor"
+11/29/2018 12:03:55 AM: 71.208.10.79: Serials: 0x4000000A; 
+11/29/2018 12:04:10 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'move '
+11/29/2018 12:04:12 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') moving 0x4000000A (QuestBulletinBoardZaythalor) to (1128, 933, 15)
+11/29/2018 12:04:44 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'go '
+11/29/2018 12:04:52 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') unhiding 0x109 "dudette" ('Zigholtul88')
+11/29/2018 12:04:52 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'Self Unhide'
+11/29/2018 12:04:57 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 12:04:58 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x4000000A (QuestBulletinBoardZaythalor)
+11/29/2018 12:05:01 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add zootr'
+11/29/2018 12:05:03 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1130, 930, 15) in Malas: "BookOfZooTravel"
+11/29/2018 12:05:03 AM: 71.208.10.79: Serials: 0x40000021; 
+11/29/2018 12:05:20 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') unhiding 0x109 "dudette" ('Zigholtul88')
+11/29/2018 12:05:20 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'Self Unhide'
+11/29/2018 12:05:44 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'setskill animaltaming 50'
+11/29/2018 12:05:45 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') set property 'AnimalTaming.Base' of 0x109 "dudette" ('Zigholtul88') to '50'
+11/29/2018 12:07:27 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') unhiding 0x109 "dudette" ('Zigholtul88')
+11/29/2018 12:07:27 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'Self Unhide'
+11/29/2018 12:07:40 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'res '
+11/29/2018 12:07:43 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') resurrecting 0x109 "dudette" ('Zigholtul88')
+11/29/2018 12:08:34 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'set hits 500'
+11/29/2018 12:08:35 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') set property 'hits' of 0x109 "dudette" ('Zigholtul88') to '500'
+11/29/2018 12:09:53 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'set hits 500'
+11/29/2018 12:09:54 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') set property 'hits' of 0x109 "dudette" ('Zigholtul88') to '500'
+11/29/2018 12:10:12 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'res '
+11/29/2018 12:10:14 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') resurrecting 0x109 "dudette" ('Zigholtul88')
+11/29/2018 12:10:21 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'go '
+11/29/2018 12:11:14 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add gambler'
+11/29/2018 12:11:16 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1131, 931, 15) in Malas: "gambler"
+11/29/2018 12:11:16 AM: 71.208.10.79: Serials: 0x10D; 
+11/29/2018 12:14:12 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 12:14:16 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x10D "Holly" (no account)
+11/29/2018 12:14:33 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add gambler'
+11/29/2018 12:14:34 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1133, 932, 15) in Malas: "gambler"
+11/29/2018 12:14:34 AM: 71.208.10.79: Serials: 0x111; 
+11/29/2018 12:15:51 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 12:15:52 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x111 "Rhonna" (no account)
+11/29/2018 12:15:56 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add regbag'
+11/29/2018 12:15:57 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1133, 932, 15) in Malas: "regbag"
+11/29/2018 12:15:57 AM: 71.208.10.79: Serials: 0x40000620; 
+11/29/2018 12:16:12 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add bagofreag'
+11/29/2018 12:16:15 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1132, 933, 15) in Malas: "BagOfReagents"
+11/29/2018 12:16:15 AM: 71.208.10.79: Serials: 0x40000621; 
+11/29/2018 12:16:59 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 12:17:00 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x40000621 (BagOfReagents)
+11/29/2018 12:17:02 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add bagofreag'
+11/29/2018 12:17:03 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1132, 932, 15) in Malas: "BagOfReagents"
+11/29/2018 12:17:03 AM: 71.208.10.79: Serials: 0x4000062D; 
+11/29/2018 12:17:37 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 12:17:39 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x4000062D (BagOfReagents)
+11/29/2018 12:18:10 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 12:18:12 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x4000006A (Bag)
+11/29/2018 12:18:12 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 12:18:13 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x40003DA6 (SackFlour)
+11/29/2018 12:18:14 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 12:18:15 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x40001AA2 (Bag)
+11/29/2018 12:18:20 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 12:18:21 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x40002391 (Bottle)
+11/29/2018 12:20:03 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'admin '
+11/29/2018 12:20:06 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/29/2018 12:20:10 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/29/2018 12:45:08 AM
+
+11/29/2018 12:45:23 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+11/29/2018 12:45:29 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add questb'
+11/29/2018 12:45:33 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1128, 933, 15) in Malas: "QuestBulletinBoardZaythalor"
+11/29/2018 12:45:33 AM: 71.208.10.79: Serials: 0x4000000A; 
+11/29/2018 12:46:06 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 12:46:13 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x4000000A (QuestBulletinBoardZaythalor)
+11/29/2018 12:46:44 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'go '
+11/29/2018 12:48:25 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'where '
+11/29/2018 12:51:56 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'go '
+11/29/2018 12:52:39 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'where '
+11/29/2018 12:55:46 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'go '
+11/29/2018 12:56:25 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'where '
+11/29/2018 12:57:49 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'go '
+11/29/2018 1:01:43 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'where '
+11/29/2018 1:03:52 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'admin '
+11/29/2018 1:03:59 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/29/2018 1:04:04 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/29/2018 1:50:16 AM
+
+11/29/2018 1:50:27 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+11/29/2018 1:50:38 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add zootr'
+11/29/2018 1:50:40 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1508, 1130, 0) in Malas: "BookOfZooTravel"
+11/29/2018 1:50:40 AM: 71.208.10.79: Serials: 0x4000000A; 
+11/29/2018 1:51:53 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 1:51:54 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x4000000A (BookOfZooTravel)
+11/29/2018 1:58:13 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add runebook'
+11/29/2018 1:58:15 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1361, 1107, 0) in Malas: "runebook"
+11/29/2018 1:58:15 AM: 71.208.10.79: Serials: 0x40000025; 
+11/29/2018 1:58:52 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 1:58:54 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x40000025 (Runebook)
+11/29/2018 2:00:27 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'go '
+11/29/2018 2:00:40 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add bulle'
+11/29/2018 2:00:43 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1128, 933, 15) in Malas: "QuestBulletinBoardZaythalor"
+11/29/2018 2:00:43 AM: 71.208.10.79: Serials: 0x40000026; 
+11/29/2018 2:01:26 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 2:01:27 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x40000026 (QuestBulletinBoardZaythalor)
+11/29/2018 2:01:31 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add bulle'
+11/29/2018 2:03:27 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (1128, 933, 15) in Malas: "QuestBulletinBoardZaythalor"
+11/29/2018 2:03:27 AM: 71.208.10.79: Serials: 0x40000027; 
+11/29/2018 2:03:32 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 2:03:32 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x40000027 (QuestBulletinBoardZaythalor)
+11/29/2018 2:03:37 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'where '
+11/29/2018 2:04:04 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'admin '
+11/29/2018 2:04:09 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'decorate '
+11/29/2018 2:04:35 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') unhiding 0x109 "dudette" ('Zigholtul88')
+11/29/2018 2:04:35 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'Self Unhide'
+11/29/2018 2:13:36 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'admin '
+11/29/2018 2:13:42 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/29/2018 2:13:45 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/29/2018 5:37:33 AM
+
+11/29/2018 5:37:51 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+11/29/2018 5:38:03 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add cookin'
+11/29/2018 5:38:06 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1230, 20) in Malas: "BagOfCookingIngredients"
+11/29/2018 5:38:06 AM: 71.208.10.79: Serials: 0x4000000A; 
+11/29/2018 5:38:47 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add raw'
+11/29/2018 5:38:50 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1231, 20) in Malas: "RawDireWolfLeg"
+11/29/2018 5:38:50 AM: 71.208.10.79: Serials: 0x40000028; 
+11/29/2018 5:39:05 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1230, 20) in Malas: "RawDireWolfLeg"
+11/29/2018 5:39:05 AM: 71.208.10.79: Serials: 0x40000029; 
+11/29/2018 5:39:13 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1231, 20) in Malas: "RawForestBatRibs"
+11/29/2018 5:39:13 AM: 71.208.10.79: Serials: 0x4000002A; 
+11/29/2018 5:39:14 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1230, 20) in Malas: "RawForestBatRibs"
+11/29/2018 5:39:14 AM: 71.208.10.79: Serials: 0x4000002C; 
+11/29/2018 5:41:04 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 5:41:05 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x4000002C (RawForestBatRibs)
+11/29/2018 5:41:06 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 5:41:06 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x4000002A (RawForestBatRibs)
+11/29/2018 5:41:10 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add sandcrab'
+11/29/2018 5:41:12 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add sandcrabmeat'
+11/29/2018 5:41:13 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1231, 20) in Malas: "sandcrabmeat"
+11/29/2018 5:41:13 AM: 71.208.10.79: Serials: 0x4000004F; 
+11/29/2018 5:41:14 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add sandcrabmeat'
+11/29/2018 5:41:15 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1230, 20) in Malas: "sandcrabmeat"
+11/29/2018 5:41:15 AM: 71.208.10.79: Serials: 0x40000050; 
+11/29/2018 5:41:24 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add sift'
+11/29/2018 5:41:27 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1230, 20) in Malas: "FlourSifter"
+11/29/2018 5:41:27 AM: 71.208.10.79: Serials: 0x40000051; 
+11/29/2018 5:43:02 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'setskill cooking 50'
+11/29/2018 5:43:03 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') set property 'Cooking.Base' of 0x109 "dudette" ('Zigholtul88') to '50'
+##############################
+Log started on 11/29/2018 6:15:52 AM
+
+11/29/2018 6:16:12 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+11/29/2018 6:16:17 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add cooki'
+11/29/2018 6:16:20 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1231, 20) in Malas: "BagOfCookingIngredients"
+11/29/2018 6:16:20 AM: 71.208.10.79: Serials: 0x4000000A; 
+11/29/2018 6:16:34 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add floursi'
+11/29/2018 6:16:37 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (730, 1231, 20) in Malas: "FlourSifter"
+11/29/2018 6:16:37 AM: 71.208.10.79: Serials: 0x40000030; 
+##############################
+Log started on 11/29/2018 6:27:14 AM
+
+11/29/2018 6:27:22 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+11/29/2018 6:27:27 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add floursifter'
+11/29/2018 6:27:28 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (730, 1231, 20) in Malas: "floursifter"
+11/29/2018 6:27:28 AM: 71.208.10.79: Serials: 0x4000000A; 
+##############################
+Log started on 11/29/2018 6:51:21 AM
+
+11/29/2018 6:51:31 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+11/29/2018 6:51:36 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add floursifter'
+11/29/2018 6:51:38 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (730, 1231, 20) in Malas: "floursifter"
+11/29/2018 6:51:38 AM: 71.208.10.79: Serials: 0x4000000A; 
+11/29/2018 6:52:19 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add cooking'
+11/29/2018 6:52:24 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (731, 1231, 20) in Malas: "BagOfCookingIngredients"
+11/29/2018 6:52:24 AM: 71.208.10.79: Serials: 0x40000029; 
+11/29/2018 6:52:40 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add flour'
+11/29/2018 6:52:47 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add sackflour'
+11/29/2018 6:52:48 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1231, 20) in Malas: "sackflour"
+11/29/2018 6:52:48 AM: 71.208.10.79: Serials: 0x40000035; 
+11/29/2018 6:52:51 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add sackflour'
+11/29/2018 6:52:51 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (731, 1230, 20) in Malas: "sackflour"
+11/29/2018 6:52:51 AM: 71.208.10.79: Serials: 0x40000036; 
+11/29/2018 6:52:58 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add sackflour'
+11/29/2018 6:52:58 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1230, 20) in Malas: "sackflour"
+11/29/2018 6:52:58 AM: 71.208.10.79: Serials: 0x40000037; 
+11/29/2018 6:53:04 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add sackflour'
+11/29/2018 6:53:05 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1231, 20) in Malas: "sackflour"
+11/29/2018 6:53:05 AM: 71.208.10.79: Serials: 0x40000038; 
+11/29/2018 6:53:22 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'setskill cooking 50'
+11/29/2018 6:53:23 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') set property 'Cooking.Base' of 0x109 "dudette" ('Zigholtul88') to '50'
+##############################
+Log started on 11/29/2018 7:00:11 AM
+
+11/29/2018 7:00:21 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+11/29/2018 7:00:25 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add sackflour'
+11/29/2018 7:00:27 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'setskill cooking 50'
+11/29/2018 7:00:27 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') set property 'Cooking.Base' of 0x109 "dudette" ('Zigholtul88') to '50'
+11/29/2018 7:00:33 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add floursifter'
+11/29/2018 7:00:34 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1231, 20) in Malas: "floursifter"
+11/29/2018 7:00:34 AM: 71.208.10.79: Serials: 0x4000000A; 
+11/29/2018 7:00:40 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add cooki'
+11/29/2018 7:00:42 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1231, 20) in Malas: "BagOfCookingIngredients"
+11/29/2018 7:00:42 AM: 71.208.10.79: Serials: 0x40000025; 
+11/29/2018 7:00:57 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/29/2018 7:14:59 AM
+
+11/29/2018 7:17:44 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+11/29/2018 7:17:53 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'add pristi'
+11/29/2018 7:17:57 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1231, 20) in Malas: "PristineSewerBeef"
+11/29/2018 7:17:57 AM: 71.208.10.79: Serials: 0x4000004D; 
+11/29/2018 7:17:58 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') building at (732, 1230, 20) in Malas: "PristineSewerBeef"
+11/29/2018 7:17:58 AM: 71.208.10.79: Serials: 0x4000004E; 
+11/29/2018 7:18:05 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 7:18:08 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x4000004D (PristineSewerBeef)
+##############################
+Log started on 11/29/2018 8:18:16 AM
+
+11/29/2018 8:18:29 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+##############################
+Log started on 11/29/2018 9:04:23 AM
+
+11/29/2018 9:04:34 AM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+##############################
+Log started on 11/29/2018 11:16:08 PM
+
+11/29/2018 11:37:20 PM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '
+11/29/2018 11:37:28 PM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'remove '
+11/29/2018 11:37:29 PM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') deleting 0x40000025 (BagOfCookingIngredients)
+11/29/2018 11:37:36 PM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/29/2018 11:38:36 PM
+
+11/29/2018 11:38:51 PM: 71.208.10.79: Owner 0x109 "dudette" ('Zigholtul88') used command 'speedboost '

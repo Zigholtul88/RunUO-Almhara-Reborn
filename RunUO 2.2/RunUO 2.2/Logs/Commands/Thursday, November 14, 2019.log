@@ -1,0 +1,193 @@
+##############################
+Log started on 11/14/2019 11:47:30 PM
+
+11/14/2019 11:47:36 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'speedboost '
+11/14/2019 11:47:51 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') starting facet clear of Felucca (67 objects)
+11/14/2019 11:47:51 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'clearfacet '
+11/14/2019 11:47:52 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') deleting 67 objects
+11/14/2019 11:51:31 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') hiding 0x11 "gggg" ('Zigholtul88')
+11/14/2019 11:51:31 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'Self Hide'
+11/14/2019 11:54:17 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') unhiding 0x11 "gggg" ('Zigholtul88')
+11/14/2019 11:54:17 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'Self Unhide'
+11/15/2019 1:13:07 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add talltree'
+11/15/2019 1:13:11 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4405, 2357, -18) in Felucca: "TallTree02Addon"
+11/15/2019 1:13:11 AM: 127.0.0.1: Serials: 0x40000258; 
+11/15/2019 1:13:24 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:13:26 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:13:34 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4376, 2356, -16) in Felucca: "TallTree03Addon"
+11/15/2019 1:13:34 AM: 127.0.0.1: Serials: 0x400002B3; 
+11/15/2019 1:13:41 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:13:46 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4360, 2357, -18) in Felucca: "TallTree01Addon"
+11/15/2019 1:13:46 AM: 127.0.0.1: Serials: 0x400002CC; 
+11/15/2019 1:13:52 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'move '
+11/15/2019 1:13:54 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') moving 0x400002D5 (AddonComponent) to (4360, 2357, -18)
+11/15/2019 1:13:57 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:14:06 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4329, 2358, -18) in Felucca: "TallTree04Addon"
+11/15/2019 1:14:06 AM: 127.0.0.1: Serials: 0x400002E6; 
+11/15/2019 1:14:10 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:14:17 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4317, 2354, 0) in Felucca: "TallTree01Addon"
+11/15/2019 1:14:17 AM: 127.0.0.1: Serials: 0x40000303; 
+11/15/2019 1:14:30 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'move '
+11/15/2019 1:14:32 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') moving 0x4000030E (AddonComponent) to (4317, 2354, 0)
+11/15/2019 1:14:35 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:14:44 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4318, 2327, 0) in Felucca: "TallTree01Addon"
+11/15/2019 1:14:44 AM: 127.0.0.1: Serials: 0x4000031E; 
+11/15/2019 1:14:49 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'move '
+11/15/2019 1:14:50 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') moving 0x40000327 (AddonComponent) to (4318, 2327, 0)
+11/15/2019 1:14:52 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:15:04 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4296, 2341, 0) in Felucca: "TallTree02Addon"
+11/15/2019 1:15:04 AM: 127.0.0.1: Serials: 0x40000337; 
+11/15/2019 1:15:09 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:15:16 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4294, 2356, 0) in Felucca: "TallTree04Addon"
+11/15/2019 1:15:16 AM: 127.0.0.1: Serials: 0x4000034E; 
+11/15/2019 1:15:19 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:15:27 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4328, 2386, -18) in Felucca: "TallTree01Addon"
+11/15/2019 1:15:27 AM: 127.0.0.1: Serials: 0x40000367; 
+11/15/2019 1:15:32 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'move '
+11/15/2019 1:15:33 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') moving 0x40000370 (AddonComponent) to (4329, 2385, -18)
+11/15/2019 1:15:36 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:15:45 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4328, 2403, -18) in Felucca: "TallTree03Addon"
+11/15/2019 1:15:45 AM: 127.0.0.1: Serials: 0x40000380; 
+11/15/2019 1:15:47 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:15:58 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4316, 2448, -1) in Felucca: "TallTree02Addon"
+11/15/2019 1:15:58 AM: 127.0.0.1: Serials: 0x4000039B; 
+11/15/2019 1:16:00 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:16:10 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4329, 2459, -16) in Felucca: "TallTree01Addon"
+11/15/2019 1:16:10 AM: 127.0.0.1: Serials: 0x400003B2; 
+11/15/2019 1:16:12 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:16:20 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4314, 2487, 1) in Felucca: "TallTree03Addon"
+11/15/2019 1:16:20 AM: 127.0.0.1: Serials: 0x400003CD; 
+11/15/2019 1:16:22 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:16:29 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4338, 2479, 1) in Felucca: "TallTree01Addon"
+11/15/2019 1:16:29 AM: 127.0.0.1: Serials: 0x40000405; 
+11/15/2019 1:16:31 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:16:44 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4344, 2500, 2) in Felucca: "TallTree03Addon"
+11/15/2019 1:16:44 AM: 127.0.0.1: Serials: 0x4000042A; 
+11/15/2019 1:16:47 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:16:53 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4321, 2510, 1) in Felucca: "TallTree02Addon"
+11/15/2019 1:16:53 AM: 127.0.0.1: Serials: 0x40000446; 
+11/15/2019 1:16:55 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:17:06 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4384, 2480, 2) in Felucca: "TallTree01Addon"
+11/15/2019 1:17:06 AM: 127.0.0.1: Serials: 0x400007B9; 
+11/15/2019 1:17:08 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:17:13 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4398, 2458, -18) in Felucca: "TallTree04Addon"
+11/15/2019 1:17:13 AM: 127.0.0.1: Serials: 0x400007D8; 
+11/15/2019 1:17:16 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:17:23 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4424, 2473, 0) in Felucca: "TallTree03Addon"
+11/15/2019 1:17:23 AM: 127.0.0.1: Serials: 0x400007F6; 
+11/15/2019 1:17:25 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:17:30 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4427, 2457, -18) in Felucca: "TallTree01Addon"
+11/15/2019 1:17:30 AM: 127.0.0.1: Serials: 0x40000816; 
+11/15/2019 1:17:32 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:17:39 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4428, 2421, -18) in Felucca: "TallTree02Addon"
+11/15/2019 1:17:39 AM: 127.0.0.1: Serials: 0x40000834; 
+11/15/2019 1:17:41 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:17:48 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4453, 2410, 0) in Felucca: "TallTree01Addon"
+11/15/2019 1:17:48 AM: 127.0.0.1: Serials: 0x4000084E; 
+11/15/2019 1:17:50 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:17:58 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4454, 2371, 0) in Felucca: "TallTree02Addon"
+11/15/2019 1:17:58 AM: 127.0.0.1: Serials: 0x4000086C; 
+11/15/2019 1:18:00 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:18:07 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4445, 2361, 0) in Felucca: "TallTree03Addon"
+11/15/2019 1:18:07 AM: 127.0.0.1: Serials: 0x40000890; 
+11/15/2019 1:18:09 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:18:14 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4428, 2358, -18) in Felucca: "TallTree02Addon"
+11/15/2019 1:18:14 AM: 127.0.0.1: Serials: 0x400008B3; 
+11/15/2019 1:18:16 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:18:24 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4428, 2396, -18) in Felucca: "TallTree01Addon"
+11/15/2019 1:18:24 AM: 127.0.0.1: Serials: 0x400008D0; 
+11/15/2019 1:18:26 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:18:37 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4391, 2376, -9) in Felucca: "TallTree03Addon"
+11/15/2019 1:18:37 AM: 127.0.0.1: Serials: 0x400008EF; 
+11/15/2019 1:18:40 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:18:45 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4371, 2376, -9) in Felucca: "TallTree02Addon"
+11/15/2019 1:18:45 AM: 127.0.0.1: Serials: 0x4000090D; 
+11/15/2019 1:18:48 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:18:59 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4349, 2385, -9) in Felucca: "TallTree07Addon"
+11/15/2019 1:18:59 AM: 127.0.0.1: Serials: 0x4000092A; 
+11/15/2019 1:19:01 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:19:10 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4346, 2422, -18) in Felucca: "TallTree01Addon"
+11/15/2019 1:19:10 AM: 127.0.0.1: Serials: 0x4000093F; 
+11/15/2019 1:19:15 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:19:21 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4351, 2438, -13) in Felucca: "TallTree02Addon"
+11/15/2019 1:19:21 AM: 127.0.0.1: Serials: 0x4000095F; 
+11/15/2019 1:19:23 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:19:36 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4388, 2438, -13) in Felucca: "TallTree08Addon"
+11/15/2019 1:19:36 AM: 127.0.0.1: Serials: 0x4000097E; 
+11/15/2019 1:19:39 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:19:56 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4356, 2457, -18) in Felucca: "TallTree02Addon"
+11/15/2019 1:19:56 AM: 127.0.0.1: Serials: 0x40000996; 
+11/15/2019 1:19:58 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:20:24 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4340, 2320, 2) in Felucca: "TallTree04Addon"
+11/15/2019 1:20:24 AM: 127.0.0.1: Serials: 0x400009B3; 
+11/15/2019 1:20:27 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:20:34 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4356, 2333, 0) in Felucca: "TallTree01Addon"
+11/15/2019 1:20:34 AM: 127.0.0.1: Serials: 0x400009D4; 
+11/15/2019 1:20:36 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:21:36 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add longvine'
+11/15/2019 1:21:41 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4317, 2355, 0) in Felucca: "LongVine01Addon"
+11/15/2019 1:21:41 AM: 127.0.0.1: Serials: 0x40000A15; 
+11/15/2019 1:21:46 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:21:58 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4318, 2328, 0) in Felucca: "LongVine01Addon"
+11/15/2019 1:21:58 AM: 127.0.0.1: Serials: 0x40000A23; 
+11/15/2019 1:22:01 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:22:07 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4296, 2342, 0) in Felucca: "LongVine04Addon"
+11/15/2019 1:22:08 AM: 127.0.0.1: Serials: 0x40000A31; 
+11/15/2019 1:22:10 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:22:21 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4331, 2358, -18) in Felucca: "LongVine03Addon"
+11/15/2019 1:22:21 AM: 127.0.0.1: Serials: 0x40000A3F; 
+11/15/2019 1:22:24 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4331, 2358, -18) in Felucca: "LongVine01Addon"
+11/15/2019 1:22:24 AM: 127.0.0.1: Serials: 0x40000A47; 
+11/15/2019 1:22:27 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:22:28 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:22:39 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4376, 2357, -18) in Felucca: "LongVine03Addon"
+11/15/2019 1:22:39 AM: 127.0.0.1: Serials: 0x4000126D; 
+11/15/2019 1:22:42 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:22:54 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4430, 2397, -14) in Felucca: "LongVine01Addon"
+11/15/2019 1:22:54 AM: 127.0.0.1: Serials: 0x40001276; 
+11/15/2019 1:22:56 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:23:03 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4455, 2411, 0) in Felucca: "LongVine04Addon"
+11/15/2019 1:23:03 AM: 127.0.0.1: Serials: 0x40001281; 
+11/15/2019 1:23:06 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:23:10 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'move '
+11/15/2019 1:23:11 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') moving 0x40001282 (AddonComponent) to (4454, 2411, 1)
+11/15/2019 1:23:14 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:23:16 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:23:24 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4399, 2459, -16) in Felucca: "LongVine01Addon"
+11/15/2019 1:23:24 AM: 127.0.0.1: Serials: 0x4000128E; 
+11/15/2019 1:23:26 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:23:33 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4386, 2481, 2) in Felucca: "LongVine04Addon"
+11/15/2019 1:23:33 AM: 127.0.0.1: Serials: 0x40001296; 
+11/15/2019 1:23:39 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'move '
+11/15/2019 1:23:40 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') moving 0x40001299 (AddonComponent) to (4385, 2482, 2)
+11/15/2019 1:23:43 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:23:48 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4385, 2481, 0) in Felucca: "LongVine01Addon"
+11/15/2019 1:23:48 AM: 127.0.0.1: Serials: 0x400012A1; 
+11/15/2019 1:23:52 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:24:04 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4345, 2500, 1) in Felucca: "LongVine01Addon"
+11/15/2019 1:24:04 AM: 127.0.0.1: Serials: 0x400012AC; 
+11/15/2019 1:24:06 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:24:19 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4330, 2460, -13) in Felucca: "LongVine01Addon"
+11/15/2019 1:24:19 AM: 127.0.0.1: Serials: 0x400012B6; 
+11/15/2019 1:24:22 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:24:28 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4316, 2449, -1) in Felucca: "LongVine04Addon"
+11/15/2019 1:24:28 AM: 127.0.0.1: Serials: 0x400012C4; 
+11/15/2019 1:24:31 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:24:32 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:25:31 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4352, 2438, -13) in Felucca: "LongVine01Addon"
+11/15/2019 1:25:31 AM: 127.0.0.1: Serials: 0x400012D0; 
+11/15/2019 1:25:33 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:25:47 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4360, 2358, -18) in Felucca: "LongVine04Addon"
+11/15/2019 1:25:47 AM: 127.0.0.1: Serials: 0x400012F1; 
+11/15/2019 1:25:50 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:26:07 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4295, 2356, 1) in Felucca: "LongVine03Addon"
+11/15/2019 1:26:07 AM: 127.0.0.1: Serials: 0x400012FE; 
+11/15/2019 1:26:11 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (4295, 2356, 1) in Felucca: "LongVine01Addon"
+11/15/2019 1:26:11 AM: 127.0.0.1: Serials: 0x40001304; 
+11/15/2019 1:26:13 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:26:15 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'addon2static '
+11/15/2019 1:26:56 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'freezemap '
+11/15/2019 1:26:57 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') invoking freeze for every item in Owner
+11/15/2019 1:27:01 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/15/2019 1:27:04 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/15/2019 1:27:08 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'save '

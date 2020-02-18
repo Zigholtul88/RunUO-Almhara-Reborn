@@ -1,0 +1,112 @@
+SVN - 279
+
+(REQUIRED)
+Under
+    public class PlayerMobile : Mobile, IHonorTarget
+    {
+
+Add
+        //Level System 3 Rework 1
+        private int m_Level;
+        private int m_LevelCap;
+        private double m_Exp;
+        private double m_KillExp;
+        private double m_AccKillExp;
+        private int m_LevelAt;
+        private int m_AccLevelAt;
+
+        [CommandProperty(AccessLevel.GameMaster)]
+        public int Level
+        { get { return m_Level; } set { m_Level = value; InvalidateProperties(); } }
+
+        [CommandProperty(AccessLevel.GameMaster)]
+        public int LevelCap
+        { get { return m_LevelCap; } set { m_LevelCap = value; InvalidateProperties(); } }
+
+        [CommandProperty(AccessLevel.GameMaster)]
+        public double Exp
+        {
+            get { return m_Exp = Figures.ExpMirror(this); }
+            set { m_Exp = value; InvalidateProperties(); }
+        }
+
+        [CommandProperty(AccessLevel.GameMaster)]
+        public double KillExp
+        { get { return m_KillExp; } set { m_KillExp = value; InvalidateProperties(); } }
+
+        [CommandProperty(AccessLevel.GameMaster)]
+        public double AccKillExp
+        { get { return m_AccKillExp; } set { m_AccKillExp = value; InvalidateProperties(); } }
+
+        [CommandProperty(AccessLevel.GameMaster)]
+        public int LevelAt
+        { get { return m_LevelAt; } set { m_LevelAt = value; InvalidateProperties(); } }
+
+        public int AccLevelAt//this one is for display purposes... Probably don't even need it, we'll see.
+        { get { return m_AccLevelAt; } set { m_AccLevelAt = value; InvalidateProperties(); } }
+
+        //END Level System 3 Rework 1
+
+***********************************************************************
+
+(REQUIRED)
+Between
+            if (m_SentHonorContext != null)
+                m_SentHonorContext.OnSourceDamaged(from, amount);
+
+            base.OnDamage(amount, from, willKill);
+
+Add
+            //Level System 3 Rework 1
+            if (KillTypePK.Enabled || KillTypeAll.Enabled)
+            {
+                if (willKill)
+                {
+                    Actions.StartGain(from, this);
+                }
+            }
+            //END Level System 3 Rework 1
+
+***********************************************************************
+
+(OPTIONAL)
+Under
+        public override void GetProperties(ObjectPropertyList list)
+        {
+            base.GetProperties(list);
+
+Add
+            //Level System 3 Rework 1
+            Setup set = new Setup();
+
+            if (set.ShowLevelBelowName && Level > 0 && Features.Display(this, null) != null)
+            {
+                list.Add("" + Features.Display(this, null));
+            }
+            //END Level System 3 Rework 1
+
+***********************************************************************
+
+(OPTIONAL)
+Under
+        public override string ApplyNameSuffix(string suffix)
+        {
+            if (Young)
+            {
+                if (suffix.Length == 0)
+                    suffix = "(Young)";
+                else
+                    suffix = String.Concat(suffix, " (Young)");
+            }
+
+Add
+            //Level System 3 Rework 1
+            Setup set = new Setup();
+
+            if (set.ShowLevelInName && Level > 0 && Features.Display(this, suffix) != null)
+            {
+                suffix = Features.Display(this, suffix);
+            }
+            //END Level System 3 Rework 1
+
+***********************************************************************

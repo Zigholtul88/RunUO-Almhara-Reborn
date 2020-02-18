@@ -1,0 +1,671 @@
+##############################
+Log started on 5/28/2019 6:31:37 PM
+
+5/28/2019 6:35:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+5/28/2019 6:35:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add greenallosaur'
+5/28/2019 6:35:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (665, 37, -20) in Malas: "greenallosaur"
+5/28/2019 6:35:14 PM: 127.0.0.1: Serials: 0x169; 
+5/28/2019 6:35:16 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+5/28/2019 6:35:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x169 "a green allosaur" (no account)
+5/28/2019 6:35:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add annil'
+5/28/2019 6:35:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add annih'
+5/28/2019 6:35:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (664, 38, -20) in Malas: "AnnihilationBeetle"
+5/28/2019 6:35:27 PM: 127.0.0.1: Serials: 0x5A7; 
+5/28/2019 6:36:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'res '
+5/28/2019 6:36:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') resurrecting 0x1A "Tobe Faire" ('Zigholtul88')
+5/28/2019 6:36:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'setallskills 100'
+5/28/2019 6:36:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'EverySkill.Base' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/28/2019 6:36:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set str 100'
+5/28/2019 6:36:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'str' of 0x1A "Tobe Faire" ('Zigholtul88') to '100'
+5/28/2019 6:36:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 500'
+5/28/2019 6:36:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '500'
+5/28/2019 6:38:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/28/2019 6:40:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/28/2019 6:41:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'm remove'
+5/28/2019 6:41:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x400005C3 (DeerMask)
+5/28/2019 6:41:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x400020F0 (FurCape)
+5/28/2019 6:41:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x400020EE (LeatherPants)
+5/28/2019 6:41:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x40002502 (Wakizashi)
+5/28/2019 6:41:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x400020EC (LeatherShirt)
+5/28/2019 6:41:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/28/2019 6:41:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set dex 60'
+5/28/2019 6:41:38 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'dex' of 0x1A "Tobe Faire" ('Zigholtul88') to '60'
+5/28/2019 6:41:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set rawdex 60'
+5/28/2019 6:41:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'rawdex' of 0x1A "Tobe Faire" ('Zigholtul88') to '60'
+5/28/2019 6:41:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/28/2019 6:42:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add annih'
+5/28/2019 6:42:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (554, 123, 10) in Malas: "AnnihilationBeetle"
+5/28/2019 6:42:17 PM: 127.0.0.1: Serials: 0x5A8; 
+5/28/2019 6:42:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (546, 124, 10) in Malas: "AnnihilationBeetle"
+5/28/2019 6:42:47 PM: 127.0.0.1: Serials: 0x5AB; 
+5/28/2019 6:43:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (547, 118, 10) in Malas: "AnnihilationBeetle"
+5/28/2019 6:43:28 PM: 127.0.0.1: Serials: 0x5AC; 
+5/28/2019 6:44:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (549, 118, 10) in Malas: "AnnihilationBeetle"
+5/28/2019 6:44:03 PM: 127.0.0.1: Serials: 0x5AF; 
+5/28/2019 6:44:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 6:44:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 6:45:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 6:45:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 6:45:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (553, 117, 10) in Malas: "AnnihilationBeetle"
+5/28/2019 6:45:37 PM: 127.0.0.1: Serials: 0x5B2; 
+5/28/2019 6:45:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 6:45:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 6:46:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 6:46:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 6:46:56 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'm remove'
+5/28/2019 6:46:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'm remove'
+5/28/2019 6:46:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x5B2 "an annihilation beetle" (no account)
+5/28/2019 6:47:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x5AF "an annihilation beetle" (no account)
+5/28/2019 6:47:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 6:47:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 6:47:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add lamma'
+5/28/2019 6:47:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (558, 118, 10) in Malas: "Lammasu"
+5/28/2019 6:47:20 PM: 127.0.0.1: Serials: 0x5DF; 
+5/28/2019 6:47:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+5/28/2019 6:47:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x5DF "a lammasu" (no account)
+5/28/2019 6:47:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add torax'
+5/28/2019 6:47:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (557, 119, 10) in Malas: "torax"
+5/28/2019 6:47:34 PM: 127.0.0.1: Serials: 0x5E1; 
+5/28/2019 6:50:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add grat'
+5/28/2019 6:50:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (545, 106, 10) in Malas: "grat"
+5/28/2019 6:50:59 PM: 127.0.0.1: Serials: 0x5E4; 
+5/28/2019 6:51:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add grat'
+5/28/2019 6:51:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (548, 104, 10) in Malas: "grat"
+5/28/2019 6:51:04 PM: 127.0.0.1: Serials: 0x5E5; 
+5/28/2019 6:51:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add sandrose'
+5/28/2019 6:51:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add ibb'
+5/28/2019 6:52:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add jukk'
+5/28/2019 6:52:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add jubb'
+5/28/2019 6:52:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add jub'
+5/28/2019 6:52:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (546, 105, 10) in Malas: "Jubokko"
+5/28/2019 6:52:10 PM: 127.0.0.1: Serials: 0x5E6; 
+5/28/2019 6:52:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add grat'
+5/28/2019 6:52:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (550, 103, 10) in Malas: "grat"
+5/28/2019 6:52:22 PM: 127.0.0.1: Serials: 0x665; 
+5/28/2019 6:52:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+5/28/2019 6:52:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x665 "a grat" (no account)
+5/28/2019 6:52:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add kelpie'
+5/28/2019 6:52:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (543, 109, 10) in Malas: "kelpie"
+5/28/2019 6:52:43 PM: 127.0.0.1: Serials: 0x669; 
+5/28/2019 6:53:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add adjule'
+5/28/2019 6:53:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (545, 112, 10) in Malas: "adjule"
+5/28/2019 6:53:22 PM: 127.0.0.1: Serials: 0x66A; 
+5/28/2019 6:53:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add barghest'
+5/28/2019 6:53:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (544, 117, 10) in Malas: "barghest"
+5/28/2019 6:53:47 PM: 127.0.0.1: Serials: 0x6A0; 
+5/28/2019 6:55:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add alpaca'
+5/28/2019 6:55:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (548, 111, 10) in Malas: "alpaca"
+5/28/2019 6:55:04 PM: 127.0.0.1: Serials: 0x6A5; 
+5/28/2019 6:56:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+5/28/2019 6:56:56 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/28/2019 6:57:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/28/2019 7:04:36 PM
+
+5/28/2019 7:05:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+5/28/2019 7:05:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add annih'
+5/28/2019 7:05:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (540, 106, 10) in Malas: "AnnihilationBeetle"
+5/28/2019 7:05:12 PM: 127.0.0.1: Serials: 0x169; 
+5/28/2019 7:05:38 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:05:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:06:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:06:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:07:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add alpaca'
+5/28/2019 7:07:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (533, 117, 10) in Malas: "alpaca"
+5/28/2019 7:07:29 PM: 127.0.0.1: Serials: 0x5A7; 
+5/28/2019 7:08:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:08:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:08:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:08:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:09:16 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'tele '
+5/28/2019 7:11:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add alpaca'
+5/28/2019 7:11:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (566, 118, 10) in Malas: "alpaca"
+5/28/2019 7:11:28 PM: 127.0.0.1: Serials: 0x5A8; 
+5/28/2019 7:11:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add alpaca'
+5/28/2019 7:11:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (566, 118, 10) in Malas: "alpaca"
+5/28/2019 7:11:34 PM: 127.0.0.1: Serials: 0x5AB; 
+5/28/2019 7:11:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:11:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:11:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add alpaca'
+5/28/2019 7:11:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (565, 116, 10) in Malas: "alpaca"
+5/28/2019 7:11:52 PM: 127.0.0.1: Serials: 0x5AC; 
+5/28/2019 7:11:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add alpaca'
+5/28/2019 7:11:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (566, 119, 10) in Malas: "alpaca"
+5/28/2019 7:11:55 PM: 127.0.0.1: Serials: 0x5AF; 
+5/28/2019 7:11:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:11:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:12:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:12:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:12:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:12:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:12:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:12:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:12:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:12:41 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:12:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:12:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:13:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'wipe '
+5/28/2019 7:13:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') wiping from (562, 109, 0) to (567, 117, 10) in Malas (Items, Mobiles)
+5/28/2019 7:13:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:13:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/28/2019 7:13:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add grat'
+5/28/2019 7:13:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (596, 93, -15) in Malas: "grat"
+5/28/2019 7:13:48 PM: 127.0.0.1: Serials: 0x5B2; 
+5/28/2019 7:13:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add grat'
+5/28/2019 7:13:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (591, 94, -15) in Malas: "grat"
+5/28/2019 7:13:51 PM: 127.0.0.1: Serials: 0x5DF; 
+5/28/2019 7:13:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add grat'
+5/28/2019 7:13:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (592, 95, -15) in Malas: "grat"
+5/28/2019 7:13:54 PM: 127.0.0.1: Serials: 0x5E1; 
+5/28/2019 7:13:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'm remove''
+5/28/2019 7:14:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'm remove'
+5/28/2019 7:14:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'm remove'
+5/28/2019 7:14:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x5B2 "a grat" (no account)
+5/28/2019 7:14:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x5E1 "a grat" (no account)
+5/28/2019 7:14:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x5DF "a grat" (no account)
+5/28/2019 7:14:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add adaman'
+5/28/2019 7:14:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (595, 95, -15) in Malas: "Adamantoise"
+5/28/2019 7:14:29 PM: 127.0.0.1: Serials: 0x5E4; 
+5/28/2019 7:16:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'set hits 600'
+5/28/2019 7:16:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') set property 'hits' of 0x1A "Tobe Faire" ('Zigholtul88') to '600'
+5/29/2019 12:28:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add alpaca'
+5/29/2019 12:28:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (579, 129, -10) in Malas: "alpaca"
+5/29/2019 12:28:18 PM: 127.0.0.1: Serials: 0x5E5; 
+5/31/2019 6:35:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'speedboost '
+5/31/2019 6:35:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/31/2019 6:36:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add talltree'
+5/31/2019 6:36:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (234, 272, -5) in Malas: "TallTree01Addon"
+5/31/2019 6:36:31 PM: 127.0.0.1: Serials: 0x40005D44; 
+5/31/2019 6:36:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'move '
+5/31/2019 6:36:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') moving 0x40005D4D (AddonComponent) to (234, 272, -5)
+5/31/2019 6:36:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:36:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (243, 262, -10) in Malas: "TallTree02Addon"
+5/31/2019 6:36:52 PM: 127.0.0.1: Serials: 0x40005D5D; 
+5/31/2019 6:36:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:36:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (247, 255, -10) in Malas: "TallTree03Addon"
+5/31/2019 6:36:58 PM: 127.0.0.1: Serials: 0x40005D74; 
+5/31/2019 6:37:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:37:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (257, 241, -10) in Malas: "TallTree04Addon"
+5/31/2019 6:37:11 PM: 127.0.0.1: Serials: 0x40005D8D; 
+5/31/2019 6:37:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:37:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (267, 230, -10) in Malas: "TallTree02Addon"
+5/31/2019 6:37:19 PM: 127.0.0.1: Serials: 0x40005DA6; 
+5/31/2019 6:37:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:37:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (278, 232, -10) in Malas: "TallTree03Addon"
+5/31/2019 6:37:29 PM: 127.0.0.1: Serials: 0x40005DBD; 
+5/31/2019 6:37:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:37:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (283, 250, -10) in Malas: "TallTree01Addon"
+5/31/2019 6:37:39 PM: 127.0.0.1: Serials: 0x40005DD6; 
+5/31/2019 6:37:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:37:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (294, 239, -10) in Malas: "TallTree03Addon"
+5/31/2019 6:37:48 PM: 127.0.0.1: Serials: 0x40005DEF; 
+5/31/2019 6:37:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:37:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (276, 262, -10) in Malas: "TallTree03Addon"
+5/31/2019 6:37:58 PM: 127.0.0.1: Serials: 0x40005E08; 
+5/31/2019 6:38:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:38:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (263, 277, -10) in Malas: "TallTree01Addon"
+5/31/2019 6:38:10 PM: 127.0.0.1: Serials: 0x40005E21; 
+5/31/2019 6:38:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:38:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (246, 278, -10) in Malas: "TallTree04Addon"
+5/31/2019 6:38:18 PM: 127.0.0.1: Serials: 0x40005E3A; 
+5/31/2019 6:38:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:38:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (255, 260, -10) in Malas: "TallTree05Addon"
+5/31/2019 6:38:27 PM: 127.0.0.1: Serials: 0x40005E54; 
+5/31/2019 6:38:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:38:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (266, 265, -10) in Malas: "TallTree04Addon"
+5/31/2019 6:38:40 PM: 127.0.0.1: Serials: 0x40005E6D; 
+5/31/2019 6:38:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:38:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (306, 238, -10) in Malas: "TallTree03Addon"
+5/31/2019 6:38:59 PM: 127.0.0.1: Serials: 0x40005E86; 
+5/31/2019 6:39:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:39:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (318, 237, -10) in Malas: "TallTree04Addon"
+5/31/2019 6:39:07 PM: 127.0.0.1: Serials: 0x40005E9F; 
+5/31/2019 6:39:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:39:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (330, 237, -10) in Malas: "TallTree01Addon"
+5/31/2019 6:39:13 PM: 127.0.0.1: Serials: 0x40005EB8; 
+5/31/2019 6:39:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:39:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (337, 226, -10) in Malas: "TallTree02Addon"
+5/31/2019 6:39:20 PM: 127.0.0.1: Serials: 0x40005ED1; 
+5/31/2019 6:39:23 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:39:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (345, 207, -10) in Malas: "TallTree03Addon"
+5/31/2019 6:39:28 PM: 127.0.0.1: Serials: 0x40005EE8; 
+5/31/2019 6:39:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:39:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (332, 205, -10) in Malas: "TallTree01Addon"
+5/31/2019 6:39:34 PM: 127.0.0.1: Serials: 0x40005F01; 
+5/31/2019 6:39:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:39:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (315, 204, -10) in Malas: "TallTree02Addon"
+5/31/2019 6:39:40 PM: 127.0.0.1: Serials: 0x40005F1A; 
+5/31/2019 6:39:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:39:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (303, 201, -10) in Malas: "TallTree03Addon"
+5/31/2019 6:39:52 PM: 127.0.0.1: Serials: 0x40005F31; 
+5/31/2019 6:39:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:40:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (288, 203, -10) in Malas: "TallTree02Addon"
+5/31/2019 6:40:01 PM: 127.0.0.1: Serials: 0x40005F4A; 
+5/31/2019 6:40:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:40:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (271, 207, -5) in Malas: "TallTree01Addon"
+5/31/2019 6:40:15 PM: 127.0.0.1: Serials: 0x40005F61; 
+5/31/2019 6:40:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'move '
+5/31/2019 6:40:23 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') moving 0x40005F6A (AddonComponent) to (271, 207, -5)
+5/31/2019 6:40:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:40:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (284, 218, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:40:31 PM: 127.0.0.1: Serials: 0x40005F7A; 
+5/31/2019 6:40:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:40:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (269, 216, -5) in Malas: "TallTree05Addon"
+5/31/2019 6:40:39 PM: 127.0.0.1: Serials: 0x40005F93; 
+5/31/2019 6:40:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:40:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (328, 219, -10) in Malas: "TallTree02Addon"
+5/31/2019 6:40:52 PM: 127.0.0.1: Serials: 0x40005FAC; 
+5/31/2019 6:40:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:41:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (355, 209, -10) in Malas: "TallTree01Addon"
+5/31/2019 6:41:03 PM: 127.0.0.1: Serials: 0x40005FC3; 
+5/31/2019 6:41:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:41:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (368, 213, -10) in Malas: "TallTree03Addon"
+5/31/2019 6:41:10 PM: 127.0.0.1: Serials: 0x40005FDC; 
+5/31/2019 6:41:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:41:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (367, 225, -10) in Malas: "TallTree04Addon"
+5/31/2019 6:41:18 PM: 127.0.0.1: Serials: 0x40005FF5; 
+5/31/2019 6:41:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:41:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (376, 228, -10) in Malas: "TallTree02Addon"
+5/31/2019 6:41:26 PM: 127.0.0.1: Serials: 0x4000600E; 
+5/31/2019 6:41:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:41:38 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (365, 245, -10) in Malas: "TallTree01Addon"
+5/31/2019 6:41:38 PM: 127.0.0.1: Serials: 0x40006025; 
+5/31/2019 6:41:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:41:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (357, 230, -10) in Malas: "TallTree05Addon"
+5/31/2019 6:41:47 PM: 127.0.0.1: Serials: 0x4000603F; 
+5/31/2019 6:41:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:41:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (342, 246, -10) in Malas: "TallTree02Addon"
+5/31/2019 6:41:55 PM: 127.0.0.1: Serials: 0x40006058; 
+5/31/2019 6:41:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:42:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (352, 250, -8) in Malas: "TallTree03Addon"
+5/31/2019 6:42:01 PM: 127.0.0.1: Serials: 0x4000606F; 
+5/31/2019 6:42:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:42:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (362, 260, -10) in Malas: "TallTree04Addon"
+5/31/2019 6:42:12 PM: 127.0.0.1: Serials: 0x40006088; 
+5/31/2019 6:42:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:42:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (373, 248, -15) in Malas: "TallTree02Addon"
+5/31/2019 6:42:19 PM: 127.0.0.1: Serials: 0x400060A1; 
+5/31/2019 6:42:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:42:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (383, 238, -15) in Malas: "TallTree01Addon"
+5/31/2019 6:42:27 PM: 127.0.0.1: Serials: 0x400060B8; 
+5/31/2019 6:42:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:42:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (363, 274, -20) in Malas: "TallTree03Addon"
+5/31/2019 6:42:37 PM: 127.0.0.1: Serials: 0x400060D1; 
+5/31/2019 6:42:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:42:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (402, 241, -20) in Malas: "TallTree01Addon"
+5/31/2019 6:42:50 PM: 127.0.0.1: Serials: 0x400060EB; 
+5/31/2019 6:42:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:42:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (410, 248, -20) in Malas: "TallTree03Addon"
+5/31/2019 6:42:57 PM: 127.0.0.1: Serials: 0x40006104; 
+5/31/2019 6:42:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:43:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (418, 262, -20) in Malas: "TallTree01Addon"
+5/31/2019 6:43:03 PM: 127.0.0.1: Serials: 0x4000611D; 
+5/31/2019 6:43:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:43:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (420, 276, -20) in Malas: "TallTree02Addon"
+5/31/2019 6:43:12 PM: 127.0.0.1: Serials: 0x40006136; 
+5/31/2019 6:43:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:43:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (417, 292, -20) in Malas: "TallTree03Addon"
+5/31/2019 6:43:19 PM: 127.0.0.1: Serials: 0x4000614D; 
+5/31/2019 6:43:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:43:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (415, 307, -20) in Malas: "TallTree04Addon"
+5/31/2019 6:43:26 PM: 127.0.0.1: Serials: 0x40006166; 
+5/31/2019 6:43:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:43:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (410, 325, -20) in Malas: "TallTree02Addon"
+5/31/2019 6:43:32 PM: 127.0.0.1: Serials: 0x4000617F; 
+5/31/2019 6:43:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:43:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (394, 315, -20) in Malas: "TallTree04AddonDeed"
+5/31/2019 6:43:39 PM: 127.0.0.1: Serials: 0x40006196; 
+5/31/2019 6:43:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+5/31/2019 6:43:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'remove '
+5/31/2019 6:43:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') deleting 0x40006196 (TallTree04AddonDeed)
+5/31/2019 6:43:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (395, 314, -20) in Malas: "TallTree04Addon"
+5/31/2019 6:43:47 PM: 127.0.0.1: Serials: 0x40006197; 
+5/31/2019 6:43:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:43:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (381, 308, -20) in Malas: "TallTree01Addon"
+5/31/2019 6:43:54 PM: 127.0.0.1: Serials: 0x400061B0; 
+5/31/2019 6:43:56 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:44:02 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (369, 296, -20) in Malas: "TallTree03Addon"
+5/31/2019 6:44:02 PM: 127.0.0.1: Serials: 0x400061C9; 
+5/31/2019 6:44:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:44:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (362, 284, -20) in Malas: "TallTree05Addon"
+5/31/2019 6:44:09 PM: 127.0.0.1: Serials: 0x400061E2; 
+5/31/2019 6:44:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:44:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (380, 278, -20) in Malas: "TallTree04Addon"
+5/31/2019 6:44:19 PM: 127.0.0.1: Serials: 0x400061FB; 
+5/31/2019 6:44:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:44:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (392, 276, -20) in Malas: "TallTree05Addon"
+5/31/2019 6:44:27 PM: 127.0.0.1: Serials: 0x40006214; 
+5/31/2019 6:44:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:44:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (386, 263, -20) in Malas: "TallTree02Addon"
+5/31/2019 6:44:39 PM: 127.0.0.1: Serials: 0x4000622D; 
+5/31/2019 6:44:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:44:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (389, 224, -20) in Malas: "TallTree01Addon"
+5/31/2019 6:44:49 PM: 127.0.0.1: Serials: 0x40006244; 
+5/31/2019 6:44:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'move '
+5/31/2019 6:44:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') moving 0x4000624D (AddonComponent) to (389, 225, -20)
+5/31/2019 6:44:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:44:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (393, 209, -20) in Malas: "TallTree03Addon"
+5/31/2019 6:44:59 PM: 127.0.0.1: Serials: 0x4000625D; 
+5/31/2019 6:45:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:45:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (377, 208, -20) in Malas: "TallTree02Addon"
+5/31/2019 6:45:05 PM: 127.0.0.1: Serials: 0x40006276; 
+5/31/2019 6:45:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:45:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (383, 190, -20) in Malas: "TallTree03Addon"
+5/31/2019 6:45:22 PM: 127.0.0.1: Serials: 0x4000628D; 
+5/31/2019 6:45:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:45:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (376, 178, -20) in Malas: "TallTree02Addon"
+5/31/2019 6:45:28 PM: 127.0.0.1: Serials: 0x400062A6; 
+5/31/2019 6:45:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:45:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (356, 177, -20) in Malas: "TallTree02Addon"
+5/31/2019 6:45:35 PM: 127.0.0.1: Serials: 0x400062BD; 
+5/31/2019 6:45:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:45:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (364, 177, -20) in Malas: "TallTree05Addon"
+5/31/2019 6:45:42 PM: 127.0.0.1: Serials: 0x400062D4; 
+5/31/2019 6:45:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:45:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (356, 198, -20) in Malas: "TallTree02Addon"
+5/31/2019 6:45:50 PM: 127.0.0.1: Serials: 0x400062ED; 
+5/31/2019 6:45:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:45:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (366, 200, -20) in Malas: "TallTree01Addon"
+5/31/2019 6:45:58 PM: 127.0.0.1: Serials: 0x40006304; 
+5/31/2019 6:46:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:46:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (339, 195, -10) in Malas: "TallTree01Addon"
+5/31/2019 6:46:12 PM: 127.0.0.1: Serials: 0x4000631D; 
+5/31/2019 6:46:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:46:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (340, 177, -10) in Malas: "TallTree04Addon"
+5/31/2019 6:46:24 PM: 127.0.0.1: Serials: 0x40006336; 
+5/31/2019 6:46:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:46:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (326, 189, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:46:31 PM: 127.0.0.1: Serials: 0x4000634F; 
+5/31/2019 6:46:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:46:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (338, 166, -5) in Malas: "TallTree02Addon"
+5/31/2019 6:46:39 PM: 127.0.0.1: Serials: 0x40006368; 
+5/31/2019 6:46:41 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:46:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (351, 149, -5) in Malas: "TallTree01Addon"
+5/31/2019 6:46:46 PM: 127.0.0.1: Serials: 0x4000637F; 
+5/31/2019 6:46:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:46:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (341, 137, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:46:53 PM: 127.0.0.1: Serials: 0x40006398; 
+5/31/2019 6:46:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:46:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (336, 122, -5) in Malas: "TallTree04Addon"
+5/31/2019 6:46:59 PM: 127.0.0.1: Serials: 0x400063B1; 
+5/31/2019 6:47:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:47:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (315, 113, -5) in Malas: "TallTree02Addon"
+5/31/2019 6:47:06 PM: 127.0.0.1: Serials: 0x400063CA; 
+5/31/2019 6:47:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:47:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (326, 113, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:47:11 PM: 127.0.0.1: Serials: 0x400063E1; 
+5/31/2019 6:47:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:47:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (315, 127, -5) in Malas: "TallTree04Addon"
+5/31/2019 6:47:18 PM: 127.0.0.1: Serials: 0x400063FA; 
+5/31/2019 6:47:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:47:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (315, 139, -5) in Malas: "TallTree05Addon"
+5/31/2019 6:47:26 PM: 127.0.0.1: Serials: 0x40006413; 
+5/31/2019 6:47:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:47:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (315, 150, -5) in Malas: "TallTree01Addon"
+5/31/2019 6:47:35 PM: 127.0.0.1: Serials: 0x4000642C; 
+5/31/2019 6:47:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'move '
+5/31/2019 6:47:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') moving 0x40006435 (AddonComponent) to (315, 150, -5)
+5/31/2019 6:47:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:47:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (300, 150, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:47:47 PM: 127.0.0.1: Serials: 0x40006445; 
+5/31/2019 6:47:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:47:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (285, 150, -5) in Malas: "TallTree05Addon"
+5/31/2019 6:47:53 PM: 127.0.0.1: Serials: 0x4000645E; 
+5/31/2019 6:47:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:47:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (268, 150, -5) in Malas: "TallTree02Addon"
+5/31/2019 6:47:58 PM: 127.0.0.1: Serials: 0x40006477; 
+5/31/2019 6:48:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:48:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '
+5/31/2019 6:48:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (252, 150, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:48:12 PM: 127.0.0.1: Serials: 0x4000648E; 
+5/31/2019 6:48:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:48:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (233, 150, -5) in Malas: "TallTree02Addon"
+5/31/2019 6:48:18 PM: 127.0.0.1: Serials: 0x400064A7; 
+5/31/2019 6:48:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:48:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (233, 166, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:48:25 PM: 127.0.0.1: Serials: 0x400064BE; 
+5/31/2019 6:48:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:48:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (233, 180, -5) in Malas: "TallTree04Addon"
+5/31/2019 6:48:31 PM: 127.0.0.1: Serials: 0x400064D7; 
+5/31/2019 6:48:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:48:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (223, 191, -5) in Malas: "TallTree02Addon"
+5/31/2019 6:48:39 PM: 127.0.0.1: Serials: 0x400064F0; 
+5/31/2019 6:48:41 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:48:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (211, 197, -5) in Malas: "TallTree04Addon"
+5/31/2019 6:48:48 PM: 127.0.0.1: Serials: 0x40006507; 
+5/31/2019 6:48:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:48:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (203, 208, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:48:53 PM: 127.0.0.1: Serials: 0x40006523; 
+5/31/2019 6:48:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:48:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (203, 219, -5) in Malas: "TallTree01Addon"
+5/31/2019 6:48:59 PM: 127.0.0.1: Serials: 0x4000653C; 
+5/31/2019 6:49:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:49:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (196, 232, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:49:09 PM: 127.0.0.1: Serials: 0x40006558; 
+5/31/2019 6:49:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:49:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (186, 242, -5) in Malas: "TallTree04Addon"
+5/31/2019 6:49:15 PM: 127.0.0.1: Serials: 0x40006572; 
+5/31/2019 6:49:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:49:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (197, 263, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:49:22 PM: 127.0.0.1: Serials: 0x4000658B; 
+5/31/2019 6:49:25 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:49:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (207, 271, -5) in Malas: "TallTree01Addon"
+5/31/2019 6:49:30 PM: 127.0.0.1: Serials: 0x400065A7; 
+5/31/2019 6:49:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:49:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (220, 271, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:49:37 PM: 127.0.0.1: Serials: 0x400065C0; 
+5/31/2019 6:49:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:49:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (233, 258, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:49:43 PM: 127.0.0.1: Serials: 0x400065D9; 
+5/31/2019 6:49:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:49:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (240, 244, -5) in Malas: "TallTree02Addon"
+5/31/2019 6:49:49 PM: 127.0.0.1: Serials: 0x400065F2; 
+5/31/2019 6:49:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:49:55 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (245, 229, -5) in Malas: "TallTree05Addon"
+5/31/2019 6:49:56 PM: 127.0.0.1: Serials: 0x4000660D; 
+5/31/2019 6:49:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:50:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (252, 219, -5) in Malas: "TallTree01Addon"
+5/31/2019 6:50:01 PM: 127.0.0.1: Serials: 0x4000662D; 
+5/31/2019 6:50:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:50:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (256, 201, -5) in Malas: "TallTree04Addon"
+5/31/2019 6:50:08 PM: 127.0.0.1: Serials: 0x40006646; 
+5/31/2019 6:50:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:50:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (263, 195, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:50:13 PM: 127.0.0.1: Serials: 0x4000665F; 
+5/31/2019 6:50:16 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:50:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (272, 189, -5) in Malas: "TallTree01Addon"
+5/31/2019 6:50:21 PM: 127.0.0.1: Serials: 0x40006684; 
+5/31/2019 6:50:23 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:50:29 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (284, 189, -5) in Malas: "TallTree04Addon"
+5/31/2019 6:50:29 PM: 127.0.0.1: Serials: 0x4000669D; 
+5/31/2019 6:50:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:50:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (298, 190, -5) in Malas: "TallTree03Addon"
+5/31/2019 6:50:35 PM: 127.0.0.1: Serials: 0x400066B9; 
+5/31/2019 6:50:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:50:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:50:42 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (310, 190, -5) in Malas: "TallTree02Addon"
+5/31/2019 6:50:42 PM: 127.0.0.1: Serials: 0x400066D2; 
+5/31/2019 6:50:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:50:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '
+5/31/2019 6:52:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (116, 114, 0) in Malas: "TallTree02Addon"
+5/31/2019 6:52:36 PM: 127.0.0.1: Serials: 0x4000670B; 
+5/31/2019 6:52:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:52:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (114, 129, 0) in Malas: "TallTree03Addon"
+5/31/2019 6:52:48 PM: 127.0.0.1: Serials: 0x40006723; 
+5/31/2019 6:52:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:53:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (86, 146, 0) in Malas: "TallTree01Addon"
+5/31/2019 6:53:01 PM: 127.0.0.1: Serials: 0x4000673D; 
+5/31/2019 6:53:03 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:53:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (68, 171, 0) in Malas: "TallTree03Addon"
+5/31/2019 6:53:09 PM: 127.0.0.1: Serials: 0x40006756; 
+5/31/2019 6:53:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:53:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (70, 196, 0) in Malas: "TallTree04Addon"
+5/31/2019 6:53:15 PM: 127.0.0.1: Serials: 0x4000676F; 
+5/31/2019 6:53:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:53:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (86, 220, 0) in Malas: "TallTree02Addon"
+5/31/2019 6:53:24 PM: 127.0.0.1: Serials: 0x4000678C; 
+5/31/2019 6:53:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:54:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'add longvine'
+5/31/2019 6:54:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (208, 271, 15) in Malas: "LongVine01Addon"
+5/31/2019 6:54:20 PM: 127.0.0.1: Serials: 0x400067B2; 
+5/31/2019 6:54:23 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:54:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (208, 271, 15) in Malas: "LongVine03Addon"
+5/31/2019 6:54:26 PM: 127.0.0.1: Serials: 0x400067BD; 
+5/31/2019 6:54:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:54:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (205, 219, -2) in Malas: "LongVine01Addon"
+5/31/2019 6:54:35 PM: 127.0.0.1: Serials: 0x400067C4; 
+5/31/2019 6:54:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (203, 220, -5) in Malas: "LongVine01Addon"
+5/31/2019 6:54:36 PM: 127.0.0.1: Serials: 0x400067C8; 
+5/31/2019 6:54:38 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:54:41 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:54:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:54:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (212, 196, 15) in Malas: "LongVine03Addon"
+5/31/2019 6:54:48 PM: 127.0.0.1: Serials: 0x400067D9; 
+5/31/2019 6:54:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:54:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (252, 219, -5) in Malas: "LongVine01Addon"
+5/31/2019 6:54:57 PM: 127.0.0.1: Serials: 0x400067E0; 
+5/31/2019 6:54:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (251, 219, -5) in Malas: "LongVine01Addon"
+5/31/2019 6:54:59 PM: 127.0.0.1: Serials: 0x400067E4; 
+5/31/2019 6:55:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:55:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:55:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (273, 189, 15) in Malas: "LongVine03Addon"
+5/31/2019 6:55:13 PM: 127.0.0.1: Serials: 0x400067F2; 
+5/31/2019 6:55:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:55:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'go '
+5/31/2019 6:55:27 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (234, 273, -5) in Malas: "LongVine01Addon"
+5/31/2019 6:55:27 PM: 127.0.0.1: Serials: 0x40006801; 
+5/31/2019 6:55:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:55:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (255, 260, 10) in Malas: "LongVine03Addon"
+5/31/2019 6:55:36 PM: 127.0.0.1: Serials: 0x4000680B; 
+5/31/2019 6:55:39 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:55:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (280, 232, -10) in Malas: "LongVine01Addon"
+5/31/2019 6:55:44 PM: 127.0.0.1: Serials: 0x40006812; 
+5/31/2019 6:55:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (278, 233, -10) in Malas: "LongVine01Addon"
+5/31/2019 6:55:45 PM: 127.0.0.1: Serials: 0x40006816; 
+5/31/2019 6:55:47 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:55:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:55:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (316, 205, -10) in Malas: "LongVine01Addon"
+5/31/2019 6:55:58 PM: 127.0.0.1: Serials: 0x40006821; 
+5/31/2019 6:56:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (315, 204, 10) in Malas: "LongVine03Addon"
+5/31/2019 6:56:01 PM: 127.0.0.1: Serials: 0x40006828; 
+5/31/2019 6:56:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:56:05 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:56:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (337, 226, 10) in Malas: "LongVine03Addon"
+5/31/2019 6:56:14 PM: 127.0.0.1: Serials: 0x40006833; 
+5/31/2019 6:56:17 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:56:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (337, 227, -10) in Malas: "LongVine01Addon"
+5/31/2019 6:56:19 PM: 127.0.0.1: Serials: 0x4000683C; 
+5/31/2019 6:56:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:56:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (353, 250, -10) in Malas: "LongVine01Addon"
+5/31/2019 6:56:30 PM: 127.0.0.1: Serials: 0x40006843; 
+5/31/2019 6:56:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (354, 250, -10) in Malas: "LongVine01Addon"
+5/31/2019 6:56:30 PM: 127.0.0.1: Serials: 0x40006847; 
+5/31/2019 6:56:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:56:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:56:40 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:56:44 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (363, 259, 10) in Malas: "LongVine03Addon"
+5/31/2019 6:56:44 PM: 127.0.0.1: Serials: 0x40006853; 
+5/31/2019 6:56:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:56:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (374, 248, -15) in Malas: "LongVine01Addon"
+5/31/2019 6:56:49 PM: 127.0.0.1: Serials: 0x4000685F; 
+5/31/2019 6:56:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:56:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (412, 248, -20) in Malas: "LongVine01Addon"
+5/31/2019 6:56:59 PM: 127.0.0.1: Serials: 0x4000686D; 
+5/31/2019 6:57:01 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:57:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (403, 241, 0) in Malas: "LongVine03Addon"
+5/31/2019 6:57:04 PM: 127.0.0.1: Serials: 0x40006876; 
+5/31/2019 6:57:07 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:57:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (390, 225, -20) in Malas: "LongVine01Addon"
+5/31/2019 6:57:11 PM: 127.0.0.1: Serials: 0x40006881; 
+5/31/2019 6:57:12 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (389, 227, -20) in Malas: "LongVine01Addon"
+5/31/2019 6:57:12 PM: 127.0.0.1: Serials: 0x40006885; 
+5/31/2019 6:57:14 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:57:15 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:57:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:57:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (367, 200, 0) in Malas: "LongVine03Addon"
+5/31/2019 6:57:24 PM: 127.0.0.1: Serials: 0x4000688F; 
+5/31/2019 6:57:30 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:57:34 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (357, 178, -20) in Malas: "LongVine01Addon"
+5/31/2019 6:57:34 PM: 127.0.0.1: Serials: 0x40006897; 
+5/31/2019 6:57:37 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:57:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (326, 189, -5) in Malas: "LongVine01Addon"
+5/31/2019 6:57:43 PM: 127.0.0.1: Serials: 0x4000689E; 
+5/31/2019 6:57:46 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (327, 188, 15) in Malas: "LongVine03Addon"
+5/31/2019 6:57:46 PM: 127.0.0.1: Serials: 0x400068A2; 
+5/31/2019 6:57:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:57:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:57:52 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:57:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (316, 151, -5) in Malas: "LongVine01Addon"
+5/31/2019 6:57:57 PM: 127.0.0.1: Serials: 0x400068B7; 
+5/31/2019 6:57:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:58:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (327, 114, -5) in Malas: "LongVine01Addon"
+5/31/2019 6:58:06 PM: 127.0.0.1: Serials: 0x400068BE; 
+5/31/2019 6:58:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:58:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (316, 126, 15) in Malas: "LongVine03Addon"
+5/31/2019 6:58:10 PM: 127.0.0.1: Serials: 0x400068C5; 
+5/31/2019 6:58:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 6:58:16 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '
+5/31/2019 7:02:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (268, 150, 15) in Malas: "LongVine03Addon"
+5/31/2019 7:02:57 PM: 127.0.0.1: Serials: 0x40006909; 
+5/31/2019 7:03:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:03:04 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (267, 151, -5) in Malas: "LongVine01Addon"
+5/31/2019 7:03:04 PM: 127.0.0.1: Serials: 0x40006911; 
+5/31/2019 7:03:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:03:11 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (233, 151, -5) in Malas: "LongVine01Addon"
+5/31/2019 7:03:11 PM: 127.0.0.1: Serials: 0x40006919; 
+5/31/2019 7:03:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:03:19 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (234, 179, 15) in Malas: "LongVine03Addon"
+5/31/2019 7:03:19 PM: 127.0.0.1: Serials: 0x40006921; 
+5/31/2019 7:03:22 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:03:33 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (204, 219, 15) in Malas: "LongVine03Addon"
+5/31/2019 7:03:33 PM: 127.0.0.1: Serials: 0x40006929; 
+5/31/2019 7:03:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:03:54 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (144, 217, 0) in Malas: "LongVine01Addon"
+5/31/2019 7:03:54 PM: 127.0.0.1: Serials: 0x40006931; 
+5/31/2019 7:03:56 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:03:58 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (143, 215, 20) in Malas: "LongVine03Addon"
+5/31/2019 7:03:58 PM: 127.0.0.1: Serials: 0x40006938; 
+5/31/2019 7:04:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:04:09 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (165, 232, 0) in Malas: "LongVine01Addon"
+5/31/2019 7:04:09 PM: 127.0.0.1: Serials: 0x4000693F; 
+5/31/2019 7:04:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:04:18 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (190, 218, 20) in Malas: "LongVine03Addon"
+5/31/2019 7:04:18 PM: 127.0.0.1: Serials: 0x40006946; 
+5/31/2019 7:04:20 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:04:31 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (219, 165, 0) in Malas: "LongVine01Addon"
+5/31/2019 7:04:31 PM: 127.0.0.1: Serials: 0x4000694D; 
+5/31/2019 7:04:32 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (218, 165, 0) in Malas: "LongVine01Addon"
+5/31/2019 7:04:32 PM: 127.0.0.1: Serials: 0x40006951; 
+5/31/2019 7:04:35 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:04:36 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:04:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (189, 104, 20) in Malas: "LongVine03Addon"
+5/31/2019 7:04:48 PM: 127.0.0.1: Serials: 0x4000695B; 
+5/31/2019 7:04:49 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:04:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (176, 95, 0) in Malas: "LongVine01Addon"
+5/31/2019 7:04:53 PM: 127.0.0.1: Serials: 0x40006962; 
+5/31/2019 7:04:57 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:05:06 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (148, 95, 20) in Malas: "LongVine03Addon"
+5/31/2019 7:05:06 PM: 127.0.0.1: Serials: 0x4000696D; 
+5/31/2019 7:05:08 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:05:10 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (148, 96, 0) in Malas: "LongVine01Addon"
+5/31/2019 7:05:10 PM: 127.0.0.1: Serials: 0x40006974; 
+5/31/2019 7:05:13 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:05:21 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (119, 74, 10) in Malas: "LongVine01Addon"
+5/31/2019 7:05:21 PM: 127.0.0.1: Serials: 0x4000697B; 
+5/31/2019 7:05:24 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:05:26 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (119, 73, 30) in Malas: "LongVine03Addon"
+5/31/2019 7:05:26 PM: 127.0.0.1: Serials: 0x40006982; 
+5/31/2019 7:05:28 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:05:38 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (157, 38, 20) in Malas: "LongVine01Addon"
+5/31/2019 7:05:38 PM: 127.0.0.1: Serials: 0x4000698A; 
+5/31/2019 7:05:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'move '
+5/31/2019 7:05:43 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') moving 0x4000698D (AddonComponent) to (154, 38, 20)
+5/31/2019 7:05:45 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:05:48 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') building at (155, 37, 40) in Malas: "LongVine03Addon"
+5/31/2019 7:05:48 PM: 127.0.0.1: Serials: 0x40006991; 
+5/31/2019 7:05:50 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'addon2static '
+5/31/2019 7:06:51 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'freezemap '
+5/31/2019 7:06:53 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') invoking freeze for every item in Owner
+5/31/2019 7:06:56 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'admin '
+5/31/2019 7:06:59 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/31/2019 7:07:00 PM: 127.0.0.1: Owner 0x1A "Tobe Faire" ('Zigholtul88') used command 'save '

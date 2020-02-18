@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="1">
+	<account>
+		<username>Zigholtul88</username>
+		<password>freeglepluk</password>
+		<accessLevel>Owner</accessLevel>
+		<flags>2</flags>
+		<created>2018-05-21T12:24:50.5963109-04:00</created>
+		<lastLogin>2018-06-24T15:28:06.4930958-04:00</lastLogin>
+		<totalGameTime>P7DT4H56M33.4337521S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

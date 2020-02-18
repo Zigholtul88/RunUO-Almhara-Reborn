@@ -1,0 +1,214 @@
+##############################
+Log started on 10/19/2018 12:10:47 AM
+
+10/19/2018 12:10:57 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 12:19:40 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 12:28:48 AM
+
+10/19/2018 12:28:57 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 1:39:08 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'hide '
+10/19/2018 1:39:10 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') hiding 0x3 "Womp Womp" ('Zigholtul88')
+10/19/2018 1:50:08 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'unhide '
+10/19/2018 1:50:09 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') unhiding 0x3 "Womp Womp" ('Zigholtul88')
+10/19/2018 1:50:15 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'admin '
+10/19/2018 1:50:19 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/19/2018 1:50:24 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/19/2018 2:20:28 AM
+
+10/19/2018 2:20:38 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 2:21:27 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'set hits 500'
+10/19/2018 2:21:28 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'hits' of 0x3 "Womp Womp" ('Zigholtul88') to '500'
+10/19/2018 2:22:11 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'set hits 500'
+10/19/2018 2:22:11 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'hits' of 0x3 "Womp Womp" ('Zigholtul88') to '500'
+10/19/2018 2:23:18 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'who '
+10/19/2018 2:23:21 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') bringing 0x13 "Porkins" ('Yugitashi') to Location (1738, 1610, 0), Map Malas
+10/19/2018 2:27:03 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'set hits 500'
+10/19/2018 2:27:04 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'hits' of 0x13 "Porkins" ('Yugitashi') to '500'
+10/19/2018 2:27:08 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add ankh'
+10/19/2018 2:27:10 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1743, 1594, 0) in Malas: "AnkhNorth"
+10/19/2018 2:27:10 AM: 127.0.0.1: Serials: 0x400007AD; 
+10/19/2018 2:27:17 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add gold 65000'
+10/19/2018 2:27:18 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1743, 1595, 0) in Malas: "gold" "65000"
+10/19/2018 2:27:18 AM: 127.0.0.1: Serials: 0x400007AF; 
+10/19/2018 2:27:57 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 2:27:58 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400007AE (InternalItem)
+10/19/2018 2:45:40 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/19/2018 2:45:42 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x13 "Porkins" ('Yugitashi')
+10/19/2018 2:46:50 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/19/2018 2:46:55 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 2:46:57 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40000153 (BalronVolcanicSting)
+10/19/2018 2:47:01 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/19/2018 2:47:02 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x13 "Porkins" ('Yugitashi')
+10/19/2018 3:26:05 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add dog'
+10/19/2018 3:26:06 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1759, 1704, 30) in Malas: "dog"
+10/19/2018 3:26:06 PM: 127.0.0.1: Serials: 0x6B; 
+10/19/2018 3:26:09 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'tameit '
+10/19/2018 3:26:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'tameit '
+10/19/2018 3:26:18 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 3:32:56 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 3:32:57 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x6B "a dog" (no account)
+10/19/2018 3:33:16 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 3:43:56 PM
+
+10/19/2018 3:44:20 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 3:44:26 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 3:44:27 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400005C1 (UnholyCandle)
+10/19/2018 3:44:28 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 3:44:29 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000030C (FaerieBeetleEgg)
+10/19/2018 3:44:33 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 3:44:34 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400004D3 (Candle)
+10/19/2018 3:44:36 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 3:44:37 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40001783 (MongbatHideoutBossKey)
+10/19/2018 3:44:39 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 3:44:40 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40000B24 (Tambourine)
+10/19/2018 3:44:42 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 3:44:42 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000024B (Bag)
+10/19/2018 3:44:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 3:44:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400009F3 (RecallRune)
+10/19/2018 3:44:50 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add greencandle'
+10/19/2018 3:44:52 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1758, 1702, 32) in Malas: "greencandle"
+10/19/2018 3:44:52 PM: 127.0.0.1: Serials: 0x40000009; 
+10/19/2018 3:44:56 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'hide '
+10/19/2018 3:44:57 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') hiding 0x3 "Womp Womp" ('Zigholtul88')
+10/19/2018 3:45:02 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'save '
+10/19/2018 3:47:02 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 3:47:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'Controlled' of 0x7 "a bog creeper" (no account) to 'False'
+10/19/2018 3:48:29 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') starting facet clear of Malas (7 objects)
+10/19/2018 3:48:29 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'clearfacet '
+10/19/2018 3:48:30 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 7 objects
+10/19/2018 3:49:25 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') starting facet clear of Malas (4 objects)
+10/19/2018 3:49:25 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'clearfacet '
+10/19/2018 3:49:26 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 4 objects
+10/19/2018 3:50:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 3:52:22 PM
+
+10/19/2018 3:52:32 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 3:54:11 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 3:54:36 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') starting facet clear of Malas (6 objects)
+10/19/2018 3:54:36 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'clearfacet '
+10/19/2018 3:54:38 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 6 objects
+10/19/2018 3:55:03 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/19/2018 3:55:17 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add bogcreeper'
+10/19/2018 3:55:19 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1637, 1268, 15) in Malas: "bogcreeper"
+10/19/2018 3:55:19 PM: 127.0.0.1: Serials: 0xE; 
+10/19/2018 3:55:26 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 3:55:28 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0xE "a bog creeper" (no account)
+10/19/2018 3:55:31 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add bogcreeperambusher'
+10/19/2018 3:55:32 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1636, 1269, 15) in Malas: "bogcreeperambusher"
+10/19/2018 3:55:32 PM: 127.0.0.1: Serials: 0x10; 
+10/19/2018 3:56:09 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 3:56:15 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'Controlled' of 0x10 "a bog creeper" (no account) to 'False'
+10/19/2018 3:58:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 3:58:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x10 "a bog creeper" (no account)
+10/19/2018 3:59:41 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add bogcreeperambusher set controlled false'
+10/19/2018 3:59:42 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1633, 1260, 15) in Malas: "bogcreeperambusher" "set" "controlled" "false"
+10/19/2018 3:59:42 PM: 127.0.0.1: Serials: 0x11; 
+10/19/2018 4:00:11 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 4:00:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x11 "a bog creeper" (no account)
+10/19/2018 4:04:39 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 4:06:48 PM
+
+10/19/2018 4:16:05 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 4:16:10 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add bogcreeperambusher'
+10/19/2018 4:16:11 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1633, 1256, 15) in Malas: "bogcreeperambusher"
+10/19/2018 4:16:19 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add bogcreeperambusher set controlled false'
+10/19/2018 4:16:19 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1634, 1254, 15) in Malas: "bogcreeperambusher" "set" "controlled" "false"
+10/19/2018 4:16:38 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'clearfacet '
+10/19/2018 4:20:53 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 4:23:04 PM
+
+10/19/2018 4:23:14 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 4:23:22 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add bogcreeperambusher'
+10/19/2018 4:23:23 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1633, 1256, 15) in Malas: "bogcreeperambusher"
+10/19/2018 4:23:23 PM: 127.0.0.1: Serials: 0xA; 
+10/19/2018 4:24:09 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 4:24:29 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'unhide '
+10/19/2018 4:24:30 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') unhiding 0x3 "Womp Womp" ('Zigholtul88')
+10/19/2018 4:25:02 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'tameit '
+10/19/2018 4:25:33 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 4:25:38 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0xA "a bog creeper" (no account)
+10/19/2018 4:46:03 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 6:14:41 PM
+
+10/19/2018 6:14:51 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 6:15:35 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'hide '
+10/19/2018 6:15:35 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') hiding 0x3 "Womp Womp" ('Zigholtul88')
+10/19/2018 6:16:26 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'unhide '
+10/19/2018 6:16:27 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') unhiding 0x3 "Womp Womp" ('Zigholtul88')
+10/19/2018 6:16:36 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'tameit '
+10/19/2018 6:16:42 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 6:16:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'Controlled' of 0xD "a bog creeper" (no account) to 'True'
+10/19/2018 6:16:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'unhide '
+10/19/2018 6:17:00 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') unhiding 0x3 "Womp Womp" ('Zigholtul88')
+10/19/2018 6:17:20 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'hide '
+10/19/2018 6:17:21 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') hiding 0x3 "Womp Womp" ('Zigholtul88')
+10/19/2018 6:17:31 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 6:18:06 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'unhide '
+10/19/2018 6:18:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') unhiding 0x3 "Womp Womp" ('Zigholtul88')
+10/19/2018 6:18:41 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 6:18:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'Controlled' of 0x15 "a bog creeper" (no account) to 'True'
+10/19/2018 6:18:48 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'ControlMaster' of 0x15 "a bog creeper" (no account) to '0x3 "Womp Womp"'
+10/19/2018 6:24:28 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 6:26:42 PM
+
+10/19/2018 6:26:55 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 6:27:21 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'tameit '
+10/19/2018 6:27:27 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 6:27:30 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'Controlled' of 0xC "a bog creeper" (no account) to 'True'
+10/19/2018 6:27:34 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'ControlMaster' of 0xC "a bog creeper" (no account) to '0x3 "Womp Womp"'
+10/19/2018 6:47:39 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/19/2018 6:47:40 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/19/2018 6:48:00 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 6:52:09 PM
+
+10/19/2018 6:52:19 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 6:52:25 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'set hits 500'
+10/19/2018 6:52:26 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'hits' of 0x3 "Womp Womp" ('Zigholtul88') to '500'
+10/19/2018 6:54:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'set hits 500'
+10/19/2018 6:54:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'hits' of 0x3 "Womp Womp" ('Zigholtul88') to '500'
+10/19/2018 7:05:52 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 8:10:37 PM
+
+10/19/2018 8:10:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 8:11:04 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add horse'
+10/19/2018 8:11:05 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1642, 1378, 0) in Malas: "horse"
+10/19/2018 8:11:05 PM: 127.0.0.1: Serials: 0xC; 
+10/19/2018 8:14:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 8:14:08 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0xC "a horse" (no account)
+10/19/2018 8:14:44 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') starting facet clear of Malas (12 objects)
+10/19/2018 8:14:44 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'clearfacet '
+10/19/2018 8:14:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 12 objects
+10/19/2018 8:15:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add horse'
+10/19/2018 8:15:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1575, 1454, 0) in Malas: "horse"
+10/19/2018 8:15:13 PM: 127.0.0.1: Serials: 0x1B; 
+10/19/2018 8:17:05 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 8:18:06 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/19/2018 8:18:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x1B "a horse" (no account)
+10/19/2018 8:22:23 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 8:25:18 PM
+
+10/19/2018 8:25:29 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 8:30:21 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'who '
+10/19/2018 8:30:24 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') bringing 0x13 "Porkins" ('Yugitashi') to Location (1742, 1581, 0), Map Malas
+10/19/2018 9:04:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/19/2018 9:04:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/19/2018 9:04:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/19/2018 9:12:52 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/19/2018 10:01:03 PM
+
+10/20/2018 9:52:31 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/20/2018 9:52:38 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'admin '
+10/20/2018 9:52:42 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/20/2018 9:52:42 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'save '

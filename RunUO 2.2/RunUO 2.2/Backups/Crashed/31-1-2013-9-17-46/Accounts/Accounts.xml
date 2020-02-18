@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="2">
+	<account>
+		<username>Zigholtul88</username>
+		<newCryptPassword>24-50-B1-77-28-20-A2-D0-96-43-71-32-35-37-B1-D2-AC-F8-14-5F</newCryptPassword>
+		<accessLevel>Owner</accessLevel>
+		<created>2012-11-13T06:39:29.917375-05:00</created>
+		<lastLogin>2013-01-31T09:07:26.21875-05:00</lastLogin>
+		<totalGameTime>P1DT3H21M27.89125S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+			<char index="1">140</char>
+			<char index="2">134</char>
+			<char index="3">738</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2012-11-18T06:40:59.563125-05:00">Character #1 0x1 "Ragnar" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2012-11-18T16:58:20.5475-05:00">Character #4 0x216 "Moop" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2012-11-18T16:58:23.000625-05:00">Character #3 0x20C "Bloop Bloop" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2012-11-18T16:58:25.000625-05:00">Character #2 0x24D "Rick" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2012-11-18T16:58:27.235-05:00">Character #1 0x205 "Blah" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2012-11-18T17:03:58.000625-05:00">Character #2 0x4 "gggg" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2012-11-18T17:04:00.594375-05:00">Character #5 0x401 "Boryan" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2013-01-19T16:33:23.275625-05:00">Character #5 0x2A5 "yyyyy" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2013-01-19T22:59:28.54125-05:00">Character #6 0x2A5 "jjjj" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2013-01-20T16:08:27.1975-05:00">Character #5 0x2A6 "Christina" deleted by 127.0.0.1</comment>
+			<comment addedBy="System" lastModified="2013-01-20T16:17:43.1975-05:00">Character #4 0x288 "Valen Redbark" deleted by 127.0.0.1</comment>
+		</comments>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Freeglepluk</username>
+		<newCryptPassword>D2-81-15-8B-D2-AF-E9-05-58-85-35-71-CB-DE-CF-5C-18-57-A3-DE</newCryptPassword>
+		<created>2013-01-20T18:41:39.588125-05:00</created>
+		<lastLogin>2013-01-30T16:46:13.28125-05:00</lastLogin>
+		<totalGameTime>PT3H42M45.625S</totalGameTime>
+		<chars>
+			<char index="0">1244</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

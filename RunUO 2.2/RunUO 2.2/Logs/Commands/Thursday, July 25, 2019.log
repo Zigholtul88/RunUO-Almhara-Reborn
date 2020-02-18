@@ -1,0 +1,62 @@
+##############################
+Log started on 7/25/2019 2:28:07 AM
+
+7/25/2019 2:28:15 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+7/25/2019 2:28:26 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'set map malas'
+7/25/2019 2:28:27 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'map' of 0x12 "Womp Womp" ('Zigholtul88') to 'Malas'
+7/25/2019 2:28:29 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'go '
+7/25/2019 2:28:41 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'props '
+7/25/2019 2:28:47 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'AreaAccessDesertRegion' of 0x12 "Womp Womp" ('Zigholtul88') to 'True'
+7/25/2019 2:28:53 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'HasMetGateKeeper' of 0x12 "Womp Womp" ('Zigholtul88') to 'True'
+7/25/2019 2:29:00 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '
+7/25/2019 2:30:14 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'go '
+7/25/2019 3:17:51 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'go '
+7/26/2019 2:24:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add dyes'
+7/26/2019 2:24:04 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (1302, 1242, 0) in Malas: "dyes"
+7/26/2019 2:24:04 AM: 127.0.0.1: Serials: 0x40004D65; 
+7/26/2019 2:24:10 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add dyetub'
+7/26/2019 2:24:11 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (1301, 1242, 0) in Malas: "dyetub"
+7/26/2019 2:24:11 AM: 127.0.0.1: Serials: 0x40004D66; 
+7/26/2019 2:26:43 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add horse'
+7/26/2019 2:26:44 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (1302, 1242, 0) in Malas: "horse"
+7/26/2019 2:26:44 AM: 127.0.0.1: Serials: 0x14; 
+7/26/2019 2:26:46 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'props '
+7/26/2019 2:26:53 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'set hue 279'
+7/26/2019 2:26:53 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'hue' of 0x14 "a horse" (no account) to '279'
+7/26/2019 2:27:01 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'tameit '
+7/26/2019 2:28:54 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add hide'
+7/26/2019 2:29:01 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (1304, 1241, 0) in Malas: "HornedHides"
+7/26/2019 2:29:01 AM: 127.0.0.1: Serials: 0x40004D70; 
+7/26/2019 2:29:07 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (1303, 1239, 0) in Malas: "SpinedHides"
+7/26/2019 2:29:07 AM: 127.0.0.1: Serials: 0x40004D71; 
+7/26/2019 2:29:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'm remove'
+7/26/2019 2:29:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') deleting 0x40004D71 (SpinedHides)
+7/26/2019 2:29:14 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') deleting 0x40004D70 (HornedHides)
+7/26/2019 2:29:16 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add hide'
+7/26/2019 3:08:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'remove '
+7/26/2019 3:08:14 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') deleting 0x14 "a horse" (no account)
+7/26/2019 3:08:19 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'set map felucca'
+7/26/2019 3:08:20 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'map' of 0x12 "Womp Womp" ('Zigholtul88') to 'Felucca'
+7/26/2019 3:08:24 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'go '
+7/26/2019 3:08:52 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'where '
+7/26/2019 3:09:13 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'set map malas'
+7/26/2019 3:09:14 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'map' of 0x12 "Womp Womp" ('Zigholtul88') to 'Malas'
+7/26/2019 3:09:15 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'go '
+7/26/2019 4:18:19 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'add horse'
+7/26/2019 4:18:20 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') building at (1232, 1295, 8) in Malas: "horse"
+7/26/2019 4:18:20 AM: 127.0.0.1: Serials: 0x15; 
+7/26/2019 4:18:24 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'tameit '
+7/26/2019 4:18:32 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'tameit '
+7/26/2019 4:18:37 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'props '
+7/26/2019 4:18:56 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'BodyValue' of 0x15 "a horse" (no account) to '229'
+7/26/2019 4:22:01 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'BodyValue' of 0x15 "a horse" (no account) to '390'
+7/26/2019 4:29:03 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'BodyValue' of 0x15 "a horse" (no account) to '268'
+7/26/2019 4:30:30 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'BodyValue' of 0x15 "a horse" (no account) to '224'
+7/26/2019 4:34:06 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'BodyValue' of 0x15 "a horse" (no account) to '289'
+7/26/2019 4:34:24 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'BodyValue' of 0x15 "a horse" (no account) to '117'
+7/26/2019 4:35:28 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') set property 'BodyValue' of 0x15 "a horse" (no account) to '236'
+7/26/2019 4:37:00 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'remove '
+7/26/2019 4:37:00 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') deleting 0x15 "a horse" (no account)
+7/26/2019 4:37:05 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'admin '
+7/26/2019 4:37:08 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/26/2019 4:37:09 AM: 127.0.0.1: Owner 0x12 "Womp Womp" ('Zigholtul88') used command 'save '

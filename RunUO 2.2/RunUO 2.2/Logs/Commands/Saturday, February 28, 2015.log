@@ -1,0 +1,827 @@
+##############################
+Log started on 2/28/2015 2:57:12 PM
+
+2/28/2015 2:59:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 2:59:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1212, 844, 5) in Malas: "elmhavenminer"
+2/28/2015 2:59:42 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 3:00:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot100'
+2/28/2015 3:00:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 100'
+2/28/2015 3:00:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1210, 844, 6) in Malas: "ironingot" "100"
+2/28/2015 3:00:27 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 3:00:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 200'
+2/28/2015 3:00:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1211, 844, 7) in Malas: "ironingot" "200"
+2/28/2015 3:00:58 PM: 127.0.0.1: Serials: 0x40000011; 
+2/28/2015 3:01:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:01:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 3:01:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/28/2015 3:01:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 3:01:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (612, 599, 0) in Malas: "elmhavenminer"
+2/28/2015 3:01:33 PM: 127.0.0.1: Serials: 0x3; 
+2/28/2015 3:02:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+2/28/2015 3:03:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 300'
+2/28/2015 3:03:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "300"
+2/28/2015 3:03:32 PM: 127.0.0.1: Serials: 0x4000001D; 
+2/28/2015 3:04:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:04:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000409 (IronIngot)
+2/28/2015 3:04:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:04:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001C (OneGoldBar)
+2/28/2015 3:04:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:04:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000074 (BalronVolcanicSting)
+2/28/2015 3:04:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:04:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400004C6 (SewingKit)
+2/28/2015 3:04:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:04:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (OneGoldBar)
+2/28/2015 3:04:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:04:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000005C (Longsword)
+2/28/2015 3:04:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:04:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3 "Lynis" (no account)
+2/28/2015 3:10:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 3:11:50 PM
+
+2/28/2015 3:12:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 3:12:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 3:12:12 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 3:12:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 100'
+2/28/2015 3:12:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "100"
+2/28/2015 3:12:17 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 3:13:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 200'
+2/28/2015 3:13:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "200"
+2/28/2015 3:13:11 PM: 127.0.0.1: Serials: 0x40000012; 
+2/28/2015 3:13:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:13:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001E (OneGoldBar)
+2/28/2015 3:13:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:13:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (OneGoldBar)
+2/28/2015 3:13:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:13:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (OneGoldBar)
+2/28/2015 3:13:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:13:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000265 (Bag)
+2/28/2015 3:13:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:13:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000004A (Bag)
+2/28/2015 3:13:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 200'
+2/28/2015 3:15:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:15:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 300'
+2/28/2015 3:15:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "300"
+2/28/2015 3:15:24 PM: 127.0.0.1: Serials: 0x40000014; 
+2/28/2015 3:17:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 100'
+2/28/2015 3:17:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "100"
+2/28/2015 3:17:12 PM: 127.0.0.1: Serials: 0x40000017; 
+2/28/2015 3:17:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:17:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000013 (OneGoldBar)
+2/28/2015 3:17:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:17:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000016 (OneGoldBar)
+2/28/2015 3:18:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:18:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 3:18:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:18:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000018 (OneGoldBar)
+2/28/2015 3:18:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:18:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000019 (OneGoldBar)
+2/28/2015 3:20:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add goldbar'
+2/28/2015 3:21:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pickax'
+2/28/2015 3:22:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 3:24:26 PM
+
+2/28/2015 3:25:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 3:25:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 3:25:04 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 3:25:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 500'
+2/28/2015 3:25:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "500"
+2/28/2015 3:25:17 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 3:25:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:25:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 3:25:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:25:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (EmeraldPickaxe)
+2/28/2015 3:25:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:26:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (ThreeGoldBars)
+2/28/2015 3:26:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:26:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (OneGoldBar)
+2/28/2015 3:26:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:26:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000559 (NightSightScroll)
+2/28/2015 3:26:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:26:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000040A (SmithHammer)
+2/28/2015 3:26:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:26:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000024 (Mace)
+2/28/2015 3:26:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:26:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 3:40:14 PM
+
+2/28/2015 3:40:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 3:40:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 3:40:34 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 3:40:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 500'
+2/28/2015 3:40:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "500"
+2/28/2015 3:40:46 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 3:41:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:41:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (DiamondPickaxe)
+2/28/2015 3:41:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:41:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (FiveGoldBars)
+2/28/2015 3:41:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 400'
+2/28/2015 3:41:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "400"
+2/28/2015 3:41:12 PM: 127.0.0.1: Serials: 0x40000012; 
+2/28/2015 3:42:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:42:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400000F0 (Pickaxe)
+2/28/2015 3:45:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 3:47:36 PM
+
+2/28/2015 3:48:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 400'
+2/28/2015 3:48:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "400"
+2/28/2015 3:48:04 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 3:48:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:48:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (FiveGoldBars)
+2/28/2015 3:48:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:48:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (DiamondPickaxe)
+2/28/2015 3:48:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:48:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000013 (FiveGoldBars)
+2/28/2015 3:48:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:48:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (DiamondPickaxe)
+2/28/2015 3:48:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 300'
+2/28/2015 3:48:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "300"
+2/28/2015 3:48:28 PM: 127.0.0.1: Serials: 0x40000012; 
+2/28/2015 3:49:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 100'
+2/28/2015 3:49:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "100"
+2/28/2015 3:49:17 PM: 127.0.0.1: Serials: 0x40000013; 
+2/28/2015 3:49:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:49:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000016 (DiamondPickaxe)
+2/28/2015 3:49:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:49:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (FiveGoldBars)
+2/28/2015 3:50:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 3:52:27 PM
+
+2/28/2015 3:52:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 400'
+2/28/2015 3:52:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "400"
+2/28/2015 3:52:54 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 3:55:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:55:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (FiveGoldBars)
+2/28/2015 3:55:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:55:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (DiamondPickaxe)
+2/28/2015 3:55:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:55:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (FiveGoldBars)
+2/28/2015 3:55:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:55:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000016 (DiamondPickaxe)
+2/28/2015 3:57:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 3:57:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 3:57:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/28/2015 3:57:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 4:16:47 PM
+
+2/28/2015 4:17:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 4:17:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 4:17:06 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 4:17:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 100'
+2/28/2015 4:17:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "100"
+2/28/2015 4:17:11 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 4:17:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 200'
+2/28/2015 4:18:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "200"
+2/28/2015 4:18:00 PM: 127.0.0.1: Serials: 0x40000012; 
+2/28/2015 4:18:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 500'
+2/28/2015 4:18:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "500"
+2/28/2015 4:18:17 PM: 127.0.0.1: Serials: 0x40000014; 
+2/28/2015 4:18:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:18:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (FiveGoldBars)
+2/28/2015 4:18:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:18:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (DiamondPickaxe)
+2/28/2015 4:22:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 400'
+2/28/2015 4:22:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "400"
+2/28/2015 4:22:23 PM: 127.0.0.1: Serials: 0x40000019; 
+2/28/2015 4:22:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:22:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000018 (EmeraldPickaxe)
+2/28/2015 4:22:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 200'
+2/28/2015 4:22:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "200"
+2/28/2015 4:22:34 PM: 127.0.0.1: Serials: 0x4000001A; 
+2/28/2015 4:22:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:22:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000016 (ThreeGoldBars)
+2/28/2015 4:22:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:22:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000013 (IronIngot)
+2/28/2015 4:22:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:22:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (IronIngot)
+2/28/2015 4:24:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:24:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001C (DiamondPickaxe)
+2/28/2015 4:24:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:24:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001B (FiveGoldBars)
+2/28/2015 4:29:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 4:31:31 PM
+
+2/28/2015 4:31:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 500'
+2/28/2015 4:31:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "500"
+2/28/2015 4:31:57 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 4:32:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 600'
+2/28/2015 4:32:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (614, 600, 0) in Malas: "ironingot" "600"
+2/28/2015 4:32:52 PM: 127.0.0.1: Serials: 0x40000013; 
+2/28/2015 4:32:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:32:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000019 (IronIngot)
+2/28/2015 4:33:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:33:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (EmeraldPickaxe)
+2/28/2015 4:33:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:33:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (OneGoldBar)
+2/28/2015 4:33:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:33:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000017 (OneGoldBar)
+2/28/2015 4:33:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:33:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (ThreeGoldBars)
+2/28/2015 4:34:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 400'
+2/28/2015 4:34:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "400"
+2/28/2015 4:34:39 PM: 127.0.0.1: Serials: 0x40000017; 
+2/28/2015 4:34:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:36:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:36:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000018 (FiveGoldBars)
+2/28/2015 4:36:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:36:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000016 (DiamondPickaxe)
+2/28/2015 4:36:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:36:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (FiveGoldBars)
+2/28/2015 4:36:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 100'
+2/28/2015 4:36:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "100"
+2/28/2015 4:36:39 PM: 127.0.0.1: Serials: 0x4000001A; 
+2/28/2015 4:37:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add jewele'
+2/28/2015 4:37:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:37:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001C (DiamondPickaxe)
+2/28/2015 4:37:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:37:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001B (FiveGoldBars)
+2/28/2015 4:37:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:37:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000019 (DiamondPickaxe)
+2/28/2015 4:39:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ingot'
+2/28/2015 4:39:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add smithhammer'
+2/28/2015 4:39:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "smithhammer"
+2/28/2015 4:39:51 PM: 127.0.0.1: Serials: 0x4000001D; 
+2/28/2015 4:40:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 4:42:47 PM
+
+2/28/2015 4:43:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot'
+2/28/2015 4:43:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot"
+2/28/2015 4:43:12 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 4:45:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add copperingot'
+2/28/2015 4:45:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "copperingot"
+2/28/2015 4:45:06 PM: 127.0.0.1: Serials: 0x40000011; 
+2/28/2015 4:46:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:46:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (ThreeGoldBars)
+2/28/2015 4:46:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:46:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (EmeraldPickaxe)
+2/28/2015 4:46:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:46:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000013 (OneGoldBar)
+2/28/2015 4:46:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 4:46:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (OneGoldBar)
+2/28/2015 4:59:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 5:04:39 PM
+
+2/28/2015 5:05:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 500'
+2/28/2015 5:05:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "500"
+2/28/2015 5:05:07 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 5:05:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 100'
+2/28/2015 5:05:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "100"
+2/28/2015 5:05:40 PM: 127.0.0.1: Serials: 0x40000010; 
+2/28/2015 5:06:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:06:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 5:06:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 5:06:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 5:06:23 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 5:06:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:06:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (DiamondPickaxe)
+2/28/2015 5:06:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:06:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (FiveGoldBars)
+2/28/2015 5:07:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot'
+2/28/2015 5:07:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot"
+2/28/2015 5:07:34 PM: 127.0.0.1: Serials: 0x4000001E; 
+2/28/2015 5:07:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:07:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000000F (IronIngot)
+2/28/2015 5:07:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:07:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001F (FiveGoldBars)
+2/28/2015 5:07:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:07:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000020 (DiamondPickaxe)
+2/28/2015 5:09:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:09:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 5:09:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 5:14:48 PM
+
+2/28/2015 5:16:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 5:16:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 5:16:09 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 5:16:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 500'
+2/28/2015 5:16:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "ironingot" "500"
+2/28/2015 5:16:20 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 5:17:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 600'
+2/28/2015 5:17:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "600"
+2/28/2015 5:17:01 PM: 127.0.0.1: Serials: 0x40000013; 
+2/28/2015 5:17:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:17:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (OneGoldBar)
+2/28/2015 5:17:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:17:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (ThreeGoldBars)
+2/28/2015 5:17:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:17:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (EmeraldPickaxe)
+2/28/2015 5:19:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 100'
+2/28/2015 5:19:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "100"
+2/28/2015 5:19:27 PM: 127.0.0.1: Serials: 0x40000017; 
+2/28/2015 5:19:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:19:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000016 (DiamondPickaxe)
+2/28/2015 5:19:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:19:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (FiveGoldBars)
+2/28/2015 5:23:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:23:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000019 (DiamondPickaxe)
+2/28/2015 5:23:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:23:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000018 (FiveGoldBars)
+2/28/2015 5:23:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 5:25:46 PM
+
+2/28/2015 5:26:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 500'
+2/28/2015 5:26:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "500"
+2/28/2015 5:26:16 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 5:26:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 5:26:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (ThreeGoldBars)
+2/28/2015 5:26:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (OneGoldBar)
+2/28/2015 5:26:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (EmeraldPickaxe)
+2/28/2015 5:27:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 600'
+2/28/2015 5:27:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "600"
+2/28/2015 5:27:18 PM: 127.0.0.1: Serials: 0x40000013; 
+2/28/2015 5:31:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add jewele'
+2/28/2015 5:31:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (632, 581, 0) in Malas: "ElmhavenJeweler"
+2/28/2015 5:31:51 PM: 127.0.0.1: Serials: 0x3; 
+2/28/2015 5:31:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:31:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3 "Filkien" (no account)
+2/28/2015 5:31:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add jewele'
+2/28/2015 5:31:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (636, 580, 0) in Malas: "ElandrimNurShazJeweler"
+2/28/2015 5:31:59 PM: 127.0.0.1: Serials: 0x4; 
+2/28/2015 5:32:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+2/28/2015 5:32:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (629, 580, 0) in Malas: "beachbeetle"
+2/28/2015 5:32:12 PM: 127.0.0.1: Serials: 0x5; 
+2/28/2015 5:32:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add balro'
+2/28/2015 5:32:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (633, 582, 0) in Malas: "BalronVolcanicSting"
+2/28/2015 5:32:18 PM: 127.0.0.1: Serials: 0x4000002D; 
+2/28/2015 5:32:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+2/28/2015 5:32:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MaxDamage' of 0x4000002D (BalronVolcanicSting) to '500'
+2/28/2015 5:32:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MinDamage' of 0x4000002D (BalronVolcanicSting) to '400'
+2/28/2015 5:32:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+2/28/2015 5:32:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (630, 582, 0) in Malas: "beachbeetle"
+2/28/2015 5:32:55 PM: 127.0.0.1: Serials: 0x6; 
+2/28/2015 5:33:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+2/28/2015 5:33:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (629, 576, 0) in Malas: "beachbeetle"
+2/28/2015 5:33:01 PM: 127.0.0.1: Serials: 0x7; 
+2/28/2015 5:33:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+2/28/2015 5:33:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (620, 576, 0) in Malas: "beachbeetle"
+2/28/2015 5:33:07 PM: 127.0.0.1: Serials: 0x8; 
+2/28/2015 5:33:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+2/28/2015 5:33:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (608, 570, 0) in Malas: "beachbeetle"
+2/28/2015 5:33:13 PM: 127.0.0.1: Serials: 0x9; 
+2/28/2015 5:33:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+2/28/2015 5:33:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (606, 572, 0) in Malas: "beachbeetle"
+2/28/2015 5:33:19 PM: 127.0.0.1: Serials: 0xA; 
+2/28/2015 5:33:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+2/28/2015 5:33:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (600, 577, 0) in Malas: "beachbeetle"
+2/28/2015 5:33:24 PM: 127.0.0.1: Serials: 0xB; 
+2/28/2015 5:33:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+2/28/2015 5:33:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (598, 579, 0) in Malas: "beachbeetle"
+2/28/2015 5:33:30 PM: 127.0.0.1: Serials: 0xC; 
+2/28/2015 5:33:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+2/28/2015 5:33:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (591, 587, 0) in Malas: "beachbeetle"
+2/28/2015 5:33:34 PM: 127.0.0.1: Serials: 0xD; 
+2/28/2015 5:33:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add beachbeetle'
+2/28/2015 5:33:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (593, 583, 0) in Malas: "beachbeetle"
+2/28/2015 5:33:39 PM: 127.0.0.1: Serials: 0xE; 
+2/28/2015 5:34:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:34:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4 "Melinhara Thornburch" (no account)
+2/28/2015 5:35:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 20'
+2/28/2015 5:35:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 597, 0) in Malas: "ironingot" "20"
+2/28/2015 5:35:58 PM: 127.0.0.1: Serials: 0x4000006C; 
+2/28/2015 5:36:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:36:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (FiveGoldBars)
+2/28/2015 5:36:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:36:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000006E (DiamondPickaxe)
+2/28/2015 5:36:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:36:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000006D (FiveGoldBars)
+2/28/2015 5:40:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 5:42:21 PM
+
+2/28/2015 5:42:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:42:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 5:42:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 5:42:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 5:42:56 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 5:43:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 500'
+2/28/2015 5:43:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "ironingot" "500"
+2/28/2015 5:43:08 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 5:43:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 5:43:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000016 (DiamondPickaxe)
+2/28/2015 5:43:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (OneGoldBar)
+2/28/2015 5:43:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (ThreeGoldBars)
+2/28/2015 5:43:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (EmeraldPickaxe)
+2/28/2015 5:43:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400001DF (Gold)
+2/28/2015 5:44:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000006A (BeachBeetleBracelet)
+2/28/2015 5:44:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000015 (Dagger)
+2/28/2015 5:44:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000020C (RuneToCluckIsland)
+2/28/2015 5:44:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 600'
+2/28/2015 5:44:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "ironingot" "600"
+2/28/2015 5:44:18 PM: 127.0.0.1: Serials: 0x40000013; 
+2/28/2015 5:45:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:45:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (FiveGoldBars)
+2/28/2015 5:45:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:45:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000015 (DiamondPickaxe)
+2/28/2015 5:47:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 5:49:10 PM
+
+2/28/2015 5:49:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 300'
+2/28/2015 5:49:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 597, 0) in Malas: "ironingot" "300"
+2/28/2015 5:49:38 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 5:50:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:50:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 5:50:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:50:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (FiveGoldBars)
+2/28/2015 5:50:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 5:50:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (DiamondPickaxe)
+2/28/2015 5:52:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 5:54:05 PM
+
+2/28/2015 5:54:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 5:54:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 5:54:26 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 5:54:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 100'
+2/28/2015 5:54:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "100"
+2/28/2015 5:54:37 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 5:54:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add dullcopperingot 100'
+2/28/2015 5:54:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "dullcopperingot" "100"
+2/28/2015 5:54:54 PM: 127.0.0.1: Serials: 0x40000011; 
+2/28/2015 5:56:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add dullcopperingot 50'
+2/28/2015 5:56:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "dullcopperingot" "50"
+2/28/2015 5:56:10 PM: 127.0.0.1: Serials: 0x40000014; 
+2/28/2015 5:58:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 6:00:54 PM
+
+2/28/2015 6:01:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 99'
+2/28/2015 6:01:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "99"
+2/28/2015 6:01:20 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 6:01:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 6:01:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000013 (OneGoldBar)
+2/28/2015 6:01:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (OneGoldBar)
+2/28/2015 6:01:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (OneGoldBar)
+2/28/2015 6:01:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000015 (OneGoldBar)
+2/28/2015 6:01:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (OneGoldBar)
+2/28/2015 6:01:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000016 (OneGoldBar)
+2/28/2015 6:02:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 6:07:02 PM
+
+2/28/2015 6:07:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 6:07:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 6:07:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 6:07:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 6:07:26 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 6:07:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 99'
+2/28/2015 6:07:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "99"
+2/28/2015 6:07:31 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 6:08:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 6:08:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 99'
+2/28/2015 6:08:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "99"
+2/28/2015 6:08:07 PM: 127.0.0.1: Serials: 0x40000011; 
+2/28/2015 6:08:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 6:08:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 6:08:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 6:10:07 PM
+
+2/28/2015 6:10:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 6:10:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 597, 0) in Malas: "elmhavenminer"
+2/28/2015 6:10:26 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 6:14:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 6:15:56 PM
+
+2/28/2015 6:16:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 6:16:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 6:16:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 99'
+2/28/2015 6:16:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "99"
+2/28/2015 6:16:24 PM: 127.0.0.1: Serials: 0x40000006; 
+2/28/2015 6:16:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 6:16:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 597, 0) in Malas: "elmhavenminer"
+2/28/2015 6:16:27 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 6:17:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 6:19:24 PM
+
+2/28/2015 6:19:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 99'
+2/28/2015 6:19:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "99"
+2/28/2015 6:19:40 PM: 127.0.0.1: Serials: 0x40000006; 
+2/28/2015 6:23:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 6:25:28 PM
+
+2/28/2015 6:25:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 99'
+2/28/2015 6:25:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "99"
+2/28/2015 6:25:45 PM: 127.0.0.1: Serials: 0x40000006; 
+2/28/2015 6:30:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 6:34:56 PM
+
+2/28/2015 6:35:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 99'
+2/28/2015 6:35:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "99"
+2/28/2015 6:35:11 PM: 127.0.0.1: Serials: 0x40000006; 
+2/28/2015 6:39:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 6:41:02 PM
+
+2/28/2015 6:41:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 6:41:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (OneGoldBar)
+2/28/2015 6:41:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 6:41:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000013 (OneGoldBar)
+2/28/2015 6:41:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 6:41:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000000F (OneGoldBar)
+2/28/2015 6:41:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (OneGoldBar)
+2/28/2015 6:41:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (OneGoldBar)
+2/28/2015 6:41:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot'
+2/28/2015 6:41:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot"
+2/28/2015 6:41:53 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 6:44:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 6:46:24 PM
+
+2/28/2015 6:50:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 7:04:25 PM
+
+2/28/2015 7:04:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 7:04:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 7:04:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 7:04:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 7:04:49 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 7:05:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 100'
+2/28/2015 7:05:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "ironingot" "100"
+2/28/2015 7:05:07 PM: 127.0.0.1: Serials: 0x40000011; 
+2/28/2015 7:05:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 200'
+2/28/2015 7:05:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 599, 0) in Malas: "ironingot" "200"
+2/28/2015 7:05:30 PM: 127.0.0.1: Serials: 0x40000012; 
+2/28/2015 7:06:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 7:08:21 PM
+
+2/28/2015 7:21:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 7:30:23 PM
+
+2/28/2015 7:31:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 7:33:34 PM
+
+2/28/2015 7:34:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 7:34:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 7:34:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 7:34:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 7:34:19 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 7:36:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 7:38:17 PM
+
+2/28/2015 7:38:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 7:38:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 7:38:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 7:38:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 7:38:36 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 7:39:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 200'
+2/28/2015 7:39:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "200"
+2/28/2015 7:39:33 PM: 127.0.0.1: Serials: 0x40000012; 
+2/28/2015 7:39:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 1000'
+2/28/2015 7:39:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "1000"
+2/28/2015 7:39:43 PM: 127.0.0.1: Serials: 0x40000016; 
+2/28/2015 7:39:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 7:39:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000016 (IronIngot)
+2/28/2015 7:39:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 7:39:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 7:46:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 7:54:29 PM
+
+2/28/2015 7:54:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 7:54:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 7:54:52 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 7:56:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 7:56:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 8:03:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 8:07:52 PM
+
+2/28/2015 8:08:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 8:08:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 8:08:10 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 8:09:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 8:09:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 8:10:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 8:12:56 PM
+
+2/28/2015 8:13:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 8:13:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 8:13:15 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 8:13:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 99'
+2/28/2015 8:13:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "99"
+2/28/2015 8:13:29 PM: 127.0.0.1: Serials: 0x40000010; 
+2/28/2015 8:14:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 8:14:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 8:14:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 8:16:47 PM
+
+2/28/2015 8:17:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ironingot 99'
+2/28/2015 8:17:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 599, 0) in Malas: "ironingot" "99"
+2/28/2015 8:17:09 PM: 127.0.0.1: Serials: 0x40000006; 
+2/28/2015 8:17:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 8:17:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 8:17:12 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 8:19:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 8:19:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 8:19:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 8:21:04 PM
+
+2/28/2015 8:21:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 8:21:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 8:21:23 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 8:22:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 8:22:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 8:27:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 8:29:50 PM
+
+2/28/2015 8:30:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 8:30:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 597, 0) in Malas: "elmhavenminer"
+2/28/2015 8:30:32 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 8:30:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add dullcopperingot 99'
+2/28/2015 8:30:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "dullcopperingot" "99"
+2/28/2015 8:30:40 PM: 127.0.0.1: Serials: 0x40000015; 
+2/28/2015 8:30:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add dullcopperingot 100'
+2/28/2015 8:30:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "dullcopperingot" "100"
+2/28/2015 8:30:52 PM: 127.0.0.1: Serials: 0x4000001B; 
+2/28/2015 8:31:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 8:31:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (OneGoldBar)
+2/28/2015 8:31:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000017 (OneGoldBar)
+2/28/2015 8:31:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (OneGoldBar)
+2/28/2015 8:31:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001E (OneGoldBar)
+2/28/2015 8:31:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000013 (OneGoldBar)
+2/28/2015 8:31:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000019 (OneGoldBar)
+2/28/2015 8:31:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001C (OneGoldBar)
+2/28/2015 8:31:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001A (OneGoldBar)
+2/28/2015 8:31:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000000F (OneGoldBar)
+2/28/2015 8:31:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000015 (DullCopperIngot)
+2/28/2015 8:31:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000006 (IronIngot)
+2/28/2015 8:31:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bronzeingot 100'
+2/28/2015 8:31:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "bronzeingot" "100"
+2/28/2015 8:31:30 PM: 127.0.0.1: Serials: 0x4000001F; 
+2/28/2015 8:35:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 8:35:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 8:35:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/28/2015 8:35:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/28/2015 8:35:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/28/2015 9:13:53 PM
+
+2/28/2015 9:15:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 9:15:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 597, 0) in Malas: "elmhavenminer"
+2/28/2015 9:15:26 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 9:16:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 9:16:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000020 (OneGoldBar)
+2/28/2015 9:16:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000022 (OneGoldBar)
+2/28/2015 9:16:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (OneGoldBar)
+2/28/2015 9:16:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000024 (DiamondPickaxe)
+2/28/2015 9:16:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000012 (IronIngot)
+2/28/2015 9:16:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000000F (IronIngot)
+2/28/2015 9:16:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000431 (Lockpick)
+2/28/2015 9:16:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000142 (Dagger)
+2/28/2015 9:16:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add dullcopperingot 100'
+2/28/2015 9:16:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "dullcopperingot" "100"
+2/28/2015 9:16:30 PM: 127.0.0.1: Serials: 0x40000011; 
+2/28/2015 9:16:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 9:16:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000023 (OneGoldBar)
+2/28/2015 9:16:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add shadowironingot 100'
+2/28/2015 9:16:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "shadowironingot" "100"
+2/28/2015 9:16:50 PM: 127.0.0.1: Serials: 0x40000012; 
+2/28/2015 9:17:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 9:17:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000014 (OneGoldBar)
+2/28/2015 9:17:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000013 (OneGoldBar)
+2/28/2015 9:17:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000021 (OneGoldBar)
+2/28/2015 9:17:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add copperingot 100'
+2/28/2015 9:17:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "copperingot" "100"
+2/28/2015 9:17:51 PM: 127.0.0.1: Serials: 0x40000015; 
+2/28/2015 9:17:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bronzeingot 100'
+2/28/2015 9:18:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (616, 598, 0) in Malas: "bronzeingot" "100"
+2/28/2015 9:18:00 PM: 127.0.0.1: Serials: 0x40000016; 
+2/28/2015 9:18:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add goldba'
+2/28/2015 9:19:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 9:20:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001E (OneGoldBar)
+2/28/2015 9:20:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000019 (OneGoldBar)
+2/28/2015 9:20:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001A (RubyPickaxe)
+2/28/2015 9:20:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000020 (EmeraldPickaxe)
+2/28/2015 9:20:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001C (OneGoldBar)
+2/28/2015 9:20:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000018 (OneGoldBar)
+2/28/2015 9:20:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001F (OneGoldBar)
+2/28/2015 9:20:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000017 (OneGoldBar)
+2/28/2015 9:20:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001B (OneGoldBar)
+2/28/2015 9:21:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 9:21:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000023 (OneGoldBar)
+2/28/2015 9:21:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000021 (OneGoldBar)
+2/28/2015 9:21:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000025 (DiamondPickaxe)
+2/28/2015 9:21:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000022 (OneGoldBar)
+2/28/2015 9:21:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000024 (OneGoldBar)
+2/28/2015 9:21:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 9:21:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 9:25:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 9:27:46 PM
+
+2/28/2015 9:28:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 9:28:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (655, 660, 0) in Malas: "elmhavenminer"
+2/28/2015 9:28:40 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 9:28:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bronzeingot 100'
+2/28/2015 9:28:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (656, 659, 0) in Malas: "bronzeingot" "100"
+2/28/2015 9:28:47 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 9:29:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 9:29:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 9:29:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/28/2015 9:29:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/28/2015 9:29:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/28/2015 9:56:02 PM
+
+2/28/2015 9:56:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 9:56:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (660, 654, -14) in Malas: "elmhavenminer"
+2/28/2015 9:56:47 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 9:56:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bronzeingot 100'
+2/28/2015 9:56:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (658, 655, -14) in Malas: "bronzeingot" "100"
+2/28/2015 9:56:53 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 9:57:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 9:57:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 10:01:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 2/28/2015 10:03:37 PM
+
+2/28/2015 10:05:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elmhavenminer'
+2/28/2015 10:05:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (615, 598, 0) in Malas: "elmhavenminer"
+2/28/2015 10:05:43 PM: 127.0.0.1: Serials: 0x2; 
+2/28/2015 10:05:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bronzeingot 100'
+2/28/2015 10:05:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (618, 598, 0) in Malas: "bronzeingot" "100"
+2/28/2015 10:05:46 PM: 127.0.0.1: Serials: 0x4000000F; 
+2/28/2015 10:05:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+2/28/2015 10:05:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000010 (DiamondPickaxe)
+2/28/2015 10:05:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000011 (DiamondPickaxe)
+2/28/2015 10:06:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 10:06:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Lynis" (no account)
+2/28/2015 10:07:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add fluffy'
+2/28/2015 10:07:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (773, 604, -12) in Malas: "FluffySnapper"
+2/28/2015 10:07:39 PM: 127.0.0.1: Serials: 0x3; 
+2/28/2015 10:08:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add hind'
+2/28/2015 10:08:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (776, 601, -3) in Malas: "hind"
+2/28/2015 10:08:32 PM: 127.0.0.1: Serials: 0x4; 
+2/28/2015 10:08:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm add hind'
+2/28/2015 10:08:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:43 PM: 127.0.0.1: Serials: 0x5; 
+2/28/2015 10:08:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:43 PM: 127.0.0.1: Serials: 0x6; 
+2/28/2015 10:08:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:43 PM: 127.0.0.1: Serials: 0x7; 
+2/28/2015 10:08:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:43 PM: 127.0.0.1: Serials: 0x8; 
+2/28/2015 10:08:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:43 PM: 127.0.0.1: Serials: 0x9; 
+2/28/2015 10:08:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:43 PM: 127.0.0.1: Serials: 0xA; 
+2/28/2015 10:08:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:44 PM: 127.0.0.1: Serials: 0xB; 
+2/28/2015 10:08:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:44 PM: 127.0.0.1: Serials: 0xC; 
+2/28/2015 10:08:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:44 PM: 127.0.0.1: Serials: 0xD; 
+2/28/2015 10:08:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:44 PM: 127.0.0.1: Serials: 0xE; 
+2/28/2015 10:08:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:44 PM: 127.0.0.1: Serials: 0xF; 
+2/28/2015 10:08:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (784, 588, 0) in Malas: "hind"
+2/28/2015 10:08:44 PM: 127.0.0.1: Serials: 0x10; 
+2/28/2015 10:10:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm add hind'
+2/28/2015 10:10:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (782, 591, 0) in Malas: "hind"
+2/28/2015 10:10:06 PM: 127.0.0.1: Serials: 0x11; 
+2/28/2015 10:10:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (782, 591, 0) in Malas: "hind"
+2/28/2015 10:10:06 PM: 127.0.0.1: Serials: 0x12; 
+2/28/2015 10:10:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (782, 591, 0) in Malas: "hind"
+2/28/2015 10:10:06 PM: 127.0.0.1: Serials: 0x13; 
+2/28/2015 10:10:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (782, 591, 0) in Malas: "hind"
+2/28/2015 10:10:06 PM: 127.0.0.1: Serials: 0x14; 
+2/28/2015 10:10:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm add hind'
+2/28/2015 10:10:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (780, 592, 0) in Malas: "hind"
+2/28/2015 10:10:24 PM: 127.0.0.1: Serials: 0x15; 
+2/28/2015 10:10:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm add hind'
+2/28/2015 10:10:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (782, 594, 0) in Malas: "hind"
+2/28/2015 10:10:28 PM: 127.0.0.1: Serials: 0x16; 
+2/28/2015 10:11:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+2/28/2015 10:11:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3 "Fluffy Snapper" (no account)
+2/28/2015 10:16:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/28/2015 10:17:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/28/2015 10:18:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/28/2015 10:20:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+2/28/2015 10:23:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+2/28/2015 10:23:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/28/2015 10:23:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

@@ -1,0 +1,85 @@
+##############################
+Log started on 5/13/2016 1:33:00 AM
+
+5/13/2016 2:55:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/13/2016 2:55:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/13/2016 2:55:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/13/2016 4:48:35 AM
+
+5/13/2016 4:49:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'delete '
+5/13/2016 4:49:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'delete spawners'
+5/13/2016 4:49:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'delete spawners'
+5/13/2016 4:49:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'wipe spawners'
+5/13/2016 4:49:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'global wipe'
+5/13/2016 4:49:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'global wipe spawner'
+5/13/2016 4:49:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'global '
+5/13/2016 4:49:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'global clear'
+5/13/2016 4:50:02 AM: 127.0.0.1: Awaiting confirmation...
+5/13/2016 4:50:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'global remove'
+5/13/2016 4:50:06 AM: 127.0.0.1: Awaiting confirmation...
+5/13/2016 4:50:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'global remove spawner'
+5/13/2016 4:50:08 AM: 127.0.0.1: Delete command confirmed.
+5/13/2016 4:50:08 AM: 127.0.0.1: The item has been deleted. (8217)
+5/13/2016 4:50:08 AM: 127.0.0.1: The mobile has been deleted. (1172)
+5/13/2016 4:50:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/13/2016 4:50:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/13/2016 4:50:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add backpack'
+5/13/2016 4:50:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1159, 1039, 10) in Malas: "backpack"
+5/13/2016 4:50:50 AM: 127.0.0.1: Serials: 0x40002919; 
+5/13/2016 4:51:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add tester'
+5/13/2016 4:51:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1158, 1039, 10) in Malas: "AITester"
+5/13/2016 4:51:20 AM: 127.0.0.1: Serials: 0x3BD; 
+5/13/2016 4:51:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+5/13/2016 4:51:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+5/13/2016 4:51:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+5/13/2016 4:51:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+5/13/2016 4:51:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add balro'
+5/13/2016 4:51:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1159, 1037, 10) in Malas: "BalronVolcanicSting"
+5/13/2016 4:51:44 AM: 127.0.0.1: Serials: 0x40002922; 
+5/13/2016 4:52:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/13/2016 4:52:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x3BD "Dark Knight" (no account)
+5/13/2016 4:58:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/13/2016 4:58:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/13/2016 4:58:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/13/2016 5:02:55 AM
+
+5/13/2016 5:03:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3201 objects)
+5/13/2016 5:03:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+5/13/2016 5:03:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3201 objects
+5/13/2016 5:03:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/13/2016 5:03:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+##############################
+Log started on 5/13/2016 5:08:54 AM
+
+5/13/2016 5:53:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/13/2016 5:53:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/13/2016 5:53:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/13/2016 6:16:36 AM
+
+5/13/2016 6:22:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3449 objects)
+5/13/2016 6:22:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+5/13/2016 6:22:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3449 objects
+5/13/2016 6:22:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/13/2016 6:22:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/13/2016 6:47:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/13/2016 6:47:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/13/2016 6:47:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/13/2016 8:03:25 AM
+
+5/13/2016 8:06:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bard'
+5/13/2016 8:06:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bar'
+5/13/2016 8:07:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1231, 1037, 0) in Malas: "BardSpellbook"
+5/13/2016 8:07:07 AM: 127.0.0.1: Serials: 0x400000BB; 
+5/13/2016 8:07:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'allspells '
+5/13/2016 8:07:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'fillbook '
+5/13/2016 8:07:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') filling spellbook 0x400000BB (BardSpellbook)
+5/13/2016 8:08:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lute'
+5/13/2016 8:08:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1231, 1037, 0) in Malas: "lute"
+5/13/2016 8:08:48 AM: 127.0.0.1: Serials: 0x400000F6; 
+5/13/2016 8:11:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/13/2016 8:11:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/13/2016 8:11:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

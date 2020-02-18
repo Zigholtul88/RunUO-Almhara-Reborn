@@ -1,0 +1,420 @@
+##############################
+Log started on 7/12/2018 12:24:05 AM
+
+7/12/2018 12:24:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 12:24:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookofblizzardstrike'
+7/12/2018 12:24:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1704, 260, 71) in Ilshenar: "bookofblizzardstrike"
+7/12/2018 12:24:27 AM: 127.0.0.1: Serials: 0x400001F7; 
+7/12/2018 12:24:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setskill magery 0'
+7/12/2018 12:24:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Magery.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+7/12/2018 12:24:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setskill magery 30'
+7/12/2018 12:24:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Magery.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '30'
+7/12/2018 12:24:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set mana 0'
+7/12/2018 12:24:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'mana' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+7/12/2018 12:24:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set mana 60'
+7/12/2018 12:24:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'mana' of 0x1 "Zigholtul" ('Zigholtul88') to '60'
+7/12/2018 12:25:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 12:25:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 12:26:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanUseBlizzardStrike' of 0x400001F7 (BookOfBlizzardStrike) to 'True'
+7/12/2018 12:30:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 12:30:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400001F7 (BookOfBlizzardStrike)
+7/12/2018 12:45:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 2:33:06 AM
+
+7/12/2018 2:33:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 2:33:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add blizzar'
+7/12/2018 2:33:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1699, 259, 73) in Ilshenar: "BookOfBlizzardStrike"
+7/12/2018 2:33:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add magicboo'
+7/12/2018 2:37:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spellbook'
+7/12/2018 2:37:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1697, 259, 74) in Ilshenar: "spellbook"
+7/12/2018 2:37:22 AM: 127.0.0.1: Serials: 0x400005A5; 
+7/12/2018 2:37:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 2:37:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 2:37:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400005A5 (Spellbook)
+7/12/2018 2:38:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 2:44:03 AM
+
+7/12/2018 2:44:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 2:44:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 2:44:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1705, 224, 78) in Ilshenar: "BookOfBlizzardStrike"
+7/12/2018 2:44:29 AM: 127.0.0.1: Serials: 0x40000644; 
+7/12/2018 2:44:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add chicken'
+7/12/2018 2:44:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1706, 222, 78) in Ilshenar: "chicken"
+7/12/2018 2:44:52 AM: 127.0.0.1: Serials: 0x3; 
+7/12/2018 2:45:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 2:45:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3 "a chicken" (no account)
+7/12/2018 2:45:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1705, 225, 78) in Ilshenar: "BookOfSlumber"
+7/12/2018 2:45:05 AM: 127.0.0.1: Serials: 0x40000B33; 
+7/12/2018 2:45:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/12/2018 2:45:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/12/2018 2:45:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000B33 (BookOfSlumber)
+7/12/2018 2:45:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000644 (BookOfBlizzardStrike)
+7/12/2018 3:00:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 3:40:26 AM
+
+7/12/2018 3:40:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 3:40:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 3:40:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1716, 219, 96) in Ilshenar: "BookOfBlizzardStrike"
+7/12/2018 3:40:41 AM: 127.0.0.1: Serials: 0x400005A5; 
+7/12/2018 3:40:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setskill magery 20'
+7/12/2018 3:40:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Magery.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '20'
+7/12/2018 3:41:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 3:41:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanUseBlizzardStrike' of 0x400005A5 (BookOfBlizzardStrike) to 'True'
+7/12/2018 3:41:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 3:41:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400005A5 (BookOfBlizzardStrike)
+7/12/2018 3:51:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 4:26:14 AM
+
+7/12/2018 4:26:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 4:26:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 4:26:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1716, 218, 96) in Ilshenar: "BookOfBlizzardStrike"
+7/12/2018 4:26:30 AM: 127.0.0.1: Serials: 0x400005A5; 
+7/12/2018 4:26:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setskill magery 30'
+7/12/2018 4:26:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Magery.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '30'
+7/12/2018 4:27:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 4:27:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanUseBlizzardStrike' of 0x400005A5 (BookOfBlizzardStrike) to 'True'
+7/12/2018 4:27:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+7/12/2018 4:27:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+7/12/2018 4:27:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+7/12/2018 4:28:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+7/12/2018 4:30:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 4:30:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/12/2018 4:30:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Set Blessed False'
+7/12/2018 4:30:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Blessed' of 0x1 "Zigholtul" ('Zigholtul88') to 'False'
+7/12/2018 4:30:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setskill magery 50'
+7/12/2018 4:30:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Magery.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '50'
+7/12/2018 4:31:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 50'
+7/12/2018 4:31:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '50'
+7/12/2018 4:32:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+7/12/2018 4:32:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x34F "a remorhaz" (no account)
+7/12/2018 4:32:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lavalizard'
+7/12/2018 4:32:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1432, 452, 0) in Malas: "lavalizard"
+7/12/2018 4:32:14 AM: 127.0.0.1: Serials: 0x6; 
+7/12/2018 4:32:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 4:32:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x6 "a lava lizard" (no account)
+7/12/2018 4:32:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 4:32:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400005A5 (BookOfBlizzardStrike)
+7/12/2018 4:32:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add wand'
+7/12/2018 4:32:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1422, 463, 1) in Malas: "ChainLightningWand"
+7/12/2018 4:32:50 AM: 127.0.0.1: Serials: 0x400006D8; 
+7/12/2018 4:33:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 0'
+7/12/2018 4:33:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+7/12/2018 4:33:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 4:33:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1422, 463, 1) in Malas: "BookOfBlizzardStrike"
+7/12/2018 4:33:37 AM: 127.0.0.1: Serials: 0x400006E1; 
+7/12/2018 4:33:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+7/12/2018 4:33:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+7/12/2018 4:38:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spellbook'
+7/12/2018 4:38:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1423, 463, 0) in Malas: "spellbook"
+7/12/2018 4:38:18 AM: 127.0.0.1: Serials: 0x40000BFB; 
+7/12/2018 4:38:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'allspells '
+7/12/2018 4:38:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') filling spellbook 0x40000BFB (Spellbook)
+7/12/2018 4:38:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add cbook'
+7/12/2018 4:38:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add sbook'
+7/12/2018 4:39:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add magery'
+7/12/2018 4:39:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add magespell'
+7/12/2018 4:39:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1423, 463, 0) in Malas: "MageSpellbook"
+7/12/2018 4:39:07 AM: 127.0.0.1: Serials: 0x40000D1E; 
+7/12/2018 4:39:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'allspells '
+7/12/2018 4:39:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'fillbook '
+7/12/2018 4:39:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') filling spellbook 0x40000D1E (MageSpellbook)
+7/12/2018 4:43:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 4:43:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400006E1 (BookOfBlizzardStrike)
+7/12/2018 4:44:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 5:54:54 AM
+
+7/12/2018 5:55:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 5:55:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 5:55:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1424, 463, 0) in Malas: "BookOfBlizzardStrike"
+7/12/2018 5:55:10 AM: 127.0.0.1: Serials: 0x40000008; 
+7/12/2018 5:55:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set mana 0'
+7/12/2018 5:55:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'mana' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+7/12/2018 5:55:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 5:55:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000008 (BookOfBlizzardStrike)
+7/12/2018 5:57:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 5:57:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1423, 463, 0) in Malas: "BookOfBlizzardStrike"
+7/12/2018 5:57:12 AM: 127.0.0.1: Serials: 0x40000295; 
+7/12/2018 5:57:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setskill magery 0'
+7/12/2018 5:57:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Magery.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+7/12/2018 5:57:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set mana 0'
+7/12/2018 5:57:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'mana' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+7/12/2018 5:58:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'res '
+7/12/2018 5:58:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') resurrecting 0x1 "Zigholtul" ('Zigholtul88')
+7/12/2018 5:58:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 5:58:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000295 (BookOfBlizzardStrike)
+7/12/2018 6:06:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 6:10:06 AM
+
+7/12/2018 6:10:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 6:10:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 500'
+7/12/2018 6:10:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+7/12/2018 6:10:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 10'
+7/12/2018 6:10:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '10'
+7/12/2018 6:10:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set int 20'
+7/12/2018 6:10:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'int' of 0x1 "Zigholtul" ('Zigholtul88') to '20'
+7/12/2018 6:10:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 6:10:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1422, 463, 1) in Malas: "BookOfBlizzardStrike"
+7/12/2018 6:10:51 AM: 127.0.0.1: Serials: 0x40000EC5; 
+7/12/2018 6:13:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 6:13:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000EC5 (BookOfBlizzardStrike)
+7/12/2018 6:15:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+7/12/2018 6:15:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+7/12/2018 6:15:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+7/12/2018 6:15:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+7/12/2018 6:15:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/12/2018 6:16:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add tomeof'
+7/12/2018 6:17:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1512, 545, 11) in Ilshenar: "TomeOfEnlightenment"
+7/12/2018 6:17:25 AM: 127.0.0.1: Serials: 0x40001039; 
+7/12/2018 6:17:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 6:17:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001039 (TomeOfEnlightenment)
+7/12/2018 6:17:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+7/12/2018 6:17:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1517, 556, 6) in Ilshenar: "spawner"
+7/12/2018 6:17:49 AM: 127.0.0.1: Serials: 0x4000105B; 
+7/12/2018 6:19:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 6:19:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000105B (Spawner)
+7/12/2018 6:19:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 6:19:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40007DF9 (PremiumSpawner)
+7/12/2018 6:23:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add druid'
+7/12/2018 6:23:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1518, 558, 3) in Ilshenar: "DruidSpellbook"
+7/12/2018 6:23:19 AM: 127.0.0.1: Serials: 0x400010AB; 
+7/12/2018 6:23:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 6:23:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 6:23:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400010AB (DruidSpellbook)
+7/12/2018 6:24:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 6:26:11 AM
+
+7/12/2018 6:26:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 6:26:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 6:26:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1517, 556, 6) in Ilshenar: "BookOfBlizzardStrike"
+7/12/2018 6:26:29 AM: 127.0.0.1: Serials: 0x40000EEA; 
+7/12/2018 6:26:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1518, 557, 5) in Ilshenar: "BookOfSlumber"
+7/12/2018 6:26:31 AM: 127.0.0.1: Serials: 0x40000EEB; 
+7/12/2018 6:27:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+7/12/2018 6:27:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+7/12/2018 6:27:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/12/2018 6:27:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000EEB (BookOfSlumber)
+7/12/2018 6:27:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000EEA (BookOfBlizzardStrike)
+7/12/2018 6:46:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 6:49:07 AM
+
+7/12/2018 6:49:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 6:49:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 6:49:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1521, 544, 11) in Ilshenar: "BookOfSlumber"
+7/12/2018 6:49:35 AM: 127.0.0.1: Serials: 0x40000F03; 
+7/12/2018 6:49:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 6:49:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000F03 (BookOfSlumber)
+7/12/2018 6:50:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 6:50:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1522, 545, 11) in Ilshenar: "BookOfBlizzardStrike"
+7/12/2018 6:50:43 AM: 127.0.0.1: Serials: 0x40000FEC; 
+7/12/2018 6:51:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1521, 545, 11) in Ilshenar: "BookOfSlumber"
+7/12/2018 6:51:03 AM: 127.0.0.1: Serials: 0x40000FF1; 
+7/12/2018 6:51:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'cast slumber'
+7/12/2018 6:51:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'cast spell'
+7/12/2018 6:52:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 6:52:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Effect' of 0x40000FEC (BookOfBlizzardStrike) to 'Slumber'
+7/12/2018 6:52:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Effect' of 0x40000FEC (BookOfBlizzardStrike) to 'BlizzardStrike'
+7/12/2018 6:52:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 6:52:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000FF1 (BookOfSlumber)
+7/12/2018 6:58:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 6:58:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add cleric'
+7/12/2018 6:58:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1510, 546, 11) in Ilshenar: "ClericSpellbook"
+7/12/2018 6:58:54 AM: 127.0.0.1: Serials: 0x40001044; 
+7/12/2018 6:58:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'fillbook '
+7/12/2018 6:58:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') filling spellbook 0x40001044 (ClericSpellbook)
+7/12/2018 6:59:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ankh'
+7/12/2018 6:59:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1510, 547, 11) in Ilshenar: "AnkhNorth"
+7/12/2018 6:59:15 AM: 127.0.0.1: Serials: 0x400010AD; 
+7/12/2018 6:59:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add gold 65000'
+7/12/2018 6:59:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1511, 546, 11) in Ilshenar: "gold" "65000"
+7/12/2018 6:59:24 AM: 127.0.0.1: Serials: 0x400010AF; 
+7/12/2018 7:01:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add avatar'
+7/12/2018 7:01:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1511, 544, 11) in Ilshenar: "AvatarSpellbook"
+7/12/2018 7:01:35 AM: 127.0.0.1: Serials: 0x400010BC; 
+7/12/2018 7:01:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'fillbook '
+7/12/2018 7:01:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') filling spellbook 0x400010BC (AvatarSpellbook)
+7/12/2018 7:02:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add destroy'
+7/12/2018 7:02:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add destroyingangel 500'
+7/12/2018 7:02:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 546, 11) in Ilshenar: "destroyingangel" "500"
+7/12/2018 7:02:29 AM: 127.0.0.1: Serials: 0x400010C3; 
+7/12/2018 7:02:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pet'
+7/12/2018 7:02:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add petrafiedwood 500'
+7/12/2018 7:02:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1510, 546, 11) in Ilshenar: "petrafiedwood" "500"
+7/12/2018 7:02:50 AM: 127.0.0.1: Serials: 0x400010CC; 
+7/12/2018 7:03:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add reagen'
+7/12/2018 7:03:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add druid'
+7/12/2018 7:03:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 546, 11) in Ilshenar: "DruidPetHealer"
+7/12/2018 7:03:15 AM: 127.0.0.1: Serials: 0x10; 
+7/12/2018 7:03:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add springwater 500'
+7/12/2018 7:03:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1510, 546, 11) in Ilshenar: "springwater" "500"
+7/12/2018 7:03:29 AM: 127.0.0.1: Serials: 0x40001280; 
+7/12/2018 7:03:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 7:03:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x10 "Shea" (no account)
+7/12/2018 7:22:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 7:36:03 AM
+
+7/12/2018 7:36:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 7:36:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 7:36:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400010AE (InternalItem)
+7/12/2018 7:36:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 7:36:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1511, 544, 11) in Ilshenar: "BookOfThunderBolt"
+7/12/2018 7:36:19 AM: 127.0.0.1: Serials: 0x40000F03; 
+7/12/2018 7:36:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+7/12/2018 7:36:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+7/12/2018 7:37:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 569, -5) in Ilshenar: "BookOfBlizzardStrike"
+7/12/2018 7:37:06 AM: 127.0.0.1: Serials: 0x400010D2; 
+7/12/2018 7:37:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 7:37:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x11 "a kaze kemono" (no account)
+7/12/2018 7:37:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/12/2018 7:37:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400010D2 (BookOfBlizzardStrike)
+7/12/2018 7:37:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000F03 (BookOfThunderBolt)
+7/12/2018 7:37:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001044 (ClericSpellbook)
+7/12/2018 7:37:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400010BC (AvatarSpellbook)
+7/12/2018 7:37:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400008B0 (Boots)
+7/12/2018 7:37:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400008AF (ShortPants)
+7/12/2018 7:37:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400003C9 (JukaBow)
+7/12/2018 7:37:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400024B3 (LapHarp)
+7/12/2018 7:43:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 7:45:24 AM
+
+7/12/2018 7:45:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 7:45:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 7:45:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1516, 570, -12) in Ilshenar: "BookOfThunderBolt"
+7/12/2018 7:45:40 AM: 127.0.0.1: Serials: 0x40001044; 
+7/12/2018 7:45:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 7:46:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001044 (BookOfThunderBolt)
+7/12/2018 7:52:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 7:54:09 AM
+
+7/12/2018 7:54:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 7:54:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 7:54:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1504, 573, -3) in Ilshenar: "BookOfThunderBolt"
+7/12/2018 7:54:28 AM: 127.0.0.1: Serials: 0x40001651; 
+7/12/2018 7:55:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 7:55:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001651 (BookOfThunderBolt)
+7/12/2018 7:57:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 8:06:27 AM
+
+7/12/2018 8:06:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 8:06:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 8:06:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1503, 573, -3) in Ilshenar: "BookOfBlizzardStrike"
+7/12/2018 8:06:41 AM: 127.0.0.1: Serials: 0x400016AA; 
+7/12/2018 8:06:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1505, 572, -1) in Ilshenar: "BookOfThunderBolt"
+7/12/2018 8:06:53 AM: 127.0.0.1: Serials: 0x40001715; 
+7/12/2018 8:07:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 8:07:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Effect' of 0x40001715 (BookOfThunderBolt) to 'ThunderBolt'
+7/12/2018 8:10:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/12/2018 8:10:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400016AA (BookOfBlizzardStrike)
+7/12/2018 8:10:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001715 (BookOfThunderBolt)
+7/12/2018 8:13:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 8:15:59 AM
+
+7/12/2018 8:16:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 8:16:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 8:16:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1505, 573, -4) in Ilshenar: "BookOfThunderBolt"
+7/12/2018 8:16:15 AM: 127.0.0.1: Serials: 0x4000163A; 
+7/12/2018 8:16:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 8:16:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1504, 573, -3) in Ilshenar: "BookOfBlizzardStrike"
+7/12/2018 8:16:28 AM: 127.0.0.1: Serials: 0x4000167C; 
+7/12/2018 8:16:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 8:16:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 8:17:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 8:17:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000167C (BookOfBlizzardStrike)
+7/12/2018 8:17:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 8:17:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000163A (BookOfThunderBolt)
+7/12/2018 8:17:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1504, 573, -3) in Ilshenar: "BookOfSlumber"
+7/12/2018 8:17:27 AM: 127.0.0.1: Serials: 0x40001697; 
+7/12/2018 8:17:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 8:17:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Effect' of 0x40001697 (BookOfSlumber) to 'Slumber'
+7/12/2018 8:17:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set effect'
+7/12/2018 8:17:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set effect slumber'
+7/12/2018 8:17:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'effect' of 0x40001697 (BookOfSlumber) to 'Slumber'
+7/12/2018 8:19:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 8:19:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001697 (BookOfSlumber)
+7/12/2018 8:19:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 7/12/2018 8:24:06 AM
+
+7/12/2018 8:25:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 8:25:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bookof'
+7/12/2018 8:25:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1504, 573, -3) in Ilshenar: "BookOfBlizzardStrike"
+7/12/2018 8:25:48 AM: 127.0.0.1: Serials: 0x400016B2; 
+7/12/2018 8:25:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1505, 572, -1) in Ilshenar: "BookOfSlumber"
+7/12/2018 8:25:52 AM: 127.0.0.1: Serials: 0x400016B6; 
+7/12/2018 8:25:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 8:26:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1505, 573, -4) in Ilshenar: "BookOfThunderBolt"
+7/12/2018 8:26:01 AM: 127.0.0.1: Serials: 0x400016B7; 
+7/12/2018 8:26:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 8:26:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add dragon'
+7/12/2018 8:26:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1508, 570, -1) in Ilshenar: "dragon"
+7/12/2018 8:26:18 AM: 127.0.0.1: Serials: 0x11; 
+7/12/2018 8:27:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 8:27:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001714 (SlumberBody)
+7/12/2018 8:27:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 8:27:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x11 "a dragon" (no account)
+7/12/2018 8:27:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 8:27:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400016B6 (BookOfSlumber)
+7/12/2018 8:27:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 8:27:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400016B2 (BookOfBlizzardStrike)
+7/12/2018 8:27:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 8:27:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400016B7 (BookOfThunderBolt)
+7/12/2018 4:13:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hue 0x47'
+7/12/2018 4:13:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hue' of 0x400056B3 (MetalGoldenChest) to '71'
+7/12/2018 4:13:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hue 0x47e'
+7/12/2018 4:13:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hue' of 0x400056B3 (MetalGoldenChest) to '1150'
+7/12/2018 4:16:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hue 0x47'
+7/12/2018 4:16:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hue' of 0x400056B3 (MetalGoldenChest) to '71'
+7/12/2018 4:16:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 7:10:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/12/2018 7:10:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/12/2018 7:11:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/12/2018 7:21:43 PM
+
+7/12/2018 7:26:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 7:26:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+7/12/2018 7:26:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+7/12/2018 7:26:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+7/12/2018 7:27:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add regioncontrol'
+7/12/2018 7:27:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1293, 1082, 21) in Malas: "regioncontrol"
+7/12/2018 7:27:25 PM: 127.0.0.1: Serials: 0x4000027D; 
+7/12/2018 7:27:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 7:28:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x4000027D (RegionControl) to 'OldUlt02'
+7/12/2018 7:29:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x4000027D (RegionControl) to 'Stones2'
+7/12/2018 8:43:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+7/12/2018 8:43:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 8:43:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanEnter' of 0x4000027D (RegionControl) to 'True'
+7/12/2018 8:43:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x4000027D (RegionControl) to 'OldUlt01'
+7/12/2018 8:44:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x4000027D (RegionControl) to 'Britain1'
+7/12/2018 8:44:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'RegionPriority' of 0x4000027D (RegionControl) to '100'
+7/12/2018 8:45:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x4000027D (RegionControl) to 'ValoriaShips'
+7/12/2018 8:46:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x4000027D (RegionControl) to 'SerpentIsleCombat_U7'
+7/12/2018 8:46:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x4000027D (RegionControl) to 'Bucsden'
+7/12/2018 8:46:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x4000027D (RegionControl) to 'Britain1'
+7/12/2018 8:47:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 8:47:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000027D (RegionControl)
+7/12/2018 8:47:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+7/12/2018 8:47:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add regioncontrol'
+7/12/2018 8:47:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2517, 1967, 0) in Malas: "regioncontrol"
+7/12/2018 8:47:33 PM: 127.0.0.1: Serials: 0x40000F18; 
+7/12/2018 8:47:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+7/12/2018 8:47:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanEnter' of 0x40000F18 (RegionControl) to 'True'
+7/12/2018 8:48:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40000F18 (RegionControl) to 'Britain1'
+7/12/2018 8:48:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40000F18 (RegionControl) to 'ValoriaShips'
+7/12/2018 8:51:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40000F18 (RegionControl) to 'GwennoConversation'
+7/12/2018 8:51:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/12/2018 8:51:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000F18 (RegionControl)
+7/12/2018 8:51:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map termur'
+7/12/2018 8:51:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'TerMur'

@@ -1,0 +1,74 @@
+##############################
+Log started on 1/11/2019 12:38:22 AM
+
+##############################
+Log started on 1/11/2019 12:43:10 AM
+
+1/11/2019 1:00:55 AM: 127.0.0.1: Player 0x53E "Phil-En-Deblanc" ('Yugitashi') used command 'hunger '
+1/11/2019 1:18:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+1/11/2019 1:19:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add unknown'
+1/11/2019 1:19:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1507, 1129, 0) in Malas: "UnknownBardSkeletonZaythalor"
+1/11/2019 1:19:10 AM: 127.0.0.1: Serials: 0x40000DF5; 
+1/11/2019 1:19:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1506, 1128, 0) in Malas: "UnknownBardSkeletonZaythalor"
+1/11/2019 1:19:24 AM: 127.0.0.1: Serials: 0x40000E06; 
+1/11/2019 1:19:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 1127, 0) in Malas: "UnknownMageSkeletonZaythalor"
+1/11/2019 1:19:37 AM: 127.0.0.1: Serials: 0x40000E10; 
+1/11/2019 1:19:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1510, 1128, 0) in Malas: "UnknownMageSkeletonZaythalor"
+1/11/2019 1:19:37 AM: 127.0.0.1: Serials: 0x40000E21; 
+1/11/2019 1:19:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1510, 1126, 0) in Malas: "UnknownMageSkeletonZaythalor"
+1/11/2019 1:19:38 AM: 127.0.0.1: Serials: 0x40000E31; 
+1/11/2019 1:20:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+1/11/2019 1:20:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 1129, 0) in Malas: "UnknownRogueSkeletonZaythalor"
+1/11/2019 1:20:42 AM: 127.0.0.1: Serials: 0x40000E47; 
+1/11/2019 1:20:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1510, 1129, 0) in Malas: "UnknownRogueSkeletonZaythalor"
+1/11/2019 1:20:43 AM: 127.0.0.1: Serials: 0x40000E56; 
+1/11/2019 1:20:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1511, 1128, 0) in Malas: "UnknownRogueSkeletonZaythalor"
+1/11/2019 1:20:43 AM: 127.0.0.1: Serials: 0x40000E65; 
+1/11/2019 1:20:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1508, 1130, 0) in Malas: "UnknownWarriorSkeletonZaythalor"
+1/11/2019 1:21:00 AM: 127.0.0.1: Serials: 0x40000E81; 
+1/11/2019 1:21:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1509, 1131, 0) in Malas: "UnknownWarriorSkeletonZaythalor"
+1/11/2019 1:21:00 AM: 127.0.0.1: Serials: 0x40000F37; 
+1/11/2019 1:21:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+1/11/2019 1:21:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E10 (UnknownMageSkeletonZaythalor)
+1/11/2019 1:21:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000DF5 (UnknownBardSkeletonZaythalor)
+1/11/2019 1:21:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E06 (UnknownBardSkeletonZaythalor)
+1/11/2019 1:21:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E31 (UnknownMageSkeletonZaythalor)
+1/11/2019 1:21:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E21 (UnknownMageSkeletonZaythalor)
+1/11/2019 1:21:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E65 (UnknownRogueSkeletonZaythalor)
+1/11/2019 1:21:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E47 (UnknownRogueSkeletonZaythalor)
+1/11/2019 1:21:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E56 (UnknownRogueSkeletonZaythalor)
+1/11/2019 1:21:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000E81 (UnknownWarriorSkeletonZaythalor)
+1/11/2019 1:21:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000F37 (UnknownWarriorSkeletonZaythalor)
+1/11/2019 1:21:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+1/11/2019 1:21:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001521 (MongbatHideoutBossChampionChest)
+1/11/2019 1:30:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/11/2019 1:43:04 AM
+
+1/11/2019 2:44:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+1/11/2019 2:44:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/11/2019 2:44:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/11/2019 2:44:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/11/2019 5:12:52 AM
+
+1/11/2019 5:13:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+1/11/2019 5:13:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+1/11/2019 5:14:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+1/11/2019 5:15:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+1/11/2019 5:15:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add gmrobe'
+1/11/2019 5:15:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (715, 96, -5) in Tokuno: "gmrobe"
+1/11/2019 5:15:24 AM: 127.0.0.1: Serials: 0x400002A9; 
+1/11/2019 5:44:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/11/2019 5:44:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/11/2019 5:45:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/11/2019 10:06:49 AM
+
+1/11/2019 10:07:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+1/11/2019 10:07:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Tokuno (1763 objects)
+1/11/2019 10:07:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+1/11/2019 10:07:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1763 objects
+1/11/2019 10:07:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+1/11/2019 10:07:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/11/2019 10:07:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

@@ -1,0 +1,538 @@
+##############################
+Log started on 6/24/2018 7:15:31 AM
+
+6/24/2018 7:16:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 7:16:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 7:17:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+6/24/2018 7:18:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') playing sound 1053 (toAll=True)
+6/24/2018 7:18:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'sound 1053'
+6/24/2018 7:18:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 7:18:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 7:19:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 7:19:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 7:31:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 8:03:29 AM
+
+6/24/2018 8:04:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 8:04:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'bs '
+6/24/2018 8:04:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bandage 5'
+6/24/2018 8:04:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bandage 10'
+6/24/2018 8:04:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1361, 1107, 0) in Malas: "bandage" "10"
+6/24/2018 8:04:21 AM: 127.0.0.1: Serials: 0x4000000B; 
+6/24/2018 8:04:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bandage 6'
+6/24/2018 8:04:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1360, 1107, 0) in Malas: "bandage" "6"
+6/24/2018 8:04:25 AM: 127.0.0.1: Serials: 0x4000000C; 
+6/24/2018 8:04:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 8:04:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000000B (Bandage)
+6/24/2018 8:04:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 1'
+6/24/2018 8:04:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '1'
+6/24/2018 8:04:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setskill healing 80'
+6/24/2018 8:04:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Healing.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '80'
+6/24/2018 8:04:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'bs '
+6/24/2018 8:05:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'bs '
+6/24/2018 8:05:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'bandself '
+6/24/2018 8:07:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 8:28:30 AM
+
+6/24/2018 8:28:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 8:29:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add hous'
+6/24/2018 8:29:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1360, 1110, 1) in Malas: "HousePlacementTool"
+6/24/2018 8:29:14 AM: 127.0.0.1: Serials: 0x4000000B; 
+6/24/2018 8:34:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 8:43:33 AM
+
+6/24/2018 8:43:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 8:44:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+6/24/2018 8:44:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 8:44:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost on'
+6/24/2018 8:44:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost on'
+6/24/2018 8:44:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 8:45:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 8:46:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 9:08:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 9:28:19 AM
+
+6/24/2018 9:28:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 9:28:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'mystats '
+6/24/2018 9:31:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'helpme '
+6/24/2018 9:32:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+6/24/2018 9:34:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add healer'
+6/24/2018 9:34:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1237, 1036, 0) in Malas: "healer"
+6/24/2018 9:34:41 AM: 127.0.0.1: Serials: 0xAC; 
+6/24/2018 9:34:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 9:34:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0xAC "Migina" (no account)
+6/24/2018 9:41:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 9:47:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bagofreagents'
+6/24/2018 9:47:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1209, 1042, 10) in Malas: "bagofreagents"
+6/24/2018 9:47:21 AM: 127.0.0.1: Serials: 0x40000A9D; 
+6/24/2018 9:47:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add backpack'
+6/24/2018 9:47:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1209, 1042, 10) in Malas: "backpack"
+6/24/2018 9:47:30 AM: 127.0.0.1: Serials: 0x40000AA6; 
+6/24/2018 9:47:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'dupe '
+6/24/2018 9:47:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') duping 0x40000A9D (BagOfReagents) (inBag=False; amount=1)
+6/24/2018 9:47:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') duped 0x40000A9D (BagOfReagents) creating 0x40000AA7 (BagOfReagents)
+6/24/2018 9:47:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 9:47:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000AA7 (BagOfReagents)
+6/24/2018 9:47:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 9:47:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000A9D (BagOfReagents)
+6/24/2018 9:48:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bagofreagents'
+6/24/2018 9:48:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1209, 1041, 10) in Malas: "bagofreagents"
+6/24/2018 9:48:26 AM: 127.0.0.1: Serials: 0x40000AB2; 
+6/24/2018 9:48:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'dump '
+6/24/2018 9:48:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add backpack'
+6/24/2018 9:48:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1208, 1041, 10) in Malas: "backpack"
+6/24/2018 9:48:56 AM: 127.0.0.1: Serials: 0x40000ABB; 
+6/24/2018 9:49:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'dump '
+6/24/2018 10:28:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 10:30:52 AM
+
+6/24/2018 10:31:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 10:31:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'bondtime '
+6/24/2018 10:34:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hits 1'
+6/24/2018 10:34:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hits' of 0x1 "Zigholtul" ('Zigholtul88') to '1'
+6/24/2018 10:34:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'bs '
+6/24/2018 10:34:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'bs '
+6/24/2018 10:52:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 10:54:02 AM
+
+6/24/2018 10:54:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 10:54:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add samurai'
+6/24/2018 10:54:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add samura'
+6/24/2018 10:54:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add samuraisword'
+6/24/2018 10:54:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add redswordbig'
+6/24/2018 10:54:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1214, 1041, 10) in Malas: "redswordbig"
+6/24/2018 10:54:56 AM: 127.0.0.1: Serials: 0x40000A8E; 
+6/24/2018 10:55:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 10:55:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Owner' of 0x40000A8E (RedSwordBig) to '0x1 "Zigholtul"'
+6/24/2018 10:56:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add katana'
+6/24/2018 10:56:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add katana'
+6/24/2018 10:56:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1213, 1041, 10) in Malas: "katana"
+6/24/2018 10:56:07 AM: 127.0.0.1: Serials: 0x40000A91; 
+6/24/2018 11:01:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 11:01:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000A8E (RedSwordBig)
+6/24/2018 11:01:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 11:01:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000A91 (Katana)
+6/24/2018 11:01:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 11:03:36 AM
+
+6/24/2018 11:03:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 11:03:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add suggestionbox'
+6/24/2018 11:03:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1214, 1041, 10) in Malas: "suggestionbox"
+6/24/2018 11:03:52 AM: 127.0.0.1: Serials: 0x40000A8E; 
+6/24/2018 11:07:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'motd '
+6/24/2018 11:38:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'say 1013012'
+6/24/2018 11:38:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'say 1013012'
+6/24/2018 11:38:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') forcing speech on 0x2F "Elliott Torchwood" (no account).
+6/24/2018 12:21:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 12:21:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000A8E (SuggestionBox)
+6/24/2018 12:21:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 12:58:00 PM
+
+6/24/2018 12:59:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 1:17:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 1:19:47 PM
+
+6/24/2018 1:20:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 2:44:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (1558 objects)
+6/24/2018 2:44:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/24/2018 2:44:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1558 objects
+6/24/2018 2:44:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+6/24/2018 2:45:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+6/24/2018 2:45:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Ilshenar (1417 objects)
+6/24/2018 2:45:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/24/2018 2:45:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1417 objects
+6/24/2018 2:45:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map tokuno'
+6/24/2018 2:45:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Tokuno'
+6/24/2018 2:45:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Tokuno (239 objects)
+6/24/2018 2:45:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/24/2018 2:45:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 239 objects
+6/24/2018 2:45:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+6/24/2018 2:45:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+6/24/2018 2:45:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 2:49:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 2:50:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 2:51:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 2:58:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 2:59:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawningclutter'
+6/24/2018 2:59:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1552, 1039, -4) in Ilshenar: "SpawningClutterJewelryBox"
+6/24/2018 2:59:30 PM: 127.0.0.1: Serials: 0x40000B28; 
+6/24/2018 2:59:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 2:59:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000B28 (SpawningClutterJewelryBox) to (1549, 1042, -1)
+6/24/2018 2:59:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 3:00:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 3:00:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000B28 (SpawningClutterJewelryBox)
+6/24/2018 3:01:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 3:01:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 17'
+6/24/2018 3:01:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '17'
+6/24/2018 3:01:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:01:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:01:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 17'
+6/24/2018 3:01:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '17'
+6/24/2018 3:01:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:01:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:01:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 17'
+6/24/2018 3:01:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '17'
+6/24/2018 3:02:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:02:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:02:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 17'
+6/24/2018 3:02:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '17'
+6/24/2018 3:02:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:02:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:02:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:02:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1561, 1047, -21)
+6/24/2018 3:03:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:03:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1562, 1047, -21)
+6/24/2018 3:03:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:03:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1561, 1046, -21)
+6/24/2018 3:03:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 3:03:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add irishspiri'
+6/24/2018 3:03:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:03:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1562, 1048, -21)
+6/24/2018 3:04:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:04:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1557, 1052, -21)
+6/24/2018 3:04:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:04:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:05:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1560, 1042, -1)
+6/24/2018 3:05:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 3:05:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:05:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1562, 1041, -1)
+6/24/2018 3:05:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:05:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1562, 1040, -1)
+6/24/2018 3:06:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:06:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1561, 1051, -1)
+6/24/2018 3:06:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:06:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1562, 1050, -1)
+6/24/2018 3:07:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:07:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1557, 1053, -1)
+6/24/2018 3:07:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:08:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1547, 1052, 19)
+6/24/2018 3:08:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:08:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1553, 1039, 19)
+6/24/2018 3:08:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 3:08:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000000B (HousePlacementTool) to (1550, 1042, 13)
+6/24/2018 3:11:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+##############################
+Log started on 6/24/2018 3:12:05 PM
+
+##############################
+Log started on 6/24/2018 3:27:58 PM
+
+6/24/2018 3:28:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 3:28:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (1558 objects)
+6/24/2018 3:28:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/24/2018 3:28:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1558 objects
+6/24/2018 3:28:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+6/24/2018 3:28:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+6/24/2018 3:28:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Ilshenar (1366 objects)
+6/24/2018 3:28:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/24/2018 3:28:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1366 objects
+6/24/2018 3:28:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map tokuno'
+6/24/2018 3:28:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Tokuno'
+6/24/2018 3:28:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Tokuno (239 objects)
+6/24/2018 3:28:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/24/2018 3:28:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 239 objects
+6/24/2018 3:28:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+6/24/2018 3:28:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+6/24/2018 3:28:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+6/24/2018 3:28:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+##############################
+Log started on 6/24/2018 3:30:57 PM
+
+6/24/2018 3:31:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 3:31:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 3:31:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/24/2018 3:31:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 3:31:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 3:31:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400008A4 (SpawningClutterJewelryBox)
+6/24/2018 3:31:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 3:31:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000019 (Spawner)
+6/24/2018 3:32:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -17'
+6/24/2018 3:32:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-17'
+6/24/2018 3:32:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:32:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:32:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -17'
+6/24/2018 3:32:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-17'
+6/24/2018 3:32:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 3:32:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -27'
+6/24/2018 3:32:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-27'
+6/24/2018 3:32:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:32:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:32:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 3:33:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -27'
+6/24/2018 3:33:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-27'
+6/24/2018 3:33:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:33:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:34:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 3:34:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 3:34:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 3:34:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000021 (Spawner)
+6/24/2018 3:34:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -27'
+6/24/2018 3:34:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-27'
+6/24/2018 3:35:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:35:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:36:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 17'
+6/24/2018 3:36:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '17'
+6/24/2018 3:36:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:36:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:36:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 17'
+6/24/2018 3:36:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '17'
+6/24/2018 3:36:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:36:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:36:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 17'
+6/24/2018 3:36:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '17'
+6/24/2018 3:36:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z -7'
+6/24/2018 3:36:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '-7'
+6/24/2018 3:36:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 17'
+6/24/2018 3:36:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '17'
+6/24/2018 3:36:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 3:37:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawningclutterbookca'
+6/24/2018 3:37:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1560, 1049, 17) in Ilshenar: "SpawningClutterBookcase2"
+6/24/2018 3:37:31 PM: 127.0.0.1: Serials: 0x400008D4; 
+6/24/2018 3:37:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 3:37:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400008D4 (SpawningClutterBookcase2)
+6/24/2018 3:37:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1560, 1049, 17) in Ilshenar: "SpawningClutterBookcase1"
+6/24/2018 3:37:37 PM: 127.0.0.1: Serials: 0x400008D6; 
+6/24/2018 3:37:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 3:37:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400008D6 (SpawningClutterBookcase1)
+6/24/2018 3:37:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 3:38:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 3:38:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 3:38:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/24/2018 3:41:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+6/24/2018 3:41:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+6/24/2018 3:41:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+6/24/2018 3:52:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 3:52:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 3:53:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 3:53:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 3:53:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 3:55:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Ilshenar (1013 objects)
+6/24/2018 3:55:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/24/2018 3:55:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1013 objects
+6/24/2018 3:55:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 3:55:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/24/2018 3:55:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen ilshenar/npcs.map'
+6/24/2018 3:56:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 3:56:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map tokuno'
+6/24/2018 3:56:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Tokuno'
+6/24/2018 3:57:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen tokuno/dungeons.map'
+6/24/2018 3:57:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+6/24/2018 3:57:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+6/24/2018 3:58:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 3:58:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+6/24/2018 3:58:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 3:58:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add veterinar'
+6/24/2018 3:59:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 3:59:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/24/2018 4:00:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+6/24/2018 4:00:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/islands.map'
+6/24/2018 4:00:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/regions.map'
+6/24/2018 4:00:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/towns.map'
+6/24/2018 4:00:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen malas/zaythalor forest.map'
+6/24/2018 4:01:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 4:01:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+6/24/2018 4:01:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 4:01:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 4:01:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+6/24/2018 4:02:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 6/24/2018 4:45:13 PM
+
+6/24/2018 4:51:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 4:51:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 6/24/2018 5:45:25 PM
+
+6/24/2018 5:54:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 5:54:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+6/24/2018 5:56:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+6/24/2018 5:56:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') bringing 0x84A "Kyra Kensley" ('Yugitashi') to Location (1178, 1056, 0), Map Malas
+6/24/2018 5:56:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setskill musicianship 100'
+6/24/2018 5:56:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Musicianship.Base' of 0x84A "Kyra Kensley" ('Yugitashi') to '100'
+6/24/2018 5:57:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+6/24/2018 5:57:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 6:00:36 PM
+
+6/24/2018 6:04:03 PM: 127.0.0.1: Player 0x84A "Kyra Kensley" ('Yugitashi') used command 'motd '
+6/24/2018 6:18:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 6:18:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+6/24/2018 6:34:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add largefrog'
+6/24/2018 6:34:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1185, 1050, 10) in Malas: "largefrog"
+6/24/2018 6:34:54 PM: 127.0.0.1: Serials: 0x84E; 
+6/24/2018 6:34:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 6:35:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 6:35:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 6:38:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 7:26:01 PM
+
+6/24/2018 7:39:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 7:40:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 7:40:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 7:41:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 7:41:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400006F7 (WorldGateZaythalorDirtHill)
+6/24/2018 7:41:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 7:42:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 7:42:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+6/24/2018 7:42:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 7:43:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400006F5 (WorldGateAutumnwood)
+6/24/2018 7:43:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 7:43:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 8:54:06 PM
+
+6/24/2018 8:55:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 8:55:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 8:55:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/24/2018 8:56:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 8:58:56 PM
+
+##############################
+Log started on 6/24/2018 9:06:24 PM
+
+6/24/2018 9:06:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 9:10:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 9:23:56 PM
+
+6/24/2018 9:24:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 9:24:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 9:24:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 9:25:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+6/24/2018 9:25:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 9:25:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400006F4 (WorldGateIslandOfGiants)
+6/24/2018 9:25:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+6/24/2018 9:25:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 9:26:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add peasent'
+6/24/2018 9:26:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add peasant'
+6/24/2018 9:26:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1088, 825, 46) in Malas: "peasant"
+6/24/2018 9:26:44 PM: 127.0.0.1: Serials: 0x4C1; 
+6/24/2018 9:27:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 9:27:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 9:31:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 9:33:48 PM
+
+6/24/2018 9:33:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 9:40:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 10:06:31 PM
+
+6/24/2018 10:06:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 10:06:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 10:06:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/24/2018 10:06:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 10:07:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+6/24/2018 10:07:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add peasant'
+6/24/2018 10:07:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1500, 1590, 22) in Malas: "peasant"
+6/24/2018 10:07:30 PM: 127.0.0.1: Serials: 0x4BE; 
+6/24/2018 10:09:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 10:09:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4BE "Bran" (no account)
+6/24/2018 10:09:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 10:09:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add peasant'
+6/24/2018 10:09:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1177, 1057, 0) in Malas: "peasant"
+6/24/2018 10:09:35 PM: 127.0.0.1: Serials: 0x587; 
+6/24/2018 10:09:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add peasant'
+6/24/2018 10:09:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1178, 1058, 0) in Malas: "peasant"
+6/24/2018 10:09:48 PM: 127.0.0.1: Serials: 0x5CF; 
+6/24/2018 10:09:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 10:09:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x5CF "Brady" (no account)
+6/24/2018 10:09:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 10:09:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x587 "Bess" (no account)
+6/24/2018 10:09:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add peasant'
+6/24/2018 10:09:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1176, 1057, 0) in Malas: "peasant"
+6/24/2018 10:09:56 PM: 127.0.0.1: Serials: 0x74D; 
+6/24/2018 10:10:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 10:10:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x74D "Ansel" (no account)
+6/24/2018 10:21:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 10:21:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4BF "Qamra" (no account)
+6/24/2018 10:23:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 11:15:14 PM
+
+6/24/2018 11:15:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 11:15:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add moongateteleporter'
+6/24/2018 11:15:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1188, 1056, 0) in Malas: "moongateteleporter"
+6/24/2018 11:15:41 PM: 127.0.0.1: Serials: 0x4000002A; 
+6/24/2018 11:15:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 11:16:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MapDest' of 0x4000002A (MoongateTeleporter) to 'Malas'
+6/24/2018 11:16:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'PointDest' of 0x4000002A (MoongateTeleporter) to '(1184, 1053, 0)'
+6/24/2018 11:16:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Creatures' of 0x4000002A (MoongateTeleporter) to 'True'
+6/24/2018 11:16:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 11:16:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x84E "a large frog" (no account) to (1187, 1057, 0)
+6/24/2018 11:17:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 11:17:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x84E "a large frog" (no account) to (1188, 1056, 0)
+6/24/2018 11:17:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 11:17:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x84E "a large frog" (no account) to (1186, 1056, 0)
+6/24/2018 11:17:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+6/24/2018 11:17:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x84E "a large frog" (no account) to (1187, 1056, 0)
+6/24/2018 11:17:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setskill herding 100'
+6/24/2018 11:17:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Herding.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+6/24/2018 11:17:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add shepherdscrook'
+6/24/2018 11:17:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1186, 1056, 0) in Malas: "shepherdscrook"
+6/24/2018 11:17:56 PM: 127.0.0.1: Serials: 0x4000003D; 
+6/24/2018 11:18:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 11:18:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x84E "a large frog" (no account)
+6/24/2018 11:19:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 11:32:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 11:32:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000002A (MoongateTeleporter)
+6/24/2018 11:32:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (4296 objects)
+6/24/2018 11:32:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/24/2018 11:32:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 4296 objects
+6/24/2018 11:33:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+6/24/2018 11:33:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+6/24/2018 11:33:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+6/24/2018 11:33:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 11:33:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000D59 (WorldGateHarashiNabi)
+6/24/2018 11:33:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 11:33:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/24/2018 11:33:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 11:34:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Creatures' of 0x4000008F (MoongateTeleporter) to 'True'
+6/24/2018 11:34:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 11:34:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000008F (MoongateTeleporter)
+6/24/2018 11:35:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 11:35:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/24/2018 11:35:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 11:36:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+6/24/2018 11:36:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400005C9 (MoongateTeleporter)
+6/24/2018 11:36:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+6/24/2018 11:36:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+6/24/2018 11:36:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (640 objects)
+6/24/2018 11:36:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/24/2018 11:36:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 640 objects
+6/24/2018 11:37:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 6/24/2018 11:41:02 PM
+
+6/24/2018 11:41:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+6/24/2018 11:41:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+6/24/2018 11:41:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+6/24/2018 11:41:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+6/24/2018 11:41:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+6/24/2018 11:41:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'wipe '
+6/24/2018 11:41:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') wiping from (1172, 1188, -20) to (1177, 1192, -19) in Ilshenar (Items, Mobiles)
+6/24/2018 11:41:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+6/24/2018 11:41:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+6/24/2018 11:42:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (631 objects)
+6/24/2018 11:42:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+6/24/2018 11:42:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 631 objects
+6/24/2018 11:46:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+6/24/2018 11:46:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+6/24/2018 11:46:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add murkmeredwelling'
+6/24/2018 11:46:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1173, 1197, -25) in Ilshenar: "MurkmereDwellingTeleporter"
+6/24/2018 11:46:19 PM: 127.0.0.1: Serials: 0x4000057D; 
+6/24/2018 11:46:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+6/24/2018 11:46:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'ItemID' of 0x4000057D (MurkmereDwellingTeleporter) to '3948'
+6/24/2018 11:47:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Visible' of 0x4000057D (MurkmereDwellingTeleporter) to 'True'
+6/24/2018 11:54:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '

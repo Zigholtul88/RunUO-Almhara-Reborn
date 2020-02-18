@@ -1,0 +1,280 @@
+##############################
+Log started on 11/18/2012 5:44:15 AM
+
+11/18/2012 5:47:32 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') used command 'tele '
+11/18/2012 5:47:39 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') used command 'add boryan'
+11/18/2012 5:47:40 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') building at (1244, 1037, 20) in Malas: "boryan"
+11/18/2012 5:47:40 AM: 127.0.0.1: Serials: 0xE9; 
+11/18/2012 5:50:01 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') used command 'add staffo'
+11/18/2012 5:50:03 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') building at (1241, 1039, 20) in Malas: "StaffOfMongbats"
+11/18/2012 5:50:04 AM: 127.0.0.1: Serials: 0x4000045F; 
+11/18/2012 6:12:40 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') used command 'add staffof'
+11/18/2012 6:12:42 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') building at (1243, 1039, 20) in Malas: "StaffOfMongbats"
+11/18/2012 6:12:42 AM: 127.0.0.1: Serials: 0x40000553; 
+11/18/2012 6:25:46 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') used command 'remove '
+11/18/2012 6:25:48 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') deleting 0xE9 "Boryan" (no account)
+11/18/2012 6:25:51 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') used command 'admin '
+11/18/2012 6:25:57 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+11/18/2012 6:25:57 AM: 127.0.0.1: Owner 0x24D "Rick" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/18/2012 6:27:36 AM
+
+11/18/2012 6:31:34 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'add bory'
+11/18/2012 6:31:36 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') building at (627, 575, 0) in Malas: "Boryan"
+11/18/2012 6:31:36 AM: 127.0.0.1: Serials: 0x1E6; 
+11/18/2012 6:39:35 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'remove '
+11/18/2012 6:39:36 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') deleting 0x1E6 "Boryan" (no account)
+11/18/2012 6:39:39 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'add boryan'
+11/18/2012 6:39:40 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') building at (627, 574, 0) in Malas: "boryan"
+11/18/2012 6:39:40 AM: 127.0.0.1: Serials: 0x1FF; 
+11/18/2012 6:39:50 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'props '
+11/18/2012 6:40:33 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') used command 'remove '
+11/18/2012 6:40:34 AM: 127.0.0.1: Owner 0x1 "Ragnar" ('Zigholtul88') deleting 0x1FF "Boryan" (no account)
+11/18/2012 6:41:15 AM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'add boryan'
+11/18/2012 6:41:17 AM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "boryan"
+11/18/2012 6:41:17 AM: 127.0.0.1: Serials: 0x206; 
+11/18/2012 6:42:30 AM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'admin '
+11/18/2012 6:42:35 AM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'remove '
+11/18/2012 6:42:36 AM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') deleting 0x206 "Boryan" (no account)
+11/18/2012 6:42:39 AM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'admin '
+11/18/2012 6:42:43 AM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/18/2012 6:42:43 AM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/18/2012 8:31:15 AM
+
+11/18/2012 8:32:08 AM: 127.0.0.1: Owner 0x20C "Bloop Bloop" ('Zigholtul88') used command 'add boryan'
+11/18/2012 8:32:09 AM: 127.0.0.1: Owner 0x20C "Bloop Bloop" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "boryan"
+11/18/2012 8:32:09 AM: 127.0.0.1: Serials: 0x20D; 
+11/18/2012 8:33:01 AM: 127.0.0.1: Owner 0x20C "Bloop Bloop" ('Zigholtul88') used command 'add staffo'
+11/18/2012 8:33:03 AM: 127.0.0.1: Owner 0x20C "Bloop Bloop" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "StaffOfMongbats"
+11/18/2012 8:33:03 AM: 127.0.0.1: Serials: 0x400001FC; 
+11/18/2012 8:35:17 AM: 127.0.0.1: Owner 0x20C "Bloop Bloop" ('Zigholtul88') used command 'remove '
+11/18/2012 8:35:19 AM: 127.0.0.1: Owner 0x20C "Bloop Bloop" ('Zigholtul88') deleting 0x20D "Boryan" (no account)
+11/18/2012 8:35:31 AM: 127.0.0.1: Owner 0x20C "Bloop Bloop" ('Zigholtul88') used command 'admin '
+11/18/2012 8:35:37 AM: 127.0.0.1: Owner 0x20C "Bloop Bloop" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/18/2012 8:35:38 AM: 127.0.0.1: Owner 0x20C "Bloop Bloop" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/18/2012 1:43:04 PM
+
+11/18/2012 1:44:43 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'add bory'
+11/18/2012 1:44:46 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "Boryan"
+11/18/2012 1:44:46 PM: 127.0.0.1: Serials: 0x219; 
+11/18/2012 1:44:59 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'add staff'
+11/18/2012 1:45:03 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "StaffOfMongbats"
+11/18/2012 1:45:03 PM: 127.0.0.1: Serials: 0x4000044F; 
+11/18/2012 1:49:32 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'remove '
+11/18/2012 1:49:34 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') deleting 0x219 "Boryan" (no account)
+11/18/2012 1:50:01 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'go '
+11/18/2012 1:52:22 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'go '
+11/18/2012 1:52:54 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'add polar'
+11/18/2012 1:52:57 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (683, 638, 4) in Malas: "RideablePolarBear"
+11/18/2012 1:52:57 PM: 127.0.0.1: Serials: 0x400005D4; 
+11/18/2012 1:59:29 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'set str 100'
+11/18/2012 1:59:31 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') set property 'str' of 0x216 "Moop" ('Zigholtul88') to '100'
+11/18/2012 1:59:48 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'set dex 85'
+11/18/2012 1:59:49 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') set property 'dex' of 0x216 "Moop" ('Zigholtul88') to '85'
+11/18/2012 1:59:52 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'add plat'
+11/18/2012 2:00:45 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1188, 810, 16) in Malas: "PlateArms"
+11/18/2012 2:00:45 PM: 127.0.0.1: Serials: 0x400005E1; 
+11/18/2012 2:00:48 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1188, 809, 12) in Malas: "PlateChest"
+11/18/2012 2:00:48 PM: 127.0.0.1: Serials: 0x400005E2; 
+11/18/2012 2:00:52 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1189, 809, 10) in Malas: "PlateGloves"
+11/18/2012 2:00:52 PM: 127.0.0.1: Serials: 0x400005E3; 
+11/18/2012 2:00:54 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1190, 808, 15) in Malas: "PlateGorget"
+11/18/2012 2:00:54 PM: 127.0.0.1: Serials: 0x400005E4; 
+11/18/2012 2:00:58 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1191, 809, 14) in Malas: "PlateHelm"
+11/18/2012 2:00:58 PM: 127.0.0.1: Serials: 0x400005E5; 
+11/18/2012 2:01:02 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1191, 808, 14) in Malas: "PlateLegs"
+11/18/2012 2:01:02 PM: 127.0.0.1: Serials: 0x400005E6; 
+11/18/2012 2:01:34 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'add dye'
+11/18/2012 2:01:37 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1190, 810, 12) in Malas: "Dyes"
+11/18/2012 2:01:37 PM: 127.0.0.1: Serials: 0x400005EB; 
+11/18/2012 2:01:40 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1191, 809, 14) in Malas: "DyeTub"
+11/18/2012 2:01:40 PM: 127.0.0.1: Serials: 0x400005EC; 
+11/18/2012 2:03:17 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'add dyetube'
+11/18/2012 2:03:18 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'add dyetub'
+11/18/2012 2:03:20 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1190, 809, 11) in Malas: "dyetub"
+11/18/2012 2:03:20 PM: 127.0.0.1: Serials: 0x400005F0; 
+11/18/2012 2:03:20 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'add dyetub'
+11/18/2012 2:03:20 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1190, 810, 12) in Malas: "dyetub"
+11/18/2012 2:03:20 PM: 127.0.0.1: Serials: 0x400005F1; 
+11/18/2012 2:05:23 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'add drow'
+11/18/2012 2:05:27 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') building at (1129, 816, 0) in Malas: "OborunianDrowSpiderTrainer"
+11/18/2012 2:05:27 PM: 127.0.0.1: Serials: 0x22C; 
+11/18/2012 2:05:46 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'remove '
+11/18/2012 2:05:47 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') deleting 0x22C "an oborunian drow spider trainer" (no account)
+11/18/2012 2:25:43 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'admin '
+11/18/2012 2:25:46 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/18/2012 2:25:46 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/18/2012 2:39:34 PM
+
+11/18/2012 2:40:43 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'go '
+11/18/2012 2:41:01 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'remove '
+11/18/2012 2:41:02 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') deleting 0x80 "Tabitha" (no account)
+11/18/2012 2:41:32 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'admin '
+11/18/2012 2:41:36 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/18/2012 2:41:36 PM: 127.0.0.1: Owner 0x216 "Moop" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/18/2012 2:57:10 PM
+
+11/18/2012 3:07:09 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'admin '
+11/18/2012 3:30:29 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'add polar'
+11/18/2012 3:30:32 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') building at (1242, 1058, 0) in Malas: "RideablePolarBear"
+11/18/2012 3:30:32 PM: 127.0.0.1: Serials: 0x400004DE; 
+11/18/2012 3:32:55 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'add mag'
+11/18/2012 3:32:58 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') building at (1330, 839, 20) in Malas: "EvilMageLord"
+11/18/2012 3:32:58 PM: 127.0.0.1: Serials: 0x247; 
+11/18/2012 3:33:02 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') building at (1328, 839, 20) in Malas: "EvilMage"
+11/18/2012 3:33:02 PM: 127.0.0.1: Serials: 0x248; 
+11/18/2012 3:33:06 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'm remove'
+11/18/2012 3:33:07 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') deleting 0x248 "Cindy" (no account)
+11/18/2012 3:33:08 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') deleting 0x13 "Izlay the Ebonheart" (no account)
+11/18/2012 3:33:11 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'm remove'
+11/18/2012 3:33:12 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') deleting 0x247 "Ylthallynon the Insane" (no account)
+11/18/2012 3:33:25 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') starting facet clear of Malas (1027 objects)
+11/18/2012 3:33:25 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'clearfacet '
+11/18/2012 3:33:33 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') deleting 1027 objects
+11/18/2012 3:33:35 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'admin '
+11/18/2012 3:33:40 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'decorate '
+11/18/2012 3:36:00 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'go '
+11/18/2012 3:54:23 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'go '
+11/18/2012 3:57:24 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'where '
+11/18/2012 3:58:59 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'Add static 2972 set movable False hue 0 light Circle225'
+11/18/2012 3:59:01 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') building at (1228, 1080, 5) in Malas: "static" "2972" "set" "movable" "False" "hue" "0" "light" "Circle225"
+11/18/2012 3:59:01 PM: 127.0.0.1: Serials: 0x40000A9E; 
+11/18/2012 3:59:20 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'Add static 3018 set movable False hue 0 light Circle225'
+11/18/2012 3:59:23 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') building at (1229, 1080, 7) in Malas: "static" "3018" "set" "movable" "False" "hue" "0" "light" "Circle225"
+11/18/2012 3:59:23 PM: 127.0.0.1: Serials: 0x40000AA0; 
+11/18/2012 3:59:25 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'Add static 3018 set movable False hue 0 light Circle225'
+11/18/2012 3:59:25 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') building at (1228, 1080, 5) in Malas: "static" "3018" "set" "movable" "False" "hue" "0" "light" "Circle225"
+11/18/2012 3:59:25 PM: 127.0.0.1: Serials: 0x40000AA2; 
+11/18/2012 3:59:28 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'remove '
+11/18/2012 3:59:29 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') deleting 0x40000AA0 (Static)
+11/18/2012 3:59:31 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'props '
+11/18/2012 4:00:44 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'remove '
+11/18/2012 4:00:45 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') deleting 0x40000AA2 (Static)
+11/18/2012 4:01:54 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'where '
+11/18/2012 4:04:31 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'where '
+11/18/2012 4:05:50 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'add boryan'
+11/18/2012 4:05:51 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') building at (1230, 1069, 10) in Malas: "boryan"
+11/18/2012 4:05:51 PM: 127.0.0.1: Serials: 0x3D6; 
+11/18/2012 4:05:52 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'add boryan'
+11/18/2012 4:05:52 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') building at (1231, 1071, 10) in Malas: "boryan"
+11/18/2012 4:05:52 PM: 127.0.0.1: Serials: 0x3D7; 
+11/18/2012 4:05:54 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'add boryan'
+11/18/2012 4:05:56 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') building at (1229, 1071, 10) in Malas: "boryan"
+11/18/2012 4:05:56 PM: 127.0.0.1: Serials: 0x3D9; 
+11/18/2012 4:12:04 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'm remove'
+11/18/2012 4:12:04 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') deleting 0x3D6 "Boryan" (no account)
+11/18/2012 4:12:05 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') deleting 0x3D9 "Boryan" (no account)
+11/18/2012 4:12:08 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') used command 'm remove'
+11/18/2012 4:12:08 PM: 127.0.0.1: Owner 0x205 "Blah" ('Zigholtul88') deleting 0x3D7 "Boryan" (no account)
+11/18/2012 4:13:27 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'set str 100'
+11/18/2012 4:13:29 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') set property 'str' of 0x401 "Boryan" ('Zigholtul88') to '100'
+11/18/2012 4:13:37 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'add robe'
+11/18/2012 4:13:39 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "robe"
+11/18/2012 4:13:39 PM: 127.0.0.1: Serials: 0x40000B41; 
+11/18/2012 4:13:52 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'add dyetube'
+11/18/2012 4:13:54 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'add dyetub'
+11/18/2012 4:13:56 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "dyetub"
+11/18/2012 4:13:56 PM: 127.0.0.1: Serials: 0x40000B42; 
+11/18/2012 4:13:56 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'add dyetub'
+11/18/2012 4:13:57 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "dyetub"
+11/18/2012 4:13:57 PM: 127.0.0.1: Serials: 0x40000B43; 
+11/18/2012 4:14:01 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'add dyetub'
+11/18/2012 4:14:01 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') building at (2521, 1976, 25) in Malas: "dyetub"
+11/18/2012 4:14:01 PM: 127.0.0.1: Serials: 0x40000B45; 
+11/18/2012 4:14:11 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'add dyes'
+11/18/2012 4:14:13 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "dyes"
+11/18/2012 4:14:13 PM: 127.0.0.1: Serials: 0x40000B46; 
+11/18/2012 4:14:20 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'save '
+11/18/2012 4:16:48 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'add '
+11/18/2012 4:17:03 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'Add BearMask'
+11/18/2012 4:17:03 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "BearMask"
+11/18/2012 4:17:03 PM: 127.0.0.1: Serials: 0x40000B65; 
+11/18/2012 4:17:14 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'Add DeerMask'
+11/18/2012 4:17:15 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') building at (2520, 1975, 25) in Malas: "DeerMask"
+11/18/2012 4:17:15 PM: 127.0.0.1: Serials: 0x40000B71; 
+11/18/2012 4:17:32 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'Add SkullCap'
+11/18/2012 4:17:33 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') building at (2520, 1975, 25) in Malas: "SkullCap"
+11/18/2012 4:17:33 PM: 127.0.0.1: Serials: 0x40000B76; 
+11/18/2012 4:18:25 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'props '
+11/18/2012 4:19:34 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'props '
+11/18/2012 4:19:50 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'props '
+11/18/2012 4:25:03 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'go '
+11/18/2012 4:26:07 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'where '
+11/18/2012 4:26:14 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'where '
+11/18/2012 4:50:51 PM: 127.0.0.1: Owner 0x401 "Boryan" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/18/2012 4:58:00 PM
+
+11/18/2012 5:01:52 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/18/2012 5:03:23 PM
+
+11/18/2012 5:05:59 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') starting facet clear of Malas (1006 objects)
+11/18/2012 5:05:59 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'clearfacet '
+11/18/2012 5:06:01 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 1006 objects
+11/18/2012 5:06:02 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+11/18/2012 5:06:06 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'decorate '
+11/18/2012 5:06:41 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'skills '
+11/18/2012 5:06:47 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'set str 100'
+11/18/2012 5:06:48 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'str' of 0x1 "Elandria" ('Zigholtul88') to '100'
+11/18/2012 5:06:55 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'set dex 85'
+11/18/2012 5:06:56 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'dex' of 0x1 "Elandria" ('Zigholtul88') to '85'
+11/18/2012 5:07:02 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'set int 25'
+11/18/2012 5:07:02 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'int' of 0x1 "Elandria" ('Zigholtul88') to '25'
+11/18/2012 5:07:10 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'set hits 200'
+11/18/2012 5:07:11 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'hits' of 0x1 "Elandria" ('Zigholtul88') to '200'
+11/18/2012 5:07:21 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'set stam 200'
+11/18/2012 5:07:22 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'stam' of 0x1 "Elandria" ('Zigholtul88') to '200'
+11/18/2012 5:07:26 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'set mana 50'
+11/18/2012 5:07:27 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property 'mana' of 0x1 "Elandria" ('Zigholtul88') to '50'
+11/18/2012 5:08:11 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add specialha'
+11/18/2012 5:08:13 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1167, 1039, 10) in Malas: "SpecialHairDye"
+11/18/2012 5:08:13 PM: 127.0.0.1: Serials: 0x400003E2; 
+11/18/2012 5:08:14 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1166, 1038, 10) in Malas: "SpecialHairDye"
+11/18/2012 5:08:14 PM: 127.0.0.1: Serials: 0x400003E3; 
+11/18/2012 5:08:49 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add amaz'
+11/18/2012 5:08:54 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1166, 1039, 10) in Malas: "AmazonianFighterBelt"
+11/18/2012 5:08:54 PM: 127.0.0.1: Serials: 0x400003E4; 
+11/18/2012 5:08:56 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1167, 1039, 10) in Malas: "AmazonianFighterBoots"
+11/18/2012 5:08:56 PM: 127.0.0.1: Serials: 0x400003E5; 
+11/18/2012 5:08:59 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1167, 1038, 10) in Malas: "AmazonianFighterBustier"
+11/18/2012 5:08:59 PM: 127.0.0.1: Serials: 0x400003E6; 
+11/18/2012 5:09:01 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1166, 1038, 10) in Malas: "AmazonianFighterGloves"
+11/18/2012 5:09:01 PM: 127.0.0.1: Serials: 0x400003E7; 
+11/18/2012 5:09:04 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1168, 1038, 10) in Malas: "AmazonianFighterHelmet"
+11/18/2012 5:09:04 PM: 127.0.0.1: Serials: 0x400003E8; 
+11/18/2012 5:09:40 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add spea'
+11/18/2012 5:09:48 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1160, 1039, 10) in Malas: "ColdSteelSpear"
+11/18/2012 5:09:48 PM: 127.0.0.1: Serials: 0x400003E9; 
+11/18/2012 5:10:03 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property '[Fencing: 1000].Base' of 0x1 "Elandria" ('Zigholtul88') to '1000'
+11/18/2012 5:10:07 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property '[Fencing: 100].Base' of 0x1 "Elandria" ('Zigholtul88') to '100'
+11/18/2012 5:10:15 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property '[Parrying: 100].Base' of 0x1 "Elandria" ('Zigholtul88') to '100'
+11/18/2012 5:10:19 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property '[Tactics: 100].Base' of 0x1 "Elandria" ('Zigholtul88') to '100'
+11/18/2012 5:10:30 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property '[Anatomy: 100].Base' of 0x1 "Elandria" ('Zigholtul88') to '100'
+11/18/2012 5:10:53 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') set property '[Healing: 100].Base' of 0x1 "Elandria" ('Zigholtul88') to '100'
+11/18/2012 5:13:16 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'go '
+11/18/2012 5:15:33 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'go '
+11/18/2012 5:17:36 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'tele '
+11/18/2012 5:17:55 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'remove '
+11/18/2012 5:17:56 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') deleting 0xED "a cavern mongbat elder" (no account)
+11/18/2012 5:19:21 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'add pol'
+11/18/2012 5:19:29 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') building at (1173, 969, 0) in Malas: "RideablePolarBear"
+11/18/2012 5:19:29 PM: 127.0.0.1: Serials: 0x400004C7; 
+11/18/2012 5:24:31 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+11/18/2012 5:24:36 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+11/18/2012 5:24:36 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/18/2012 5:26:13 PM
+
+##############################
+Log started on 11/18/2012 5:34:14 PM
+
+11/18/2012 5:37:34 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'go '
+11/18/2012 5:37:59 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'go '
+11/18/2012 5:40:04 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'admin '
+11/18/2012 5:40:10 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/18/2012 5:40:10 PM: 127.0.0.1: Owner 0x1 "Elandria" ('Zigholtul88') used command 'save '

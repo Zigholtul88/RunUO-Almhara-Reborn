@@ -1,0 +1,352 @@
+// MOTD v1
+// Author: Joeku
+// December 4, 2007
+// 
+// To create an entry for the MOTD, it must start
+// with "[*]" and be at least three lines long.
+// 
+// Example:
+//   [*]12/2/2007
+//   Joeku
+//   This is an example entry.
+// 
+// The first line is the date, the second
+// line is the author of the entry, and all lines
+// afterward make up the body of the entry.
+// 
+// Blank and commented (starting with "//") lines
+// will not be displayed in-game. Entries with fewer
+// than three lines will not be displayed in-game.
+
+[*]11/06/2019
+Updates
+- Removed most if not all customized magic equipment from the server and those that still exist are reserved for certain quests.
+- Added in some quests, bringing the total amount up to 120.
+- Removed certain backpacks from character creation. Players will have to buy them now from certain provisioners.
+- Re-implemented the quest completion requirements for entering the Harashi Nabi Desert. Now they'll have to complete 30 quests, but it won't matter which ones are completed since all quest rewards come with a deed that'll add to their total completed quests.
+- Certain dungeons have been repurposed to where defeating their designated champ boss will spawn keys needed to get into other dungeons.
+
+[*]09/27/2019
+Updates
+- Added a traditional leveling system and redid all current equipment minus clothing along with player mobile stats to account for it.
+- Added a ton of new weapons such as pilums and armor such as chitin leather plus many more.
+- All monsters now have an associated level to go along with them, allowing players an insight into their challenge rating.
+- Removed all magic equipment from vendors and remade them to account for leveling system.
+- Updated 17 quests from the pre-ml quest system and added them into the new one. Currently there are 68 quests not counting those from the old system.
+- Removed quest ticket system and players can now venture into the Harashi Nabi desert without having to do 24 quests.
+- Server has been converted into a class based pve one. Your class type is picked out at the beginning and will determine what stats are increased upon leveling up.
+- All class gates are set up to where players no longer have to grind in order to become part of the action.
+
+[*]07/20/2019
+Updates
+- ML Quest System (which allows for multiple quests at once), has finally been implemented and over 38 quests are currently added into the game world.
+- Literally all current spawned animals/monsters have been given major updates to account for additional attack options, debuffs, increased running speed, various projectiles and many other options.
+- Remade Playermobile.cs to allow for new sounds to be played whenever characters run across various surfaces. From stone floors to wooden panels to dirt roads and even water.
+
+[*]05/21/2019
+Updates
+- Shop inventory throughout the lands has been given a major overhaul. Resulting in all major establishments receiving more inventory along with up to 200+ magic armor/shields/clothing/jewelry/weapons to basically ensure gold won't be taking up bank boxes.
+*DefCrafting Update* Due to server slowdown, blacksmithy and cooking gumps have been split into separate categories, basically making certain crafting tools more suited towards a specific kind.
+- Removed recipe scrolls from server. Never got it to work properly for my liking.
+- Total marked quests count is now up to 30. Most of which are accessible right from the start.
+- Added key pouches to character creation to account for unique key system.
+- Added mages and miners pouches to certain vendors. One of them holds up to 100 of each reagent, the other holds up to 100 of each ingot. Both bags are blessed but will cost a pretty penny.
+
+[*]12/02/2018
+Updates
+- Character Creation now serves an actual use regardless if we're going for your typical class system. Of which they've been expanded upon and in addition those class/advanced selections in character creation more or less serve as base classes and most of the class portals in the starting area act more or less as permanent buffs/equipment modifications pertaining to both that class, gender, and race associated with it.
+*New* Cooking has, and is still currently going through a major overhaul since we've incorporated large elements from ServUOs Cooking Expansion set which includes hundreds of new foods ranging from just about everything you can imagine, along with new ideas for some old items such as dough, wheat, and dinner plates with multiple uses that afterwards must be washed with water.
+*New* DefCooking.cs now has (ahead of blacksmithy) one of the largest craft tables in the entire game and as such will be relying on recipe scrolls to compensate for the insane amount of crafting potential.
+*GLITCH* Recipe scrolls are a bit buggy. To fix that, open up any crafting gump, close it, move recipe scroll around and THEN it will display the name of what it is. This seems to only occur during sever reboots since the way recipe scrolls are implemented isn't as hardwired/coded as well into this version of RunUO as previously thought since recipe numbers are technically stored in the various defcrafting files and aren't actually able to be displayed unless you open up the craft menu. Luckily this only happens during server reboots and unlike so many issues that rear their ugly heads, this one hasn't caused server crashes so there's that at least.
+
+[*]11/20/2018
+Updates
+- Inns have been modded to remove player exploitable bugs due to the regions regenerative properties.
+- Reagent harvesting axes have been added and modded to remove the max magery requirement in order to find reagents. In addition certain areas found throughout the world map will offer increased amounts of a particular reagent.
+- New ammo types for arrows/bolts have been added, each with their own unique gimmicks ranging from bleeding, freezing, poison (based off of Poisoning skill), and even various elemental modifiers.
+- Added [hunger command for player use. Type out [hunger
+- Both blacksmith/leather worker vendors are now able to repair equipment at cost based off of lost durability. Type out repair.
+- In addition to the standard explosion potion, Cold/Energy variants in the form of Lightning/Shatter potions have been added and are craftable.
+- Forensic Evaluation actually has a use now. The higher it is = / by 4 will determine the amount of extra loot that can be salvaged from various mobile corpses.
+- WIP: Tracking skill could potentially be more implemented onto the server since we're slowly tailoring all the regions to where if, at the right level will making locating hidden treasure chests an actual possibility.
+- WIP: Taste ID is gonna serve a purpose for once. By allowing players to taste basically every item/mobile that's currently on the server. Which will lead to all sorts of strange and wierd side effects. Ever wanted to lick your halberd? A poisonous frog that can raise your Poisoning skill? Wonder what those mad pumpkin spirits tasted like? Free health regeneration from faerie beetles? Or anything that equally just as stupid and at times makes you wanna go, seriously you coded that? What the fuck is wrong with you? Have fun.
+
+[*]10/23/2018
+Updates
+- The quests "Stolen Necklace" and "Staff of Flying Mongbats" have been updated to include a chase sequence with its own music to accompany it. Even better, it'll actually keep on playing, regardless of any areas you wander into until the quest is complete.
+- Archery buttes and training dummies have been upgraded from 30 skill to 50.
+- Samson Swamplands has been redesigned with its own gimmick. Apart from its own dungeon along with creatures native to the swamps, players (even gms) that wander into the area without a green candle equipped and lit will eventually be chased down by bog creepers. Greenish scorpions that hit extremely hard, can run extremely fast and have one of the nastiest range perceptions in the entire game. Also they can hit with lethal poison and unless you have greater cure potions, you're pretty much dead since the poison over time at 0 resists deals around 80 damage. 
+
+[*]10/15/2018
+Updates
+- *NEW* Candles and torches are now craftable. All tools and components can be found at various innkeepers and with the exception of torchs, everything else requires both Camping skill and a heatsource.
+- Candles, Lanterns and Torches have been reformatted into useable weapons (that deal 100% fire damage though extremely weak and with low durability) in order to compensate for their complete uselessness when stacked against nightsight. Granted they're still kinda useless but much like with Dark Souls 2 ladle, fun can be had with these tools.
+- Potions made with Alchemy now require a heat source. In other words, those heating stands are actually useful for once besides originally being reserved for only cooking fishsteaks.
+
+[*]10/04/2018
+Updates
+- Summoning list for the spell Summon Creature has been expanded to include 25 brand new critters to mess about with. Ranging from plants, reptilians, bugs, and even zebra.
+
+[*]10/03/2018
+Updates
+- Issue with Inns have been fixed. Everyone can log out easily, they'll benefit from the overall healing regeneration, and when location marked will now display its own runename.
+- (Skaddria Naddheim): Need to remove dummy and archery butte statics from one building in order to then install player ready versions.
+- Need to update Tailor vendor sell list to account for redesigned crafting list.
+
+[*]09/03/2018
+Updates
+- Removed vendors and all quest npcs from Hammerhill and transferred over to Skaddria Naddheim to be used as the new player starting location. In addition as time goes on, more and more vendors/quest npcs plus others will be added into the encampment.
+
+[*]07/20/2018
+Updates
+- Turns out I was a fucking hypocrite because its been fixed to where mobiles that trigger range sensitive events to players/groups can now be targeted/killed by non player mobiles on the basis of the coding being better structured and the event handle no longer triggering on death upon (if Combatant is PlayerMobile) but rather it just goes off automatically on death (no reference to object whatever bs needed since the event is listed before the OnBeforeDeath method which doesn't require referencing anything other than a return type) and the event when going off only targets player characters.
+
+[*]07/19/2018
+Updates
+- Mobiles that trigger range sensitive events to players (more specifically player groups so they don't have to either rekill the mob or me having to resort to dropping like 15 of a specific quest item) upon death cannot be targeted by player tamables. THERE IS NO WAY WE CAN POSSIBILY FIX THIS WITHOUT CRASHING THE SERVER AND WE"RE EXHAUSTED TO THE POINT OF LITERALLY GOING INSANE! IF YOU HAVE A PROBLEM, WE'LL PROVIDE YOU THE CODE AND YOU'RE MORE THAN WELCOME TO FIX IT YOURSELF!
+
+[*]07/16/2018
+Updates
+- names.xml has been updated to include new name listings for ancient wyrms, dragons, mongbats, parrots, ophidians, terathans, and terathan drones.
+
+"Boss Rooms"
+- Despite just being recent an idea and still in development, the newbie dungeon "Mongbat Hideout" has been given its first boss room complete with its own area music much akin to the Souls series.
+- The mob "Cavern Mongbat Elder" has been slightly modded to where in addition to dropping the boss key and summoning staff needed for certain tasks, it'll now drop up to 5 of each for players seeking to do some of those events with party groups.
+- Created our first champion spawn that doesn't require killing tons of enemies in order to trigger its encounter. Its a simple cavern mongbat elder with beefed up hit points and a throwing ability much like with the Gargoyle Destroyer. Except its way, way more weaker in damage potential, it happens with just about every attack landed on the creature, and the static id is randomized with each throw to range from barrels, crates, vases, potted plants, and even trees much bigger than the character player.
+
+[*]07/09/2018
+Updates
+- Greater Heal spell has been given new animations to make it really feel like its an improved heal spell.
+- With the exception of Hardcore, class gates have been modified to send items to players bank boxes and to help make the game a bit more accessible to the modern era, mini strategy guides pertaining to that individual class have been added to each backpack.
+- All summoning statues will now give out a warning letting you know what type of creature you're summoning and how many control slots it takes up.
+- To make travel just a tad bit easier for the impatient crowd, doing the mini quest "The Elusive Equine" rewards to players a statue that'll summon a horse mount. They're much weaker than standard horses and they take up 2 control slots, but they don't require Animal Taming and the quest is repeatable.
+- The Spidersilk Cloak of Protection that's given as a reward in the quest "In Search of Spidersilk" now truly lives up to its namesake. It'll actually protect you from all hostile arachnid mobiles and works in the same vein as Tribal Paint and the Orc Mask when it comes to dishing out harsh punishments for breaking disguise.
+
+"Environment Hazards"
+Because of more and more implementation of the damaging regions system, the following effects for certain environments so far include:
+- Players venturing out into Wintergrove and all associated dungeons in that region without wearing outer clothing will take cold damage.
+- Players in the Harashi Nabi desert who venture underneath the lake that leads to Seaspray Solitude without a breathing apparatus will slowly drown. Unlike with Wintergrove, unprepared players who die will have to leave the entire dungeon and head back onto the surface before proper resurrections can be pulled off.
+- Players that venture close to lava will immediately burst into flames and take fire damage.
+- Players that stumble into the swampy portions in Bog of Toads will immediately be poisoned.
+- Just about all areas where players can take damage, it will also apply to their stamina and mana so best be prepared.
+- The same cannot be said for inns. In addition to being safe for quickly logging out from the game, as you walk about the premise you'll slowly regain hit points, stamina and mana until you're at full health.
+- Originally these hazards only applied to player characters, but now they'll apply to basically everyone to include gms and admins that goes into those areas. Other npc mobiles are safe. You on the other hand aren't.
+
+"Traps"
+- The moving spike blocks from the old Legend of Zelda titles have been added to various dungeons and they deal a lot of damage with each hit. You might even take two hits in the process if you're too slow to bypass them.
+
+"Monsters"
+- Taking inspiration from Skyrim. Found throughout the main map you may stumble across a scourge dragon, which is a slightly modified dragon to include a small chance of raining down meteors during combat.
+- Added BaseSpecialCreature file to scripts which allows additional abilities to be added to mobs including multi-targeting breath attacks, tripe bolts, and many more.
+- The random npc names for Ancient Liches have been transferred over to lich lords, and instead the Ancient Lich has become its own character by the name of Vygul the Uncleansed. Not only does he still retain the high magic skill levels, but he's also been equipped with some nifty abilities to include triple bolts, earthquake, crimson meteor, flame cross, and much like with the balron whenever he's slayed by a player character they'll automatically be hit by flamewave which could potentially kill them if they're at low health. In addition all lich and lich lords have been confined to Vygul's Vault and despite their low numbers they make up for it with undead summoning, crimson meteor, and triple bolt in order to help even out the odds.
+- More and more mobs have been modified to expand upon items given out with the carving system. Having both a dagger and a random outer torso piece of equipment such as a robe, trenchcoat, or something to that effect is gonna be an absolutely requirement when it comes to exploring various regions.
+
+[*]07/07/2018
+Updates
+- Craft tables for Blacksmithy, Fletching, Carpentry, and Tailoring have been modified in order to apply a little more realism to the game. Despite how intimidating this may seem at first, I've taken the liberty towards making it far less stressful when it comes to easily obtainable materials. Be it from vendors or all those random crates and barrels that spawn more frequently than everything else on the server. In addition all weapons, armors, and shields can be sold to various vendors and are priced correctly to account for material cost plus a base cost. Pvmers can normally get most use out of them, especially for some of the more rarer items, though skilled crafters will make money far more quicker since they're only need to worry about skill and material costs.
+- Several new quests and mini quests have been added. Now all town leather workers, miners, ranchers, and tavern keepers have their own mirrored quests. Though in the case of the ranchers, they're slightly different when it comes to locating their required missing pet.
+
+[*]06/25/2018
+Updates
+- Replaced all individual world gates with a modded teleporter script in which the only difference being visible and appearing as a moongate. Set locations remain the same, except now companions will actually follow you this time and for these specific gates in particular that even includes enemy targets.
+
+[*]06/24/2018
+Updates
+- Added [Stats command for player use. Type out [mystats
+- Added [HelpMe command for player use.
+- Added [Dump command for player use.
+- Added [BondTime command for player use.
+- Players that type out "what is my status" will be given info pertaining to creation date, online time, current session, fame, and karma.
+- Had to modify Bandage.cs in order to get this next command to work. Players that type out [bandage self or [bs will automatically have bandages applied to them. If they're running low or are out, a message will appear letting them know.
+- All newly created players now start with a special book that provides info to command executions in game.
+- MAJOR NEWS: Vendors, town guards, escortables, and most good npcs if killed by a player character will add to their kill count. Kill 5 of them and you'll automatically be labelled a murderer.
+- MAJOR NEWS: All bards and veterinaries now start with 100 musicianship so as to cut down on tedious grinding and thus allow players to actually utilize those classes right from the start.
+
+[*]04/06/2018
+Updates
+- Recently created some code that allows for custom made doors requiring specific keys. One of those doors is currently located at Sagitta Residence and unlocking those requires completing the Witch's Apprentice quest in order to gain access to the house. It also doubles as an inn and the coordinates are perfected to where you can log out anywhere in the house and not worry about the 5 minute logout delay.
+
+[*]04/04/2018
+Updates
+- Chocolate items for Cooking are apparently bugged for some reason. Will need to fix that.
+- Implemented Graverobbing System and will be further modified as time goes on.
+- Added Grave Robbers Shovel to all "thief" vendors.
+- Modified Container.cs and made it so that standard player backpacks can now have their max weight increased with the use of various deeds. For now these deeds can be rewarded for completing quests that are deemed one time only and cannot be restarted.
+- Added Yahtzee Dice.
+- Added [AddToParty command for player use. 
+- Added [ChangeSeason command for administrator use.
+- Water Lizards now give out water when you use an empty pitcher on them.
+
+[*]02/21/2018
+Updates
+- Ophidian Palace over in the Harashi Nabi Desert continent is decorated, spawned with its own monsters and chests. 
+- Replaced old custom glacial staff and spells with those from Ioshia server with some added modifications.
+- Lesser Antlion packies can now be purchased from Elmhaven Rancher for a mere 2000 gold and are more durable than the standard packhorse/packllama with the same control slot requirements.
+- A bridge has been added to the south-eastern peak of the Zaythalor region (right next to Cluckidile and the ratman infested farmhouse) that connects to Samson Swamplands. A new area that has just recently finished being decorated, spawned, and will now lead directly into the dungeon Murkmere Dwelling providing your magic resist is 40 or higher.
+- That annoying cave entrance over at Popplewell Ranch has finally been eliminated and the fences have been fixed.
+- Modified Beverages.cs and taking cues from the cow, the water beetles over in Samson Swamplands act just like them (despite these ones being aggressive) and can be used to refill your pitchers. Yeah............. fancy that image swimming through your noggin.
+- The quest "Hag's Assistant" or "Witch Apprentice" has been modified to comply with the Malas map along with all dialogue referencing Britannian locations being replaced with Almharian variants. 
+
+[*]01/27/2018
+Updates
+- The quest item "Mongbat Staff" or "Staff of Mongbats" has now officially been fixed to where it will now deplete charges.
+- Edited the Stuck Menu coordinates to where no matter the map, the player will be teleported to Hammerhill bank.
+- Fixed the music config file to where playing music will no longer crash the client. Turns out each track needs to either end with .mp3 or ,loop
+- Edited all shovels and pickaxes with uses depending on item. Pickaxes will have more uses but require the right amount of strength and they weight more compared to shovels.
+- Edited BaseInstrument.cs to take into account all currently spawned creatures and the rating of each individual one is more tailor made to that specific region. For the players sanity sake plus my own - what little is left.
+- Edited Loot.cs by adding in all custom gems.
+- The dungeon Stone Burrow Mines is finished being fully decorated and spawned. However Shatter Glass Caverns still needs to be worked on.
+
+[*]01/23/2018
+Updates
+- Stygian Abyss expansion had to be activated in order to fix some of the maping issues when it came to radar display. However the gargoyle race is still bugged due to coding issues so DO NOT select it as a playable option. To nullify this error, any characters you create can now be deleted in seconds should you mess up without worrying about the usual 7 day waiting time.
+- Loot.cs, plus many of the crafting tools such as blacksmithing, fletching, and tailoring have been updated to include many of the recently implemented equipment.
+- Dungeon count has been bumped up to 27.
+
+[*]12/03/2017
+Updates
+- Restructured Malas by relocating dungeons onto a separate map and are currently being spawned.
+- In total there will be up to 25 dungeons of various sizes which should hopefully be finished when possible.
+- All dungeon entrance teleporters now play a random soundbyte (depending on region), indicating that you've entered hostile territory and to add atmosphere (regardless of whether music is enabled or not).
+- Took bits and pieces of graphics from the cancelled UO Brazilian project and added onto it with a bunch of equipables, including new clothing, armor, weapons and even items that were previously exclusive to the Third Dawn 3d Client now have updated gump art. Also reimplemented certain mobs such as sheep, mound of maggots, and rotting corpses that were originally lost with the upgrade, and basically every existing UO creature that was originally just a rehued model (like daemons, spiders, and dragons) now have their own distinctive animations 
+- Instruments now have their own gumps and MUST BE EQUIPPED in order for bardic skills to work.
+- Server and Client have now been transferred over to Win10 desktop and after 1 year finally got CentrUO (map editing program) to function as intended. More work on the various maps will be provided as time goes on and hopefully with some much needed assistance.
+- Technically the quest item Mongbat Staff is still broken since charges can't be depleted. Will fix that if I'm even able to.
+- The typical RunUO spawners have now been fully upgraded to PremiumSpawners.
+- The quest "Enchanted Shovel" is currently bugged since Shatter Glass Caverns and Stone Burrow Mines still need to be spawned ever since the map transfer.
+- The Harashi Nabi continent is finished being decorated. Some locations like Red Dagger Keep and Ophidian Palace are barren of npcs other than 1 lone quest giver.
+
+[*]06/03/2017
+Updates
+- Mongbat Staff quest item now functions as entended.
+- Finished decorating Azurite Caverns.
+- Added Covens Landing Chemist.
+- Added Covens Landing Fletcher.
+- Added Guardians Horizon Blacksmith.
+- Added Guardians Horizon Healer.
+- Added Guardians Horizon Weaponsmith.
+- Spawned Tundra Protectors, Ice Wraiths, and Remorhai in Wintergrove.
+
+[*]03/27/2017
+Updates
+- Replaced some of the original weapon and shield tile art to better match the gump which they are associated with.
+
+[*]03/18/2017
+Updates
+- Updated the butcher vendor sell list so that its actually worth hunting down that random trash.
+
+[*]03/13/2017
+Updates
+- Removed several existing books for plot related purposes and remodified several guides to appear like actual guides.
+
+[*]03/06/2017
+Updates
+- Treasure Maps have now been enabled for Almhara map.
+- In addition to now being able to be found out in the wild, reagents can also be found in random barrels and crates.
+
+[*]03/03/2017
+Updates
+- Removed a ton of useless trees that were simply taking up space.
+- Players can now finally visit the vast desert region of the custom map.
+- Added Banker for Guardians Horizon. 
+- Added in Red Dagger Keep. Town is still in progress.
+- Modifyied tons of existing npc inventory loot for the better. Checking those randoms bags is actually useful. Will be updating more as time goes on.
+- Female Brigands can now cast spells and have been compensated for it.
+
+[*]12/00/2016
+Updates
+- Added several buildings to existing map.
+- Added Scholars Bookcases, containers that can potentially spawn powerful magery scrolls.
+- Replaced existing music with new pieces.
+- Added in several new gump art.
+- Allowed entry into Spider Cave and Ice Dungeon.
+- Added Banker for Covens Landing.
+
+[*]09/00/2016
+Updates
+- Added "Boss Chests" for each spawned dungeon.
+- Replaced some of the gump and static art with better pieces (ex. taller trees).
+- Modified the skill/stat gain rate (fast gain up to 35, then gets slower to raise).
+- Added in more music selections, especially for Elmhaven Library.
+- Added in "Dawn of a New Era - Chapters 1-5" to Elmhaven Librarian shop list.
+- Modified various scripts to allow the spawning of clothing with random attributes.
+- Allowed the use for ship placement on Malas map.
+
+[*]06/00/2016
+Updates
+- Added Sister of Skill for Chivalry.
+- Added in various monster loot that can be sold to butchers.
+- Added Black Ant Hills that when double clicked will either yield various items or spawn 4 enemies that target the player.
+- Modified most monsters so that they need to be carved in order to access certain items.
+- Added Elmhaven Teleporter.
+- Added in ACC Spells System for Bard, Cleric, Druid, Ranger, and Rogue.
+- Removed "Lockpicking Chests" as they are no longer needed.
+- Added "Grandfather Clocks" so that time will actually become more of a gameplay factor.
+
+[*]05/00/2016
+Updates
+- Added in Damaging Regions.
+- Added in Poison Swamp region, dealing 1-3 damage every 25 seconds.
+- Replaced even more of the original music files.
+- Added a 25% chance rating for gold drops from treasure chests, making it more difficult.
+- Added "Enchanted Shovel" quest.
+- Increased the gold costs of all Lockpicking chests on thief vendors. (OUTDATED)
+- Added "Kiss of the Serpent Mistress" quest.
+- Added Sthuo the Mind Flayer spawn for Stoneburrow Mines.
+- Added Wild Turkey spawn for Zaythalor Forest.
+- Added Shatter Glass Slug & Shatter Glass Elemental spawns for Crystal Caverns.
+- Replaced old AI system with Omni AI.
+- Modified treasure chests so that skill gain is possible up to a certain level (based off individual chest).
+
+[*]04/00/2016
+Updates
+- Modified Animal Lore skill so that it shows the amount of Animal Taming needed in order to coerce a particular creature.
+- Increased the mana required for all Magery spells.
+- Allowed the use of special abilities for all ML weapons.
+- Updated the perception range of all active monsters so that they vary when it comes to aggro.
+- Updated the speed rates of all active monsters, ranging from very slow to much faster.
+- Added World Gates for both Wastes of Lost Tua and Llama Island.
+- Added gaman spawns to Wastes of Lost Tua.
+- Added various llama spawns to Llama Island.
+- Added Sewer Hydra spawn for Hammerhill Sewers.
+- Crafted dungeon "Stoneburrow Mines" and added in several custom mobs.
+- Added in Sister of Skill for Magic Resist.
+- Added Running Pants spawn for Zaythalor Forest.
+
+[*]02/00/2016
+Updates
+- Fixed "Those Blue Bastards" quest.
+- Reduced the Str Requirement for certain plate armor pieces.
+- Added in Cracked Spell Damage Gems
+
+[*]01/00/2016
+Updates
+- Reworked character creation so that newer players can now be better informed about the server.
+- Added in sun and moon elf dye bottles for new character creation.
+- Added in Ranger class gate for new character creation.
+- Locked doors will now tell you the required lockpicking that's needed.
+- Added a warning to one time only quests, reminding players that certain quests can not be restarted.
+- Updated the loot for both "kill" and "collect" variant quests so that they drop goodie bags.
+- Made it so that certain quests that are repeatable require several hours (depending on quest) to restart.
+- Added "Egg Collector" and "This Is Not Halloween" quests.
+- Slightly tweaked the Alytharr Forest Hart so that its less lethal.
+- Weakened the poison level of the Oboru Bloated Spider.
+- Reduced the enemy spawn down and increased the spawn timers from 5-10 minutes to 15-30 minutes.
+- Added the Sisters of Skill for Healing and Tinkering.
+- Added a spawning ingredient bag that can mostly be found in butcher shops. 
+- Fixed "Staff of Flying Monkeys" quest.
+
+[*]00/00/2015
+Updates
+- Heavily modified several old quests so that they actually show up on Quest Log.
+- Actually added in several new quests. 
+- Added in 6 new alcoholic beverages including Irish Spirit, Montoya Rock, and Bum Light that temporarily raise skill.
+- Doubled the hit points of all mobs that are currently spawned and updated loot packs.
+- Added in 3 varying levels of skill modifying potions.
+- Added in tons of books and random journal entries for the Hammerhill Sewers.
+- Added in Sewer Bovine, Gaseous Slime and Sewer Hob mobs for the Hammerhill Sewers.
+- Brigands will now talk at random, including the occassional fart.
+- Actually taking the idea of vendors carrying different items depending on town and running with it for once.
+- Updated custom gem color schemes so that they're accurate to real life. 
+- Made lockpicks breakable when attempting to lockpick a chest that's at a higher skill level compared to yours.
+- Updated the dialogue boxes for the Hammerhill vendors.

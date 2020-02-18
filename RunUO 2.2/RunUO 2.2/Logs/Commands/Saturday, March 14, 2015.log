@@ -1,0 +1,24 @@
+##############################
+Log started on 3/14/2015 9:04:13 PM
+
+3/14/2015 9:07:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3469 objects)
+3/14/2015 9:07:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+3/14/2015 9:07:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3469 objects
+3/14/2015 9:13:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/14/2015 9:14:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/14/2015 9:14:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/14/2015 10:53:30 PM
+
+3/14/2015 10:56:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+3/14/2015 10:56:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add DragonArms'
+3/14/2015 10:56:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (765, 602, -12) in Malas: "DragonArms"
+3/14/2015 10:56:59 PM: 127.0.0.1: Serials: 0x40000006; 
+3/14/2015 10:57:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/14/2015 10:57:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000006 (DragonArms)
+3/14/2015 10:58:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/14/2015 10:58:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Skill_1_Name' of ... to 'Imbuing'
+3/14/2015 10:59:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Skill_1_Value' of ... to '10'
+3/14/2015 11:03:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/14/2015 11:03:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/14/2015 11:03:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

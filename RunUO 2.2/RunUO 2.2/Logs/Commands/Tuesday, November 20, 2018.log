@@ -1,0 +1,185 @@
+##############################
+Log started on 11/20/2018 2:07:02 PM
+
+11/20/2018 2:08:22 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/20/2018 2:08:29 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') unhiding 0x1 "Zigholtul" ('Zigholtul88')
+11/20/2018 2:08:29 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+11/20/2018 2:08:33 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'hunger '
+11/20/2018 2:08:37 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/20/2018 2:09:08 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/20/2018 2:09:39 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MaxHitPoints' of 0x4000012A (ReagentAxe) to '45'
+11/20/2018 2:09:46 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'MaxHitPoints' of 0x4000012A (ReagentAxe) to '62'
+11/20/2018 2:09:49 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HitPoints' of 0x4000012A (ReagentAxe) to '45'
+11/20/2018 2:28:22 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/20/2018 2:28:27 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/20/2018 2:28:30 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/20/2018 3:16:02 PM
+
+11/20/2018 3:16:27 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/20/2018 3:16:31 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add arro'
+11/20/2018 3:16:36 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1644, 1859, 5) in Malas: "Arrow"
+11/20/2018 3:16:36 PM: 71.208.10.79: Serials: 0x400000F9; 
+11/20/2018 3:16:47 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/20/2018 3:16:48 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000017D (FukiyaDarts)
+11/20/2018 3:16:50 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/20/2018 3:16:50 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000017E (FukiyaDarts)
+11/20/2018 3:16:54 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/20/2018 3:16:54 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000012A (ReagentAxe)
+11/20/2018 3:16:56 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/20/2018 3:16:57 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000017C (Fukiya)
+11/20/2018 3:16:59 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/20/2018 3:17:00 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000359 (AgeChangeDeed)
+11/20/2018 3:17:02 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/20/2018 3:17:03 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400001F9 (LocalMap)
+11/20/2018 3:17:05 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/20/2018 3:17:14 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1644, 1859, 5) in Malas: "AshArrow"
+11/20/2018 3:17:14 PM: 71.208.10.79: Serials: 0x400000FB; 
+11/20/2018 3:17:27 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+11/20/2018 3:17:28 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+11/20/2018 3:17:44 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1644, 1859, 5) in Malas: "BloodwoodArrow"
+11/20/2018 3:17:44 PM: 71.208.10.79: Serials: 0x400000FC; 
+11/20/2018 3:17:56 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1644, 1859, 5) in Malas: "BloodwoodArrow"
+11/20/2018 3:17:56 PM: 71.208.10.79: Serials: 0x400000FE; 
+11/20/2018 3:17:57 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1644, 1859, 6) in Malas: "BloodwoodArrow"
+11/20/2018 3:17:57 PM: 71.208.10.79: Serials: 0x400000FF; 
+11/20/2018 3:17:57 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1644, 1859, 6) in Malas: "BloodwoodArrow"
+11/20/2018 3:17:57 PM: 71.208.10.79: Serials: 0x40000102; 
+11/20/2018 3:18:07 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bow'
+11/20/2018 3:18:09 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1644, 1859, 5) in Malas: "bow"
+11/20/2018 3:18:09 PM: 71.208.10.79: Serials: 0x40000103; 
+11/20/2018 3:18:50 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ogre'
+11/20/2018 3:18:51 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1719, 1958, 34) in Malas: "ogre"
+11/20/2018 3:18:51 PM: 71.208.10.79: Serials: 0x55B; 
+11/20/2018 3:19:31 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1718, 1957, 34) in Malas: "FrostwoodArrow"
+11/20/2018 3:19:31 PM: 71.208.10.79: Serials: 0x40000117; 
+11/20/2018 3:19:39 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/20/2018 3:19:45 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'TypeOfAmmo' of 0x40000103 (Bow) to 'Bloodwood'
+11/20/2018 3:20:07 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/20/2018 3:20:07 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x55B "an ogre" (no account)
+11/20/2018 3:23:54 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/20/2018 4:43:18 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add explosionpotion'
+11/20/2018 4:43:19 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1615, 1916, 5) in Malas: "explosionpotion"
+11/20/2018 4:43:19 PM: 71.208.10.79: Serials: 0x40000194; 
+11/20/2018 4:43:21 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/20/2018 4:44:15 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/20/2018 4:44:19 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/20/2018 4:44:22 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/20/2018 5:57:51 PM
+
+11/20/2018 5:58:00 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/20/2018 5:58:21 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add halflifebow'
+11/20/2018 5:58:23 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1656, 1905, 5) in Malas: "halflifebow"
+11/20/2018 5:58:23 PM: 71.208.10.79: Serials: 0x400000F9; 
+11/20/2018 5:58:44 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/20/2018 6:00:00 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost off'
+11/20/2018 6:00:06 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add swiftboots'
+11/20/2018 6:00:07 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1648, 1879, 5) in Malas: "swiftboots"
+11/20/2018 6:00:07 PM: 71.208.10.79: Serials: 0x400000FC; 
+11/20/2018 6:00:10 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/20/2018 6:36:51 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/20/2018 6:43:05 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 12:25:30 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+11/21/2018 12:26:32 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add arrow'
+11/21/2018 12:26:35 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add arro'
+11/21/2018 12:26:49 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (351, 706, -12) in Malas: "AshArrow"
+11/21/2018 12:26:49 PM: 71.208.10.79: Serials: 0x40004F55; 
+11/21/2018 12:27:08 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (351, 706, -12) in Malas: "OakArrow"
+11/21/2018 12:27:08 PM: 71.208.10.79: Serials: 0x40004F58; 
+11/21/2018 12:27:08 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (351, 706, -12) in Malas: "OakArrow"
+11/21/2018 12:27:08 PM: 71.208.10.79: Serials: 0x40004F59; 
+11/21/2018 12:27:20 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (351, 707, -12) in Malas: "YewArrow"
+11/21/2018 12:27:20 PM: 71.208.10.79: Serials: 0x40004F5A; 
+11/21/2018 12:27:20 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (351, 707, -11) in Malas: "YewArrow"
+11/21/2018 12:27:20 PM: 71.208.10.79: Serials: 0x40004F5B; 
+11/21/2018 12:30:59 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add arro'
+11/21/2018 12:31:08 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add dullcoppe'
+11/21/2018 12:31:29 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bol'
+11/21/2018 12:32:52 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bol'
+11/21/2018 12:43:28 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/21/2018 12:44:13 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/21/2018 12:44:52 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/21/2018 12:45:13 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/21/2018 12:47:55 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+11/21/2018 12:48:38 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pitch'
+11/21/2018 12:48:52 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (624, 1221, 20) in Malas: "Pitcher"
+11/21/2018 12:48:52 PM: 71.208.10.79: Serials: 0x40004FB9; 
+11/21/2018 12:48:58 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/21/2018 12:49:18 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 12:49:19 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004FB9 (Pitcher)
+11/21/2018 12:52:40 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pitcher'
+11/21/2018 12:52:41 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (624, 1221, 20) in Malas: "pitcher"
+11/21/2018 12:52:41 PM: 71.208.10.79: Serials: 0x40004FC7; 
+11/21/2018 12:52:45 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add watertro'
+11/21/2018 12:52:47 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (626, 1219, 14) in Malas: "WaterTroughEastAddon"
+11/21/2018 12:52:47 PM: 71.208.10.79: Serials: 0x40004FC8; 
+11/21/2018 12:52:56 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/21/2018 12:53:55 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 12:53:56 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004FC7 (Pitcher)
+11/21/2018 12:54:00 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/21/2018 12:54:02 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 12:54:02 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004FC9 (AddonComponent)
+11/21/2018 12:54:10 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add watertro'
+11/21/2018 12:54:13 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (626, 1229, 14) in Malas: "WaterTroughEastAddon"
+11/21/2018 12:54:13 PM: 71.208.10.79: Serials: 0x40004FD1; 
+11/21/2018 12:54:17 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (626, 1228, 14) in Malas: "WaterTroughEastAddon"
+11/21/2018 12:54:17 PM: 71.208.10.79: Serials: 0x40004FD4; 
+11/21/2018 12:54:20 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 12:54:20 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004FD3 (AddonComponent)
+11/21/2018 12:54:26 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/21/2018 12:55:23 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/21/2018 12:56:03 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 12:56:03 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004FD5 (AddonComponent)
+11/21/2018 12:56:09 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (624, 1231, 14) in Malas: "WaterTroughSouthAddon"
+11/21/2018 12:56:09 PM: 71.208.10.79: Serials: 0x40004FDD; 
+11/21/2018 12:56:11 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 12:56:12 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004FDF (AddonComponent)
+11/21/2018 12:56:15 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/21/2018 1:02:45 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/21/2018 1:02:51 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+11/21/2018 1:08:44 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 1:08:45 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005147 (Spawner)
+11/21/2018 1:08:48 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/21/2018 1:08:51 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+11/21/2018 1:09:51 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+11/21/2018 1:09:54 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+11/21/2018 1:09:54 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+11/21/2018 1:10:47 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+11/21/2018 1:10:48 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000552A (Pitcher)
+11/21/2018 1:10:48 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005148 (Spawner)
+11/21/2018 1:10:53 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+11/21/2018 1:10:53 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005145 (Spawner)
+11/21/2018 1:10:56 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+11/21/2018 1:10:56 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005146 (Spawner)
+11/21/2018 1:10:57 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400056A6 (Spawner)
+11/21/2018 1:11:42 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/21/2018 1:11:55 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/21/2018 1:12:23 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/21/2018 1:13:07 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/21/2018 1:14:18 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/21/2018 1:14:56 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/21/2018 1:18:47 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/21/2018 1:18:51 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+11/21/2018 1:19:01 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+11/21/2018 1:19:05 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+11/21/2018 1:19:05 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+11/21/2018 1:19:54 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 1:19:55 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005C13 (Spawner)
+11/21/2018 1:20:00 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 1:20:01 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005FF5 (YewArrow)
+11/21/2018 1:20:03 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 1:20:03 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005C14 (Spawner)
+11/21/2018 1:20:10 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 1:20:10 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005FF6 (BronzeBolt)
+11/21/2018 1:20:12 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/21/2018 1:20:12 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005C15 (Spawner)
+11/21/2018 1:22:39 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost off'
+11/21/2018 1:26:04 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addtopack dagger'
+11/21/2018 1:26:06 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1317, 1235, 0) in Malas: "dagger"
+11/21/2018 1:26:06 PM: 71.208.10.79: Serials: 0x40006183; 
+11/21/2018 1:30:38 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/21/2018 1:30:48 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/21/2018 1:31:45 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/21/2018 1:31:51 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/21/2018 1:31:51 PM: 71.208.10.79: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

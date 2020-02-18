@@ -1,0 +1,137 @@
+##############################
+Log started on 11/7/2019 2:25:19 PM
+
+11/7/2019 2:26:17 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'speedboost '
+11/7/2019 2:26:55 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'set map tokuno'
+11/7/2019 2:26:56 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') set property 'map' of 0x11 "gggg" ('Zigholtul88') to 'Tokuno'
+11/7/2019 2:27:01 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add mask'
+11/7/2019 2:27:09 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add breathing'
+11/7/2019 2:27:11 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (534, 1741, 0) in Tokuno: "BreathingApparatus"
+11/7/2019 2:27:12 PM: 127.0.0.1: Serials: 0x40000019; 
+11/7/2019 2:27:22 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'move '
+11/7/2019 2:27:24 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'remove '
+11/7/2019 2:27:26 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') deleting 0x40000019 (BreathingApparatus)
+11/7/2019 2:27:27 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'go '
+11/7/2019 2:27:33 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add breathing'
+11/7/2019 2:27:35 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (1388, 305, 0) in Tokuno: "BreathingApparatus"
+11/7/2019 2:27:35 PM: 127.0.0.1: Serials: 0x4000001A; 
+11/7/2019 2:27:40 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'go '
+11/7/2019 2:28:31 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add seaurchi'
+11/7/2019 2:28:52 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:29:06 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/7/2019 2:29:11 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'decorate '
+11/7/2019 2:29:36 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:29:56 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:30:14 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:30:47 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:31:17 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:31:53 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:32:18 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:32:38 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/7/2019 2:32:41 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'decorate '
+11/7/2019 2:33:05 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:33:16 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/7/2019 2:33:19 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'decorate '
+11/7/2019 2:33:33 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'tele '
+11/7/2019 2:34:17 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:34:30 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/7/2019 2:34:32 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'decorate '
+11/7/2019 2:35:40 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/7/2019 2:35:52 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/7/2019 2:35:56 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'decorate '
+11/7/2019 2:36:13 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'premiumspawner '
+11/7/2019 2:36:17 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'runuospawnerexporter '
+11/7/2019 2:36:17 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'spawner '
+11/7/2019 2:37:51 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') starting facet clear of Tokuno (1756 objects)
+11/7/2019 2:37:51 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'clearfacet '
+11/7/2019 2:37:53 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') deleting 1756 objects
+11/7/2019 2:38:12 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'spawngen tokuno/dungeons.map'
+11/7/2019 2:38:18 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'go '
+11/7/2019 2:38:23 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/7/2019 2:38:30 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'decorate '
+11/7/2019 2:39:09 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'spawngen malas/towns.map'
+11/7/2019 2:39:13 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+11/7/2019 2:39:24 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'spawngen malas/regions.map'
+11/7/2019 2:39:29 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'spawngen malas/quests.map'
+11/7/2019 2:44:23 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add redslime'
+11/7/2019 2:44:24 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (480, 1912, 15) in Malas: "redslime"
+11/7/2019 2:44:24 PM: 127.0.0.1: Serials: 0xCC7; 
+11/7/2019 2:44:26 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'remove '
+11/7/2019 2:44:28 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') deleting 0xCC7 "a red slime" (no account)
+11/7/2019 2:52:11 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'go '
+11/7/2019 4:49:57 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') hiding 0x11 "gggg" ('Zigholtul88')
+11/7/2019 4:49:57 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'Self Hide'
+11/7/2019 4:51:53 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'go '
+11/7/2019 6:41:19 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/7/2019 6:41:43 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') adding new account: tommenquar
+11/7/2019 6:41:58 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') changing access level of account tommenquar to Administrator
+11/7/2019 6:46:44 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'move '
+11/7/2019 6:46:45 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') moving 0x75E "spectral armour" (no account) to (373, 1887, 10)
+11/7/2019 6:47:09 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'props '
+11/7/2019 6:58:38 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'speedboost '
+11/7/2019 6:58:47 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') unhiding 0x11 "gggg" ('Zigholtul88')
+11/7/2019 6:58:47 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'Self Unhide'
+11/7/2019 7:41:12 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'changeseason '
+11/7/2019 7:41:17 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'changeseason autumn'
+11/7/2019 7:41:36 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'go '
+11/7/2019 7:41:38 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'Get ItemID'
+11/7/2019 7:41:49 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'changeseason winter'
+11/7/2019 7:43:49 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'changeseason desolation'
+11/7/2019 7:44:10 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'changeseason winter'
+11/7/2019 7:44:54 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'changeseason spring'
+11/7/2019 7:45:08 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'changeseason winter'
+11/7/2019 7:45:50 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'go '
+11/7/2019 7:46:24 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'go '
+11/7/2019 7:47:05 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'changeseason spring'
+11/7/2019 7:47:48 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'pray '
+11/7/2019 7:48:02 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'explode '
+11/7/2019 7:48:07 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'explode '
+11/7/2019 7:48:22 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'explode '
+11/7/2019 7:48:29 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'explode '
+11/7/2019 7:48:43 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'explode '
+11/7/2019 7:49:01 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'explode '
+11/7/2019 7:50:30 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'time '
+11/7/2019 7:53:51 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'speedboost '
+11/7/2019 7:55:17 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'speedboost '
+11/7/2019 7:57:15 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add blackant'
+11/7/2019 7:57:19 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') building at (1035, 1090, 5) in Malas: "BlackAntZaythalorForest"
+11/7/2019 7:57:19 PM: 127.0.0.1: Serials: 0xCE4; 
+11/7/2019 7:57:22 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'remove '
+11/7/2019 7:57:23 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') deleting 0xCE4 "a black ant" (no account)
+11/8/2019 8:54:34 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add blackant'
+11/8/2019 8:55:02 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:55:20 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add anthi'
+11/8/2019 8:55:23 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add ant'
+11/8/2019 8:56:16 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:56:28 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:56:42 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:56:55 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:57:12 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:57:28 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:57:41 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:57:58 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:58:16 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:58:35 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:59:05 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 8:59:22 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/8/2019 8:59:26 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'decorate '
+11/8/2019 11:10:46 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'premiumspawner '
+11/8/2019 11:10:49 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'runuospawnerexporter '
+11/8/2019 11:10:49 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'spawner '
+11/8/2019 11:11:56 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') starting facet clear of Malas (6579 objects)
+11/8/2019 11:11:56 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'clearfacet '
+11/8/2019 11:11:57 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') deleting 6579 objects
+11/8/2019 11:13:05 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'go '
+11/8/2019 11:13:53 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'add wandering'
+11/8/2019 11:14:13 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'where '
+11/8/2019 11:14:32 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/8/2019 11:14:35 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'decorate '
+11/8/2019 11:14:43 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'premiumspawner '
+11/8/2019 11:14:45 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'runuospawnerexporter '
+11/8/2019 11:14:45 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'spawner '
+11/8/2019 11:15:26 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') starting facet clear of Malas (1239 objects)
+11/8/2019 11:15:26 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'clearfacet '
+11/8/2019 11:15:27 AM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') deleting 1239 objects
+11/8/2019 3:30:36 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'admin '
+11/8/2019 3:30:40 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/8/2019 3:30:41 PM: 127.0.0.1: Owner 0x11 "gggg" ('Zigholtul88') used command 'save '

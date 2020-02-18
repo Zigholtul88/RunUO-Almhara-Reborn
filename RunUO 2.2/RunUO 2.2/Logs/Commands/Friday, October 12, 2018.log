@@ -1,0 +1,244 @@
+##############################
+Log started on 10/12/2018 3:06:14 AM
+
+10/12/2018 3:06:27 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/12/2018 3:06:36 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add halberd'
+10/12/2018 3:06:37 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1478, 407, 0) in Malas: "halberd"
+10/12/2018 3:06:38 AM: 71.215.247.156: Serials: 0x4000002C; 
+10/12/2018 3:06:44 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add drake'
+10/12/2018 3:06:45 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1482, 409, 0) in Malas: "drake"
+10/12/2018 3:06:46 AM: 71.215.247.156: Serials: 0x26C; 
+10/12/2018 3:09:20 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 3:14:08 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 3:32:52 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 3:33:48 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 3:37:18 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add miasma'
+10/12/2018 3:37:19 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1564, 1454, 4) in Malas: "miasma"
+10/12/2018 3:37:19 AM: 71.215.247.156: Serials: 0x371; 
+10/12/2018 3:38:10 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'setallskills 100'
+10/12/2018 3:38:11 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'EverySkill.Base' of 0x3 "Womp Womp" ('Zigholtul88') to '100'
+10/12/2018 3:43:39 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 3:49:41 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 6:02:59 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add eldergazer'
+10/12/2018 6:03:00 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1020, 893, 8) in Malas: "eldergazer"
+10/12/2018 6:03:00 AM: 71.215.247.156: Serials: 0x4BA; 
+10/12/2018 6:03:06 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add gazer'
+10/12/2018 6:03:07 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1018, 894, 6) in Malas: "gazer"
+10/12/2018 6:03:07 AM: 71.215.247.156: Serials: 0x4BB; 
+10/12/2018 6:03:13 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/12/2018 6:03:14 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4BB "a gazer" (no account)
+10/12/2018 6:03:19 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/12/2018 6:03:20 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4BA "an elder gazer" (no account)
+10/12/2018 6:03:24 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add gazer'
+10/12/2018 6:03:24 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1021, 895, 8) in Malas: "gazer"
+10/12/2018 6:03:24 AM: 71.215.247.156: Serials: 0x4F4; 
+10/12/2018 6:03:26 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/12/2018 6:03:26 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4F4 "a gazer" (no account)
+10/12/2018 6:06:20 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 6:06:22 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 6:06:25 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 6:06:27 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 6:06:32 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 6:10:19 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 6:13:20 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 6:14:14 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 6:16:18 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 6:18:45 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 6:21:44 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 6:21:49 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'tele '
+10/12/2018 6:23:51 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 6:23:53 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 6:23:58 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'set map malas'
+10/12/2018 6:23:59 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'map' of 0x3 "Womp Womp" ('Zigholtul88') to 'Malas'
+10/12/2018 6:24:01 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 9:12:03 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 9:12:14 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 9:28:55 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 9:29:20 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 10:37:05 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/12/2018 11:00:04 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/12/2018 11:00:06 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400002FC (GMRobe)
+10/12/2018 11:05:11 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'tele '
+10/12/2018 11:07:04 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 11:09:40 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 11:09:43 AM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/12/2018 1:53:15 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:15 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:28 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:28 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:31 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:31 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:33 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:34 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:37 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:37 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:40 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:40 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:42 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:43 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:44 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:45 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:47 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:47 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:49 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:49 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:51 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:51 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:54 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:55 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:53:57 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:53:57 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:00 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:00 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:02 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:03 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:04 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:05 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:09 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:10 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:12 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:12 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:14 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:14 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:16 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:16 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:18 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:18 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:21 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:21 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:23 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:23 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:26 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:26 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:28 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:29 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:31 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:31 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:33 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:34 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:36 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:36 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:54:39 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:54:39 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:55:33 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'm remove'
+10/12/2018 1:55:35 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005508 (DeathRobe)
+10/12/2018 1:55:36 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000550E (DeathRobe)
+10/12/2018 1:55:36 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000550B (DeathRobe)
+10/12/2018 1:55:37 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005505 (DeathRobe)
+10/12/2018 1:55:38 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054D3 (DeathRobe)
+10/12/2018 1:55:39 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054E0 (DeathRobe)
+10/12/2018 1:55:40 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005502 (DeathRobe)
+10/12/2018 1:55:40 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054F3 (DeathRobe)
+10/12/2018 1:55:41 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005511 (DeathRobe)
+10/12/2018 1:55:42 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054F0 (DeathRobe)
+10/12/2018 1:55:43 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054FF (DeathRobe)
+10/12/2018 1:55:43 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054E3 (DeathRobe)
+10/12/2018 1:55:44 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054ED (DeathRobe)
+10/12/2018 1:55:46 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054D9 (DeathRobe)
+10/12/2018 1:55:47 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054C9 (DeathRobe)
+10/12/2018 1:55:47 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054C6 (DeathRobe)
+10/12/2018 1:55:48 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054EA (DeathRobe)
+10/12/2018 1:55:49 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054C0 (DeathRobe)
+10/12/2018 1:55:50 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054DC (DeathRobe)
+10/12/2018 1:55:50 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054BD (DeathRobe)
+10/12/2018 1:55:51 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054D6 (DeathRobe)
+10/12/2018 1:55:52 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054A7 (DeathRobe)
+10/12/2018 1:55:52 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054CC (DeathRobe)
+10/12/2018 1:55:53 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054BA (DeathRobe)
+10/12/2018 1:55:54 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054F6 (DeathRobe)
+10/12/2018 1:55:55 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054B4 (DeathRobe)
+10/12/2018 1:55:56 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054E7 (DeathRobe)
+10/12/2018 1:55:57 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400054B7 (DeathRobe)
+10/12/2018 1:56:51 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:56:52 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:56:56 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:56:56 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:56:58 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:56:58 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:01 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:01 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:03 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:04 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:06 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:07 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:09 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:10 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:13 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:13 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:15 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:16 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:18 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:20 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:20 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:22 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:22 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:24 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:24 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:26 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:26 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:28 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:28 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:30 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:30 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:32 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:32 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:33 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:34 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:35 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:38 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:38 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:40 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:41 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:42 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:43 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:45 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:46 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:48 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:48 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:51 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:51 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:53 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:53 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:57:54 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:56 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:57:56 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:58:00 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'res '
+10/12/2018 1:58:00 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') resurrecting 0x3 "Womp Womp" ('Zigholtul88')
+10/12/2018 1:58:01 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/12/2018 1:58:09 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'm remove'
+10/12/2018 1:58:10 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000558A (DeathRobe)
+10/12/2018 1:58:11 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000556F (DeathRobe)
+10/12/2018 1:58:11 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000553E (DeathRobe)
+10/12/2018 1:58:12 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005551 (DeathRobe)
+10/12/2018 1:58:13 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000554E (DeathRobe)
+10/12/2018 1:58:14 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005587 (DeathRobe)
+10/12/2018 1:58:14 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000552F (DeathRobe)
+10/12/2018 1:58:15 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005568 (DeathRobe)
+10/12/2018 1:58:16 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005548 (DeathRobe)
+10/12/2018 1:58:16 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000557E (DeathRobe)
+10/12/2018 1:58:17 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005565 (DeathRobe)
+10/12/2018 1:58:18 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005544 (DeathRobe)
+10/12/2018 1:58:19 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000557B (DeathRobe)
+10/12/2018 1:58:20 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000554B (DeathRobe)
+10/12/2018 1:58:20 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005541 (DeathRobe)
+10/12/2018 1:58:21 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000555F (DeathRobe)
+10/12/2018 1:58:22 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005554 (DeathRobe)
+10/12/2018 1:58:23 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000555C (DeathRobe)
+10/12/2018 1:58:23 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005595 (DeathRobe)
+10/12/2018 1:58:24 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005562 (DeathRobe)
+10/12/2018 1:58:25 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005581 (DeathRobe)
+10/12/2018 1:58:26 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000553A (DeathRobe)
+10/12/2018 1:58:27 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005584 (DeathRobe)
+10/12/2018 1:58:28 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005559 (DeathRobe)
+10/12/2018 1:58:29 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40005537 (DeathRobe)
+10/12/2018 1:58:33 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'm remove'
+10/12/2018 1:58:34 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x4000559B (DeathRobe)
+10/12/2018 2:01:28 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add bookof'
+10/12/2018 2:01:34 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (416, 1765, 29) in Malas: "BookOfSummonPlant"
+10/12/2018 2:01:34 PM: 71.215.247.156: Serials: 0x400055E2; 
+10/12/2018 2:01:37 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (416, 1764, 29) in Malas: "BookOfSummonBeetle"
+10/12/2018 2:01:38 PM: 71.215.247.156: Serials: 0x400055E4; 
+10/12/2018 2:02:23 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost off'
+10/12/2018 2:06:30 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'admin '
+10/12/2018 2:06:54 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/12/2018 2:06:55 PM: 71.215.247.156: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'save '

@@ -1,0 +1,34 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8937
+Time: 11/30/2018 7:28:05 AM
+Mobiles: 1375
+Items: 12992
+Exception:
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Xml.XmlConvert.ToInt32(String s)
+   at Server.Gumps.CAGObject..ctor(CAGCategory parent, XmlTextReader xml)
+   at Server.Gumps.CAGCategory..ctor(CAGCategory parent, XmlTextReader xml)
+   at Server.Gumps.CAGCategory..ctor(CAGCategory parent, XmlTextReader xml)
+   at Server.Gumps.CAGCategory..ctor(CAGCategory parent, XmlTextReader xml)
+   at Server.Gumps.CAGCategory..ctor(CAGCategory parent, XmlTextReader xml)
+   at Server.Gumps.CAGCategory.Load(String path)
+   at Server.Gumps.CategorizedAddGump..ctor(Mobile owner)
+   at Server.Commands.Generic.AddCommand.ValidateArgs(BaseCommandImplementor impl, CommandEventArgs e)
+   at Server.Commands.Generic.SingleCommandImplementor.Redirect(CommandEventArgs e)
+   at Server.Commands.CommandSystem.Handle(Mobile from, String text, MessageType type)
+   at Server.Mobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue)
+   at Server.Mobiles.PlayerMobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue)
+   at Server.Network.PacketHandlers.UnicodeSpeech(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 71.208.10.79: (account = Zigholtul88) (mobile = 0x109 'dudette')

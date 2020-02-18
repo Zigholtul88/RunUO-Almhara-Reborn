@@ -1,0 +1,20 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 6910.6664
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8937
+Time: 12/8/2018 4:26:32 AM
+Mobiles: 1285
+Items: 15352
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Items.QuestTimerBlueBastards.OnDelete()
+   at Server.Item.Delete()
+   at Server.Items.QuestTimerBlueBastards.Expire()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 71.208.10.79: (account = Zigholtul88) (mobile = 0x2CA 'blah')

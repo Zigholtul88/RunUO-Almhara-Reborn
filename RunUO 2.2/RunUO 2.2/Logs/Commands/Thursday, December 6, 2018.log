@@ -1,0 +1,243 @@
+##############################
+Log started on 12/6/2018 5:08:20 AM
+
+12/6/2018 5:11:54 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 5:13:27 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:13:28 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x291 "Boryan" (no account)
+12/6/2018 5:13:39 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'add stew'
+12/6/2018 5:13:42 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1660, 1904, 5) in Malas: "GoatRoastStew"
+12/6/2018 5:13:42 AM: 71.208.10.79: Serials: 0x40000133; 
+12/6/2018 5:14:14 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:14:15 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x40000134 (AddonComponent)
+12/6/2018 5:14:23 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1656, 1904, 5) in Malas: "HagStew"
+12/6/2018 5:14:23 AM: 71.208.10.79: Serials: 0x4000013F; 
+12/6/2018 5:14:32 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:14:33 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x40000140 (AddonComponent)
+12/6/2018 5:16:40 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'add cauldron'
+12/6/2018 5:16:44 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1665, 1887, 16) in Malas: "cauldron"
+12/6/2018 5:16:44 AM: 71.208.10.79: Serials: 0x400001AF; 
+12/6/2018 5:16:50 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'props '
+12/6/2018 5:18:48 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:18:48 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x400001AF (Cauldron)
+12/6/2018 5:18:50 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 5:18:55 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'decorate '
+12/6/2018 5:19:01 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'props '
+12/6/2018 5:19:07 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') set property 'Z' of 0x4000173E (AddonComponent) to '23'
+12/6/2018 5:19:10 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') set property 'Z' of 0x4000173E (AddonComponent) to '22'
+12/6/2018 5:19:14 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') set property 'Z' of 0x4000173E (AddonComponent) to '23'
+12/6/2018 5:19:20 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:19:25 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'props '
+12/6/2018 5:19:31 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') set property 'Z' of 0x4000173E (AddonComponent) to '21'
+12/6/2018 5:19:34 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') set property 'Z' of 0x4000173E (AddonComponent) to '22'
+12/6/2018 5:19:45 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'props '
+12/6/2018 5:19:51 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') set property 'Z' of 0x4000173F (Cauldron) to '17'
+12/6/2018 5:19:54 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') set property 'Z' of 0x4000173E (AddonComponent) to '23'
+12/6/2018 5:20:01 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:20:02 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x4000173E (AddonComponent)
+12/6/2018 5:20:03 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:20:03 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x4000173F (Cauldron)
+12/6/2018 5:20:07 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'add hagcauld'
+12/6/2018 5:20:10 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1665, 1887, 16) in Malas: "HagCauldron"
+12/6/2018 5:20:10 AM: 71.208.10.79: Serials: 0x4000199E; 
+12/6/2018 5:20:15 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:20:16 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x4000199E (HagCauldron)
+12/6/2018 5:20:18 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1665, 1887, 16) in Malas: "HagCauldron"
+12/6/2018 5:20:18 AM: 71.208.10.79: Serials: 0x400019A1; 
+12/6/2018 5:20:21 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:20:22 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x400019A1 (HagCauldron)
+12/6/2018 5:20:42 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 5:20:45 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'decorate '
+12/6/2018 5:20:56 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'set hunger 0'
+12/6/2018 5:20:58 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') set property 'hunger' of 0x109 "dude" ('Zigholtul88') to '0'
+12/6/2018 5:21:10 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'add cauldron'
+12/6/2018 5:21:12 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1665, 1888, 16) in Malas: "cauldron"
+12/6/2018 5:21:12 AM: 71.208.10.79: Serials: 0x400023D4; 
+12/6/2018 5:21:14 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'props '
+12/6/2018 5:21:17 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'add stew'
+12/6/2018 5:22:35 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'move '
+12/6/2018 5:22:51 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') moving 0x400023D4 (Cauldron) to (1663, 1887, 16)
+12/6/2018 5:22:57 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'move '
+12/6/2018 5:23:06 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'flip '
+12/6/2018 5:23:11 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'flip '
+12/6/2018 5:23:16 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:23:19 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x400023D4 (Cauldron)
+12/6/2018 5:23:22 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:23:23 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x40001CBE (AddonComponent)
+12/6/2018 5:23:24 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:23:24 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x40001CBF (HagCauldron)
+12/6/2018 5:23:28 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 5:23:31 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'decorate '
+12/6/2018 5:26:03 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 5:26:29 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'where '
+12/6/2018 5:27:30 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 5:27:35 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'decorate '
+12/6/2018 5:27:55 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1134, 927, 15) in Malas: "GoatRoastStew"
+12/6/2018 5:27:55 AM: 71.208.10.79: Serials: 0x40003B5C; 
+12/6/2018 5:27:59 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:27:59 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x40003B5D (AddonComponent)
+12/6/2018 5:28:02 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:28:03 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x40003A33 (AddonComponent)
+12/6/2018 5:28:06 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1134, 927, 15) in Malas: "VenisonStew"
+12/6/2018 5:28:06 AM: 71.208.10.79: Serials: 0x40003B5E; 
+12/6/2018 5:28:10 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 5:28:10 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x40003B5F (AddonComponent)
+12/6/2018 5:28:32 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 5:28:35 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'decorate '
+12/6/2018 5:31:40 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') unhiding 0x109 "dude" ('Zigholtul88')
+12/6/2018 5:31:40 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'Self Unhide'
+12/6/2018 5:55:58 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 5:56:02 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/6/2018 5:56:06 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/6/2018 6:24:42 AM
+
+12/6/2018 6:24:48 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 6:28:16 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 7:27:03 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 7:51:41 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+##############################
+Log started on 12/6/2018 7:52:18 AM
+
+12/6/2018 7:52:27 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+##############################
+Log started on 12/6/2018 8:01:28 AM
+
+12/6/2018 8:01:39 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 8:37:41 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'where '
+12/6/2018 8:51:26 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 8:51:51 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 8:52:11 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') starting facet clear of Malas (2771 objects)
+12/6/2018 8:52:11 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'clearfacet '
+12/6/2018 8:52:23 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 2771 objects
+12/6/2018 8:52:27 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 8:52:31 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'decorate '
+12/6/2018 8:53:28 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 8:54:04 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'add borya'
+12/6/2018 8:54:07 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'where '
+12/6/2018 8:54:35 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 8:54:43 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'decorate '
+12/6/2018 8:55:01 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'where '
+12/6/2018 8:55:15 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 8:55:16 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x40001B71 (Spawner)
+12/6/2018 8:55:18 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 8:55:21 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'decorate '
+12/6/2018 8:55:29 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'premiumspawner '
+12/6/2018 8:55:32 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'runuospawnerexporter '
+12/6/2018 8:55:32 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'spawner '
+12/6/2018 8:57:08 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') starting facet clear of Malas (946 objects)
+12/6/2018 8:57:08 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'clearfacet '
+12/6/2018 8:57:10 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 946 objects
+12/6/2018 8:59:25 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'spawngen malas/towns.map'
+12/6/2018 8:59:27 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'spawngen malas/class gate.map'
+12/6/2018 8:59:34 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+12/6/2018 8:59:44 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'spawngen malas/regions.map'
+12/6/2018 8:59:47 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 8:59:51 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'decorate '
+12/6/2018 8:59:57 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'save '
+12/6/2018 9:00:30 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 9:01:17 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 9:04:53 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 9:06:06 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') unhiding 0x109 "dude" ('Zigholtul88')
+12/6/2018 9:06:06 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'Self Unhide'
+12/6/2018 9:06:20 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 9:13:38 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 9:20:06 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/6/2018 9:20:41 AM
+
+12/6/2018 9:21:16 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 9:21:23 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 9:21:42 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 9:24:47 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 9:36:09 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 9:36:13 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/6/2018 9:36:16 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/6/2018 12:33:51 PM
+
+12/6/2018 12:37:32 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 12:38:13 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 12:38:18 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/6/2018 12:38:21 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/6/2018 1:01:59 PM
+
+12/6/2018 1:02:07 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 1:02:13 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'add rob'
+12/6/2018 1:02:17 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1132, 932, 15) in Malas: "GMExplosionRobe"
+12/6/2018 1:02:17 PM: 71.208.10.79: Serials: 0x400000D3; 
+12/6/2018 1:02:20 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1132, 933, 15) in Malas: "GMHolyRobe"
+12/6/2018 1:02:20 PM: 71.208.10.79: Serials: 0x400000D4; 
+12/6/2018 1:02:23 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1133, 933, 15) in Malas: "GMTrailfireRobe"
+12/6/2018 1:02:23 PM: 71.208.10.79: Serials: 0x400000D5; 
+12/6/2018 1:04:58 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 1:05:02 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/6/2018 1:05:04 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/6/2018 10:01:37 PM
+
+12/6/2018 10:02:11 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 10:02:29 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'add gmrob'
+12/6/2018 10:02:33 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1136, 957, 0) in Malas: "GMRobeFarts"
+12/6/2018 10:02:33 PM: 71.208.10.79: Serials: 0x400000F5; 
+12/6/2018 10:03:41 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (1109, 955, 4) in Malas: "GMRobeExplosion"
+12/6/2018 10:03:41 PM: 71.208.10.79: Serials: 0x40000112; 
+12/6/2018 10:26:34 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'where '
+12/6/2018 10:28:22 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/6/2018 10:28:58 PM
+
+12/6/2018 10:29:07 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 10:29:12 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'set map tokuno'
+12/6/2018 10:29:14 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') set property 'map' of 0x109 "dude" ('Zigholtul88') to 'Tokuno'
+12/6/2018 10:29:16 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 10:29:49 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'where '
+12/6/2018 10:30:07 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 10:30:15 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 10:31:25 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 10:31:28 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 10:31:39 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 10:33:24 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/6/2018 10:34:00 PM
+
+12/6/2018 10:34:10 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 10:34:53 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/6/2018 10:35:30 PM
+
+12/6/2018 10:35:39 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 10:36:49 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 10:36:53 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/6/2018 10:36:56 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/6/2018 11:01:01 PM
+
+12/6/2018 11:01:09 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 11:08:22 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 11:08:27 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/6/2018 11:08:31 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/6/2018 11:35:50 PM
+
+12/6/2018 11:36:50 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/6/2018 11:36:56 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') unhiding 0x109 "dude" ('Zigholtul88')
+12/6/2018 11:36:56 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'Self Unhide'
+12/6/2018 11:37:01 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'add blackdragon'
+12/6/2018 11:37:02 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') building at (952, 107, 4) in Tokuno: "blackdragon"
+12/6/2018 11:37:02 PM: 71.208.10.79: Serials: 0x3; 
+12/6/2018 11:38:59 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'remove '
+12/6/2018 11:39:01 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') deleting 0x3 "Sukuss" (no account)
+12/6/2018 11:39:33 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'set map malas'
+12/6/2018 11:39:35 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') set property 'map' of 0x109 "dude" ('Zigholtul88') to 'Malas'
+12/6/2018 11:39:37 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'go '
+12/6/2018 11:40:57 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/6/2018 11:41:01 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/6/2018 11:41:04 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'save '
+##############################
+Log started on 12/6/2018 11:56:32 PM
+
+12/6/2018 11:56:41 PM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'speedboost '
+12/7/2018 12:19:37 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'admin '
+12/7/2018 12:19:41 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/7/2018 12:19:45 AM: 71.208.10.79: Owner 0x109 "dude" ('Zigholtul88') used command 'save '

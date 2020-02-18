@@ -1,0 +1,139 @@
+##############################
+Log started on 11/19/2014 9:51:39 PM
+
+11/19/2014 9:52:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/19/2014 9:55:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/19/2014 9:55:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/19/2014 9:56:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/19/2014 9:57:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add moongat'
+11/19/2014 9:57:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1503, 1594, 26) in Malas: "ConfirmationMoongate"
+11/19/2014 9:57:18 PM: 127.0.0.1: Serials: 0x4000026A; 
+11/19/2014 9:57:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 9:57:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1504, 1594, 26) in Malas: "PublicMoongate"
+11/19/2014 9:57:40 PM: 127.0.0.1: Serials: 0x4000026E; 
+11/19/2014 9:57:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+11/19/2014 9:57:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000026E (PublicMoongate)
+11/19/2014 9:57:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000026A (ConfirmationMoongate)
+11/19/2014 9:57:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1503, 1594, 26) in Malas: "Moongate"
+11/19/2014 9:57:48 PM: 127.0.0.1: Serials: 0x40000272; 
+11/19/2014 9:57:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 9:58:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+11/19/2014 9:58:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000272 (Moongate) to (1504, 1594, 26)
+11/19/2014 9:58:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 9:58:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+11/19/2014 9:58:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/19/2014 9:58:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000272 (Moongate)
+11/19/2014 10:13:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add moongate'
+11/19/2014 10:13:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1504, 1594, 26) in Malas: "moongate"
+11/19/2014 10:13:27 PM: 127.0.0.1: Serials: 0x400003E3; 
+11/19/2014 10:13:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 10:15:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/19/2014 10:15:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400003E3 (Moongate)
+11/19/2014 10:15:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/19/2014 10:15:45 PM
+
+11/19/2014 10:16:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/19/2014 10:16:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+11/19/2014 10:16:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 10:18:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/19/2014 10:18:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000094B (Moongate)
+11/19/2014 10:18:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+11/19/2014 10:18:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/19/2014 10:18:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 10:18:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/19/2014 10:18:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000094A (Moongate)
+11/19/2014 10:19:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/19/2014 10:19:15 PM
+
+11/19/2014 10:19:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/19/2014 10:19:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+11/19/2014 10:19:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 10:19:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'TargetMap' of 0x400009C2 (Moongate) to 'Malas'
+11/19/2014 10:21:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/19/2014 10:21:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400009C2 (Moongate)
+11/19/2014 10:21:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 10:21:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'X' of 0x1 "Zigholtul" ('Zigholtul88') to '1504'
+11/19/2014 10:21:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Y' of 0x1 "Zigholtul" ('Zigholtul88') to '1594'
+11/19/2014 10:21:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x1 "Zigholtul" ('Zigholtul88') to '26'
+11/19/2014 10:21:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/19/2014 10:21:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400009C3 (Moongate)
+11/19/2014 10:22:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/19/2014 10:22:20 PM
+
+11/19/2014 10:22:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/19/2014 10:22:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+11/19/2014 10:23:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 10:23:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add teleporter'
+11/19/2014 10:23:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1503, 1591, 23) in Malas: "teleporter"
+11/19/2014 10:23:21 PM: 127.0.0.1: Serials: 0x400009F1; 
+11/19/2014 10:23:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 10:23:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/19/2014 10:23:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400009F1 (Teleporter)
+11/19/2014 10:24:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/19/2014 10:28:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/19/2014 10:29:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+11/19/2014 10:29:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1436, 1649, 15) in Malas: "spawner"
+11/19/2014 10:29:04 PM: 127.0.0.1: Serials: 0x40000A37; 
+11/19/2014 10:29:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+11/19/2014 10:29:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000A37 (Spawner) to '75'
+11/19/2014 10:29:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40000A37 (Spawner) to '5'
+11/19/2014 10:29:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/19/2014 10:29:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/19/2014 10:30:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+11/19/2014 10:30:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x216 "a dire wolf" (no account)
+11/19/2014 10:30:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/19/2014 10:30:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+11/19/2014 10:30:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x210 "a dire wolf" (no account)
+11/19/2014 10:30:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+11/19/2014 10:31:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+11/19/2014 10:31:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000A37 (Spawner)
+11/19/2014 10:31:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/19/2014 10:31:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/19/2014 10:32:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+11/19/2014 10:37:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 11/19/2014 10:37:30 PM
+
+11/19/2014 10:37:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+11/19/2014 10:37:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+11/19/2014 11:05:09 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'set str 100'
+11/19/2014 11:05:10 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') set property 'str' of 0x4AF "G Unit" ('Zigholtul88') to '100'
+11/19/2014 11:05:13 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'add '
+11/19/2014 11:05:46 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'Add ElvenShirt'
+11/19/2014 11:05:46 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') building at (2507, 1977, 0) in Malas: "ElvenShirt"
+11/19/2014 11:05:46 PM: 127.0.0.1: Serials: 0x40001558; 
+11/19/2014 11:05:57 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'Add Skirt'
+11/19/2014 11:05:58 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') building at (2507, 1977, 0) in Malas: "Skirt"
+11/19/2014 11:05:58 PM: 127.0.0.1: Serials: 0x40001559; 
+11/19/2014 11:06:04 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'Add ElvenBoots'
+11/19/2014 11:06:05 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') building at (2507, 1977, 0) in Malas: "ElvenBoots"
+11/19/2014 11:06:05 PM: 127.0.0.1: Serials: 0x4000155B; 
+11/19/2014 11:06:14 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'add dyes'
+11/19/2014 11:06:15 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') building at (2507, 1977, 0) in Malas: "dyes"
+11/19/2014 11:06:15 PM: 127.0.0.1: Serials: 0x4000155C; 
+11/19/2014 11:06:19 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'add dyetub'
+11/19/2014 11:06:21 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') building at (2506, 1977, 0) in Malas: "dyetub"
+11/19/2014 11:06:21 PM: 127.0.0.1: Serials: 0x40001563; 
+11/19/2014 11:13:21 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'add '
+11/19/2014 11:13:38 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'Add Hammer'
+11/19/2014 11:13:39 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') building at (2507, 1977, 0) in Malas: "Hammer"
+11/19/2014 11:13:39 PM: 127.0.0.1: Serials: 0x400015E1; 
+11/19/2014 11:13:44 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'props '
+11/19/2014 11:14:16 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') set property 'Name' of 0x400015E1 (Hammer) to 'Gem of the Sands - Quest Item'
+11/19/2014 11:14:29 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'props '
+11/19/2014 11:19:10 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'props '
+11/19/2014 11:19:25 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'props '
+11/19/2014 11:19:35 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'props '
+11/19/2014 11:31:15 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'add '
+11/19/2014 11:31:25 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'Add StarSapphire'
+11/19/2014 11:31:26 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') building at (2506, 1977, 0) in Malas: "StarSapphire"
+11/19/2014 11:31:26 PM: 127.0.0.1: Serials: 0x400018EB; 
+11/19/2014 11:31:29 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'props '
+11/19/2014 11:32:06 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'remove '
+11/19/2014 11:32:07 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') deleting 0x400018EB (StarSapphire)
+11/19/2014 11:45:06 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'admin '
+11/19/2014 11:45:10 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/19/2014 11:45:10 PM: 127.0.0.1: Owner 0x4AF "G Unit" ('Zigholtul88') used command 'save '

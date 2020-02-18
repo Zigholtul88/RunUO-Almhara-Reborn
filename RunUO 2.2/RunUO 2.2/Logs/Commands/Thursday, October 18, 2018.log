@@ -1,0 +1,428 @@
+##############################
+Log started on 10/18/2018 3:18:35 PM
+
+10/18/2018 3:19:44 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 3:19:49 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/18/2018 3:21:38 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/18/2018 3:21:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/18/2018 3:21:51 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/18/2018 3:22:10 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/18/2018 3:22:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/18/2018 3:22:20 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'where '
+10/18/2018 3:31:26 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add talltree'
+10/18/2018 3:31:32 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1759, 1535, 25) in Malas: "TallTree01Addon"
+10/18/2018 3:31:32 PM: 127.0.0.1: Serials: 0x40000E2E; 
+10/18/2018 3:31:41 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:31:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1758, 1544, 34) in Malas: "TallTree02Addon"
+10/18/2018 3:31:46 PM: 127.0.0.1: Serials: 0x40000EA6; 
+10/18/2018 3:31:49 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:31:55 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1755, 1552, 31) in Malas: "TallTree01Addon"
+10/18/2018 3:31:55 PM: 127.0.0.1: Serials: 0x40000EF2; 
+10/18/2018 3:32:00 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:32:04 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1761, 1555, 7) in Malas: "TallTree02Addon"
+10/18/2018 3:32:04 PM: 127.0.0.1: Serials: 0x40000F3A; 
+10/18/2018 3:32:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1757, 1562, 46) in Malas: "TallTree01Addon"
+10/18/2018 3:32:12 PM: 127.0.0.1: Serials: 0x40000F50; 
+10/18/2018 3:32:17 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:32:20 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40000F5B (AddonComponent) to (1752, 1562, 4)
+10/18/2018 3:32:25 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:32:28 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:32:33 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1735, 1571, 25) in Malas: "TallTree01Addon"
+10/18/2018 3:32:33 PM: 127.0.0.1: Serials: 0x40000FC9; 
+10/18/2018 3:32:36 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:32:38 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40000FD2 (AddonComponent) to (1734, 1575, 31)
+10/18/2018 3:32:44 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:32:49 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1735, 1560, 28) in Malas: "TallTree02Addon"
+10/18/2018 3:32:49 PM: 127.0.0.1: Serials: 0x40001041; 
+10/18/2018 3:32:54 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:32:55 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001049 (AddonComponent) to (1735, 1559, 28)
+10/18/2018 3:32:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:33:06 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1734, 1545, 23) in Malas: "TallTree02Addon"
+10/18/2018 3:33:06 PM: 127.0.0.1: Serials: 0x400010AA; 
+10/18/2018 3:33:10 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:33:18 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1771, 1524, 55) in Malas: "TallTree02Addon"
+10/18/2018 3:33:18 PM: 127.0.0.1: Serials: 0x400010FB; 
+10/18/2018 3:33:21 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1765, 1529, 49) in Malas: "TallTree01Addon"
+10/18/2018 3:33:21 PM: 127.0.0.1: Serials: 0x40001107; 
+10/18/2018 3:33:25 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:33:27 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001103 (AddonComponent) to (1772, 1522, 52)
+10/18/2018 3:33:30 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:33:31 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:33:39 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1781, 1525, 31) in Malas: "TallTree01Addon"
+10/18/2018 3:33:39 PM: 127.0.0.1: Serials: 0x4000118B; 
+10/18/2018 3:33:40 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1789, 1521, 15) in Malas: "TallTree01Addon"
+10/18/2018 3:33:40 PM: 127.0.0.1: Serials: 0x4000119C; 
+10/18/2018 3:33:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:33:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:33:52 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1799, 1506, 28) in Malas: "TallTree02Addon"
+10/18/2018 3:33:52 PM: 127.0.0.1: Serials: 0x400011F3; 
+10/18/2018 3:33:53 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1799, 1516, 40) in Malas: "TallTree02Addon"
+10/18/2018 3:33:53 PM: 127.0.0.1: Serials: 0x40001204; 
+10/18/2018 3:33:56 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:33:57 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x4000120C (AddonComponent) to (1799, 1515, 31)
+10/18/2018 3:33:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:34:00 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x4000120C (AddonComponent) to (1799, 1512, 28)
+10/18/2018 3:34:02 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:34:05 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x400011FB (AddonComponent) to (1799, 1506, 48)
+10/18/2018 3:34:06 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:34:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x400011FB (AddonComponent) to (1802, 1504, 19)
+10/18/2018 3:34:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:34:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:34:18 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1809, 1494, 22) in Malas: "TallTree01Addon"
+10/18/2018 3:34:18 PM: 127.0.0.1: Serials: 0x40001266; 
+10/18/2018 3:34:22 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:34:23 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001276 (AddonComponent) to (1807, 1495, 13)
+10/18/2018 3:34:25 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:34:31 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1821, 1474, 31) in Malas: "TallTree02Addon"
+10/18/2018 3:34:31 PM: 127.0.0.1: Serials: 0x400012A9; 
+10/18/2018 3:34:34 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1818, 1483, 19) in Malas: "TallTree01Addon"
+10/18/2018 3:34:34 PM: 127.0.0.1: Serials: 0x400012BE; 
+10/18/2018 3:34:37 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:34:39 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:34:44 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1822, 1463, 31) in Malas: "TallTree02Addon"
+10/18/2018 3:34:44 PM: 127.0.0.1: Serials: 0x400012F8; 
+10/18/2018 3:34:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:34:50 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1822, 1447, 73) in Malas: "TallTree01Addon"
+10/18/2018 3:34:50 PM: 127.0.0.1: Serials: 0x40001320; 
+10/18/2018 3:34:52 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:34:55 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1825, 1452, 58) in Malas: "TallTree02Addon"
+10/18/2018 3:34:55 PM: 127.0.0.1: Serials: 0x4000134A; 
+10/18/2018 3:34:57 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:34:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:35:04 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1816, 1434, 61) in Malas: "TallTree01Addon"
+10/18/2018 3:35:04 PM: 127.0.0.1: Serials: 0x4000137A; 
+10/18/2018 3:35:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:35:08 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001383 (AddonComponent) to (1815, 1435, 61)
+10/18/2018 3:35:10 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:35:14 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1804, 1420, 13) in Malas: "TallTree01Addon"
+10/18/2018 3:35:14 PM: 127.0.0.1: Serials: 0x400013BE; 
+10/18/2018 3:35:16 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:35:24 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1795, 1401, 15) in Malas: "TallTree02Addon"
+10/18/2018 3:35:24 PM: 127.0.0.1: Serials: 0x400013E9; 
+10/18/2018 3:35:34 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:35:37 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:35:38 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x400013F3 (AddonComponent) to (1795, 1401, 15)
+10/18/2018 3:35:40 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:35:41 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x400013F1 (AddonComponent) to (1797, 1403, 37)
+10/18/2018 3:35:42 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:35:43 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x400013F1 (AddonComponent) to (1798, 1402, 37)
+10/18/2018 3:35:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:35:51 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1795, 1389, 58) in Malas: "TallTree02Addon"
+10/18/2018 3:35:51 PM: 127.0.0.1: Serials: 0x40001433; 
+10/18/2018 3:35:54 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:36:00 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1767, 1398, 26) in Malas: "TallTree02Addon"
+10/18/2018 3:36:00 PM: 127.0.0.1: Serials: 0x40001460; 
+10/18/2018 3:36:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1775, 1396, 25) in Malas: "TallTree01Addon"
+10/18/2018 3:36:07 PM: 127.0.0.1: Serials: 0x40001475; 
+10/18/2018 3:36:09 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:36:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:36:17 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1784, 1401, 6) in Malas: "TallTree02Addon"
+10/18/2018 3:36:17 PM: 127.0.0.1: Serials: 0x400014A8; 
+10/18/2018 3:36:20 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:36:27 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1784, 1420, 5) in Malas: "TallTree01Addon"
+10/18/2018 3:36:27 PM: 127.0.0.1: Serials: 0x400014CD; 
+10/18/2018 3:36:34 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:36:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1752, 1410, 19) in Malas: "TallTree02Addon"
+10/18/2018 3:36:45 PM: 127.0.0.1: Serials: 0x4000151E; 
+10/18/2018 3:36:48 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1758, 1402, 23) in Malas: "TallTree01Addon"
+10/18/2018 3:36:48 PM: 127.0.0.1: Serials: 0x4000152F; 
+10/18/2018 3:36:50 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:36:51 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:37:02 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1716, 1467, 7) in Malas: "TallTree01Addon"
+10/18/2018 3:37:02 PM: 127.0.0.1: Serials: 0x40001576; 
+10/18/2018 3:37:06 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:37:21 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1692, 1546, 36) in Malas: "TallTree01Addon"
+10/18/2018 3:37:21 PM: 127.0.0.1: Serials: 0x400015BE; 
+10/18/2018 3:37:24 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:37:29 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1714, 1561, 104) in Malas: "TallTree02Addon"
+10/18/2018 3:37:29 PM: 127.0.0.1: Serials: 0x400015E9; 
+10/18/2018 3:37:32 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1720, 1558, 72) in Malas: "TallTree01Addon"
+10/18/2018 3:37:32 PM: 127.0.0.1: Serials: 0x400015F5; 
+10/18/2018 3:37:35 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:37:36 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:37:38 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:37:40 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:38:09 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1712, 1450, 25) in Malas: "TallTree02Addon"
+10/18/2018 3:38:09 PM: 127.0.0.1: Serials: 0x40001665; 
+10/18/2018 3:38:14 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1715, 1446, 12) in Malas: "TallTree02Addon"
+10/18/2018 3:38:14 PM: 127.0.0.1: Serials: 0x40001677; 
+10/18/2018 3:38:19 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:38:20 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:38:24 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1701, 1462, 22) in Malas: "TallTree01Addon"
+10/18/2018 3:38:24 PM: 127.0.0.1: Serials: 0x400016AA; 
+10/18/2018 3:38:29 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1697, 1466, 37) in Malas: "TallTree02Addon"
+10/18/2018 3:38:29 PM: 127.0.0.1: Serials: 0x400016C4; 
+10/18/2018 3:38:32 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:38:33 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:38:42 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1686, 1473, 50) in Malas: "TallTree01Addon"
+10/18/2018 3:38:42 PM: 127.0.0.1: Serials: 0x40001700; 
+10/18/2018 3:38:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1685, 1487, 73) in Malas: "TallTree02Addon"
+10/18/2018 3:38:45 PM: 127.0.0.1: Serials: 0x40001714; 
+10/18/2018 3:38:47 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:38:48 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:38:50 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1688, 1481, 64) in Malas: "TallTree02Addon"
+10/18/2018 3:38:50 PM: 127.0.0.1: Serials: 0x40001753; 
+10/18/2018 3:38:52 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:39:01 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1671, 1499, 22) in Malas: "TallTree01Addon"
+10/18/2018 3:39:01 PM: 127.0.0.1: Serials: 0x40001774; 
+10/18/2018 3:39:05 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:39:44 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1712, 1379, 43) in Malas: "TallTree01Addon"
+10/18/2018 3:39:44 PM: 127.0.0.1: Serials: 0x400017F8; 
+10/18/2018 3:39:47 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1711, 1388, 43) in Malas: "TallTree02Addon"
+10/18/2018 3:39:47 PM: 127.0.0.1: Serials: 0x40001805; 
+10/18/2018 3:39:49 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:39:51 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:39:57 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1694, 1407, -6) in Malas: "TallTree02Addon"
+10/18/2018 3:39:57 PM: 127.0.0.1: Serials: 0x4000183B; 
+10/18/2018 3:40:00 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:40:01 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001845 (AddonComponent) to (1695, 1406, 15)
+10/18/2018 3:40:03 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:40:08 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1714, 1422, 28) in Malas: "TallTree01Addon"
+10/18/2018 3:40:08 PM: 127.0.0.1: Serials: 0x40001865; 
+10/18/2018 3:40:11 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:40:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x4000186E (AddonComponent) to (1715, 1424, 34)
+10/18/2018 3:40:14 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:40:17 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x4000186E (AddonComponent) to (1719, 1423, 40)
+10/18/2018 3:40:19 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:40:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1758, 1573, 49) in Malas: "TallTree02Addon"
+10/18/2018 3:40:59 PM: 127.0.0.1: Serials: 0x4000195F; 
+10/18/2018 3:41:01 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:41:05 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1755, 1583, 31) in Malas: "TallTree01Addon"
+10/18/2018 3:41:05 PM: 127.0.0.1: Serials: 0x40001999; 
+10/18/2018 3:41:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:41:14 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1757, 1598, 49) in Malas: "TallTree02Addon"
+10/18/2018 3:41:14 PM: 127.0.0.1: Serials: 0x400019C0; 
+10/18/2018 3:41:17 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:41:21 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1754, 1613, 31) in Malas: "TallTree01Addon"
+10/18/2018 3:41:21 PM: 127.0.0.1: Serials: 0x400019DE; 
+10/18/2018 3:41:22 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:41:30 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1756, 1627, 52) in Malas: "TallTree02Addon"
+10/18/2018 3:41:30 PM: 127.0.0.1: Serials: 0x40001A0F; 
+10/18/2018 3:41:35 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:41:37 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001A20 (AddonComponent) to (1755, 1628, 72)
+10/18/2018 3:41:39 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:41:40 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001A20 (AddonComponent) to (1756, 1631, 55)
+10/18/2018 3:41:44 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:41:50 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1758, 1643, 45) in Malas: "TallTree01Addon"
+10/18/2018 3:41:50 PM: 127.0.0.1: Serials: 0x40001A63; 
+10/18/2018 3:41:53 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:41:54 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001A6C (AddonComponent) to (1759, 1642, 35)
+10/18/2018 3:41:56 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:41:58 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001A6C (AddonComponent) to (1757, 1644, 35)
+10/18/2018 3:41:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:42:00 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001A6C (AddonComponent) to (1752, 1636, 11)
+10/18/2018 3:42:05 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:42:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1735, 1632, 35) in Malas: "TallTree01Addon"
+10/18/2018 3:42:13 PM: 127.0.0.1: Serials: 0x40001AA6; 
+10/18/2018 3:42:17 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:42:21 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1735, 1615, -5) in Malas: "TallTree01Addon"
+10/18/2018 3:42:21 PM: 127.0.0.1: Serials: 0x40001AF2; 
+10/18/2018 3:42:24 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:42:34 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1736, 1606, 6) in Malas: "TallTree01Addon"
+10/18/2018 3:42:34 PM: 127.0.0.1: Serials: 0x40001B28; 
+10/18/2018 3:42:37 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:42:39 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001B34 (AddonComponent) to (1736, 1604, 6)
+10/18/2018 3:42:41 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:42:42 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001B34 (AddonComponent) to (1735, 1605, 16)
+10/18/2018 3:42:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:42:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001B34 (AddonComponent) to (1735, 1604, 19)
+10/18/2018 3:42:49 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:42:54 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1734, 1588, 30) in Malas: "TallTree02Addon"
+10/18/2018 3:42:54 PM: 127.0.0.1: Serials: 0x40001B72; 
+10/18/2018 3:42:58 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:46:54 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1757, 1618, 19) in Malas: "TallTree03Addon"
+10/18/2018 3:46:54 PM: 127.0.0.1: Serials: 0x40001C70; 
+10/18/2018 3:46:56 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1757, 1618, 19) in Malas: "TallTree03Addon"
+10/18/2018 3:46:56 PM: 127.0.0.1: Serials: 0x40001C7D; 
+10/18/2018 3:46:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/18/2018 3:47:00 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40001C89 (AddonComponent)
+10/18/2018 3:47:02 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'addon2static '
+10/18/2018 3:47:09 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1757, 1590, 19) in Malas: "TallTree03Addon"
+10/18/2018 3:47:09 PM: 127.0.0.1: Serials: 0x40001C9B; 
+10/18/2018 3:47:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:47:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001CA4 (AddonComponent) to (1756, 1590, 16)
+10/18/2018 3:47:16 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:47:17 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001CA4 (AddonComponent) to (1756, 1589, 22)
+10/18/2018 3:47:18 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:47:19 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001CA4 (AddonComponent) to (1756, 1589, 22)
+10/18/2018 3:47:20 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:47:21 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001CA4 (AddonComponent) to (1756, 1589, 22)
+10/18/2018 3:47:22 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:47:26 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'move '
+10/18/2018 3:47:27 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') moving 0x40001CA4 (AddonComponent) to (1757, 1588, 22)
+10/18/2018 3:47:37 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/18/2018 3:47:37 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x40001CA4 (AddonComponent)
+10/18/2018 3:48:17 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'freezemap '
+10/18/2018 3:48:18 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') invoking freeze for every item in Owner
+10/18/2018 3:48:22 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'admin '
+10/18/2018 3:48:25 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/18/2018 3:48:30 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/18/2018 7:15:35 PM
+
+10/18/2018 7:15:50 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 7:16:52 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') starting facet clear of Malas (4884 objects)
+10/18/2018 7:16:52 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'clearfacet '
+10/18/2018 7:16:53 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 4884 objects
+10/18/2018 7:18:01 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'admin '
+10/18/2018 7:18:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'decorate '
+10/18/2018 7:18:34 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/18/2018 7:18:35 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400005CC (LocalizedSign)
+10/18/2018 7:18:36 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/18/2018 7:18:37 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x400005CD (LocalizedSign)
+10/18/2018 7:24:48 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/18/2018 7:25:02 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'admin '
+10/18/2018 7:25:06 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/18/2018 7:25:09 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/18/2018 7:30:02 PM
+
+10/18/2018 7:30:35 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 7:32:23 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost off'
+10/18/2018 7:40:55 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'admin '
+10/18/2018 7:40:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/18/2018 7:41:02 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/18/2018 8:18:16 PM
+
+10/18/2018 8:18:49 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 8:19:15 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost off'
+10/18/2018 8:19:20 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'set rawstr 100'
+10/18/2018 8:19:21 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'rawstr' of 0x3 "Womp Womp" ('Zigholtul88') to '100'
+10/18/2018 8:19:25 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'set hits 500'
+10/18/2018 8:19:25 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'hits' of 0x3 "Womp Womp" ('Zigholtul88') to '500'
+10/18/2018 8:20:31 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/18/2018 8:20:31 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x7 "a bog creeper" (no account)
+10/18/2018 8:32:30 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'admin '
+10/18/2018 8:32:36 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/18/2018 8:32:39 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/18/2018 9:06:02 PM
+
+10/18/2018 9:06:44 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 9:06:58 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 9:07:00 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost off'
+10/18/2018 9:16:24 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 9:18:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'admin '
+10/18/2018 9:18:11 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/18/2018 9:18:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/18/2018 9:34:59 PM
+
+10/18/2018 9:35:23 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 9:35:39 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost off'
+10/18/2018 9:37:02 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') starting facet clear of Malas (830 objects)
+10/18/2018 9:37:02 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'clearfacet '
+10/18/2018 9:37:04 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 830 objects
+10/18/2018 9:37:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/18/2018 9:39:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') playing sound 397 (toAll=True)
+10/18/2018 9:39:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'sound 397'
+10/18/2018 9:43:30 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/18/2018 9:45:41 PM
+
+10/18/2018 9:45:52 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 9:46:24 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost off'
+10/18/2018 9:50:54 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') starting facet clear of Malas (5 objects)
+10/18/2018 9:50:54 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'clearfacet '
+10/18/2018 9:50:55 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 5 objects
+10/18/2018 9:50:57 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/18/2018 9:53:27 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'who '
+10/18/2018 9:53:31 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') bringing 0x13 "Porkins" ('Yugitashi') to Location (1629, 1880, 5), Map Malas
+10/18/2018 9:53:36 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add gmbuff'
+10/18/2018 9:53:38 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1628, 1880, 5) in Malas: "GMBuffStatue"
+10/18/2018 9:53:38 PM: 127.0.0.1: Serials: 0x400000AC; 
+10/18/2018 9:53:42 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add pitcher'
+10/18/2018 9:53:44 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add pitche'
+10/18/2018 9:53:49 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1626, 1881, 5) in Malas: "Pitcher"
+10/18/2018 9:53:49 PM: 127.0.0.1: Serials: 0x400000AE; 
+10/18/2018 9:53:52 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/18/2018 9:53:57 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'Content' of 0x400000AE (Pitcher) to 'Water'
+10/18/2018 9:54:03 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'Quantity' of 0x400000AE (Pitcher) to '5'
+10/18/2018 9:54:10 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add apple 50'
+10/18/2018 9:54:11 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1626, 1880, 5) in Malas: "apple" "50"
+10/18/2018 9:54:11 PM: 127.0.0.1: Serials: 0x400000AF; 
+10/18/2018 9:54:43 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'bank '
+10/18/2018 9:54:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') opening bank box of 0x13 "Porkins" ('Yugitashi')
+10/18/2018 9:55:01 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'bank '
+10/18/2018 9:55:03 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') opening bank box of 0x13 "Porkins" ('Yugitashi')
+10/18/2018 9:55:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add '
+10/18/2018 9:55:27 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'Add DemonscaleArms'
+10/18/2018 9:55:28 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1627, 1881, 5) in Malas: "DemonscaleArms"
+10/18/2018 9:55:28 PM: 127.0.0.1: Serials: 0x400000DF; 
+10/18/2018 9:55:29 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'Add DemonscaleChest'
+10/18/2018 9:55:30 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1628, 1881, 5) in Malas: "DemonscaleChest"
+10/18/2018 9:55:30 PM: 127.0.0.1: Serials: 0x400000E0; 
+10/18/2018 9:55:31 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'Add DemonscaleGloves'
+10/18/2018 9:55:32 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1626, 1881, 5) in Malas: "DemonscaleGloves"
+10/18/2018 9:55:32 PM: 127.0.0.1: Serials: 0x400000E1; 
+10/18/2018 9:55:38 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'Add DemonscaleGorget'
+10/18/2018 9:55:39 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1627, 1882, 5) in Malas: "DemonscaleGorget"
+10/18/2018 9:55:39 PM: 127.0.0.1: Serials: 0x400000E3; 
+10/18/2018 9:55:40 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'Add DemonscaleLegs'
+10/18/2018 9:55:41 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1628, 1882, 5) in Malas: "DemonscaleLegs"
+10/18/2018 9:55:41 PM: 127.0.0.1: Serials: 0x400000E6; 
+10/18/2018 9:55:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'Add DemonscaleHelmet'
+10/18/2018 9:55:48 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1627, 1880, 5) in Malas: "DemonscaleHelmet"
+10/18/2018 9:55:48 PM: 127.0.0.1: Serials: 0x400000E7; 
+10/18/2018 9:56:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add gm'
+10/18/2018 9:56:49 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add gms'
+10/18/2018 9:56:53 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add gmsales'
+10/18/2018 9:56:57 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add sales'
+10/18/2018 9:56:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1629, 1881, 5) in Malas: "HappySalesman"
+10/18/2018 9:56:59 PM: 127.0.0.1: Serials: 0x15; 
+10/18/2018 9:57:35 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'remove '
+10/18/2018 9:57:35 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 0x15 "Flippy" (no account)
+10/18/2018 9:58:11 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'save '
+10/18/2018 9:58:14 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'go '
+10/18/2018 9:58:34 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 9:59:09 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'who '
+10/18/2018 9:59:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') bringing 0x13 "Porkins" ('Yugitashi') to Location (1740, 1635, 50), Map Malas
+10/18/2018 10:02:47 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/18/2018 10:05:04 PM
+
+10/18/2018 10:05:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 10:07:37 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add balro'
+10/18/2018 10:07:40 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1741, 1635, 50) in Malas: "BalronVolcanicSting"
+10/18/2018 10:07:40 PM: 127.0.0.1: Serials: 0x40000153; 
+10/18/2018 10:27:10 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/18/2018 10:29:25 PM
+
+10/18/2018 10:29:34 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 10:29:50 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'who '
+10/18/2018 10:29:53 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') bringing 0x13 "Porkins" ('Yugitashi') to Location (1740, 1588, 0), Map Malas
+10/18/2018 10:42:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/18/2018 10:44:24 PM
+
+10/18/2018 10:44:35 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 10:44:40 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'm tele'
+10/18/2018 10:44:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') starting facet clear of Malas (12 objects)
+10/18/2018 10:44:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'clearfacet '
+10/18/2018 10:45:01 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') deleting 12 objects
+10/18/2018 11:01:12 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/18/2018 11:17:57 PM
+
+10/18/2018 11:18:07 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 11:18:13 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'add greencandle'
+10/18/2018 11:18:14 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') building at (1740, 1569, 0) in Malas: "greencandle"
+10/18/2018 11:18:14 PM: 127.0.0.1: Serials: 0x4000009C; 
+10/18/2018 11:22:03 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/18/2018 11:24:29 PM
+
+10/18/2018 11:27:14 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/18/2018 11:44:06 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/18/2018 11:47:43 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'set burning true'
+10/18/2018 11:47:46 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'set burning true'
+10/18/2018 11:47:47 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') set property 'burning' of 0x400005C1 (UnholyCandle) to 'True'
+10/18/2018 11:47:59 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'props '
+10/18/2018 11:49:43 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/18/2018 11:58:24 PM
+
+10/18/2018 11:58:45 PM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'speedboost '
+10/19/2018 12:08:29 AM: 127.0.0.1: Owner 0x3 "Womp Womp" ('Zigholtul88') used command 'restart '

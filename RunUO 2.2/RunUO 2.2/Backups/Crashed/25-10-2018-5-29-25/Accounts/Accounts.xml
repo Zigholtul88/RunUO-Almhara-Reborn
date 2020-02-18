@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="2">
+	<account>
+		<username>Zigholtul88</username>
+		<password>freeglepluk</password>
+		<accessLevel>Owner</accessLevel>
+		<created>2018-10-22T23:34:34.7151515-04:00</created>
+		<lastLogin>2018-10-25T03:51:04.3067379-04:00</lastLogin>
+		<totalGameTime>P1DT11H28M46.4334018S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="2">
+			<ip>127.0.0.1</ip>
+			<ip>71.208.8.50</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Yugitashi</username>
+		<password>freeglepluk</password>
+		<created>2018-10-23T16:34:04.2447455-04:00</created>
+		<lastLogin>2018-10-23T16:34:04.2447455-04:00</lastLogin>
+		<totalGameTime>PT0S</totalGameTime>
+		<chars />
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

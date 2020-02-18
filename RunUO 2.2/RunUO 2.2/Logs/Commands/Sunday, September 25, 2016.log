@@ -1,0 +1,709 @@
+##############################
+Log started on 9/25/2016 5:58:47 PM
+
+9/25/2016 5:59:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pants'
+9/25/2016 5:59:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1183, 1057, 0) in Malas: "ShortPants"
+9/25/2016 5:59:26 PM: 127.0.0.1: Serials: 0x40000385; 
+9/25/2016 5:59:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1183, 1056, 0) in Malas: "LongPants"
+9/25/2016 5:59:27 PM: 127.0.0.1: Serials: 0x40000386; 
+9/25/2016 5:59:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add shirt'
+9/25/2016 5:59:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1184, 1053, 0) in Malas: "shirt"
+9/25/2016 5:59:40 PM: 127.0.0.1: Serials: 0x40000387; 
+9/25/2016 6:05:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add executioneraxe'
+9/25/2016 6:05:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add executioner'
+9/25/2016 6:05:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add executione'
+9/25/2016 6:05:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1181, 1054, 0) in Malas: "ExecutionersAxe"
+9/25/2016 6:05:20 PM: 127.0.0.1: Serials: 0x40000388; 
+9/25/2016 6:08:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add elandrim'
+9/25/2016 6:08:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1241, 1051, 0) in Malas: "ElandrimNurShazFortressGuard"
+9/25/2016 6:08:32 PM: 127.0.0.1: Serials: 0x2; 
+9/25/2016 6:08:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+9/25/2016 6:08:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Amoniel" (no account)
+9/25/2016 6:08:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000038F (WingedHelm)
+9/25/2016 6:16:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add moonelf'
+9/25/2016 6:16:25 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "MoonElfAlterationGate"
+9/25/2016 6:16:25 PM: 127.0.0.1: Serials: 0x4000039B; 
+9/25/2016 6:16:34 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 6:16:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x4000039B (MoonElfAlterationGate)
+9/25/2016 6:16:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 6:18:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add moonelf'
+9/25/2016 6:18:44 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "MoonElfDyeBottle"
+9/25/2016 6:18:44 PM: 127.0.0.1: Serials: 0x4000039D; 
+9/25/2016 6:18:44 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "MoonElfDyeBottle"
+9/25/2016 6:18:44 PM: 127.0.0.1: Serials: 0x4000039E; 
+9/25/2016 6:18:44 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "MoonElfDyeBottle"
+9/25/2016 6:18:44 PM: 127.0.0.1: Serials: 0x4000039F; 
+9/25/2016 6:18:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "MoonElfDyeBottle"
+9/25/2016 6:18:45 PM: 127.0.0.1: Serials: 0x400003A0; 
+9/25/2016 6:18:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "MoonElfDyeBottle"
+9/25/2016 6:18:45 PM: 127.0.0.1: Serials: 0x400003A1; 
+9/25/2016 6:18:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "MoonElfDyeBottle"
+9/25/2016 6:18:45 PM: 127.0.0.1: Serials: 0x400003A2; 
+9/25/2016 6:18:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "MoonElfDyeBottle"
+9/25/2016 6:18:45 PM: 127.0.0.1: Serials: 0x400003A3; 
+9/25/2016 6:18:52 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add hairresty'
+9/25/2016 6:18:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1989, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:18:54 PM: 127.0.0.1: Serials: 0x400003A4; 
+9/25/2016 6:18:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1989, 1) in Malas: "HairRestylingDeed"
+9/25/2016 6:18:54 PM: 127.0.0.1: Serials: 0x400003A5; 
+9/25/2016 6:18:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1989, 2) in Malas: "HairRestylingDeed"
+9/25/2016 6:18:54 PM: 127.0.0.1: Serials: 0x400003A6; 
+9/25/2016 6:18:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1989, 3) in Malas: "HairRestylingDeed"
+9/25/2016 6:18:55 PM: 127.0.0.1: Serials: 0x400003A7; 
+9/25/2016 6:18:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1989, 3) in Malas: "HairRestylingDeed"
+9/25/2016 6:18:55 PM: 127.0.0.1: Serials: 0x400003A8; 
+9/25/2016 6:18:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1989, 3) in Malas: "HairRestylingDeed"
+9/25/2016 6:18:55 PM: 127.0.0.1: Serials: 0x400003A9; 
+9/25/2016 6:21:20 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add hairresty'
+9/25/2016 6:21:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:22 PM: 127.0.0.1: Serials: 0x400003AA; 
+9/25/2016 6:21:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:22 PM: 127.0.0.1: Serials: 0x400003AB; 
+9/25/2016 6:21:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:22 PM: 127.0.0.1: Serials: 0x400003AC; 
+9/25/2016 6:21:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:22 PM: 127.0.0.1: Serials: 0x400003AD; 
+9/25/2016 6:21:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:23 PM: 127.0.0.1: Serials: 0x400003AE; 
+9/25/2016 6:21:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:23 PM: 127.0.0.1: Serials: 0x400003AF; 
+9/25/2016 6:21:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:23 PM: 127.0.0.1: Serials: 0x400003B0; 
+9/25/2016 6:21:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:23 PM: 127.0.0.1: Serials: 0x400003B1; 
+9/25/2016 6:21:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:23 PM: 127.0.0.1: Serials: 0x400003B2; 
+9/25/2016 6:21:24 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:24 PM: 127.0.0.1: Serials: 0x400003B3; 
+9/25/2016 6:21:24 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "HairRestylingDeed"
+9/25/2016 6:21:24 PM: 127.0.0.1: Serials: 0x400003B5; 
+9/25/2016 6:21:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '605'
+9/25/2016 6:21:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'Female' of 0x3 "We Wuz Kings" ('Zigholtul88') to 'False'
+9/25/2016 6:24:52 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'Female' of 0x3 "We Wuz Kings" ('Zigholtul88') to 'True'
+9/25/2016 6:24:57 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '606'
+9/25/2016 6:25:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set str 100'
+9/25/2016 6:25:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'str' of 0x3 "We Wuz Kings" ('Zigholtul88') to '100'
+9/25/2016 6:25:20 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set dex 100'
+9/25/2016 6:25:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'dex' of 0x3 "We Wuz Kings" ('Zigholtul88') to '100'
+9/25/2016 6:25:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add '
+9/25/2016 6:26:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add LeafArms'
+9/25/2016 6:26:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "LeafArms"
+9/25/2016 6:26:40 PM: 127.0.0.1: Serials: 0x400003B6; 
+9/25/2016 6:26:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add LeafChest'
+9/25/2016 6:26:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "LeafChest"
+9/25/2016 6:26:45 PM: 127.0.0.1: Serials: 0x400003B7; 
+9/25/2016 6:26:52 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add LeafGloves'
+9/25/2016 6:26:53 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "LeafGloves"
+9/25/2016 6:26:53 PM: 127.0.0.1: Serials: 0x400003BC; 
+9/25/2016 6:27:01 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add LeafGorget'
+9/25/2016 6:27:01 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "LeafGorget"
+9/25/2016 6:27:01 PM: 127.0.0.1: Serials: 0x400003BD; 
+9/25/2016 6:27:10 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add LeafLegs'
+9/25/2016 6:27:10 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "LeafLegs"
+9/25/2016 6:27:10 PM: 127.0.0.1: Serials: 0x400003BE; 
+9/25/2016 6:27:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add LeafTonlet'
+9/25/2016 6:27:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "LeafTonlet"
+9/25/2016 6:27:16 PM: 127.0.0.1: Serials: 0x400003BF; 
+9/25/2016 6:27:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add boots'
+9/25/2016 6:27:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add boot'
+9/25/2016 6:27:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "ElvenBoots"
+9/25/2016 6:27:31 PM: 127.0.0.1: Serials: 0x400003C0; 
+9/25/2016 6:27:44 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "ThighBoots"
+9/25/2016 6:27:44 PM: 127.0.0.1: Serials: 0x400003C3; 
+9/25/2016 6:27:59 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 6:28:01 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003C0 (ElvenBoots)
+9/25/2016 6:28:07 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'm remove'
+9/25/2016 6:28:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003B0 (HairRestylingDeed)
+9/25/2016 6:28:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003AF (HairRestylingDeed)
+9/25/2016 6:28:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003AE (HairRestylingDeed)
+9/25/2016 6:28:09 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003AD (HairRestylingDeed)
+9/25/2016 6:28:09 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003AC (HairRestylingDeed)
+9/25/2016 6:28:09 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003AB (HairRestylingDeed)
+9/25/2016 6:28:10 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003AA (HairRestylingDeed)
+9/25/2016 6:29:51 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add circle'
+9/25/2016 6:29:56 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "Circlet"
+9/25/2016 6:29:56 PM: 127.0.0.1: Serials: 0x400003C4; 
+9/25/2016 6:30:57 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add FemaleLeafChest'
+9/25/2016 6:30:58 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "FemaleLeafChest"
+9/25/2016 6:30:58 PM: 127.0.0.1: Serials: 0x400003C5; 
+9/25/2016 6:31:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 6:31:24 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003C5 (FemaleLeafChest)
+9/25/2016 6:35:25 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add nightsightscroll 100'
+9/25/2016 6:35:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "nightsightscroll" "100"
+9/25/2016 6:35:26 PM: 127.0.0.1: Serials: 0x400003C6; 
+9/25/2016 6:55:38 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add OrnateAxe'
+9/25/2016 6:55:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "OrnateAxe"
+9/25/2016 6:55:39 PM: 127.0.0.1: Serials: 0x400003C7; 
+9/25/2016 6:55:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add DiamondMace'
+9/25/2016 6:55:49 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "DiamondMace"
+9/25/2016 6:55:49 PM: 127.0.0.1: Serials: 0x400003C8; 
+9/25/2016 6:59:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add dyes'
+9/25/2016 6:59:06 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1989, 0) in Malas: "dyes"
+9/25/2016 6:59:06 PM: 127.0.0.1: Serials: 0x400003C9; 
+9/25/2016 7:01:30 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 7:01:37 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1918'
+9/25/2016 7:01:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003B7 (LeafChest) to '1918'
+9/25/2016 7:01:47 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1918'
+9/25/2016 7:01:49 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003B6 (LeafArms) to '1918'
+9/25/2016 7:01:59 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1919'
+9/25/2016 7:02:01 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003B7 (LeafChest) to '1919'
+9/25/2016 7:02:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1919'
+9/25/2016 7:02:05 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003B6 (LeafArms) to '1919'
+9/25/2016 7:02:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1919'
+9/25/2016 7:02:09 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BF (LeafTonlet) to '1919'
+9/25/2016 7:02:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1919'
+9/25/2016 7:02:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BC (LeafGloves) to '1919'
+9/25/2016 7:02:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1919'
+9/25/2016 7:02:24 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BD (LeafGorget) to '1919'
+9/25/2016 7:02:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add cloak'
+9/25/2016 7:02:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "cloak"
+9/25/2016 7:02:31 PM: 127.0.0.1: Serials: 0x400003CA; 
+9/25/2016 7:02:34 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1919'
+9/25/2016 7:02:36 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003CA (Cloak) to '1919'
+9/25/2016 7:03:07 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1926'
+9/25/2016 7:03:09 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003C3 (ThighBoots) to '1926'
+9/25/2016 7:03:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1929'
+9/25/2016 7:03:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003C3 (ThighBoots) to '1929'
+9/25/2016 7:03:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1289'
+9/25/2016 7:03:56 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003C3 (ThighBoots) to '1289'
+9/25/2016 7:04:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1374'
+9/25/2016 7:04:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003C3 (ThighBoots) to '1374'
+9/25/2016 7:04:19 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1374'
+9/25/2016 7:04:20 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BF (LeafTonlet) to '1374'
+9/25/2016 7:04:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1374'
+9/25/2016 7:04:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003B7 (LeafChest) to '1374'
+9/25/2016 7:04:24 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1374'
+9/25/2016 7:04:25 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003B6 (LeafArms) to '1374'
+9/25/2016 7:04:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1374'
+9/25/2016 7:04:30 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BC (LeafGloves) to '1374'
+9/25/2016 7:04:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1374'
+9/25/2016 7:04:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003CA (Cloak) to '1374'
+9/25/2016 7:04:41 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1377'
+9/25/2016 7:04:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003CA (Cloak) to '1377'
+9/25/2016 7:04:46 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1377'
+9/25/2016 7:04:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1377'
+9/25/2016 7:04:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BC (LeafGloves) to '1377'
+9/25/2016 7:05:00 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1377'
+9/25/2016 7:05:01 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BD (LeafGorget) to '1377'
+9/25/2016 7:05:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1377'
+9/25/2016 7:05:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003C3 (ThighBoots) to '1377'
+9/25/2016 7:05:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1377'
+9/25/2016 7:05:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BF (LeafTonlet) to '1377'
+9/25/2016 7:05:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1377'
+9/25/2016 7:05:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003B7 (LeafChest) to '1377'
+9/25/2016 7:05:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1377'
+9/25/2016 7:05:19 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003B6 (LeafArms) to '1377'
+9/25/2016 7:05:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1377'
+9/25/2016 7:05:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BE (LeafLegs) to '1377'
+9/25/2016 7:05:37 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1378'
+9/25/2016 7:06:07 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003CA (Cloak) to '1378'
+9/25/2016 7:06:11 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1378'
+9/25/2016 7:06:12 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BF (LeafTonlet) to '1378'
+9/25/2016 7:06:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1378'
+9/25/2016 7:06:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003C3 (ThighBoots) to '1378'
+9/25/2016 7:06:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1378'
+9/25/2016 7:06:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003B7 (LeafChest) to '1378'
+9/25/2016 7:06:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1378'
+9/25/2016 7:06:19 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003B6 (LeafArms) to '1378'
+9/25/2016 7:06:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1378'
+9/25/2016 7:06:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BD (LeafGorget) to '1378'
+9/25/2016 7:06:27 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1378'
+9/25/2016 7:06:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BC (LeafGloves) to '1378'
+9/25/2016 7:06:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1378'
+9/25/2016 7:06:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x400003BE (LeafLegs) to '1378'
+9/25/2016 7:16:38 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add hellhound'
+9/25/2016 7:16:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2522, 1989, 0) in Malas: "hellhound"
+9/25/2016 7:16:40 PM: 127.0.0.1: Serials: 0x4; 
+9/25/2016 7:16:42 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 7:16:56 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:16:57 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x4 "a hell hound" (no account)
+9/25/2016 7:16:59 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'tele '
+9/25/2016 7:17:06 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add ostard'
+9/25/2016 7:17:09 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1975, 0) in Malas: "FrenziedOstard"
+9/25/2016 7:17:09 PM: 127.0.0.1: Serials: 0x5; 
+9/25/2016 7:17:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add daemonbon'
+9/25/2016 7:17:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1976, 0) in Malas: "DaemonBoneChest"
+9/25/2016 7:17:17 PM: 127.0.0.1: Serials: 0x400003D2; 
+9/25/2016 7:17:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 7:17:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set hue 1608'
+9/25/2016 7:17:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x5 "a frenzied ostard" (no account) to '1608'
+9/25/2016 7:18:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:18:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x5 "a frenzied ostard" (no account)
+9/25/2016 7:21:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add verdantsprite'
+9/25/2016 7:21:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1974, 0) in Malas: "verdantsprite"
+9/25/2016 7:21:23 PM: 127.0.0.1: Serials: 0x6; 
+9/25/2016 7:21:36 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1930'
+9/25/2016 7:21:38 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x6 "a verdant sprite" (no account) to '1930'
+9/25/2016 7:21:53 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1289'
+9/25/2016 7:21:53 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x6 "a verdant sprite" (no account) to '1289'
+9/25/2016 7:22:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:22:36 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x6 "a verdant sprite" (no account)
+9/25/2016 7:23:47 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add beetle'
+9/25/2016 7:23:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1974, 0) in Malas: "beetle"
+9/25/2016 7:23:48 PM: 127.0.0.1: Serials: 0x7; 
+9/25/2016 7:23:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1282'
+9/25/2016 7:23:56 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x7 "a giant beetle" (no account) to '1282'
+9/25/2016 7:24:01 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1266'
+9/25/2016 7:24:02 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x7 "a giant beetle" (no account) to '1266'
+9/25/2016 7:24:06 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1152'
+9/25/2016 7:24:07 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x7 "a giant beetle" (no account) to '1152'
+9/25/2016 7:24:57 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:24:57 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x7 "a giant beetle" (no account)
+9/25/2016 7:25:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add dryad'
+9/25/2016 7:25:09 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add drya'
+9/25/2016 7:25:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1976, 0) in Malas: "MLDryad"
+9/25/2016 7:25:23 PM: 127.0.0.1: Serials: 0x8; 
+9/25/2016 7:25:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:25:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x8 "a dryad" (no account)
+9/25/2016 7:25:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add lion'
+9/25/2016 7:25:58 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1976, 0) in Malas: "RevenantLion"
+9/25/2016 7:25:58 PM: 127.0.0.1: Serials: 0x9; 
+9/25/2016 7:26:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2107'
+9/25/2016 7:26:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x9 "a Revenant Lion" (no account) to '2107'
+9/25/2016 7:27:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:27:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x9 "a Revenant Lion" (no account)
+9/25/2016 7:27:30 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add phoenix'
+9/25/2016 7:27:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1976, 0) in Malas: "phoenix"
+9/25/2016 7:27:31 PM: 127.0.0.1: Serials: 0xA; 
+9/25/2016 7:31:11 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:31:11 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0xA "a phoenix" (no account)
+9/25/2016 7:31:13 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add harpy'
+9/25/2016 7:31:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1977, 0) in Malas: "harpy"
+9/25/2016 7:31:15 PM: 127.0.0.1: Serials: 0xB; 
+9/25/2016 7:31:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2590'
+9/25/2016 7:31:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xB "a harpy" (no account) to '2590'
+9/25/2016 7:31:37 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2594'
+9/25/2016 7:31:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xB "a harpy" (no account) to '2594'
+9/25/2016 7:31:47 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2532'
+9/25/2016 7:31:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xB "a harpy" (no account) to '2532'
+9/25/2016 7:31:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2531'
+9/25/2016 7:31:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xB "a harpy" (no account) to '2531'
+9/25/2016 7:32:00 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2591'
+9/25/2016 7:32:00 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xB "a harpy" (no account) to '2591'
+9/25/2016 7:32:05 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2583'
+9/25/2016 7:32:06 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xB "a harpy" (no account) to '2583'
+9/25/2016 7:32:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2526'
+9/25/2016 7:32:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xB "a harpy" (no account) to '2526'
+9/25/2016 7:32:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2532'
+9/25/2016 7:32:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xB "a harpy" (no account) to '2532'
+9/25/2016 7:32:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2591'
+9/25/2016 7:32:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xB "a harpy" (no account) to '2591'
+9/25/2016 7:34:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:34:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0xB "a harpy" (no account)
+9/25/2016 7:35:09 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add knight'
+9/25/2016 7:35:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1976, 0) in Malas: "ShadowKnight"
+9/25/2016 7:35:14 PM: 127.0.0.1: Serials: 0xC; 
+9/25/2016 7:35:27 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:35:30 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0xC "Helzigar" (no account)
+9/25/2016 7:36:02 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add ophidia'
+9/25/2016 7:36:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2521, 1973, 0) in Malas: "OphidianMatriarch"
+9/25/2016 7:36:15 PM: 127.0.0.1: Serials: 0xD; 
+9/25/2016 7:36:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2526'
+9/25/2016 7:36:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xD "an ophidian matriarch" (no account) to '2526'
+9/25/2016 7:36:34 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2527'
+9/25/2016 7:36:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xD "an ophidian matriarch" (no account) to '2527'
+9/25/2016 7:36:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1923'
+9/25/2016 7:36:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xD "an ophidian matriarch" (no account) to '1923'
+9/25/2016 7:36:46 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2599'
+9/25/2016 7:36:47 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xD "an ophidian matriarch" (no account) to '2599'
+9/25/2016 7:37:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:37:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0xD "an ophidian matriarch" (no account)
+9/25/2016 7:38:42 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'm remove'
+9/25/2016 7:38:44 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003BF (LeafTonlet)
+9/25/2016 7:38:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003B7 (LeafChest)
+9/25/2016 7:38:46 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003B6 (LeafArms)
+9/25/2016 7:38:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003CA (Cloak)
+9/25/2016 7:38:49 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003BC (LeafGloves)
+9/25/2016 7:38:52 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003C3 (ThighBoots)
+9/25/2016 7:38:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003BD (LeafGorget)
+9/25/2016 7:39:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2119'
+9/25/2016 7:39:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '2119'
+9/25/2016 7:39:30 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add specialhairdye'
+9/25/2016 7:39:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 0) in Malas: "specialhairdye"
+9/25/2016 7:39:32 PM: 127.0.0.1: Serials: 0x400003F1; 
+9/25/2016 7:39:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add specialhairdy'
+9/25/2016 7:39:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "SpecialHairDye"
+9/25/2016 7:39:35 PM: 127.0.0.1: Serials: 0x400003F2; 
+9/25/2016 7:39:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "SpecialHairDye"
+9/25/2016 7:39:35 PM: 127.0.0.1: Serials: 0x400003F3; 
+9/25/2016 7:39:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "SpecialHairDye"
+9/25/2016 7:39:35 PM: 127.0.0.1: Serials: 0x400003F4; 
+9/25/2016 7:39:36 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "SpecialHairDye"
+9/25/2016 7:39:36 PM: 127.0.0.1: Serials: 0x400003F5; 
+9/25/2016 7:39:36 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "SpecialHairDye"
+9/25/2016 7:39:36 PM: 127.0.0.1: Serials: 0x400003F6; 
+9/25/2016 7:39:36 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "SpecialHairDye"
+9/25/2016 7:39:36 PM: 127.0.0.1: Serials: 0x400003F7; 
+9/25/2016 7:39:36 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "SpecialHairDye"
+9/25/2016 7:39:36 PM: 127.0.0.1: Serials: 0x400003F8; 
+9/25/2016 7:39:37 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "SpecialHairDye"
+9/25/2016 7:39:37 PM: 127.0.0.1: Serials: 0x400003F9; 
+9/25/2016 7:39:37 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "SpecialHairDye"
+9/25/2016 7:39:37 PM: 127.0.0.1: Serials: 0x400003FA; 
+9/25/2016 7:39:37 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "SpecialHairDye"
+9/25/2016 7:39:37 PM: 127.0.0.1: Serials: 0x400003FD; 
+9/25/2016 7:40:00 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add '
+9/25/2016 7:40:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add Skirt'
+9/25/2016 7:40:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1973, 0) in Malas: "Skirt"
+9/25/2016 7:40:21 PM: 127.0.0.1: Serials: 0x400003FE; 
+9/25/2016 7:40:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add Kilt'
+9/25/2016 7:40:27 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1973, 0) in Malas: "Kilt"
+9/25/2016 7:40:27 PM: 127.0.0.1: Serials: 0x400003FF; 
+9/25/2016 7:40:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add Doublet'
+9/25/2016 7:40:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1972, 0) in Malas: "Doublet"
+9/25/2016 7:40:45 PM: 127.0.0.1: Serials: 0x40000400; 
+9/25/2016 7:40:57 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:40:58 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x40000400 (Doublet)
+9/25/2016 7:41:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add BodySash'
+9/25/2016 7:41:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1973, 0) in Malas: "BodySash"
+9/25/2016 7:41:04 PM: 127.0.0.1: Serials: 0x40000401; 
+9/25/2016 7:41:24 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add quarterstaff'
+9/25/2016 7:41:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1972, 0) in Malas: "quarterstaff"
+9/25/2016 7:41:26 PM: 127.0.0.1: Serials: 0x40000402; 
+9/25/2016 7:41:41 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1930'
+9/25/2016 7:41:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000402 (QuarterStaff) to '1930'
+9/25/2016 7:41:49 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1927'
+9/25/2016 7:41:50 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000402 (QuarterStaff) to '1927'
+9/25/2016 7:42:11 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2593'
+9/25/2016 7:42:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000402 (QuarterStaff) to '2593'
+9/25/2016 7:44:10 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add WoodlandBelt'
+9/25/2016 7:44:11 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1973, 0) in Malas: "WoodlandBelt"
+9/25/2016 7:44:11 PM: 127.0.0.1: Serials: 0x40000403; 
+9/25/2016 7:44:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2004'
+9/25/2016 7:44:24 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000403 (WoodlandBelt) to '2004'
+9/25/2016 7:44:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2004'
+9/25/2016 7:44:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000401 (BodySash) to '2004'
+9/25/2016 7:44:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add Sandals'
+9/25/2016 7:44:41 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1973, 0) in Malas: "Sandals"
+9/25/2016 7:44:41 PM: 127.0.0.1: Serials: 0x40000404; 
+9/25/2016 7:44:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2004'
+9/25/2016 7:44:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000404 (Sandals) to '2004'
+9/25/2016 7:50:13 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:50:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003C4 (Circlet)
+9/25/2016 7:50:52 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1514'
+9/25/2016 7:50:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '1514'
+9/25/2016 7:51:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1841'
+9/25/2016 7:51:05 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '1841'
+9/25/2016 7:51:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1837'
+9/25/2016 7:51:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '1837'
+9/25/2016 7:51:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1839'
+9/25/2016 7:51:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '1839'
+9/25/2016 7:51:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1840'
+9/25/2016 7:51:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '1840'
+9/25/2016 7:51:42 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1843'
+9/25/2016 7:51:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '1843'
+9/25/2016 7:51:52 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1844'
+9/25/2016 7:51:52 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '1844'
+9/25/2016 7:51:57 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1845'
+9/25/2016 7:51:58 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '1845'
+9/25/2016 7:52:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1843'
+9/25/2016 7:52:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '1843'
+9/25/2016 7:52:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add wildstaff'
+9/25/2016 7:52:46 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2517, 1973, 0) in Malas: "wildstaff"
+9/25/2016 7:52:46 PM: 127.0.0.1: Serials: 0x40000405; 
+9/25/2016 7:53:20 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2001'
+9/25/2016 7:53:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000401 (BodySash) to '2001'
+9/25/2016 7:53:25 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2001'
+9/25/2016 7:53:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000403 (WoodlandBelt) to '2001'
+9/25/2016 7:53:27 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2001'
+9/25/2016 7:53:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000405 (WildStaff) to '2001'
+9/25/2016 7:54:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add sunelf'
+9/25/2016 7:54:50 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1974, 0) in Malas: "SunElfAlterationGate"
+9/25/2016 7:54:50 PM: 127.0.0.1: Serials: 0x40000406; 
+9/25/2016 7:55:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set str 100'
+9/25/2016 7:55:09 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'str' of 0x3 "We Wuz Kings" ('Zigholtul88') to '100'
+9/25/2016 7:55:12 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set dex 100'
+9/25/2016 7:55:13 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'dex' of 0x3 "We Wuz Kings" ('Zigholtul88') to '100'
+9/25/2016 7:59:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 7:59:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x40000406 (SunElfAlterationGate)
+9/25/2016 7:59:50 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 8:00:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'm remove'
+9/25/2016 8:00:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003F9 (SpecialHairDye)
+9/25/2016 8:00:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003F8 (SpecialHairDye)
+9/25/2016 8:00:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003F7 (SpecialHairDye)
+9/25/2016 8:00:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003F6 (SpecialHairDye)
+9/25/2016 8:00:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003F5 (SpecialHairDye)
+9/25/2016 8:00:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003F4 (SpecialHairDye)
+9/25/2016 8:00:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003F3 (SpecialHairDye)
+9/25/2016 8:00:34 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003F2 (SpecialHairDye)
+9/25/2016 8:00:34 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003F1 (SpecialHairDye)
+9/25/2016 8:00:37 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add hairdye'
+9/25/2016 8:00:38 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add hairdy'
+9/25/2016 8:00:41 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 0) in Malas: "HairDye"
+9/25/2016 8:00:41 PM: 127.0.0.1: Serials: 0x40000407; 
+9/25/2016 8:00:41 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 1) in Malas: "HairDye"
+9/25/2016 8:00:41 PM: 127.0.0.1: Serials: 0x40000408; 
+9/25/2016 8:00:41 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 2) in Malas: "HairDye"
+9/25/2016 8:00:41 PM: 127.0.0.1: Serials: 0x40000409; 
+9/25/2016 8:00:42 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 2) in Malas: "HairDye"
+9/25/2016 8:00:42 PM: 127.0.0.1: Serials: 0x4000040A; 
+9/25/2016 8:00:42 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 2) in Malas: "HairDye"
+9/25/2016 8:00:42 PM: 127.0.0.1: Serials: 0x4000040B; 
+9/25/2016 8:00:42 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 2) in Malas: "HairDye"
+9/25/2016 8:00:42 PM: 127.0.0.1: Serials: 0x4000040C; 
+9/25/2016 8:00:42 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 2) in Malas: "HairDye"
+9/25/2016 8:00:42 PM: 127.0.0.1: Serials: 0x4000040D; 
+9/25/2016 8:00:42 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 2) in Malas: "HairDye"
+9/25/2016 8:00:42 PM: 127.0.0.1: Serials: 0x4000040E; 
+9/25/2016 8:00:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 2) in Malas: "HairDye"
+9/25/2016 8:00:43 PM: 127.0.0.1: Serials: 0x4000040F; 
+9/25/2016 8:00:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2520, 1972, 2) in Malas: "HairDye"
+9/25/2016 8:00:43 PM: 127.0.0.1: Serials: 0x40000410; 
+9/25/2016 8:04:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add sunelfdye'
+9/25/2016 8:04:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2517, 1973, 0) in Malas: "SunElfDyeBottle"
+9/25/2016 8:04:21 PM: 127.0.0.1: Serials: 0x40000411; 
+9/25/2016 8:04:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2517, 1973, 0) in Malas: "SunElfDyeBottle"
+9/25/2016 8:04:21 PM: 127.0.0.1: Serials: 0x40000412; 
+9/25/2016 8:04:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2517, 1973, 0) in Malas: "SunElfDyeBottle"
+9/25/2016 8:04:21 PM: 127.0.0.1: Serials: 0x40000413; 
+9/25/2016 8:04:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2517, 1973, 0) in Malas: "SunElfDyeBottle"
+9/25/2016 8:04:21 PM: 127.0.0.1: Serials: 0x40000414; 
+9/25/2016 8:04:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2517, 1973, 0) in Malas: "SunElfDyeBottle"
+9/25/2016 8:04:21 PM: 127.0.0.1: Serials: 0x40000415; 
+9/25/2016 8:04:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2517, 1973, 0) in Malas: "SunElfDyeBottle"
+9/25/2016 8:04:21 PM: 127.0.0.1: Serials: 0x40000416; 
+9/25/2016 8:04:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2517, 1973, 0) in Malas: "SunElfDyeBottle"
+9/25/2016 8:04:22 PM: 127.0.0.1: Serials: 0x40000417; 
+9/25/2016 8:04:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2517, 1973, 0) in Malas: "SunElfDyeBottle"
+9/25/2016 8:04:22 PM: 127.0.0.1: Serials: 0x40000418; 
+9/25/2016 8:04:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2517, 1973, 0) in Malas: "SunElfDyeBottle"
+9/25/2016 8:04:22 PM: 127.0.0.1: Serials: 0x40000419; 
+9/25/2016 8:08:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Add FemaleElvenRobe'
+9/25/2016 8:08:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1973, 0) in Malas: "FemaleElvenRobe"
+9/25/2016 8:08:04 PM: 127.0.0.1: Serials: 0x4000041A; 
+9/25/2016 8:08:12 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'm remove'
+9/25/2016 8:08:13 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003FE (Skirt)
+9/25/2016 8:08:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003BE (LeafLegs)
+9/25/2016 8:08:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x40000403 (WoodlandBelt)
+9/25/2016 8:08:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003C8 (DiamondMace)
+9/25/2016 8:08:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003FF (Kilt)
+9/25/2016 8:08:19 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003D2 (DaemonBoneChest)
+9/25/2016 8:08:20 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x40000401 (BodySash)
+9/25/2016 8:08:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x400003C7 (OrnateAxe)
+9/25/2016 8:11:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add elvenrobe'
+9/25/2016 8:11:24 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1973, 0) in Malas: "elvenrobe"
+9/25/2016 8:11:24 PM: 127.0.0.1: Serials: 0x4000041B; 
+9/25/2016 8:15:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add leafgloves'
+9/25/2016 8:15:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1973, 0) in Malas: "leafgloves"
+9/25/2016 8:15:18 PM: 127.0.0.1: Serials: 0x4000041C; 
+9/25/2016 8:15:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2129'
+9/25/2016 8:15:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x4000041B (ElvenRobe) to '2129'
+9/25/2016 8:15:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2129'
+9/25/2016 8:15:49 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000404 (Sandals) to '2129'
+9/25/2016 8:15:52 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2129'
+9/25/2016 8:15:53 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x40000405 (WildStaff) to '2129'
+9/25/2016 8:16:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2129'
+9/25/2016 8:16:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x4000041A (FemaleElvenRobe) to '2129'
+9/25/2016 8:16:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 8:17:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '605'
+9/25/2016 8:17:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '606'
+9/25/2016 8:18:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '605'
+9/25/2016 8:19:01 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '606'
+9/25/2016 8:19:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add circle'
+9/25/2016 8:19:07 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1973, 0) in Malas: "RoyalCirclet"
+9/25/2016 8:19:07 PM: 127.0.0.1: Serials: 0x4000041D; 
+9/25/2016 8:19:12 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 8:19:12 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x4000041D (RoyalCirclet)
+9/25/2016 8:19:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1973, 0) in Malas: "GemmedCirclet"
+9/25/2016 8:19:14 PM: 127.0.0.1: Serials: 0x4000041E; 
+9/25/2016 8:19:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add circle'
+9/25/2016 8:22:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add blackpea'
+9/25/2016 8:22:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add bagof'
+9/25/2016 8:36:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'm remove'
+9/25/2016 8:36:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x4000040A (HairDye)
+9/25/2016 8:36:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x40000409 (HairDye)
+9/25/2016 8:36:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x40000407 (HairDye)
+9/25/2016 8:36:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x40000408 (HairDye)
+9/25/2016 8:36:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x40000411 (SunElfDyeBottle)
+9/25/2016 8:36:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add phoenix'
+9/25/2016 8:36:24 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2519, 1973, 0) in Malas: "phoenix"
+9/25/2016 8:36:24 PM: 127.0.0.1: Serials: 0xF; 
+9/25/2016 8:36:37 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2590'
+9/25/2016 8:36:38 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0xF "a phoenix" (no account) to '2590'
+9/25/2016 8:44:02 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 8:44:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0xF "a phoenix" (no account)
+9/25/2016 8:44:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add beetle'
+9/25/2016 8:44:09 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1973, 0) in Malas: "beetle"
+9/25/2016 8:44:09 PM: 127.0.0.1: Serials: 0x10; 
+9/25/2016 8:44:11 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 8:44:24 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '715'
+9/25/2016 8:44:59 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '717'
+9/25/2016 8:45:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '718'
+9/25/2016 8:45:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '724'
+9/25/2016 8:45:58 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '735'
+9/25/2016 8:46:05 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '736'
+9/25/2016 8:46:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '733'
+9/25/2016 8:46:37 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '732'
+9/25/2016 8:46:50 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '287'
+9/25/2016 8:47:02 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '830'
+9/25/2016 8:47:19 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'setallskills 100'
+9/25/2016 8:47:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'EverySkill.Base' of 0x3 "We Wuz Kings" ('Zigholtul88') to '100'
+9/25/2016 8:47:36 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '129'
+9/25/2016 8:47:46 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '692'
+9/25/2016 8:48:01 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '829'
+9/25/2016 8:48:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '740'
+9/25/2016 8:48:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '742'
+9/25/2016 8:48:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '743'
+9/25/2016 8:49:58 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1069'
+9/25/2016 8:50:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1070'
+9/25/2016 8:50:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1071'
+9/25/2016 8:51:36 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1244'
+9/25/2016 8:51:51 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1068'
+9/25/2016 8:52:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '197'
+9/25/2016 8:53:11 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '704'
+9/25/2016 8:53:34 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '689'
+9/25/2016 8:54:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '95'
+9/25/2016 8:54:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '607'
+9/25/2016 8:54:49 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '269'
+9/25/2016 8:55:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '721'
+9/25/2016 8:56:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '258'
+9/25/2016 8:57:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '285'
+9/25/2016 8:58:33 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '737'
+9/25/2016 9:06:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '744'
+9/25/2016 9:06:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '293'
+9/25/2016 9:11:42 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '715'
+9/25/2016 9:12:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1758'
+9/25/2016 9:12:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '1758'
+9/25/2016 9:12:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1769'
+9/25/2016 9:12:31 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '1769'
+9/25/2016 9:16:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set hue 0'
+9/25/2016 9:16:30 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '0'
+9/25/2016 9:16:41 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '829'
+9/25/2016 9:16:47 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 9:16:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'Resource' of 0x4000039A (Dagger) to 'Valorite'
+9/25/2016 9:17:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set hue 2219'
+9/25/2016 9:17:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '2219'
+9/25/2016 9:18:04 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set hue 2219'
+9/25/2016 9:18:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set hue 0'
+9/25/2016 9:18:36 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '0'
+9/25/2016 9:18:46 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '732'
+9/25/2016 9:18:50 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '731'
+9/25/2016 9:18:53 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '733'
+9/25/2016 9:19:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '286'
+9/25/2016 9:19:19 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '287'
+9/25/2016 9:19:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '742'
+9/25/2016 9:20:01 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '732'
+9/25/2016 9:20:13 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '734'
+9/25/2016 9:20:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '286'
+9/25/2016 9:20:38 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '287'
+9/25/2016 9:21:06 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2637'
+9/25/2016 9:21:07 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '2637'
+9/25/2016 9:21:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2637'
+9/25/2016 9:21:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '2637'
+9/25/2016 9:24:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'add skeletaldragon'
+9/25/2016 9:24:41 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') building at (2518, 1977, 0) in Malas: "skeletaldragon"
+9/25/2016 9:24:41 PM: 127.0.0.1: Serials: 0x11; 
+9/25/2016 9:24:59 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2675'
+9/25/2016 9:25:00 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x11 "a skeletal dragon" (no account) to '2675'
+9/25/2016 9:25:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 9:25:30 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'Resource' of 0x4000039A (Dagger) to 'ShadowIron'
+9/25/2016 9:25:38 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set hue 2406'
+9/25/2016 9:25:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x11 "a skeletal dragon" (no account) to '2406'
+9/25/2016 9:30:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'move '
+9/25/2016 9:30:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') moving 0x11 "a skeletal dragon" (no account) to (2518, 1974, 0)
+9/25/2016 9:30:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2545'
+9/25/2016 9:30:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x11 "a skeletal dragon" (no account) to '2545'
+9/25/2016 9:30:53 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2222'
+9/25/2016 9:30:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x11 "a skeletal dragon" (no account) to '2222'
+9/25/2016 9:34:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 9:34:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x11 "a skeletal dragon" (no account)
+9/25/2016 9:34:27 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set hue 0'
+9/25/2016 9:34:28 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '0'
+9/25/2016 9:35:25 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1071'
+9/25/2016 9:36:07 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 1769'
+9/25/2016 9:36:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '1769'
+9/25/2016 9:38:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 0'
+9/25/2016 9:38:15 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x3 "We Wuz Kings" ('Zigholtul88') to '0'
+9/25/2016 9:38:17 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 0'
+9/25/2016 9:38:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '0'
+9/25/2016 9:38:44 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1248'
+9/25/2016 9:38:50 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1249'
+9/25/2016 9:38:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1246'
+9/25/2016 9:38:58 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1245'
+9/25/2016 9:39:02 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '1247'
+9/25/2016 9:40:27 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '717'
+9/25/2016 9:40:34 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '718'
+9/25/2016 9:41:41 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set resource gold'
+9/25/2016 9:41:44 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'resource' of 0x4000039A (Dagger) to 'Gold'
+9/25/2016 9:41:47 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 9:41:58 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2213'
+9/25/2016 9:41:59 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '2213'
+9/25/2016 9:42:25 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '733'
+9/25/2016 9:42:44 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '718'
+9/25/2016 9:43:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 2543'
+9/25/2016 9:43:45 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '2543'
+9/25/2016 9:45:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 9:45:29 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'Set hue 0'
+9/25/2016 9:45:30 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'hue' of 0x10 "a giant beetle" (no account) to '0'
+9/25/2016 9:45:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'BodyValue' of 0x10 "a giant beetle" (no account) to '713'
+9/25/2016 9:46:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'remove '
+9/25/2016 9:46:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') deleting 0x10 "a giant beetle" (no account)
+9/25/2016 9:46:25 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 9:46:30 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set map ilshenar'
+9/25/2016 9:46:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'map' of 0x3 "We Wuz Kings" ('Zigholtul88') to 'Ilshenar'
+9/25/2016 9:46:34 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 9:46:53 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'speedboost '
+9/25/2016 9:47:51 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 9:51:46 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 9:59:58 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:00:49 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:00:53 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:00:55 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:05:13 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:06:37 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:06:43 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:06:49 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:07:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:08:57 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:09:11 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:09:18 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:11:00 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:13:13 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:14:06 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:15:25 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:15:35 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:15:39 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set hue 0'
+9/25/2016 10:15:40 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:15:44 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'tele '
+9/25/2016 10:15:46 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'tele '
+9/25/2016 10:15:49 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:16:10 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:16:12 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:16:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:21:52 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:21:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:21:56 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:21:57 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:21:59 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:22:01 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:22:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:22:06 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:22:08 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:22:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:22:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:22:56 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:23:00 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:23:02 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:23:16 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:23:19 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:23:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:23:27 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:23:30 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:23:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'where '
+9/25/2016 10:23:54 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set map telmur'
+9/25/2016 10:24:00 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set map telmor'
+9/25/2016 10:24:03 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'props '
+9/25/2016 10:24:11 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'Map' of 0x3 "We Wuz Kings" ('Zigholtul88') to 'TerMur'
+9/25/2016 10:24:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:24:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:25:05 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:25:14 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:25:22 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'tele '
+9/25/2016 10:25:48 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'tele '
+9/25/2016 10:25:51 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:28:19 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'set map trammel'
+9/25/2016 10:28:21 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') set property 'map' of 0x3 "We Wuz Kings" ('Zigholtul88') to 'Trammel'
+9/25/2016 10:28:23 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'go '
+9/25/2016 10:33:26 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'admin '
+9/25/2016 10:33:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+9/25/2016 10:33:32 PM: 127.0.0.1: Owner 0x3 "We Wuz Kings" ('Zigholtul88') used command 'save '

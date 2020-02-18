@@ -1,0 +1,342 @@
+##############################
+Log started on 11/25/2015 3:12:26 AM
+
+11/25/2015 3:12:58 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add glassstaff'
+11/25/2015 3:12:59 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1199, 1049, 0) in Malas: "glassstaff"
+11/25/2015 3:12:59 AM: 127.0.0.1: Serials: 0x40000006; 
+11/25/2015 3:13:16 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'props '
+11/25/2015 3:13:27 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set race'
+11/25/2015 3:13:32 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'set race gargoyle'
+11/25/2015 3:13:33 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'race' of 0x24D "Dirk Laramie" ('Zigholtul88') to 'Gargoyle'
+11/25/2015 3:13:41 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'props '
+11/25/2015 3:14:05 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'HairItemID' of 0x24D "Dirk Laramie" ('Zigholtul88') to '499'
+11/25/2015 3:14:21 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add gargish'
+11/25/2015 3:14:27 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1198, 1048, 0) in Malas: "GargishDyeBottle"
+11/25/2015 3:14:27 AM: 127.0.0.1: Serials: 0x40000008; 
+11/25/2015 3:14:45 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'props '
+11/25/2015 3:14:54 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add hairdye'
+11/25/2015 3:14:55 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1199, 1050, 0) in Malas: "hairdye"
+11/25/2015 3:14:55 AM: 127.0.0.1: Serials: 0x40000009; 
+11/25/2015 3:15:25 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add gargish'
+11/25/2015 3:15:27 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1211, 1056, 0) in Malas: "GargishAxe"
+11/25/2015 3:15:27 AM: 127.0.0.1: Serials: 0x4000000B; 
+11/25/2015 3:15:30 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1212, 1055, 0) in Malas: "GargishBardiche"
+11/25/2015 3:15:30 AM: 127.0.0.1: Serials: 0x4000000C; 
+11/25/2015 3:15:36 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add bag'
+11/25/2015 3:15:37 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1211, 1054, 0) in Malas: "bag"
+11/25/2015 3:15:37 AM: 127.0.0.1: Serials: 0x4000000D; 
+11/25/2015 3:15:46 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1211, 1054, 0) in Malas: "GargishBattleAxe"
+11/25/2015 3:15:46 AM: 127.0.0.1: Serials: 0x4000000E; 
+11/25/2015 3:15:51 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1211, 1054, 0) in Malas: "GargishBoneHarvester"
+11/25/2015 3:15:51 AM: 127.0.0.1: Serials: 0x4000000F; 
+11/25/2015 3:15:54 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1211, 1054, 0) in Malas: "GargishButcherKnife"
+11/25/2015 3:15:54 AM: 127.0.0.1: Serials: 0x40000010; 
+11/25/2015 3:16:02 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1211, 1054, 0) in Malas: "GargishCleaver"
+11/25/2015 3:16:02 AM: 127.0.0.1: Serials: 0x40000012; 
+11/25/2015 3:16:44 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add bag'
+11/25/2015 3:16:46 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1214, 1055, 0) in Malas: "bag"
+11/25/2015 3:16:46 AM: 127.0.0.1: Serials: 0x40000013; 
+11/25/2015 3:16:53 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1214, 1055, 0) in Malas: "GargishDagger"
+11/25/2015 3:16:53 AM: 127.0.0.1: Serials: 0x40000014; 
+11/25/2015 3:16:56 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1215, 1055, 0) in Malas: "GargishGnarledStaff"
+11/25/2015 3:16:56 AM: 127.0.0.1: Serials: 0x40000015; 
+11/25/2015 3:17:01 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1214, 1055, 0) in Malas: "GargishKatana"
+11/25/2015 3:17:01 AM: 127.0.0.1: Serials: 0x40000016; 
+11/25/2015 3:17:06 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1214, 1054, 0) in Malas: "GargishKryss"
+11/25/2015 3:17:06 AM: 127.0.0.1: Serials: 0x40000017; 
+11/25/2015 3:17:11 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1214, 1054, 0) in Malas: "GargishLance"
+11/25/2015 3:17:11 AM: 127.0.0.1: Serials: 0x40000018; 
+11/25/2015 3:17:15 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1214, 1056, 0) in Malas: "GargishMaul"
+11/25/2015 3:17:15 AM: 127.0.0.1: Serials: 0x40000019; 
+11/25/2015 3:17:21 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add bag'
+11/25/2015 3:17:22 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1215, 1055, 0) in Malas: "bag"
+11/25/2015 3:17:22 AM: 127.0.0.1: Serials: 0x4000001A; 
+11/25/2015 3:17:31 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1214, 1055, 0) in Malas: "GargishPike"
+11/25/2015 3:17:31 AM: 127.0.0.1: Serials: 0x4000001B; 
+11/25/2015 3:17:36 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1214, 1054, 0) in Malas: "GargishScythe"
+11/25/2015 3:17:36 AM: 127.0.0.1: Serials: 0x4000001C; 
+11/25/2015 3:17:42 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1214, 1055, 0) in Malas: "GargishWarFork"
+11/25/2015 3:17:42 AM: 127.0.0.1: Serials: 0x4000001D; 
+11/25/2015 3:17:46 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1214, 1055, 0) in Malas: "GargishWarHammer"
+11/25/2015 3:17:46 AM: 127.0.0.1: Serials: 0x4000001E; 
+11/25/2015 3:18:57 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/25/2015 3:19:00 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x400017AC (SerpentstoneStaff)
+11/25/2015 3:19:01 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/25/2015 3:19:02 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x400016B0 (ShortPants)
+11/25/2015 3:19:03 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/25/2015 3:19:05 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x40000038 (BalronVolcanicSting)
+11/25/2015 3:19:05 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/25/2015 3:19:06 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x400016AF (Shirt)
+11/25/2015 3:19:07 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/25/2015 3:19:07 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x400016B2 (Boots)
+11/25/2015 3:19:08 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/25/2015 3:19:09 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x40000920 (Dagger)
+11/25/2015 3:19:09 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/25/2015 3:19:10 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x400016B3 (OneGoldBar)
+11/25/2015 3:19:11 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/25/2015 3:19:11 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x4000091F (RedBook)
+11/25/2015 3:19:30 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add dual'
+11/25/2015 3:19:32 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1172, 1058, 0) in Malas: "DualShortAxes"
+11/25/2015 3:19:32 AM: 127.0.0.1: Serials: 0x4000001F; 
+11/25/2015 3:19:40 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add bag'
+11/25/2015 3:19:41 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1175, 1055, 0) in Malas: "bag"
+11/25/2015 3:19:41 AM: 127.0.0.1: Serials: 0x40000020; 
+11/25/2015 3:20:00 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add discmace'
+11/25/2015 3:20:02 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1176, 1056, 0) in Malas: "discmace"
+11/25/2015 3:20:02 AM: 127.0.0.1: Serials: 0x40000021; 
+11/25/2015 3:20:17 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add dual'
+11/25/2015 3:20:19 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1186, 1053, 0) in Malas: "DualPointedSpear"
+11/25/2015 3:20:19 AM: 127.0.0.1: Serials: 0x40000022; 
+11/25/2015 3:20:38 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add serpentston'
+11/25/2015 3:20:40 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1204, 1056, 0) in Malas: "SerpentstoneStaff"
+11/25/2015 3:20:40 AM: 127.0.0.1: Serials: 0x40000023; 
+11/25/2015 3:21:06 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add bloodblade'
+11/25/2015 3:21:07 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1220, 1054, 0) in Malas: "bloodblade"
+11/25/2015 3:21:07 AM: 127.0.0.1: Serials: 0x40000024; 
+11/25/2015 3:21:23 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add dreadsword'
+11/25/2015 3:21:25 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1224, 1054, 0) in Malas: "dreadsword"
+11/25/2015 3:21:25 AM: 127.0.0.1: Serials: 0x40000025; 
+11/25/2015 3:21:43 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add talwar'
+11/25/2015 3:21:45 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1233, 1058, 0) in Malas: "GargishTalwar"
+11/25/2015 3:21:45 AM: 127.0.0.1: Serials: 0x40000026; 
+11/25/2015 3:21:58 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add glasssword'
+11/25/2015 3:21:59 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1236, 1057, 0) in Malas: "glasssword"
+11/25/2015 3:21:59 AM: 127.0.0.1: Serials: 0x40000027; 
+11/25/2015 3:22:12 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add warsword'
+11/25/2015 3:22:13 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1236, 1058, 0) in Malas: "StoneWarSword"
+11/25/2015 3:22:13 AM: 127.0.0.1: Serials: 0x40000028; 
+11/25/2015 3:22:25 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add shortblade'
+11/25/2015 3:22:26 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1236, 1058, 0) in Malas: "shortblade"
+11/25/2015 3:22:26 AM: 127.0.0.1: Serials: 0x40000029; 
+11/25/2015 3:23:39 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add shield'
+11/25/2015 3:23:49 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1167, 1059, 0) in Malas: "GargishKiteShield"
+11/25/2015 3:23:49 AM: 127.0.0.1: Serials: 0x4000002A; 
+11/25/2015 3:23:51 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1168, 1059, 0) in Malas: "LargePlateShield"
+11/25/2015 3:23:51 AM: 127.0.0.1: Serials: 0x4000002B; 
+11/25/2015 3:23:54 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1169, 1059, 0) in Malas: "LargeStoneShield"
+11/25/2015 3:23:54 AM: 127.0.0.1: Serials: 0x4000002C; 
+11/25/2015 3:23:59 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1170, 1059, 0) in Malas: "MediumPlateShield"
+11/25/2015 3:23:59 AM: 127.0.0.1: Serials: 0x4000002D; 
+11/25/2015 3:24:04 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1171, 1059, 0) in Malas: "SmallPlateShield"
+11/25/2015 3:24:04 AM: 127.0.0.1: Serials: 0x4000002E; 
+11/25/2015 3:24:18 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1172, 1059, 0) in Malas: "GargishKiteShield"
+11/25/2015 3:24:18 AM: 127.0.0.1: Serials: 0x4000002F; 
+11/25/2015 3:24:21 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1173, 1059, 0) in Malas: "GargishWoodenShield"
+11/25/2015 3:24:21 AM: 127.0.0.1: Serials: 0x40000030; 
+11/25/2015 3:25:14 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'm remove'
+11/25/2015 3:25:15 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x40000030 (GargishWoodenShield)
+11/25/2015 3:25:15 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x4000002F (GargishKiteShield)
+11/25/2015 3:25:16 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x4000002D (MediumPlateShield)
+11/25/2015 3:25:16 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x4000002C (LargeStoneShield)
+11/25/2015 3:25:17 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x4000002A (GargishKiteShield)
+11/25/2015 3:25:18 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x4000002E (SmallPlateShield)
+11/25/2015 3:25:18 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x4000002B (LargePlateShield)
+11/25/2015 3:31:19 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'admin '
+11/25/2015 3:31:23 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/25/2015 3:31:23 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/25/2015 4:57:44 AM
+
+11/25/2015 4:58:06 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add horse'
+11/25/2015 4:58:06 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') building at (1198, 1053, 0) in Malas: "horse"
+11/25/2015 4:58:06 AM: 127.0.0.1: Serials: 0x3; 
+11/25/2015 4:58:13 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'remove '
+11/25/2015 4:58:14 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') deleting 0x3 "a horse" (no account)
+11/25/2015 4:58:20 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add cloth'
+11/25/2015 4:58:22 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'add clot'
+11/25/2015 4:58:29 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') used command 'props '
+11/25/2015 5:01:16 AM: 127.0.0.1: Owner 0x24D "Dirk Laramie" ('Zigholtul88') set property 'Name' of 0x24D "Dirk Laramie" ('Zigholtul88') to 'Melanchalth'
+11/25/2015 5:01:21 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'Female' of 0x24D "Melanchalth" ('Zigholtul88') to 'True'
+11/25/2015 5:01:28 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'BodyValue' of 0x24D "Melanchalth" ('Zigholtul88') to '667'
+11/25/2015 5:01:45 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add gargishdye'
+11/25/2015 5:01:47 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1197, 1047, 0) in Malas: "GargishDyeBottle"
+11/25/2015 5:01:47 AM: 127.0.0.1: Serials: 0x40000009; 
+11/25/2015 5:02:03 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add hairdye'
+11/25/2015 5:02:04 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add hairdye'
+11/25/2015 5:02:07 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add hairdy'
+11/25/2015 5:02:09 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1198, 1047, 0) in Malas: "SpecialHairDye"
+11/25/2015 5:02:09 AM: 127.0.0.1: Serials: 0x40000011; 
+11/25/2015 5:02:40 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '498'
+11/25/2015 5:02:43 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '500'
+11/25/2015 5:02:47 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '499'
+11/25/2015 5:02:50 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '497'
+11/25/2015 5:02:54 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '501'
+11/25/2015 5:02:59 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '499'
+11/25/2015 5:03:48 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '16993'
+11/25/2015 5:03:53 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '16994'
+11/25/2015 5:03:55 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '16995'
+11/25/2015 5:04:04 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17000'
+11/25/2015 5:04:11 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17003'
+11/25/2015 5:04:14 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17004'
+11/25/2015 5:04:16 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17005'
+11/25/2015 5:04:18 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17006'
+11/25/2015 5:04:21 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17007'
+11/25/2015 5:04:23 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17008'
+11/25/2015 5:04:26 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17009'
+11/25/2015 5:04:34 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17011'
+11/25/2015 5:04:37 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17012'
+11/25/2015 5:04:41 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '17015'
+11/25/2015 5:04:44 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'HairItemID' of 0x24D "Melanchalth" ('Zigholtul88') to '499'
+11/25/2015 5:04:51 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add cloth'
+11/25/2015 5:04:52 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add clot'
+11/25/2015 5:04:56 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1198, 1049, 0) in Malas: "FemaleGargishClothArms"
+11/25/2015 5:04:56 AM: 127.0.0.1: Serials: 0x4000002A; 
+11/25/2015 5:05:03 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1198, 1049, 0) in Malas: "FemaleGargishClothChest"
+11/25/2015 5:05:03 AM: 127.0.0.1: Serials: 0x4000002B; 
+11/25/2015 5:05:09 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1198, 1049, 0) in Malas: "FemaleGargishClothKilt"
+11/25/2015 5:05:09 AM: 127.0.0.1: Serials: 0x4000002C; 
+11/25/2015 5:05:13 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1198, 1049, 0) in Malas: "FemaleGargishClothLegs"
+11/25/2015 5:05:13 AM: 127.0.0.1: Serials: 0x4000002D; 
+11/25/2015 5:05:22 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1198, 1049, 0) in Malas: "MaleGargishClothChest"
+11/25/2015 5:05:22 AM: 127.0.0.1: Serials: 0x4000002E; 
+11/25/2015 5:05:25 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+11/25/2015 5:05:26 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x4000002E (MaleGargishClothChest)
+11/25/2015 5:05:32 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add gargoy'
+11/25/2015 5:05:36 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1198, 1049, 0) in Malas: "GargoyleTailFemale"
+11/25/2015 5:05:36 AM: 127.0.0.1: Serials: 0x4000002F; 
+11/25/2015 5:05:47 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+11/25/2015 5:06:17 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add gargish'
+11/25/2015 5:06:23 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1198, 1050, 0) in Malas: "GargishHalfApron"
+11/25/2015 5:06:23 AM: 127.0.0.1: Serials: 0x40000030; 
+11/25/2015 5:06:27 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1199, 1050, 0) in Malas: "GargishSash"
+11/25/2015 5:06:27 AM: 127.0.0.1: Serials: 0x40000031; 
+11/25/2015 5:08:09 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add robe'
+11/25/2015 5:08:10 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1198, 1049, 0) in Malas: "robe"
+11/25/2015 5:08:10 AM: 127.0.0.1: Serials: 0x40000032; 
+11/25/2015 5:08:12 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+11/25/2015 5:08:29 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'ItemID' of 0x40000032 (Robe) to '16386'
+11/25/2015 5:08:54 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+11/25/2015 5:08:57 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+11/25/2015 5:09:05 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'ItemID' of 0x40000032 (Robe) to '16384'
+11/25/2015 5:09:29 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+11/25/2015 5:09:30 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40000032 (Robe)
+11/25/2015 5:10:31 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add cloak'
+11/25/2015 5:10:32 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1222, 1058, 0) in Malas: "cloak"
+11/25/2015 5:10:32 AM: 127.0.0.1: Serials: 0x40000033; 
+11/25/2015 5:10:34 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+11/25/2015 5:10:44 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'ItemID' of 0x40000033 (Cloak) to '17828'
+11/25/2015 5:13:46 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add glasses'
+11/25/2015 5:13:47 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add glasse'
+11/25/2015 5:13:51 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1219, 1057, 0) in Malas: "Glasses"
+11/25/2015 5:13:51 AM: 127.0.0.1: Serials: 0x40000034; 
+11/25/2015 5:14:02 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+11/25/2015 5:14:16 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'ItemID' of 0x40000034 (Glasses) to '17988'
+11/25/2015 5:14:23 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+11/25/2015 5:14:24 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40000034 (Glasses)
+11/25/2015 5:14:55 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add warhamm'
+11/25/2015 5:14:56 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1221, 1057, 0) in Malas: "GargishWarHammer"
+11/25/2015 5:14:56 AM: 127.0.0.1: Serials: 0x40000035; 
+11/25/2015 5:15:01 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+11/25/2015 5:15:02 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40000035 (GargishWarHammer)
+11/25/2015 5:15:14 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+11/25/2015 5:15:15 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40000030 (GargishHalfApron)
+11/25/2015 5:15:33 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add dyetub'
+11/25/2015 5:15:34 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1220, 1054, 0) in Malas: "dyetub"
+11/25/2015 5:15:34 AM: 127.0.0.1: Serials: 0x40000036; 
+11/25/2015 5:15:36 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add dyes'
+11/25/2015 5:15:37 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1221, 1053, 0) in Malas: "dyes"
+11/25/2015 5:15:37 AM: 127.0.0.1: Serials: 0x40000037; 
+11/25/2015 5:24:26 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+11/25/2015 5:24:31 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x40000033 (Cloak)
+11/25/2015 5:25:26 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add talons'
+11/25/2015 5:25:28 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (1159, 1041, 10) in Malas: "LeatherTalons"
+11/25/2015 5:25:28 AM: 127.0.0.1: Serials: 0x40000038; 
+11/25/2015 5:26:13 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'kill '
+11/25/2015 5:26:13 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') killing 0x24D "Melanchalth" ('Zigholtul88')
+11/25/2015 5:26:18 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'res '
+11/25/2015 5:26:19 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') resurrecting 0x24D "Melanchalth" ('Zigholtul88')
+11/25/2015 5:43:10 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+11/25/2015 5:43:22 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'tele '
+11/25/2015 5:43:47 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+11/25/2015 5:44:59 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+11/25/2015 5:45:08 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set map telmur'
+11/25/2015 5:45:13 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set map tel mur'
+11/25/2015 5:45:16 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+11/25/2015 5:45:24 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'Map' of 0x24D "Melanchalth" ('Zigholtul88') to 'TerMur'
+11/25/2015 5:45:32 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'Map' of 0x24D "Melanchalth" ('Zigholtul88') to 'Malas'
+11/25/2015 5:45:44 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+11/25/2015 5:45:49 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/25/2015 5:45:49 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/25/2015 5:58:15 AM
+
+11/25/2015 5:58:57 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set map termur'
+11/25/2015 5:58:58 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'map' of 0x24D "Melanchalth" ('Zigholtul88') to 'TerMur'
+11/25/2015 5:59:00 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+11/25/2015 5:59:10 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+11/25/2015 5:59:18 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+11/25/2015 5:59:25 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'Map' of 0x24D "Melanchalth" ('Zigholtul88') to 'TerMur'
+11/25/2015 5:59:29 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+11/25/2015 5:59:39 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set map termur'
+11/25/2015 5:59:39 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'map' of 0x24D "Melanchalth" ('Zigholtul88') to 'TerMur'
+11/25/2015 5:59:44 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'tele '
+11/25/2015 6:00:34 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+11/25/2015 6:05:17 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 6:05:20 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+11/25/2015 6:09:05 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'props '
+11/25/2015 6:09:22 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'X' of 0x24D "Melanchalth" ('Zigholtul88') to '748'
+11/25/2015 6:09:34 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'Y' of 0x24D "Melanchalth" ('Zigholtul88') to '3350'
+11/25/2015 6:09:48 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'tele '
+11/25/2015 6:10:37 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+11/25/2015 6:13:05 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'm tele'
+11/25/2015 6:15:34 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'set map ilshenar'
+11/25/2015 6:15:35 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') set property 'map' of 0x24D "Melanchalth" ('Zigholtul88') to 'Ilshenar'
+11/25/2015 6:15:37 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+11/25/2015 6:15:46 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add elmhaven'
+11/25/2015 6:15:48 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (853, 601, -40) in Ilshenar: "ElmhavenArchitect"
+11/25/2015 6:15:48 AM: 127.0.0.1: Serials: 0x3; 
+11/25/2015 6:15:59 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+11/25/2015 6:15:59 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x3 "Tereg" (no account)
+11/25/2015 6:16:01 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add '
+11/25/2015 6:16:03 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add elmhaven'
+11/25/2015 6:16:05 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (855, 600, -40) in Ilshenar: "ElmhavenBaker"
+11/25/2015 6:16:05 AM: 127.0.0.1: Serials: 0x5; 
+11/25/2015 6:16:17 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+11/25/2015 6:16:18 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x5 "Volesh" (no account)
+11/25/2015 6:30:20 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'go '
+11/25/2015 6:31:18 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 6:32:12 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 6:32:16 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 6:32:22 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 6:39:02 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+11/25/2015 6:39:09 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/25/2015 6:39:09 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/25/2015 7:11:25 AM
+
+11/25/2015 7:12:40 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 7:12:43 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 7:12:45 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 7:12:50 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add elmha'
+11/25/2015 7:12:52 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (853, 639, -40) in Ilshenar: "ElmhavenAlchemist"
+11/25/2015 7:12:52 AM: 127.0.0.1: Serials: 0x3; 
+11/25/2015 7:12:59 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'remove '
+11/25/2015 7:13:00 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') deleting 0x3 "Rholan" (no account)
+11/25/2015 7:13:14 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 7:14:00 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+11/25/2015 7:14:05 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+11/25/2015 7:14:09 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/25/2015 7:14:10 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/25/2015 7:25:34 AM
+
+11/25/2015 7:28:16 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 7:28:28 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 7:28:31 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 7:28:32 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'where '
+11/25/2015 7:29:44 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+11/25/2015 7:29:48 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/25/2015 7:29:48 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'save '
+##############################
+Log started on 11/25/2015 7:35:10 AM
+
+11/25/2015 7:36:03 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'kill '
+11/25/2015 7:36:03 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') killing 0x24D "Melanchalth" ('Zigholtul88')
+11/25/2015 7:36:14 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'res '
+11/25/2015 7:36:16 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') resurrecting 0x24D "Melanchalth" ('Zigholtul88')
+11/25/2015 7:37:01 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'add clot'
+11/25/2015 7:37:04 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') building at (964, 628, -80) in Ilshenar: "GargishClothWingArmor"
+11/25/2015 7:37:04 AM: 127.0.0.1: Serials: 0x40000011; 
+11/25/2015 7:37:59 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'admin '
+11/25/2015 7:38:02 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+11/25/2015 7:38:02 AM: 127.0.0.1: Owner 0x24D "Melanchalth" ('Zigholtul88') used command 'save '

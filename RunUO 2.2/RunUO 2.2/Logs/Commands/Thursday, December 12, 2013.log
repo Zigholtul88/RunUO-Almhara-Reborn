@@ -1,0 +1,64 @@
+##############################
+Log started on 12/12/2013 10:23:38 AM
+
+12/12/2013 10:26:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'admin '
+12/12/2013 10:26:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'decorate '
+12/12/2013 10:31:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/12/2013 10:31:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000B12 (Spawner)
+12/12/2013 10:33:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add spawning'
+12/12/2013 10:33:22 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1196, 1150, 0) in Malas: "SpawningClutterBag"
+12/12/2013 10:33:22 AM: 127.0.0.1: Serials: 0x40000DFB; 
+12/12/2013 10:33:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'props '
+12/12/2013 10:34:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add bookcase'
+12/12/2013 10:34:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1196, 1149, 0) in Malas: "LibraryBookcase"
+12/12/2013 10:34:50 AM: 127.0.0.1: Serials: 0x40000DFF; 
+12/12/2013 10:34:55 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'props '
+12/12/2013 10:35:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'flip '
+12/12/2013 10:35:38 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'props '
+12/12/2013 10:36:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'props '
+12/12/2013 10:36:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/12/2013 10:36:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000DFB (SpawningClutterBag)
+12/12/2013 10:43:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'props '
+12/12/2013 10:43:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'flip '
+12/12/2013 10:43:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'props '
+12/12/2013 10:43:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/12/2013 10:43:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000DFF (LibraryBookcase)
+12/12/2013 10:45:55 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'm remove'
+12/12/2013 10:45:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000D4E (ZaythalorForestLockedTreasureChest1)
+12/12/2013 10:45:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000E19 (ZaythalorForestLockedTreasureChest1)
+12/12/2013 10:46:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'm remove'
+12/12/2013 10:46:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000E1C (ZaythalorForestLockedTreasureChest1)
+12/12/2013 10:46:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/12/2013 10:46:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000E1F (ZaythalorForestLockedTreasureChest1)
+12/12/2013 10:46:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/12/2013 10:46:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000E22 (ZaythalorForestLockedTreasureChest1)
+12/12/2013 10:48:40 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'props '
+12/12/2013 10:49:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:19:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:20:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:21:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:21:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:22:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:23:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:24:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+12/12/2013 11:24:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (606, 640, 30) in Malas: "spawner"
+12/12/2013 11:24:19 AM: 127.0.0.1: Serials: 0x40000ECF; 
+12/12/2013 11:24:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'props '
+12/12/2013 11:24:38 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40000ECF (Spawner) to '1'
+12/12/2013 11:24:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/12/2013 11:24:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000ED8 (TownChestCarpenter)
+12/12/2013 11:24:57 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/12/2013 11:24:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000ECF (Spawner)
+12/12/2013 11:25:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:26:46 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:27:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:29:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:29:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:31:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:32:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:33:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:34:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:34:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/12/2013 11:40:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'admin '
+12/12/2013 11:40:51 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/12/2013 11:40:51 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'save '

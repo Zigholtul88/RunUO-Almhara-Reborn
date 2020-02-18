@@ -1,0 +1,100 @@
+##############################
+Log started on 5/12/2015 4:26:22 PM
+
+5/12/2015 4:27:21 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+##############################
+Log started on 5/12/2015 4:27:39 PM
+
+5/12/2015 4:29:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add irongate southcw'
+5/12/2015 4:29:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2299, 1319, 0) in Malas: "irongate" "southcw"
+5/12/2015 4:29:06 PM: 127.0.0.1: Serials: 0x40000780; 
+5/12/2015 4:29:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+5/12/2015 4:30:32 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add goblinfortresslockedgate southcw'
+5/12/2015 4:30:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add goblinfortresslockedgate'
+5/12/2015 4:30:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/12/2015 4:31:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add goblinfortresslockedgate'
+5/12/2015 4:31:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/12/2015 4:31:24 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000780 (IronGate)
+5/12/2015 4:31:46 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/12/2015 4:32:01 PM
+
+5/12/2015 4:32:14 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/12/2015 4:32:18 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'decorate '
+5/12/2015 4:33:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+5/12/2015 4:36:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 1 (toAll=True)
+5/12/2015 4:36:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 1'
+5/12/2015 4:37:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 1554 (toAll=True)
+5/12/2015 4:37:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 1554'
+5/12/2015 4:37:10 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 1554 (toAll=True)
+5/12/2015 4:37:10 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 1554'
+5/12/2015 4:37:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 1555 (toAll=True)
+5/12/2015 4:37:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 1555'
+5/12/2015 4:37:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 1556 (toAll=True)
+5/12/2015 4:37:41 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 1556'
+5/12/2015 4:37:53 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') playing sound 1557 (toAll=True)
+5/12/2015 4:37:53 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'sound 1557'
+5/12/2015 4:44:33 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add metaldoor southcw'
+5/12/2015 4:44:34 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2278, 1301, 0) in Malas: "metaldoor" "southcw"
+5/12/2015 4:44:34 PM: 127.0.0.1: Serials: 0x400017C1; 
+5/12/2015 4:44:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add metaldoor southcw'
+5/12/2015 4:45:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+5/12/2015 4:45:30 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/12/2015 4:45:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400017C1 (MetalDoor)
+5/12/2015 4:45:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:46:00 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add metaldoor northccw'
+5/12/2015 4:46:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (2289, 1294, 0) in Malas: "metaldoor" "northccw"
+5/12/2015 4:46:03 PM: 127.0.0.1: Serials: 0x400017E6; 
+5/12/2015 4:46:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add metaldoor northccw'
+5/12/2015 4:46:25 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+5/12/2015 4:46:50 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/12/2015 4:46:51 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400017E6 (MetalDoor)
+5/12/2015 4:47:01 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:47:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+5/12/2015 4:47:36 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:47:54 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:48:13 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:48:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:48:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:49:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:49:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:50:14 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+5/12/2015 4:50:35 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:52:02 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add strongwooddoor westcw'
+5/12/2015 4:52:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (772, 1250, 40) in Malas: "strongwooddoor" "westcw"
+5/12/2015 4:52:05 PM: 127.0.0.1: Serials: 0x40001887; 
+5/12/2015 4:52:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/12/2015 4:52:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40001887 (StrongWoodDoor)
+5/12/2015 4:52:21 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add strongwooddoor southcw'
+5/12/2015 4:52:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (772, 1250, 40) in Malas: "strongwooddoor" "southcw"
+5/12/2015 4:52:23 PM: 127.0.0.1: Serials: 0x4000188F; 
+5/12/2015 4:52:53 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add strongwooddoor southcw'
+5/12/2015 4:52:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+5/12/2015 4:53:56 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/12/2015 4:53:57 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000188F (StrongWoodDoor)
+5/12/2015 4:54:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add strongwooddoor southcw'
+5/12/2015 4:54:39 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:54:59 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:55:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add strongwooddoor northccw'
+5/12/2015 4:55:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (767, 1235, 20) in Malas: "strongwooddoor" "northccw"
+5/12/2015 4:55:23 PM: 127.0.0.1: Serials: 0x400018B8; 
+5/12/2015 4:55:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+5/12/2015 4:56:02 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add strongwooddoor northccw'
+5/12/2015 4:56:04 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/12/2015 4:56:04 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400018B8 (StrongWoodDoor)
+5/12/2015 4:56:16 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:56:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:57:31 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:57:58 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'tele '
+5/12/2015 4:58:03 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 4:59:00 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+5/12/2015 4:59:30 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'where '
+5/12/2015 5:03:18 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add goblintribalmas'
+5/12/2015 5:03:38 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (769, 1245, 46) in Malas: "GoblinTribalMask"
+5/12/2015 5:03:38 PM: 127.0.0.1: Serials: 0x4000198B; 
+5/12/2015 5:03:49 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'props '
+5/12/2015 5:04:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+5/12/2015 5:04:30 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000198B (GoblinTribalMask)
+5/12/2015 5:10:15 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+5/12/2015 5:10:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/12/2015 5:10:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'save '

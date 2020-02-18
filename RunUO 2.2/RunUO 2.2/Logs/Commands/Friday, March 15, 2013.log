@@ -1,0 +1,52 @@
+##############################
+Log started on 3/15/2013 7:46:19 PM
+
+3/15/2013 7:46:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'go '
+3/15/2013 7:47:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/15/2013 7:47:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000008F (Spawner)
+3/15/2013 7:47:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/15/2013 7:47:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x187 "a swamp crab" (no account)
+3/15/2013 7:48:00 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/15/2013 7:48:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000008E (Spawner)
+3/15/2013 7:48:02 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/15/2013 7:48:03 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x160 "a swamp crab" (no account)
+3/15/2013 8:01:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/15/2013 8:15:08 PM
+
+3/15/2013 8:15:24 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add horse'
+3/15/2013 8:15:25 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1270, 1030, 0) in Malas: "horse"
+3/15/2013 8:15:25 PM: 127.0.0.1: Serials: 0x187; 
+3/15/2013 8:15:36 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'setskill fletching 100'
+3/15/2013 8:15:37 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'Fletching.Base' of 0x280 "hhh" ('Zigholtul88') to '100'
+3/15/2013 8:16:28 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/15/2013 8:16:28 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x187 "a horse" (no account)
+3/15/2013 8:21:17 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/15/2013 8:26:21 PM
+
+3/15/2013 8:27:09 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add horse'
+3/15/2013 8:27:10 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1283, 1025, 3) in Malas: "horse"
+3/15/2013 8:27:10 PM: 127.0.0.1: Serials: 0x187; 
+3/15/2013 8:28:46 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/15/2013 8:28:46 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x187 "a horse" (no account)
+3/15/2013 8:34:21 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+3/15/2013 8:41:06 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add nightmare'
+3/15/2013 8:41:07 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1272, 1019, 0) in Malas: "nightmare"
+3/15/2013 8:41:07 PM: 127.0.0.1: Serials: 0x34F; 
+3/15/2013 8:50:07 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/15/2013 8:52:32 PM
+
+3/15/2013 8:52:44 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add horse'
+3/15/2013 8:52:45 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1272, 1021, 0) in Malas: "horse"
+3/15/2013 8:52:45 PM: 127.0.0.1: Serials: 0x187; 
+3/15/2013 8:52:51 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+3/15/2013 8:52:51 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x34F "a nightmare" (no account)
+3/15/2013 8:53:03 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'setskill fletching 90'
+3/15/2013 8:53:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'Fletching.Base' of 0x280 "hhh" ('Zigholtul88') to '90'
+3/15/2013 8:53:15 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'setskill fletching 100'
+3/15/2013 8:53:15 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'Fletching.Base' of 0x280 "hhh" ('Zigholtul88') to '100'
+3/15/2013 9:08:27 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'admin '
+3/15/2013 9:08:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/15/2013 9:08:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'save '

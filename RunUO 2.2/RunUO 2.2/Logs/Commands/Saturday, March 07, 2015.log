@@ -1,0 +1,208 @@
+##############################
+Log started on 3/7/2015 6:41:45 PM
+
+3/7/2015 6:46:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (729 objects)
+3/7/2015 6:46:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+3/7/2015 6:46:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 729 objects
+3/7/2015 6:46:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map tokuno'
+3/7/2015 6:46:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Tokuno'
+3/7/2015 6:46:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Tokuno (97 objects)
+3/7/2015 6:46:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+3/7/2015 6:46:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 97 objects
+3/7/2015 6:46:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+3/7/2015 6:46:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+3/7/2015 6:46:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Ilshenar (4238 objects)
+3/7/2015 6:46:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+3/7/2015 6:46:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 4238 objects
+3/7/2015 6:47:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map trammel'
+3/7/2015 6:47:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Trammel'
+3/7/2015 6:47:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Trammel (29968 objects)
+3/7/2015 6:47:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+3/7/2015 6:47:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 29968 objects
+3/7/2015 6:47:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map felucca'
+3/7/2015 6:47:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Felucca'
+3/7/2015 6:47:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Felucca (30390 objects)
+3/7/2015 6:47:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+3/7/2015 6:47:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 30390 objects
+3/7/2015 6:47:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+3/7/2015 6:47:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+3/7/2015 6:47:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/7/2015 6:47:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+3/7/2015 6:47:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'freezemap '
+3/7/2015 6:49:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ethereal'
+3/7/2015 6:49:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1198, 1114, 0) in Malas: "EtherealHiryu"
+3/7/2015 6:49:47 PM: 127.0.0.1: Serials: 0x40001449; 
+3/7/2015 6:51:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/7/2015 6:52:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1070'
+3/7/2015 6:52:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1071'
+3/7/2015 6:52:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1244'
+3/7/2015 6:52:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1245'
+3/7/2015 6:53:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1246'
+3/7/2015 6:53:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1247'
+3/7/2015 6:53:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1069'
+3/7/2015 6:54:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add mel'
+3/7/2015 6:55:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1222, 1056, 0) in Malas: "MelancholicGargoyleWarrior"
+3/7/2015 6:55:01 PM: 127.0.0.1: Serials: 0x365; 
+3/7/2015 6:55:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/7/2015 6:56:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '400'
+3/7/2015 6:56:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add mel'
+3/7/2015 6:56:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1217, 1055, 0) in Malas: "MelancholicGargoyleWarrior"
+3/7/2015 6:56:54 PM: 127.0.0.1: Serials: 0x3E1; 
+3/7/2015 6:56:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 6:56:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x3E1 "a melancholic gargoyle warrior" (no account)
+3/7/2015 6:57:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/7/2015 6:57:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '197'
+3/7/2015 6:57:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '198'
+3/7/2015 6:57:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '200'
+3/7/2015 6:57:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '95'
+3/7/2015 6:58:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '713'
+3/7/2015 6:58:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '714'
+3/7/2015 6:58:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '831'
+3/7/2015 6:58:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '826'
+3/7/2015 6:59:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '704'
+3/7/2015 7:01:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '689'
+3/7/2015 7:01:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '95'
+3/7/2015 7:01:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1026'
+3/7/2015 7:04:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1254'
+3/7/2015 7:04:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1255'
+3/7/2015 7:06:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1252'
+3/7/2015 7:06:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1251'
+3/7/2015 7:06:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1250'
+3/7/2015 7:06:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1249'
+3/7/2015 7:06:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1248'
+3/7/2015 7:06:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1247'
+3/7/2015 7:07:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1244'
+3/7/2015 7:11:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1246'
+3/7/2015 7:11:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1247'
+3/7/2015 7:11:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1248'
+3/7/2015 7:11:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1246'
+3/7/2015 7:12:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1245'
+3/7/2015 7:13:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1244'
+3/7/2015 7:14:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1071'
+3/7/2015 7:14:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1070'
+3/7/2015 7:16:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '669'
+3/7/2015 7:17:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '334'
+3/7/2015 7:17:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '723'
+3/7/2015 7:17:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '716'
+3/7/2015 7:17:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '718'
+3/7/2015 8:30:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '719'
+3/7/2015 8:31:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 8:31:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '720'
+3/7/2015 8:31:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '721'
+3/7/2015 8:32:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '724'
+3/7/2015 8:32:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '725'
+3/7/2015 8:33:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '732'
+3/7/2015 8:33:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '733'
+3/7/2015 8:34:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '734'
+3/7/2015 8:34:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '735'
+3/7/2015 8:34:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add oboru'
+3/7/2015 8:34:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1327, 1076, 0) in Malas: "OboruBloatedSpider"
+3/7/2015 8:34:26 PM: 127.0.0.1: Serials: 0x54D; 
+3/7/2015 8:34:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 8:34:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+3/7/2015 8:34:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x54D "an oboru bloated spider" (no account)
+3/7/2015 8:34:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 8:34:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001E1C (Corpse)
+3/7/2015 8:35:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '736'
+3/7/2015 8:35:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '737'
+3/7/2015 8:35:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '738'
+3/7/2015 8:35:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '739'
+3/7/2015 8:35:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '286'
+3/7/2015 8:36:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '287'
+3/7/2015 8:36:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '830'
+3/7/2015 8:36:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '704'
+3/7/2015 8:37:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '830'
+3/7/2015 8:38:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '829'
+3/7/2015 8:39:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '741'
+3/7/2015 8:39:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '740'
+3/7/2015 8:40:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '269'
+3/7/2015 8:40:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '742'
+3/7/2015 8:41:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '418'
+3/7/2015 8:41:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1068'
+3/7/2015 8:45:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '400'
+3/7/2015 8:45:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add harpy'
+3/7/2015 8:45:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1324, 898, 0) in Malas: "harpy"
+3/7/2015 8:45:58 PM: 127.0.0.1: Serials: 0x54E; 
+3/7/2015 8:46:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/7/2015 8:46:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '30'
+3/7/2015 8:46:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 8:46:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Flying' of 0x1 "Zigholtul" ('Zigholtul88') to 'True'
+3/7/2015 8:46:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Flying' of 0x1 "Zigholtul" ('Zigholtul88') to 'False'
+3/7/2015 8:46:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Flying' of 0x54E "a harpy" (no account) to 'True'
+3/7/2015 8:47:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 8:47:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x54E "a harpy" (no account)
+3/7/2015 8:47:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '40'
+3/7/2015 8:48:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Flying' of 0x1 "Zigholtul" ('Zigholtul88') to 'True'
+3/7/2015 8:48:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '46'
+3/7/2015 8:49:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '95'
+3/7/2015 8:49:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '97'
+3/7/2015 8:49:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '98'
+3/7/2015 8:49:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '102'
+3/7/2015 8:50:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '123'
+3/7/2015 8:50:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '124'
+3/7/2015 8:50:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '149'
+3/7/2015 8:51:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '270'
+3/7/2015 8:51:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Flying' of 0x1 "Zigholtul" ('Zigholtul88') to 'False'
+3/7/2015 8:53:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '284'
+3/7/2015 8:54:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '285'
+3/7/2015 8:55:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '293'
+3/7/2015 8:55:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Flying' of 0x1 "Zigholtul" ('Zigholtul88') to 'True'
+3/7/2015 8:55:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Flying' of 0x1 "Zigholtul" ('Zigholtul88') to 'False'
+3/7/2015 8:56:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '744'
+3/7/2015 8:56:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '270'
+3/7/2015 8:57:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '293'
+3/7/2015 8:57:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '308'
+3/7/2015 8:58:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '573'
+3/7/2015 8:59:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '744'
+3/7/2015 8:59:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '758'
+3/7/2015 9:00:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '774'
+3/7/2015 9:00:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '793'
+3/7/2015 9:01:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add skeletal'
+3/7/2015 9:01:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1309, 851, 1) in Malas: "SkeletalMount"
+3/7/2015 9:01:26 PM: 127.0.0.1: Serials: 0x54F; 
+3/7/2015 9:01:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 9:01:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x54F "a skeletal steed" (no account)
+3/7/2015 9:02:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '788'
+3/7/2015 9:03:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '792'
+3/7/2015 9:03:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '742'
+3/7/2015 9:04:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '719'
+3/7/2015 9:04:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '729'
+3/7/2015 9:05:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '763'
+3/7/2015 9:06:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '994'
+3/7/2015 9:06:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '990'
+3/7/2015 9:06:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '991'
+3/7/2015 9:07:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1071'
+3/7/2015 9:07:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1248'
+3/7/2015 9:07:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1247'
+3/7/2015 9:08:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '1246'
+3/7/2015 9:14:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x1 "Zigholtul" ('Zigholtul88') to '400'
+3/7/2015 9:47:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add minorgoblin'
+3/7/2015 9:47:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1253, 835, 2) in Malas: "minorgoblin"
+3/7/2015 9:47:32 PM: 127.0.0.1: Serials: 0x550; 
+3/7/2015 9:47:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+3/7/2015 9:47:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x550 "a minor goblin" (no account)
+3/7/2015 9:58:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add frenzied'
+3/7/2015 9:58:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1255, 834, 0) in Malas: "FrenziedOstard"
+3/7/2015 9:58:23 PM: 127.0.0.1: Serials: 0x551; 
+3/7/2015 9:58:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 9:58:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x551 "a frenzied ostard" (no account)
+3/7/2015 10:21:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/7/2015 10:21:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') adding new account: Freeglepluk
+3/7/2015 11:04:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/7/2015 11:04:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 11:04:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000712 (Spawner)
+3/7/2015 11:05:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 11:05:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2CA "David Cranshaw" (no account)
+3/7/2015 11:05:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 11:05:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000711 (Spawner)
+3/7/2015 11:06:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/7/2015 11:06:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/7/2015 11:07:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/7/2015 11:07:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 11:07:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2A2 "Fharlune Crimsonleaf" (no account)
+3/7/2015 11:07:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/7/2015 11:07:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000065F (Spawner)
+3/7/2015 11:08:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/7/2015 11:09:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/7/2015 11:09:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/7/2015 11:09:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

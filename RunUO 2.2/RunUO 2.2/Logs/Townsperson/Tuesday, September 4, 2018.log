@@ -1,0 +1,73 @@
+##############################
+Log started on 9/4/2018 10:53:24 AM
+Townsperson Logging set to Debug
+
+##############################
+Log started on 9/4/2018 12:17:55 PM
+Townsperson Logging set to Debug
+
+##############################
+Log started on 9/4/2018 2:10:43 PM
+Townsperson Logging set to Debug
+
+2:26 PM: 0xA "Quentin" (no account): Making Asynchronous call on: "hi"
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call begun.
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Trigger matched: " hi " : " hi "
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Matched 6 Responses.
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call took 40 ms.
+2:26 PM: 0xA "Quentin" (no account): Responding to Speech Event: "Hail m'lady!"
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Return from Asynchronous call: "Hail m'lady!"
+2:26 PM: 0xA "Quentin" (no account): Making Asynchronous call on: "how are you"
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call begun.
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Default Rule: "HOW ARE YOU"
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Matched 13 Responses.
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call took 21 ms.
+2:26 PM: 0xA "Quentin" (no account): Responding to Speech Event: "I was just thinkn about goin to the pub and havin meself a nice warm beer."
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Return from Asynchronous call: "I was just thinkn about goin to the pub and havin meself a nice warm beer."
+2:26 PM: 0xA "Quentin" (no account): Making Asynchronous call on: "that's great"
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call begun.
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Default Rule: "THAT'S GREAT"
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Matched 13 Responses.
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call took 7 ms.
+2:26 PM: 0xA "Quentin" (no account): Responding to Speech Event: "Maybe it's time to take some action."
+2:26 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Return from Asynchronous call: "Maybe it's time to take some action."
+2:28 PM: 0xE "Dunstan" (no account): Making Asynchronous call on: "hey"
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call begun.
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Trigger matched: " hey " : " hey "
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Matched 6 Responses.
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call took 41 ms.
+2:28 PM: 0xE "Dunstan" (no account): Responding to Speech Event: "Greetings!"
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Return from Asynchronous call: "Greetings!"
+2:28 PM: 0xD "Christian" (no account): Making Asynchronous call on: "hi"
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call begun.
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Trigger matched: " hi " : " hi "
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Matched 6 Responses.
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call took 7 ms.
+2:28 PM: 0xD "Christian" (no account): Responding to Speech Event: "Hello"
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Return from Asynchronous call: "Hello"
+2:28 PM: 0xD "Christian" (no account): Making Asynchronous call on: "how are you"
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call begun.
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Default Rule: "HOW ARE YOU"
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Matched 13 Responses.
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call took 6 ms.
+2:28 PM: 0xD "Christian" (no account): Responding to Speech Event: "What were we talking about?"
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Return from Asynchronous call: "What were we talking about?"
+2:28 PM: 0xE "Dunstan" (no account): Making Asynchronous call on: "hi"
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call begun.
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Trigger matched: " hi " : " hi "
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Matched 6 Responses.
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Asynchronous call took 6 ms.
+2:28 PM: 0xE "Dunstan" (no account): Responding to Speech Event: "Hail m'lady!"
+2:28 PM: 0x486 "Jade Emerald" ('Zigholtul88'): Return from Asynchronous call: "Hail m'lady!"
+##############################
+Log started on 9/4/2018 3:40:26 PM
+Townsperson Logging set to Debug
+
+##############################
+Log started on 9/4/2018 4:13:43 PM
+Townsperson Logging set to Debug
+
+##############################
+Log started on 9/4/2018 4:24:37 PM
+Townsperson Logging set to Debug
+

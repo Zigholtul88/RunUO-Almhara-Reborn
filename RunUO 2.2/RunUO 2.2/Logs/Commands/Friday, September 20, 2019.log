@@ -1,0 +1,21 @@
+##############################
+Log started on 9/20/2019 3:09:39 AM
+
+9/20/2019 3:11:18 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'speedboost '
+9/20/2019 3:11:24 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'set map trammel'
+9/20/2019 3:11:25 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') set property 'map' of 0x762 "Duu Duu" ('Zigholtul88') to 'Trammel'
+9/20/2019 3:11:28 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'go '
+9/20/2019 3:11:32 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') starting facet clear of Trammel (8 objects)
+9/20/2019 3:11:32 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'clearfacet '
+9/20/2019 3:11:34 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') deleting 8 objects
+9/20/2019 3:12:06 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'set map malas'
+9/20/2019 3:12:07 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') set property 'map' of 0x762 "Duu Duu" ('Zigholtul88') to 'Malas'
+9/20/2019 3:12:15 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'save '
+9/21/2019 2:11:59 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'spawngen malas/towns.map'
+9/21/2019 2:12:12 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'spawngen malas/regions.map'
+9/21/2019 2:12:15 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+9/21/2019 2:12:20 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'admin '
+9/21/2019 2:12:25 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'decorate '
+9/21/2019 2:14:26 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'go '
+9/21/2019 2:15:39 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'speedboost off'
+9/21/2019 2:24:44 AM: 127.0.0.1: Owner 0x762 "Duu Duu" ('Zigholtul88') used command 'restart '

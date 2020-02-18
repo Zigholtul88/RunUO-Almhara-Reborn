@@ -1,0 +1,32 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 7032.20333
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8941
+Time: 7/1/2019 9:03:03 PM
+Mobiles: 2021
+Items: 16261
+Exception:
+System.TypeInitializationException: The type initializer for 'Server.Gumps.GoGump' threw an exception. ---> System.Xml.XmlException: The 'parent' start tag on line 3 does not match the end tag of 'places'. Line 330, position 3.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ThrowTagMismatch(NodeData startTag)
+   at System.Xml.XmlTextReaderImpl.ParseEndElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at Server.Gumps.ParentNode.Parse(XmlTextReader xml)
+   at Server.Gumps.LocationTree..ctor(String fileName, Map map)
+   at Server.Gumps.GoGump..cctor()
+   --- End of inner exception stack trace ---
+   at Server.Gumps.GoGump.DisplayTo(Mobile from)
+   at Server.Commands.CommandHandlers.Go_OnCommand(CommandEventArgs e)
+   at Server.Commands.CommandSystem.Handle(Mobile from, String text, MessageType type)
+   at Server.Mobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue)
+   at Server.Mobiles.PlayerMobile.DoSpeech(String text, Int32[] keywords, MessageType type, Int32 hue)
+   at Server.Network.PacketHandlers.UnicodeSpeech(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x6B 'ggg')

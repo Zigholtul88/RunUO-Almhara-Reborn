@@ -1,0 +1,19 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 7032.20333
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8940
+Time: 5/11/2019 7:34:53 AM
+Mobiles: 1761
+Items: 19059
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Items.TurdyKillSwitch.Expire(Mobile parent)
+   at Server.Items.TurdyKillSwitch.CheckExpiry()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x1A 'Kryss')

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="2">
+	<account>
+		<username>Zigholtul88</username>
+		<password>freeglepluk</password>
+		<accessLevel>Owner</accessLevel>
+		<flags>2</flags>
+		<created>2019-07-02T11:44:46.5020368-04:00</created>
+		<lastLogin>2019-07-20T21:07:35.6067989-04:00</lastLogin>
+		<totalGameTime>P3DT17H18M5.307553S</totalGameTime>
+		<chars>
+			<char index="0">17</char>
+			<char index="1">1463</char>
+		</chars>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="2">
+			<ip>127.0.0.1</ip>
+			<ip>71.208.38.129</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Yugitashi</username>
+		<password>freeglepluk</password>
+		<created>2019-07-20T20:54:44.1506552-04:00</created>
+		<lastLogin>2019-07-20T21:11:03.3108578-04:00</lastLogin>
+		<totalGameTime>PT15M49.2146368S</totalGameTime>
+		<chars>
+			<char index="0">19</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2019-07-20T21:10:36.8737199-04:00">Character #1 0x12 "Wimp low" deleted by 127.0.0.1</comment>
+		</comments>
+		<tags>
+			<tag name="FirstChar">true</tag>
+		</tags>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

@@ -1,0 +1,19 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 6910.6664
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8937
+Time: 2/9/2019 11:40:16 PM
+Mobiles: 1230
+Items: 14491
+Exception:
+System.InvalidCastException: Unable to cast object of type 'Server.Mobiles.OboruJumpingSpider' to type 'Server.Mobiles.SummonedOboruJumpingSpider'.
+   at Server.Mobiles.OborunianDrowSpiderTrainer.OnThink()
+   at Server.Mobiles.BaseAI.AITimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 71.215.212.77: (account = Zigholtul88) (mobile = 0x1 'Zigholtul')

@@ -1,0 +1,118 @@
+##############################
+Log started on 4/16/2016 6:21:31 AM
+
+4/16/2016 6:25:57 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'go '
+4/16/2016 6:29:03 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add static 13356 set movable False hue 0 light Circle225'
+4/16/2016 6:29:06 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2363, 919, -5) in Malas: "static" "13356" "set" "movable" "False" "hue" "0" "light" "Circle225"
+4/16/2016 6:29:06 AM: 127.0.0.1: Serials: 0x40000CD2; 
+4/16/2016 6:29:14 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add static 13356 set movable False hue 0 light Circle225'
+4/16/2016 6:29:14 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2362, 920, -5) in Malas: "static" "13356" "set" "movable" "False" "hue" "0" "light" "Circle225"
+4/16/2016 6:29:14 AM: 127.0.0.1: Serials: 0x40000F6C; 
+4/16/2016 6:29:21 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add static 13345 set movable False hue 0 light Circle225'
+4/16/2016 6:29:22 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2364, 920, -5) in Malas: "static" "13345" "set" "movable" "False" "hue" "0" "light" "Circle225"
+4/16/2016 6:29:22 AM: 127.0.0.1: Serials: 0x400010C9; 
+4/16/2016 6:29:33 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 6:29:34 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400010C9 (Static)
+4/16/2016 6:29:35 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 6:29:35 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x40000CD2 (Static)
+4/16/2016 6:29:37 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 6:29:37 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x40000F6C (Static)
+4/16/2016 6:29:53 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add static 6002 set movable False hue 0 light Circle225'
+4/16/2016 6:29:55 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2363, 919, -5) in Malas: "static" "6002" "set" "movable" "False" "hue" "0" "light" "Circle225"
+4/16/2016 6:29:55 AM: 127.0.0.1: Serials: 0x400010E8; 
+4/16/2016 6:29:59 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add static 6002 set movable False hue 0 light Circle225'
+4/16/2016 6:30:00 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2362, 920, -5) in Malas: "static" "6002" "set" "movable" "False" "hue" "0" "light" "Circle225"
+4/16/2016 6:30:00 AM: 127.0.0.1: Serials: 0x400010EC; 
+4/16/2016 6:30:06 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add static 6002 set movable False hue 0 light Circle225'
+4/16/2016 6:30:07 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2362, 921, -5) in Malas: "static" "6002" "set" "movable" "False" "hue" "0" "light" "Circle225"
+4/16/2016 6:30:07 AM: 127.0.0.1: Serials: 0x400010ED; 
+4/16/2016 6:30:13 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'Add static 6002 set movable False hue 0 light Circle225'
+4/16/2016 6:30:14 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (2364, 920, -5) in Malas: "static" "6002" "set" "movable" "False" "hue" "0" "light" "Circle225"
+4/16/2016 6:30:14 AM: 127.0.0.1: Serials: 0x400010F0; 
+4/16/2016 6:30:18 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 6:30:19 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400010ED (Static)
+4/16/2016 6:30:37 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 6:30:38 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400010E8 (Static)
+4/16/2016 6:30:40 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 6:30:40 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400010EC (Static)
+4/16/2016 6:30:41 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 6:30:42 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400010F0 (Static)
+4/16/2016 6:30:49 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'go '
+4/16/2016 6:32:33 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'go '
+4/16/2016 6:35:56 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'where '
+4/16/2016 6:35:58 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'tele '
+4/16/2016 6:38:06 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add bloated'
+4/16/2016 6:38:09 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (488, 913, 31) in Malas: "OboruBloatedSpider"
+4/16/2016 6:38:09 AM: 127.0.0.1: Serials: 0x495; 
+4/16/2016 6:38:18 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add lessercurepotion'
+4/16/2016 6:38:19 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (483, 913, 25) in Malas: "lessercurepotion"
+4/16/2016 6:38:19 AM: 127.0.0.1: Serials: 0x400011EF; 
+4/16/2016 6:38:22 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add lessercurepotion'
+4/16/2016 6:38:22 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (483, 913, 25) in Malas: "lessercurepotion"
+4/16/2016 6:38:22 AM: 127.0.0.1: Serials: 0x400011F0; 
+4/16/2016 6:38:25 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add lessercurepotion'
+4/16/2016 6:38:25 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (483, 913, 25) in Malas: "lessercurepotion"
+4/16/2016 6:38:25 AM: 127.0.0.1: Serials: 0x400011F1; 
+4/16/2016 6:38:28 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add lessercurepotion'
+4/16/2016 6:38:28 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (483, 913, 25) in Malas: "lessercurepotion"
+4/16/2016 6:38:28 AM: 127.0.0.1: Serials: 0x400011F2; 
+4/16/2016 6:39:07 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add bloated'
+4/16/2016 6:39:09 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (488, 914, 30) in Malas: "OboruBloatedSpider"
+4/16/2016 6:39:09 AM: 127.0.0.1: Serials: 0x496; 
+4/16/2016 6:39:42 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (480, 928, 4) in Malas: "OboruBloatedSpider"
+4/16/2016 6:39:42 AM: 127.0.0.1: Serials: 0x497; 
+4/16/2016 6:42:27 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'where '
+4/16/2016 6:43:17 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'where '
+4/16/2016 6:43:47 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'where '
+4/16/2016 6:44:16 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'where '
+4/16/2016 6:45:00 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'where '
+4/16/2016 6:46:12 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add oboru'
+4/16/2016 6:57:56 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/16/2016 6:58:01 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') shutting down server (Restart: True) (Save: True)
+4/16/2016 6:58:01 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/16/2016 6:58:12 AM
+
+4/16/2016 6:58:33 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/16/2016 6:58:36 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'decorate '
+4/16/2016 7:00:59 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/16/2016 7:01:03 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/16/2016 7:01:03 AM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/16/2016 4:59:08 PM
+
+4/16/2016 5:00:09 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'go '
+4/16/2016 5:00:25 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add hamme'
+4/16/2016 5:00:34 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (1149, 1031, 10) in Malas: "SmithHammer"
+4/16/2016 5:00:34 PM: 127.0.0.1: Serials: 0x40000075; 
+4/16/2016 5:00:57 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add recipe'
+4/16/2016 5:01:01 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add recipe 101'
+4/16/2016 5:01:12 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (1145, 1038, 10) in Malas: "recipe" "101"
+4/16/2016 5:01:19 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add recipe'
+4/16/2016 5:01:20 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (1145, 1038, 10) in Malas: "recipe"
+4/16/2016 5:01:24 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add recipe axe'
+4/16/2016 5:01:25 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (1145, 1038, 10) in Malas: "recipe" "axe"
+4/16/2016 5:01:26 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add recipe axe'
+4/16/2016 5:02:19 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'add recipescroll 101'
+4/16/2016 5:02:21 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') building at (1146, 1038, 10) in Malas: "recipescroll" "101"
+4/16/2016 5:02:21 PM: 127.0.0.1: Serials: 0x40000089; 
+4/16/2016 5:02:55 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'forgetallrecipes '
+4/16/2016 5:09:29 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 5:09:30 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400000D4 (TownChestMage)
+4/16/2016 5:09:59 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 5:09:59 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x40000976 (TownChestMage)
+4/16/2016 5:10:05 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 5:10:05 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400009D1 (TownChestMage)
+4/16/2016 5:10:10 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 5:10:10 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400009D6 (TownChestMage)
+4/16/2016 5:10:15 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 5:10:15 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400009DC (TownChestMage)
+4/16/2016 5:10:19 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 5:10:19 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400009E0 (TownChestMage)
+4/16/2016 5:10:24 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 5:10:24 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x400009E3 (TownChestMage)
+4/16/2016 5:11:22 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/16/2016 5:11:22 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') deleting 0x40001774 (TownChestClothier)
+4/16/2016 5:15:22 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/16/2016 5:15:26 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/16/2016 5:15:26 PM: 127.0.0.1: Owner 0x490 "Zigholtul" ('Zigholtul88') used command 'save '

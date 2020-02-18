@@ -1,0 +1,299 @@
+##############################
+Log started on 7/5/2013 3:57:15 AM
+
+7/5/2013 3:57:57 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add etherea'
+7/5/2013 3:58:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1190, 803, 8) in Malas: "EtherealBeetle"
+7/5/2013 3:58:01 AM: 127.0.0.1: Serials: 0x40000028; 
+7/5/2013 3:58:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/5/2013 3:59:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/5/2013 3:59:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/5/2013 3:59:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'unfreeze '
+7/5/2013 3:59:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') invoking unfreeze from (1610, 515) to (1631, 546) in Malas
+7/5/2013 3:59:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/5/2013 3:59:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/5/2013 3:59:51 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/5/2013 4:00:33 AM
+
+7/5/2013 4:01:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x400002D2 (Static) to (1630, 524, 0)
+7/5/2013 4:01:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x400002C5 (Static) to (1630, 523, 0)
+7/5/2013 4:01:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:01:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x400002C2 (Static)
+7/5/2013 4:01:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x400002C5 (Static) to (1627, 523, 0)
+7/5/2013 4:01:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x400002D2 (Static) to (1627, 524, 0)
+7/5/2013 4:01:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000031D (Static) to (1630, 529, 0)
+7/5/2013 4:01:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000030B (Static) to (1630, 528, 0)
+7/5/2013 4:01:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x400002FF (Static) to (1630, 527, 0)
+7/5/2013 4:01:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000319 (Static) to (1629, 529, 0)
+7/5/2013 4:01:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'm remove'
+7/5/2013 4:01:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000308 (Static)
+7/5/2013 4:01:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000318 (Static)
+7/5/2013 4:01:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x400002FC (Static)
+7/5/2013 4:01:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x400002F1 (Static)
+7/5/2013 4:01:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000314 (Static) to (1628, 529, 0)
+7/5/2013 4:01:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:40 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000310 (Static) to (1627, 529, 0)
+7/5/2013 4:01:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000028E (Static) to (1625, 529, 0)
+7/5/2013 4:01:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000028E (Static) to (1626, 529, 0)
+7/5/2013 4:01:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000320 (Static) to (1622, 533, 0)
+7/5/2013 4:01:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:55 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000289 (Static) to (1625, 529, 0)
+7/5/2013 4:01:57 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:01:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000029E (Static) to (1620, 534, 0)
+7/5/2013 4:01:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000284 (Static) to (1617, 534, 0)
+7/5/2013 4:02:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000027F (Static) to (1617, 535, 0)
+7/5/2013 4:02:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:02:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x4000027E (Static)
+7/5/2013 4:02:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:02:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000279 (Static)
+7/5/2013 4:02:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:02:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000283 (Static)
+7/5/2013 4:02:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:02:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000288 (Static)
+7/5/2013 4:02:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:02:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:02:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x4000028D (Static)
+7/5/2013 4:02:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:02:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x4000030F (Static)
+7/5/2013 4:02:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000284 (Static) to (1620, 530, 0)
+7/5/2013 4:02:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:22 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000027F (Static) to (1621, 530, 0)
+7/5/2013 4:02:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000289 (Static) to (1622, 530, 0)
+7/5/2013 4:02:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000028E (Static) to (1623, 530, 0)
+7/5/2013 4:02:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000310 (Static) to (1624, 530, 0)
+7/5/2013 4:02:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000314 (Static) to (1625, 530, 0)
+7/5/2013 4:02:38 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000319 (Static) to (1626, 530, 0)
+7/5/2013 4:02:40 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000031D (Static) to (1627, 530, 0)
+7/5/2013 4:02:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000030B (Static) to (1627, 529, 0)
+7/5/2013 4:02:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x400002FF (Static) to (1627, 528, 0)
+7/5/2013 4:02:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000027F (Static) to (1616, 534, 0)
+7/5/2013 4:02:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000284 (Static) to (1615, 534, 0)
+7/5/2013 4:02:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:02:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000027A (Static) to (1614, 534, 0)
+7/5/2013 4:02:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000274 (Static) to (1613, 534, 0)
+7/5/2013 4:03:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000026F (Static) to (1612, 534, 0)
+7/5/2013 4:03:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000026A (Static) to (1611, 534, 0)
+7/5/2013 4:03:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:03:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x4000026E (Static)
+7/5/2013 4:03:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:03:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000273 (Static)
+7/5/2013 4:03:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x400000BE (Static) to (1613, 538, 0)
+7/5/2013 4:03:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x400000BE (Static) to (1615, 530, 0)
+7/5/2013 4:03:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000026A (Static) to (1616, 530, 0)
+7/5/2013 4:03:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000026F (Static) to (1617, 530, 0)
+7/5/2013 4:03:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000274 (Static) to (1618, 530, 0)
+7/5/2013 4:03:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000027A (Static) to (1619, 530, 0)
+7/5/2013 4:03:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000284 (Static) to (1620, 530, 0)
+7/5/2013 4:03:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:03:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000027F (Static) to (1621, 530, 0)
+7/5/2013 4:03:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/5/2013 4:04:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:04:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000228 (Static) to (1617, 529, 20)
+7/5/2013 4:04:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:04:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000228 (Static) to (1619, 529, 20)
+7/5/2013 4:04:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:04:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000228 (Static) to (1616, 528, 20)
+7/5/2013 4:04:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:04:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:04:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x400001F6 (Static)
+7/5/2013 4:04:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 1824 set movable False hue 0 light Circle225'
+7/5/2013 4:04:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1616, 526, 0) in Malas: "static" "1824" "set" "movable" "False" "hue" "0" "light" "Circle225"
+7/5/2013 4:04:49 AM: 127.0.0.1: Serials: 0x40000332; 
+7/5/2013 4:04:51 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 1824 set movable False hue 0 light Circle225'
+7/5/2013 4:04:51 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1616, 526, 5) in Malas: "static" "1824" "set" "movable" "False" "hue" "0" "light" "Circle225"
+7/5/2013 4:04:51 AM: 127.0.0.1: Serials: 0x40000333; 
+7/5/2013 4:04:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 1824 set movable False hue 0 light Circle225'
+7/5/2013 4:04:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1616, 526, 10) in Malas: "static" "1824" "set" "movable" "False" "hue" "0" "light" "Circle225"
+7/5/2013 4:04:52 AM: 127.0.0.1: Serials: 0x40000334; 
+7/5/2013 4:04:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 1824 set movable False hue 0 light Circle225'
+7/5/2013 4:04:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1617, 526, 0) in Malas: "static" "1824" "set" "movable" "False" "hue" "0" "light" "Circle225"
+7/5/2013 4:04:54 AM: 127.0.0.1: Serials: 0x40000335; 
+7/5/2013 4:04:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 1824 set movable False hue 0 light Circle225'
+7/5/2013 4:04:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1617, 526, 5) in Malas: "static" "1824" "set" "movable" "False" "hue" "0" "light" "Circle225"
+7/5/2013 4:04:56 AM: 127.0.0.1: Serials: 0x40000336; 
+7/5/2013 4:04:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 1824 set movable False hue 0 light Circle225'
+7/5/2013 4:04:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1618, 526, 0) in Malas: "static" "1824" "set" "movable" "False" "hue" "0" "light" "Circle225"
+7/5/2013 4:04:59 AM: 127.0.0.1: Serials: 0x40000337; 
+7/5/2013 4:05:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/5/2013 4:05:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:05:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x400001F9 (Static)
+7/5/2013 4:05:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:05:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x400001FC (Static)
+7/5/2013 4:05:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 1827 set movable False hue 0 light Circle225'
+7/5/2013 4:05:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1616, 526, 15) in Malas: "static" "1827" "set" "movable" "False" "hue" "0" "light" "Circle225"
+7/5/2013 4:05:13 AM: 127.0.0.1: Serials: 0x40000338; 
+7/5/2013 4:05:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+7/5/2013 4:05:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x400001FF (Static)
+7/5/2013 4:05:22 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Multi Add static 1827 set movable False hue 0 light Circle225'
+7/5/2013 4:05:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1617, 526, 10) in Malas: "static" "1827" "set" "movable" "False" "hue" "0" "light" "Circle225"
+7/5/2013 4:05:23 AM: 127.0.0.1: Serials: 0x40000339; 
+7/5/2013 4:05:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1618, 526, 5) in Malas: "static" "1827" "set" "movable" "False" "hue" "0" "light" "Circle225"
+7/5/2013 4:05:23 AM: 127.0.0.1: Serials: 0x4000033A; 
+7/5/2013 4:05:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (1619, 526, 0) in Malas: "static" "1827" "set" "movable" "False" "hue" "0" "light" "Circle225"
+7/5/2013 4:05:24 AM: 127.0.0.1: Serials: 0x4000033B; 
+7/5/2013 4:05:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:05:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x40000320 (Static) to (1624, 531, 0)
+7/5/2013 4:05:46 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'move '
+7/5/2013 4:05:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') moving 0x4000029E (Static) to (1622, 531, 0)
+7/5/2013 4:06:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'save '
+7/5/2013 4:07:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/5/2013 4:12:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'freeze '
+7/5/2013 4:13:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') invoking freeze from (1609, 517) to (1631, 546) in Malas
+7/5/2013 4:13:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/5/2013 4:13:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/5/2013 4:13:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 7/5/2013 5:37:26 AM
+
+7/5/2013 5:38:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (1441 objects)
+7/5/2013 5:38:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:38:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 1441 objects
+7/5/2013 5:38:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map tokuno'
+7/5/2013 5:38:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Tokuno'
+7/5/2013 5:38:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/5/2013 5:38:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:38:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+7/5/2013 5:38:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+7/5/2013 5:38:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:38:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map trammel'
+7/5/2013 5:38:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Trammel'
+7/5/2013 5:38:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/5/2013 5:39:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/5/2013 5:39:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'uoamvendors '
+7/5/2013 5:39:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:39:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'doorgen '
+7/5/2013 5:39:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+7/5/2013 5:39:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Malas'
+7/5/2013 5:39:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (343 objects)
+7/5/2013 5:39:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:39:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 343 objects
+7/5/2013 5:40:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map trammel'
+7/5/2013 5:40:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Trammel'
+7/5/2013 5:41:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'uoamvendors '
+7/5/2013 5:41:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Trammel (1361 objects)
+7/5/2013 5:41:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:41:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 1361 objects
+7/5/2013 5:41:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'signgen '
+7/5/2013 5:41:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'moongen '
+7/5/2013 5:41:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'moongen '
+7/5/2013 5:41:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Trammel (9 objects)
+7/5/2013 5:41:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:41:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 9 objects
+7/5/2013 5:41:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'moongen '
+7/5/2013 5:41:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Trammel (9 objects)
+7/5/2013 5:41:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:41:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 9 objects
+7/5/2013 5:41:46 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+7/5/2013 5:41:46 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Malas'
+7/5/2013 5:41:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (2 objects)
+7/5/2013 5:41:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:41:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 2 objects
+7/5/2013 5:41:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map trammel'
+7/5/2013 5:41:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Trammel'
+7/5/2013 5:42:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'telgen '
+7/5/2013 5:42:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Trammel (517 objects)
+7/5/2013 5:42:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:42:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 517 objects
+7/5/2013 5:43:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+7/5/2013 5:43:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Malas'
+7/5/2013 5:43:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (50 objects)
+7/5/2013 5:43:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:43:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 50 objects
+7/5/2013 5:43:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map trammel'
+7/5/2013 5:43:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Trammel'
+7/5/2013 5:46:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/5/2013 5:46:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:46:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+7/5/2013 5:46:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Malas'
+7/5/2013 5:46:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (1027 objects)
+7/5/2013 5:46:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:46:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 1027 objects
+7/5/2013 5:46:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'decorate '
+7/5/2013 5:46:22 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (1027 objects)
+7/5/2013 5:46:22 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:46:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 1027 objects
+7/5/2013 5:46:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+7/5/2013 5:46:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Malas'
+7/5/2013 5:46:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map trammel'
+7/5/2013 5:46:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Trammel'
+7/5/2013 5:48:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map felucca'
+7/5/2013 5:48:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Felucca'
+7/5/2013 5:48:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Felucca (1861 objects)
+7/5/2013 5:48:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:48:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 1861 objects
+7/5/2013 5:48:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map tokuno'
+7/5/2013 5:48:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Tokuno'
+7/5/2013 5:48:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Tokuno (11 objects)
+7/5/2013 5:48:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:48:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 11 objects
+7/5/2013 5:48:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+7/5/2013 5:48:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+7/5/2013 5:48:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') starting facet clear of Ilshenar (708 objects)
+7/5/2013 5:48:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:48:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 708 objects
+7/5/2013 5:49:57 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map trammel'
+7/5/2013 5:49:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Trammel'
+7/5/2013 5:51:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/5/2013 5:54:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map ter mur'
+7/5/2013 5:54:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map termur'
+7/5/2013 5:54:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'TerMur'
+7/5/2013 5:54:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/5/2013 5:54:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map termur'
+7/5/2013 5:54:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'TerMur'
+7/5/2013 5:54:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'm tele'
+7/5/2013 5:54:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'm tele'
+7/5/2013 5:55:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/5/2013 5:55:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/5/2013 5:55:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/5/2013 5:55:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map termur'
+7/5/2013 5:55:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'TerMur'
+7/5/2013 5:55:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/5/2013 5:56:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/5/2013 5:56:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/5/2013 5:56:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/5/2013 5:56:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'tele '
+7/5/2013 5:56:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'm tele'
+7/5/2013 5:56:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+7/5/2013 5:56:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') set property 'map' of 0x2E3 "Zigholtul" ('Zigholtul88') to 'Malas'
+7/5/2013 5:56:51 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+7/5/2013 5:56:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+7/5/2013 5:58:46 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'admin '
+7/5/2013 5:58:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+7/5/2013 5:58:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'save '

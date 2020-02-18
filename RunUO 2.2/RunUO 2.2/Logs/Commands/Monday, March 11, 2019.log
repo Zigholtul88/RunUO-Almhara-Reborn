@@ -1,0 +1,294 @@
+##############################
+Log started on 3/11/2019 4:26:52 PM
+
+3/11/2019 4:27:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+3/11/2019 4:29:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/11/2019 4:32:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/11/2019 4:32:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/11/2019 4:32:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/11/2019 5:05:19 PM
+
+3/11/2019 5:05:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+3/11/2019 5:06:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'play '
+3/11/2019 5:07:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/11/2019 5:07:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/11/2019 5:07:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/11/2019 5:17:02 PM
+
+3/11/2019 5:17:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+3/11/2019 5:21:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add almiraj'
+3/11/2019 5:21:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (492, 1750, 30) in Malas: "almiraj"
+3/11/2019 5:21:19 PM: 127.0.0.1: Serials: 0x1A; 
+3/11/2019 5:21:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/11/2019 5:21:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x1A "an al-mi'raj" (no account)
+3/11/2019 9:04:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/11/2019 9:04:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add talltree'
+3/11/2019 9:04:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (309, 1969, 43) in Malas: "TallTree02Addon"
+3/11/2019 9:04:31 PM: 127.0.0.1: Serials: 0x400022E1; 
+3/11/2019 9:04:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:04:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (322, 1967, 70) in Malas: "TallTree01Addon"
+3/11/2019 9:04:46 PM: 127.0.0.1: Serials: 0x40002300; 
+3/11/2019 9:04:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:04:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000230C (AddonComponent) to (321, 1967, 71)
+3/11/2019 9:04:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:05:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (332, 1952, 27) in Malas: "TallTree03Addon"
+3/11/2019 9:05:07 PM: 127.0.0.1: Serials: 0x4000232C; 
+3/11/2019 9:05:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:05:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (339, 1934, 28) in Malas: "TallTree01Addon"
+3/11/2019 9:05:18 PM: 127.0.0.1: Serials: 0x400024BA; 
+3/11/2019 9:05:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:05:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400024C3 (AddonComponent) to (340, 1934, 48)
+3/11/2019 9:05:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:05:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400024C3 (AddonComponent) to (341, 1936, 31)
+3/11/2019 9:05:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:05:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400024C3 (AddonComponent) to (341, 1938, 31)
+3/11/2019 9:05:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:05:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (355, 1927, 31) in Malas: "TallTree02Addon"
+3/11/2019 9:05:39 PM: 127.0.0.1: Serials: 0x400024D3; 
+3/11/2019 9:05:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:05:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (324, 1930, 10) in Malas: "TallTree02Addon"
+3/11/2019 9:05:52 PM: 127.0.0.1: Serials: 0x400024EA; 
+3/11/2019 9:05:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:06:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (319, 1940, 10) in Malas: "TallTree01Addon"
+3/11/2019 9:06:01 PM: 127.0.0.1: Serials: 0x40002501; 
+3/11/2019 9:06:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:06:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000250A (AddonComponent) to (322, 1937, 9)
+3/11/2019 9:06:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:06:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (311, 1925, 34) in Malas: "TallTree03Addon"
+3/11/2019 9:06:19 PM: 127.0.0.1: Serials: 0x40002BB8; 
+3/11/2019 9:06:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:06:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (307, 1909, 30) in Malas: "TallTree04Addon"
+3/11/2019 9:06:28 PM: 127.0.0.1: Serials: 0x40002BD1; 
+3/11/2019 9:06:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:06:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (287, 1936, -128) in Malas: "TallTree04Addon"
+3/11/2019 9:06:44 PM: 127.0.0.1: Serials: 0x40002BEA; 
+3/11/2019 9:06:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'wipe '
+3/11/2019 9:06:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') wiping from (297, 1942, 10) to (304, 1963, 92) in Malas (Items, Mobiles)
+3/11/2019 9:07:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (304, 1952, 22) in Malas: "TallTree04Addon"
+3/11/2019 9:07:07 PM: 127.0.0.1: Serials: 0x40002BFB; 
+3/11/2019 9:07:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:07:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002C04 (AddonComponent) to (302, 1952, 22)
+3/11/2019 9:07:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:07:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (302, 1935, 10) in Malas: "TallTree02Addon"
+3/11/2019 9:07:31 PM: 127.0.0.1: Serials: 0x40002C17; 
+3/11/2019 9:07:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:07:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (304, 1891, 39) in Malas: "TallTree03Addon"
+3/11/2019 9:07:54 PM: 127.0.0.1: Serials: 0x40002C2E; 
+3/11/2019 9:07:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:08:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add vines'
+3/11/2019 9:08:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add longvine'
+3/11/2019 9:08:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (322, 1937, 9) in Malas: "LongVine01Addon"
+3/11/2019 9:08:30 PM: 127.0.0.1: Serials: 0x40002C47; 
+3/11/2019 9:08:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:12:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (308, 1910, 30) in Malas: "LongVine01Addon"
+3/11/2019 9:12:38 PM: 127.0.0.1: Serials: 0x40002C54; 
+3/11/2019 9:12:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:12:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (302, 1952, 22) in Malas: "LongVine03Addon"
+3/11/2019 9:12:55 PM: 127.0.0.1: Serials: 0x40002C5B; 
+3/11/2019 9:13:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:13:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (313, 1925, 31) in Malas: "LongVine02Addon"
+3/11/2019 9:13:12 PM: 127.0.0.1: Serials: 0x40002C62; 
+3/11/2019 9:13:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:13:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002C65 (AddonComponent) to (312, 1925, 32)
+3/11/2019 9:13:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/11/2019 9:13:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002C64 (AddonComponent)
+3/11/2019 9:13:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (313, 1925, 31) in Malas: "LongVine04Addon"
+3/11/2019 9:13:32 PM: 127.0.0.1: Serials: 0x40002C67; 
+3/11/2019 9:13:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:13:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002C68 (AddonComponent) to (312, 1925, 32)
+3/11/2019 9:13:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:14:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (325, 1887, 25) in Malas: "LongVine01Addon"
+3/11/2019 9:14:03 PM: 127.0.0.1: Serials: 0x40002C6E; 
+3/11/2019 9:14:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:14:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (373, 1911, 10) in Malas: "LongVine01Addon"
+3/11/2019 9:14:34 PM: 127.0.0.1: Serials: 0x40002C75; 
+3/11/2019 9:14:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:16:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (409, 1919, 15) in Malas: "LongVine01Addon"
+3/11/2019 9:16:38 PM: 127.0.0.1: Serials: 0x40002C7F; 
+3/11/2019 9:16:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:16:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (409, 1929, 22) in Malas: "LongVine04Addon"
+3/11/2019 9:16:48 PM: 127.0.0.1: Serials: 0x40002C86; 
+3/11/2019 9:16:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:16:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:17:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002C88 (AddonComponent) to (425, 1932, 6)
+3/11/2019 9:17:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:17:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (443, 1936, 15) in Malas: "LongVine01Addon"
+3/11/2019 9:17:16 PM: 127.0.0.1: Serials: 0x40002C8D; 
+3/11/2019 9:17:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:17:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (477, 1907, 17) in Malas: "LongVine01Addon"
+3/11/2019 9:17:31 PM: 127.0.0.1: Serials: 0x40002C95; 
+3/11/2019 9:17:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:17:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (504, 1867, 20) in Malas: "LongVine04Addon"
+3/11/2019 9:17:48 PM: 127.0.0.1: Serials: 0x40002C9C; 
+3/11/2019 9:17:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:18:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (571, 1772, 23) in Malas: "LongVine01Addon"
+3/11/2019 9:18:10 PM: 127.0.0.1: Serials: 0x40002CA3; 
+3/11/2019 9:18:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:18:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (570, 1719, 50) in Malas: "LongVine04Addon"
+3/11/2019 9:18:26 PM: 127.0.0.1: Serials: 0x40002CAA; 
+3/11/2019 9:18:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:18:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002CAB (AddonComponent) to (569, 1719, 58)
+3/11/2019 9:18:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:18:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (528, 1748, 25) in Malas: "LongVine01Addon"
+3/11/2019 9:18:53 PM: 127.0.0.1: Serials: 0x40002CB1; 
+3/11/2019 9:18:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:19:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (463, 1776, 28) in Malas: "LongVine01Addon"
+3/11/2019 9:19:11 PM: 127.0.0.1: Serials: 0x40002CB8; 
+3/11/2019 9:19:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:19:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (423, 1786, 30) in Malas: "LongVine04Addon"
+3/11/2019 9:19:22 PM: 127.0.0.1: Serials: 0x40002CBF; 
+3/11/2019 9:19:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:19:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (394, 1774, 27) in Malas: "LongVine01Addon"
+3/11/2019 9:19:33 PM: 127.0.0.1: Serials: 0x40002CC6; 
+3/11/2019 9:19:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:19:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (486, 1748, 28) in Malas: "LongVine01Addon"
+3/11/2019 9:19:55 PM: 127.0.0.1: Serials: 0x40002CCD; 
+3/11/2019 9:19:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:20:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (578, 1675, 45) in Malas: "LongVine01Addon"
+3/11/2019 9:20:18 PM: 127.0.0.1: Serials: 0x40002CD4; 
+3/11/2019 9:20:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:20:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (588, 1669, 37) in Malas: "LongVine03Addon"
+3/11/2019 9:20:33 PM: 127.0.0.1: Serials: 0x40002CDB; 
+3/11/2019 9:20:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:20:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (554, 1629, 25) in Malas: "LongVine03Addon"
+3/11/2019 9:20:47 PM: 127.0.0.1: Serials: 0x40002CE2; 
+3/11/2019 9:20:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:21:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (677, 1656, 22) in Malas: "LongVine01Addon"
+3/11/2019 9:21:12 PM: 127.0.0.1: Serials: 0x40002CE9; 
+3/11/2019 9:21:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:21:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (704, 1643, 29) in Malas: "LongVine01Addon"
+3/11/2019 9:21:24 PM: 127.0.0.1: Serials: 0x40002CF0; 
+3/11/2019 9:21:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:21:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (708, 1599, 15) in Malas: "LongVine01Addon"
+3/11/2019 9:21:37 PM: 127.0.0.1: Serials: 0x40002CF7; 
+3/11/2019 9:21:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:21:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (681, 1568, 17) in Malas: "LongVine01Addon"
+3/11/2019 9:21:47 PM: 127.0.0.1: Serials: 0x40002CFE; 
+3/11/2019 9:21:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:22:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (706, 1550, 32) in Malas: "LongVine03Addon"
+3/11/2019 9:22:01 PM: 127.0.0.1: Serials: 0x40002D05; 
+3/11/2019 9:22:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:22:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (694, 1514, 14) in Malas: "LongVine01Addon"
+3/11/2019 9:22:13 PM: 127.0.0.1: Serials: 0x40002D0C; 
+3/11/2019 9:22:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:22:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (649, 1501, 11) in Malas: "LongVine03Addon"
+3/11/2019 9:22:35 PM: 127.0.0.1: Serials: 0x40002D15; 
+3/11/2019 9:22:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:23:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (698, 1622, 18) in Malas: "LongVine01Addon"
+3/11/2019 9:23:17 PM: 127.0.0.1: Serials: 0x40002D1C; 
+3/11/2019 9:23:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:23:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (589, 1730, 26) in Malas: "LongVine01Addon"
+3/11/2019 9:23:59 PM: 127.0.0.1: Serials: 0x40002D29; 
+3/11/2019 9:24:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:24:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (589, 1753, 22) in Malas: "LongVine01Addon"
+3/11/2019 9:24:13 PM: 127.0.0.1: Serials: 0x40002D30; 
+3/11/2019 9:24:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:24:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (638, 1779, 13) in Malas: "LongVine01Addon"
+3/11/2019 9:24:27 PM: 127.0.0.1: Serials: 0x40002D37; 
+3/11/2019 9:24:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:24:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (638, 1823, 15) in Malas: "LongVine01Addon"
+3/11/2019 9:24:43 PM: 127.0.0.1: Serials: 0x40002D3E; 
+3/11/2019 9:24:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:24:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:24:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (600, 1817, 18) in Malas: "LongVine01Addon"
+3/11/2019 9:24:56 PM: 127.0.0.1: Serials: 0x40002D45; 
+3/11/2019 9:24:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:25:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (579, 1819, 21) in Malas: "LongVine01Addon"
+3/11/2019 9:25:04 PM: 127.0.0.1: Serials: 0x40002D4C; 
+3/11/2019 9:25:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:25:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (537, 1815, 12) in Malas: "LongVine01Addon"
+3/11/2019 9:25:15 PM: 127.0.0.1: Serials: 0x40002D53; 
+3/11/2019 9:25:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:25:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (513, 1847, 16) in Malas: "LongVine03Addon"
+3/11/2019 9:25:25 PM: 127.0.0.1: Serials: 0x40002D5A; 
+3/11/2019 9:25:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:25:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (495, 1897, 17) in Malas: "LongVine03Addon"
+3/11/2019 9:25:38 PM: 127.0.0.1: Serials: 0x40002D61; 
+3/11/2019 9:25:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:25:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002D64 (AddonComponent) to (495, 1896, 17)
+3/11/2019 9:25:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:25:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (476, 1919, 17) in Malas: "LongVine01Addon"
+3/11/2019 9:25:53 PM: 127.0.0.1: Serials: 0x40002D68; 
+3/11/2019 9:25:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:26:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (427, 1950, 21) in Malas: "LongVine03Addon"
+3/11/2019 9:26:08 PM: 127.0.0.1: Serials: 0x40002D6F; 
+3/11/2019 9:26:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:26:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002D72 (AddonComponent) to (427, 1949, 23)
+3/11/2019 9:26:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:26:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (578, 1796, 16) in Malas: "LongVine03Addon"
+3/11/2019 9:26:51 PM: 127.0.0.1: Serials: 0x40002D76; 
+3/11/2019 9:26:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:27:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (591, 1744, 27) in Malas: "LongVine03Addon"
+3/11/2019 9:27:06 PM: 127.0.0.1: Serials: 0x40002D7D; 
+3/11/2019 9:27:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:27:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002D80 (AddonComponent) to (591, 1743, 29)
+3/11/2019 9:27:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:27:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (537, 1736, 26) in Malas: "LongVine03Addon"
+3/11/2019 9:27:28 PM: 127.0.0.1: Serials: 0x40002D84; 
+3/11/2019 9:27:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:27:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (494, 1741, 27) in Malas: "LongVine03Addon"
+3/11/2019 9:27:41 PM: 127.0.0.1: Serials: 0x40002D8B; 
+3/11/2019 9:27:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:27:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (441, 1794, 30) in Malas: "LongVine03Addon"
+3/11/2019 9:27:58 PM: 127.0.0.1: Serials: 0x40002D92; 
+3/11/2019 9:28:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:28:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:28:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (372, 1665, 33) in Malas: "LongVine03Addon"
+3/11/2019 9:28:34 PM: 127.0.0.1: Serials: 0x40002D99; 
+3/11/2019 9:28:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:28:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (345, 1594, 33) in Malas: "LongVine03Addon"
+3/11/2019 9:28:51 PM: 127.0.0.1: Serials: 0x40002DA0; 
+3/11/2019 9:28:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:29:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (256, 1524, 17) in Malas: "LongVine03Addon"
+3/11/2019 9:29:18 PM: 127.0.0.1: Serials: 0x40002DA8; 
+3/11/2019 9:29:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:29:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (276, 1523, 15) in Malas: "LongVine01Addon"
+3/11/2019 9:29:32 PM: 127.0.0.1: Serials: 0x40002DAF; 
+3/11/2019 9:29:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:29:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (245, 1551, 15) in Malas: "LongVine03Addon"
+3/11/2019 9:29:44 PM: 127.0.0.1: Serials: 0x40002DBD; 
+3/11/2019 9:29:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:30:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (309, 1587, 23) in Malas: "LongVine03Addon"
+3/11/2019 9:30:13 PM: 127.0.0.1: Serials: 0x40002DC4; 
+3/11/2019 9:30:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:30:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002DC7 (AddonComponent) to (312, 1588, 22)
+3/11/2019 9:30:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:30:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002DC7 (AddonComponent) to (311, 1589, 23)
+3/11/2019 9:30:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:31:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (398, 1786, 26) in Malas: "LongVine01Addon"
+3/11/2019 9:31:04 PM: 127.0.0.1: Serials: 0x40002DCB; 
+3/11/2019 9:31:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/11/2019 9:31:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40002DCD (AddonComponent) to (397, 1786, 26)
+3/11/2019 9:31:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:32:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (549, 1609, 24) in Malas: "LongVine01Addon"
+3/11/2019 9:32:02 PM: 127.0.0.1: Serials: 0x40002DD6; 
+3/11/2019 9:32:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:33:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (776, 1680, 16) in Malas: "LongVine01Addon"
+3/11/2019 9:33:02 PM: 127.0.0.1: Serials: 0x40002DDD; 
+3/11/2019 9:33:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:33:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (822, 1680, 11) in Malas: "LongVine01Addon"
+3/11/2019 9:33:12 PM: 127.0.0.1: Serials: 0x40002DE4; 
+3/11/2019 9:33:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:34:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (695, 1817, 22) in Malas: "LongVine01Addon"
+3/11/2019 9:34:10 PM: 127.0.0.1: Serials: 0x40002DEB; 
+3/11/2019 9:34:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:34:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (671, 1814, 30) in Malas: "LongVine03Addon"
+3/11/2019 9:34:22 PM: 127.0.0.1: Serials: 0x40002DF2; 
+3/11/2019 9:34:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+3/11/2019 9:34:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'freezemap '
+3/11/2019 9:34:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') invoking freeze for every item in Owner
+3/11/2019 9:34:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/11/2019 9:34:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/11/2019 9:34:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/11/2019 9:45:42 PM
+
+3/11/2019 9:45:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+3/11/2019 9:59:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') unhiding 0x1 "Zigholtul" ('Zigholtul88')
+3/11/2019 9:59:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Self Unhide'
+3/11/2019 10:38:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+3/12/2019 1:49:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/12/2019 1:49:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/12/2019 1:49:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

@@ -1,0 +1,76 @@
+##############################
+Log started on 3/14/2017 7:24:29 PM
+
+3/14/2017 7:25:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/14/2017 7:25:59 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/14/2017 7:27:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add taming'
+3/14/2017 7:27:40 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/14/2017 7:27:43 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (1178, 1048, 5), Map Malas
+3/14/2017 7:27:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add guide'
+3/14/2017 7:27:56 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1176, 1048, 5) in Malas: "YourTrustyPotionGuide"
+3/14/2017 7:27:56 PM: 127.0.0.1: Serials: 0x400011C1; 
+3/14/2017 7:35:18 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'addtopack unlockscroll'
+3/14/2017 7:35:19 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1148, 1127, 0) in Malas: "unlockscroll"
+3/14/2017 7:35:19 PM: 127.0.0.1: Serials: 0x40002986; 
+3/14/2017 7:35:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'props '
+3/14/2017 7:36:23 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'unhide '
+3/14/2017 7:36:24 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') unhiding 0xB3 "Elandria" ('Zigholtul88')
+3/14/2017 7:37:07 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'go '
+3/14/2017 7:37:10 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/14/2017 7:37:13 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (1172, 1212, 15), Map Malas
+3/14/2017 7:37:41 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'bank '
+3/14/2017 7:37:42 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') opening bank box of 0x3FF "Poncho Vila" ('tomgranvidas')
+3/14/2017 7:47:51 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'add treasuremap 1 malas'
+3/14/2017 7:47:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') building at (1215, 1080, 0) in Malas: "treasuremap" "1" "malas"
+3/14/2017 7:47:53 PM: 127.0.0.1: Serials: 0x40002A2C; 
+3/14/2017 7:48:36 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'setskill cartography 100'
+3/14/2017 7:48:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') set property 'Cartography.Base' of 0x3FF "Poncho Vila" ('tomgranvidas') to '100'
+3/14/2017 7:50:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/14/2017 7:50:44 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (1214, 1081, 0), Map Malas
+3/14/2017 7:50:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'skills '
+3/14/2017 7:51:30 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property '[Cartography: 0].Base' of 0x3FF "Poncho Vila" ('tomgranvidas') to '0'
+3/14/2017 7:51:52 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'remove '
+3/14/2017 7:51:53 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') deleting 0x40002A2C (TreasureMap)
+3/14/2017 7:57:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack bloodmoss 10'
+3/14/2017 7:57:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1176, 1047, 5) in Malas: "bloodmoss" "10"
+3/14/2017 7:57:59 PM: 79.68.46.94: Serials: 0x40002AB6; 
+3/14/2017 7:58:03 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add suf'
+3/14/2017 7:58:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'addtopack sulfurousash 10'
+3/14/2017 7:58:59 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1176, 1047, 5) in Malas: "sulfurousash" "10"
+3/14/2017 7:58:59 PM: 79.68.46.94: Serials: 0x40002AB8; 
+3/14/2017 8:02:09 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/14/2017 8:02:14 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (1172, 1052, 10), Map Malas
+3/14/2017 8:10:25 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'bank '
+3/14/2017 8:10:28 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') opening bank box of 0x3FF "Poncho Vila" ('tomgranvidas')
+3/14/2017 8:14:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/14/2017 8:14:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (682, 568, 0), Map Malas
+3/14/2017 8:14:21 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add banker'
+3/14/2017 8:14:23 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (680, 565, 0) in Malas: "banker"
+3/14/2017 8:14:23 PM: 79.68.46.94: Serials: 0x571; 
+3/14/2017 8:18:39 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'hide '
+3/14/2017 8:18:43 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') hiding 0x427 "Mitsurugi" ('tommenquar')
+3/14/2017 8:21:20 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'remove '
+3/14/2017 8:21:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') deleting 0x571 "Ava" (no account)
+3/14/2017 8:24:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'bank '
+3/14/2017 8:24:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') opening bank box of 0x3FF "Poncho Vila" ('tomgranvidas')
+3/14/2017 8:24:48 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'bank '
+3/14/2017 8:24:51 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') opening bank box of 0x3FF "Poncho Vila" ('tomgranvidas')
+3/14/2017 9:04:23 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/14/2017 9:04:26 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/14/2017 9:04:30 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/14/2017 9:04:39 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/14/2017 11:14:51 PM
+
+3/14/2017 11:24:28 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'speedboost '
+3/14/2017 11:24:31 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'hide '
+3/14/2017 11:24:32 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') hiding 0xB3 "Elandria" ('Zigholtul88')
+3/14/2017 11:24:34 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/14/2017 11:24:37 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (652, 609, 0), Map Malas
+3/14/2017 11:24:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'unhide '
+3/14/2017 11:24:48 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') unhiding 0xB3 "Elandria" ('Zigholtul88')
+3/14/2017 11:40:16 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'who '
+3/14/2017 11:40:22 PM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') going to 0x3FF "Poncho Vila" ('tomgranvidas'), Location (1174, 1049, 5), Map Malas
+3/15/2017 1:52:12 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'admin '
+3/15/2017 1:52:15 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/15/2017 1:52:17 AM: 127.0.0.1: Owner 0xB3 "Elandria" ('Zigholtul88') used command 'save '

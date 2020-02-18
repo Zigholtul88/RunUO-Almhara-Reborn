@@ -1,0 +1,922 @@
+##############################
+Log started on 12/27/2013 6:00:21 PM
+
+12/27/2013 6:03:15 PM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+12/27/2013 6:05:36 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'admin '
+12/27/2013 6:05:41 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'decorate '
+12/27/2013 6:05:46 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'remove '
+12/27/2013 6:05:47 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') deleting 0x40000DDE (HairDye)
+12/27/2013 6:06:06 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'add dyetub'
+12/27/2013 6:06:07 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') building at (2518, 1978, 25) in Malas: "dyetub"
+12/27/2013 6:06:07 PM: 127.0.0.1: Serials: 0x40000DE2; 
+12/27/2013 6:06:10 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'add dyes'
+12/27/2013 6:06:11 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') building at (2519, 1978, 25) in Malas: "dyes"
+12/27/2013 6:06:11 PM: 127.0.0.1: Serials: 0x40000DE3; 
+12/27/2013 6:06:13 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'add '
+12/27/2013 6:06:21 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'Add Boots'
+12/27/2013 6:06:21 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "Boots"
+12/27/2013 6:06:21 PM: 127.0.0.1: Serials: 0x40000DE4; 
+12/27/2013 6:06:25 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'Add Shirt'
+12/27/2013 6:06:26 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') building at (2518, 1976, 25) in Malas: "Shirt"
+12/27/2013 6:06:26 PM: 127.0.0.1: Serials: 0x40000DE5; 
+12/27/2013 6:06:35 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'Add ShortPants'
+12/27/2013 6:06:36 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') building at (2518, 1976, 25) in Malas: "ShortPants"
+12/27/2013 6:06:36 PM: 127.0.0.1: Serials: 0x40000DE6; 
+12/27/2013 6:06:45 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'Add Kilt'
+12/27/2013 6:06:46 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "Kilt"
+12/27/2013 6:06:46 PM: 127.0.0.1: Serials: 0x40000DE8; 
+12/27/2013 6:07:40 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'Add HalfApron'
+12/27/2013 6:07:41 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "HalfApron"
+12/27/2013 6:07:41 PM: 127.0.0.1: Serials: 0x40000DEA; 
+12/27/2013 6:07:47 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'Add BodySash'
+12/27/2013 6:07:48 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "BodySash"
+12/27/2013 6:07:48 PM: 127.0.0.1: Serials: 0x40000DEB; 
+12/27/2013 6:08:25 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'props '
+12/27/2013 6:08:40 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'props '
+12/27/2013 6:08:43 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'props '
+12/27/2013 6:08:52 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'props '
+12/27/2013 6:09:02 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'props '
+12/27/2013 6:09:33 PM: 127.0.0.1: Owner 0x2A6 "Talitharr" ('Zigholtul88') used command 'props '
+12/27/2013 6:13:31 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') used command 'props '
+12/27/2013 6:14:21 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') used command 'add '
+12/27/2013 6:14:29 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') used command 'Add FullApron'
+12/27/2013 6:14:30 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "FullApron"
+12/27/2013 6:14:30 PM: 127.0.0.1: Serials: 0x40000E61; 
+12/27/2013 6:14:35 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') used command 'Add LongPants'
+12/27/2013 6:14:36 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') building at (2519, 1976, 25) in Malas: "LongPants"
+12/27/2013 6:14:36 PM: 127.0.0.1: Serials: 0x40000E62; 
+12/27/2013 6:14:42 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') used command 'Add Shoes'
+12/27/2013 6:14:42 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "Shoes"
+12/27/2013 6:14:42 PM: 127.0.0.1: Serials: 0x40000E63; 
+12/27/2013 6:14:50 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') used command 'Add Shirt'
+12/27/2013 6:14:51 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "Shirt"
+12/27/2013 6:14:51 PM: 127.0.0.1: Serials: 0x40000E65; 
+12/27/2013 6:16:44 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') used command 'props '
+12/27/2013 6:16:55 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') used command 'props '
+12/27/2013 6:17:02 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') used command 'props '
+12/27/2013 6:17:12 PM: 127.0.0.1: Owner 0x2E2 "Timothy" ('Zigholtul88') used command 'props '
+12/27/2013 6:19:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 6:20:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add '
+12/27/2013 6:20:36 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add Robe'
+12/27/2013 6:20:36 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "Robe"
+12/27/2013 6:20:37 PM: 127.0.0.1: Serials: 0x40000EBB; 
+12/27/2013 6:20:41 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add Boots'
+12/27/2013 6:20:41 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "Boots"
+12/27/2013 6:20:41 PM: 127.0.0.1: Serials: 0x40000EBC; 
+12/27/2013 6:20:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add Cloak'
+12/27/2013 6:20:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "Cloak"
+12/27/2013 6:20:47 PM: 127.0.0.1: Serials: 0x40000EBF; 
+12/27/2013 6:20:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add WizardsHat'
+12/27/2013 6:20:55 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "WizardsHat"
+12/27/2013 6:20:55 PM: 127.0.0.1: Serials: 0x40000EC1; 
+12/27/2013 6:21:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add '
+12/27/2013 6:22:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 6:22:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 6:22:49 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 6:22:58 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 6:24:28 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add '
+12/27/2013 6:25:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add Scepter'
+12/27/2013 6:25:01 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "Scepter"
+12/27/2013 6:25:01 PM: 127.0.0.1: Serials: 0x40000EE0; 
+12/27/2013 6:26:12 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add paladin'
+12/27/2013 6:26:14 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "PaladinSword"
+12/27/2013 6:26:14 PM: 127.0.0.1: Serials: 0x40000EEB; 
+12/27/2013 6:32:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add '
+12/27/2013 6:33:18 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add OrcishKinMask'
+12/27/2013 6:33:25 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add mask'
+12/27/2013 6:33:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "OrcishKinMask"
+12/27/2013 6:33:29 PM: 127.0.0.1: Serials: 0x40000F06; 
+12/27/2013 6:33:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 6:33:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'set hue 2212'
+12/27/2013 6:33:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'hue' of 0x3B7 "Denomorr" ('Zigholtul88') to '2212'
+12/27/2013 6:34:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'wipe '
+12/27/2013 6:34:35 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') wiping from (2515, 1974, 22) to (2523, 1982, 22) in Malas (Items, Mobiles)
+12/27/2013 6:35:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 6:35:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add '
+12/27/2013 6:35:39 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'FacialHairHue' of 0x3B7 "Denomorr" ('Zigholtul88') to '0'
+12/27/2013 6:35:42 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'FacialHairItemID' of 0x3B7 "Denomorr" ('Zigholtul88') to '0'
+12/27/2013 6:36:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'set str 100'
+12/27/2013 6:36:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'str' of 0x3B7 "Denomorr" ('Zigholtul88') to '100'
+12/27/2013 6:36:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add ringmail'
+12/27/2013 6:37:07 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add studded'
+12/27/2013 6:37:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2510, 1977, 0) in Malas: "StuddedArms"
+12/27/2013 6:37:09 PM: 127.0.0.1: Serials: 0x40000F17; 
+12/27/2013 6:37:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2510, 1978, 0) in Malas: "StuddedChest"
+12/27/2013 6:37:15 PM: 127.0.0.1: Serials: 0x40000F18; 
+12/27/2013 6:37:18 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2509, 1977, 0) in Malas: "StuddedGloves"
+12/27/2013 6:37:18 PM: 127.0.0.1: Serials: 0x40000F19; 
+12/27/2013 6:37:34 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2510, 1977, 0) in Malas: "StuddedGorget"
+12/27/2013 6:37:34 PM: 127.0.0.1: Serials: 0x40000F1B; 
+12/27/2013 6:37:41 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2510, 1977, 0) in Malas: "StuddedLegs"
+12/27/2013 6:37:41 PM: 127.0.0.1: Serials: 0x40000F1D; 
+12/27/2013 6:37:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'm set hue 2423'
+12/27/2013 6:37:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'hue' of 0x40000F18 (StuddedChest) to '2423'
+12/27/2013 6:37:55 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'hue' of 0x40000F19 (StuddedGloves) to '2423'
+12/27/2013 6:37:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'hue' of 0x40000F17 (StuddedArms) to '2423'
+12/27/2013 6:37:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'hue' of 0x40000F1D (StuddedLegs) to '2423'
+12/27/2013 6:38:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'm set hue 993'
+12/27/2013 6:38:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'hue' of 0x40000EBC (Boots) to '993'
+12/27/2013 6:59:19 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add ethere'
+12/27/2013 6:59:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (2510, 1982, 0) in Malas: "EtherealHiryu"
+12/27/2013 6:59:23 PM: 127.0.0.1: Serials: 0x40000F90; 
+12/27/2013 6:59:32 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'go '
+12/27/2013 7:01:35 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add spawner'
+12/27/2013 7:01:36 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (470, 1695, 30) in Malas: "spawner"
+12/27/2013 7:01:36 PM: 127.0.0.1: Serials: 0x40000F9A; 
+12/27/2013 7:01:42 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:01:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'HomeRange' of 0x40000F9A (Spawner) to '300'
+12/27/2013 7:01:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'WalkingRange' of 0x40000F9A (Spawner) to '0'
+12/27/2013 7:01:58 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x40000F9A (Spawner) to '20'
+12/27/2013 7:02:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:02:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:02:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x3C3 "an earth elemental" (no account)
+12/27/2013 7:03:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:03:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x40000F9A (Spawner) to '30'
+12/27/2013 7:03:41 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'HomeRange' of 0x40000F9A (Spawner) to '250'
+12/27/2013 7:06:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:06:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x40000F9A (Spawner) to '50'
+12/27/2013 7:07:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:07:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add spawner'
+12/27/2013 7:07:42 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (472, 1697, 30) in Malas: "spawner"
+12/27/2013 7:07:42 PM: 127.0.0.1: Serials: 0x400011D8; 
+12/27/2013 7:07:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:07:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x400011D8 (Spawner) to '35'
+12/27/2013 7:07:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'HomeRange' of 0x400011D8 (Spawner) to '250'
+12/27/2013 7:07:58 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'WalkingRange' of 0x400011D8 (Spawner) to '0'
+12/27/2013 7:09:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:09:55 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x400011D8 (Spawner) to '50'
+12/27/2013 7:10:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:11:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add spawner'
+12/27/2013 7:11:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (475, 1694, 30) in Malas: "spawner"
+12/27/2013 7:11:24 PM: 127.0.0.1: Serials: 0x40001362; 
+12/27/2013 7:11:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:11:50 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x40001362 (Spawner) to '50'
+12/27/2013 7:11:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'HomeRange' of 0x40001362 (Spawner) to '250'
+12/27/2013 7:12:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'WalkingRange' of 0x40001362 (Spawner) to '0'
+12/27/2013 7:14:01 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'm tele'
+12/27/2013 7:14:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:15:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add spawner'
+12/27/2013 7:15:41 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (472, 1693, 30) in Malas: "spawner"
+12/27/2013 7:15:41 PM: 127.0.0.1: Serials: 0x4000140A; 
+12/27/2013 7:15:44 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:15:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x4000140A (Spawner) to '50'
+12/27/2013 7:15:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'HomeRange' of 0x4000140A (Spawner) to '250'
+12/27/2013 7:15:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'WalkingRange' of 0x4000140A (Spawner) to '0'
+12/27/2013 7:16:12 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x4000140A (Spawner) to '40'
+12/27/2013 7:16:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:17:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:17:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x4000140A (Spawner) to '30'
+12/27/2013 7:17:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:17:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x4D5 "an efreet" (no account)
+12/27/2013 7:19:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add spawner'
+12/27/2013 7:19:32 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (470, 1692, 30) in Malas: "spawner"
+12/27/2013 7:19:32 PM: 127.0.0.1: Serials: 0x40001511; 
+12/27/2013 7:19:34 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:19:41 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x40001511 (Spawner) to '45'
+12/27/2013 7:19:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'HomeRange' of 0x40001511 (Spawner) to '250'
+12/27/2013 7:19:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'WalkingRange' of 0x40001511 (Spawner) to '0'
+12/27/2013 7:20:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:20:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add spawner'
+12/27/2013 7:20:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (472, 1697, 30) in Malas: "spawner"
+12/27/2013 7:20:52 PM: 127.0.0.1: Serials: 0x40001601; 
+12/27/2013 7:20:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add spawner'
+12/27/2013 7:20:58 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (468, 1696, 30) in Malas: "spawner"
+12/27/2013 7:20:58 PM: 127.0.0.1: Serials: 0x40001602; 
+12/27/2013 7:21:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:21:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40001601 (Spawner)
+12/27/2013 7:21:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:21:16 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x40001602 (Spawner) to '50'
+12/27/2013 7:21:20 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'HomeRange' of 0x40001602 (Spawner) to '250'
+12/27/2013 7:21:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'WalkingRange' of 0x40001602 (Spawner) to '0'
+12/27/2013 7:21:34 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:22:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add spawner'
+12/27/2013 7:22:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (476, 1693, 30) in Malas: "spawner"
+12/27/2013 7:22:59 PM: 127.0.0.1: Serials: 0x400016A3; 
+12/27/2013 7:23:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:23:11 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x400016A3 (Spawner) to '25'
+12/27/2013 7:23:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'HomeRange' of 0x400016A3 (Spawner) to '250'
+12/27/2013 7:23:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'WalkingRange' of 0x400016A3 (Spawner) to '0'
+12/27/2013 7:23:27 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:25:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'add spawner'
+12/27/2013 7:25:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (475, 1697, 30) in Malas: "spawner"
+12/27/2013 7:25:33 PM: 127.0.0.1: Serials: 0x4000171A; 
+12/27/2013 7:25:36 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:25:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x4000171A (Spawner) to '30'
+12/27/2013 7:25:44 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'HomeRange' of 0x4000171A (Spawner) to '250'
+12/27/2013 7:25:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'WalkingRange' of 0x4000171A (Spawner) to '0'
+12/27/2013 7:26:01 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'm remove'
+12/27/2013 7:26:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x59B "Karlyn" (no account)
+12/27/2013 7:26:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x581 "Etaina" (no account)
+12/27/2013 7:26:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x59D "Gresham" (no account)
+12/27/2013 7:26:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x59C "Joline" (no account)
+12/27/2013 7:26:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x59A "Lysander" (no account)
+12/27/2013 7:26:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x599 "Kesi" (no account)
+12/27/2013 7:26:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x598 "Miguel" (no account)
+12/27/2013 7:26:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x597 "Neale" (no account)
+12/27/2013 7:26:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x58B "Lensar" (no account)
+12/27/2013 7:26:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x585 "Channa" (no account)
+12/27/2013 7:26:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x580 "Maxwell" (no account)
+12/27/2013 7:26:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x596 "Bandele" (no account)
+12/27/2013 7:26:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x595 "Iolana" (no account)
+12/27/2013 7:26:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x594 "Winna" (no account)
+12/27/2013 7:26:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x593 "Kristen" (no account)
+12/27/2013 7:26:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x592 "Neoma" (no account)
+12/27/2013 7:26:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x591 "Fritz" (no account)
+12/27/2013 7:26:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x590 "Bennett" (no account)
+12/27/2013 7:26:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x58F "Josie" (no account)
+12/27/2013 7:26:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x58E "Kai" (no account)
+12/27/2013 7:26:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x58D "Braxton" (no account)
+12/27/2013 7:26:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x586 "Sheffield" (no account)
+12/27/2013 7:26:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x58C "Sarngin" (no account)
+12/27/2013 7:26:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x58A "Kelby" (no account)
+12/27/2013 7:26:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x589 "Wally" (no account)
+12/27/2013 7:26:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x588 "Roldan" (no account)
+12/27/2013 7:26:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x587 "Jarvis" (no account)
+12/27/2013 7:26:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x584 "Thadea" (no account)
+12/27/2013 7:26:07 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x583 "Slade" (no account)
+12/27/2013 7:26:07 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x582 "Damion" (no account)
+12/27/2013 7:26:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:26:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'Count' of 0x4000171A (Spawner) to '20'
+12/27/2013 7:26:20 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'm remove'
+12/27/2013 7:26:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5AA "Zion" (no account)
+12/27/2013 7:26:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5B1 "Catava" (no account)
+12/27/2013 7:26:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5B0 "Dania" (no account)
+12/27/2013 7:26:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5AF "Tekla" (no account)
+12/27/2013 7:26:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5AE "Chastity" (no account)
+12/27/2013 7:26:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5AD "Francis" (no account)
+12/27/2013 7:26:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5AC "Leila" (no account)
+12/27/2013 7:26:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5AB "Kontar" (no account)
+12/27/2013 7:26:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5A9 "Eli" (no account)
+12/27/2013 7:26:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5A8 "Manuel" (no account)
+12/27/2013 7:26:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5A7 "Kaysa" (no account)
+12/27/2013 7:26:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5A6 "Bessine" (no account)
+12/27/2013 7:26:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5A5 "Zahra" (no account)
+12/27/2013 7:26:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5A4 "Adeben" (no account)
+12/27/2013 7:26:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5A3 "Chaviva" (no account)
+12/27/2013 7:26:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5A2 "Mai" (no account)
+12/27/2013 7:26:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5A1 "Walden" (no account)
+12/27/2013 7:26:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x5A0 "Agustin" (no account)
+12/27/2013 7:26:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x59F "Baylor" (no account)
+12/27/2013 7:26:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x59E "Shelley" (no account)
+12/27/2013 7:26:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'props '
+12/27/2013 7:26:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:26:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x4000171A (Spawner)
+12/27/2013 7:27:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'm remove'
+12/27/2013 7:27:11 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x437 "a wyvern" (no account)
+12/27/2013 7:27:11 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x443 "a wyvern" (no account)
+12/27/2013 7:27:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'm remove'
+12/27/2013 7:27:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:27:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:28:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:28:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:29:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:29:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:30:19 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:30:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:31:20 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:31:42 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:32:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:32:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:33:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:34:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:35:08 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') starting facet clear of Malas (2375 objects)
+12/27/2013 7:35:08 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'clearfacet '
+12/27/2013 7:35:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 2375 objects
+12/27/2013 7:35:11 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'admin '
+12/27/2013 7:35:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'decorate '
+12/27/2013 7:35:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 6002 set movable False hue 0 light Circle225'
+12/27/2013 7:35:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (416, 1567, 28) in Malas: "static" "6002" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:35:47 PM: 127.0.0.1: Serials: 0x4000231F; 
+12/27/2013 7:35:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 6002 set movable False hue 0 light Circle225'
+12/27/2013 7:35:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (415, 1564, 28) in Malas: "static" "6002" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:35:54 PM: 127.0.0.1: Serials: 0x40002320; 
+12/27/2013 7:35:55 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 6002 set movable False hue 0 light Circle225'
+12/27/2013 7:35:55 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (415, 1565, 28) in Malas: "static" "6002" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:35:55 PM: 127.0.0.1: Serials: 0x40002321; 
+12/27/2013 7:35:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 6002 set movable False hue 0 light Circle225'
+12/27/2013 7:36:01 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 6006 set movable False hue 0 light Circle225'
+12/27/2013 7:36:01 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (416, 1563, 28) in Malas: "static" "6006" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:36:01 PM: 127.0.0.1: Serials: 0x40002322; 
+12/27/2013 7:37:39 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:37:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'waterwalk '
+12/27/2013 7:38:01 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:38:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (424, 1552, 24) to (431, 1552, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:38:04 PM: 127.0.0.1: Serials: 0x40002328; 0x40002329; 0x4000232A; 0x4000232B; 0x4000232C; 0x4000232D; 0x4000232E; 0x4000232F; 
+12/27/2013 7:38:08 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:38:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (425, 1551, 24) to (429, 1551, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:38:10 PM: 127.0.0.1: Serials: 0x40002330; 0x40002331; 0x40002332; 0x40002333; 0x40002334; 
+12/27/2013 7:38:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:38:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (426, 1550, 24) to (428, 1550, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:38:15 PM: 127.0.0.1: Serials: 0x40002335; 0x40002336; 0x40002337; 
+12/27/2013 7:38:19 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:38:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (425, 1553, 24) to (427, 1554, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:38:22 PM: 127.0.0.1: Serials: 0x40002338; 0x40002339; 0x4000233A; 0x4000233B; 0x4000233C; 0x4000233D; 
+12/27/2013 7:38:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:38:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (428, 1553, 24) to (429, 1553, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:38:26 PM: 127.0.0.1: Serials: 0x4000233E; 0x4000233F; 
+12/27/2013 7:38:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:38:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (430, 1556, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:38:29 PM: 127.0.0.1: Serials: 0x40002340; 
+12/27/2013 7:38:36 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:38:36 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (428, 1554, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:38:36 PM: 127.0.0.1: Serials: 0x40002341; 
+12/27/2013 7:38:39 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:38:41 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (425, 1555, 24) to (427, 1555, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:38:41 PM: 127.0.0.1: Serials: 0x40002342; 0x40002343; 0x40002344; 
+12/27/2013 7:38:43 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:38:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (424, 1553, 24) to (424, 1554, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:38:45 PM: 127.0.0.1: Serials: 0x40002345; 0x40002346; 
+12/27/2013 7:38:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:38:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (421, 1548, 24) to (425, 1550, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:38:59 PM: 127.0.0.1: Serials: 0x40002347; 0x40002348; 0x40002349; 0x4000234A; 0x4000234B; 0x4000234C; 0x4000234D; 0x4000234E; 0x4000234F; 0x40002350; 0x40002351; 0x40002352; 0x40002353; 0x40002354; 0x40002355; 
+12/27/2013 7:39:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:39:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (424, 1551, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:39:03 PM: 127.0.0.1: Serials: 0x40002356; 
+12/27/2013 7:39:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:39:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (423, 1551, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:39:05 PM: 127.0.0.1: Serials: 0x40002357; 
+12/27/2013 7:39:14 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:39:18 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (431, 1555, 24) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:39:18 PM: 127.0.0.1: Serials: 0x40002358; 
+12/27/2013 7:39:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:39:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (431, 1555, 24) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:39:22 PM: 127.0.0.1: Serials: 0x40002359; 
+12/27/2013 7:39:31 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:39:32 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x4000233F (Static)
+12/27/2013 7:39:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:39:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002341 (Static)
+12/27/2013 7:39:34 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:39:34 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002344 (Static)
+12/27/2013 7:39:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:39:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (428, 1554, 24) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:39:38 PM: 127.0.0.1: Serials: 0x4000235A; 
+12/27/2013 7:39:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:39:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (429, 1554, 24) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:39:45 PM: 127.0.0.1: Serials: 0x4000235B; 
+12/27/2013 7:39:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:39:49 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x4000235A (Static)
+12/27/2013 7:39:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:39:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (428, 1555, 24) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:39:54 PM: 127.0.0.1: Serials: 0x4000235C; 
+12/27/2013 7:40:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:40:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (427, 1556, 24) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:40:00 PM: 127.0.0.1: Serials: 0x4000235D; 
+12/27/2013 7:40:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:40:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (424, 1556, 24) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:40:06 PM: 127.0.0.1: Serials: 0x4000235E; 
+12/27/2013 7:40:17 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:40:17 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (423, 1555, 24) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:40:17 PM: 127.0.0.1: Serials: 0x40002361; 
+12/27/2013 7:40:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:40:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (422, 1552, 24) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:40:23 PM: 127.0.0.1: Serials: 0x40002369; 
+12/27/2013 7:40:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:40:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (420, 1551, 24) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:40:26 PM: 127.0.0.1: Serials: 0x40002370; 
+12/27/2013 7:40:34 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:40:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:40:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (420, 1548, 24) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:40:48 PM: 127.0.0.1: Serials: 0x40002388; 
+12/27/2013 7:40:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:40:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002388 (Static)
+12/27/2013 7:40:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:40:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (420, 1548, 24) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:40:57 PM: 127.0.0.1: Serials: 0x4000238C; 
+12/27/2013 7:41:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'm remove'
+12/27/2013 7:41:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002347 (Static)
+12/27/2013 7:41:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x4000234A (Static)
+12/27/2013 7:41:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x4000234D (Static)
+12/27/2013 7:41:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002350 (Static)
+12/27/2013 7:41:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002353 (Static)
+12/27/2013 7:41:12 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1352 set movable False hue 0 light {light}'
+12/27/2013 7:41:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (426, 1548, 24) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:41:13 PM: 127.0.0.1: Serials: 0x40002394; 
+12/27/2013 7:41:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1352 set movable False hue 0 light {light}'
+12/27/2013 7:41:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (430, 1550, 24) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:41:23 PM: 127.0.0.1: Serials: 0x4000239E; 
+12/27/2013 7:41:27 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1352 set movable False hue 0 light {light}'
+12/27/2013 7:41:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (429, 1549, 24) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:41:29 PM: 127.0.0.1: Serials: 0x400023B2; 
+12/27/2013 7:41:39 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1357 set movable False hue 0 light {light}'
+12/27/2013 7:41:43 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (421, 1548, 24) to (425, 1548, 24) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:41:43 PM: 127.0.0.1: Serials: 0x400023B4; 0x400023B5; 0x400023B6; 0x400023B7; 0x400023B8; 
+12/27/2013 7:41:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1357 set movable False hue 0 light {light}'
+12/27/2013 7:41:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (427, 1549, 24) to (428, 1549, 24) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:41:47 PM: 127.0.0.1: Serials: 0x400023BB; 0x400023BC; 
+12/27/2013 7:41:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1357 set movable False hue 0 light {light}'
+12/27/2013 7:41:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (431, 1551, 24) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:41:52 PM: 127.0.0.1: Serials: 0x400023C7; 
+12/27/2013 7:42:01 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1354 set movable False hue 0 light {light}'
+12/27/2013 7:42:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (420, 1549, 24) to (420, 1550, 24) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:42:06 PM: 127.0.0.1: Serials: 0x400023D0; 0x400023D1; 
+12/27/2013 7:42:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1354 set movable False hue 0 light {light}'
+12/27/2013 7:42:14 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (423, 1553, 24) to (423, 1554, 24) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:42:14 PM: 127.0.0.1: Serials: 0x400023D4; 0x400023D5; 
+12/27/2013 7:42:27 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1345 set movable False hue 0 light {light}'
+12/27/2013 7:42:31 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (421, 1551, 24) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:42:31 PM: 127.0.0.1: Serials: 0x400023EC; 
+12/27/2013 7:42:36 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1345 set movable False hue 0 light {light}'
+12/27/2013 7:42:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (426, 1556, 24) to (427, 1559, 24) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:42:38 PM: 127.0.0.1: Serials: 0x400023F1; 0x400023F2; 0x400023F3; 0x400023F4; 0x400023F5; 0x400023F6; 0x400023F7; 0x400023F8; 
+12/27/2013 7:42:42 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'wipe '
+12/27/2013 7:42:43 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') wiping from (426, 1557, 24) to (430, 1561, 31) in Malas (Items, Mobiles)
+12/27/2013 7:42:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:42:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x400023F5 (Static)
+12/27/2013 7:42:50 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1345 set movable False hue 0 light {light}'
+12/27/2013 7:42:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (425, 1556, 24) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:42:51 PM: 127.0.0.1: Serials: 0x4000240F; 
+12/27/2013 7:42:55 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1345 set movable False hue 0 light {light}'
+12/27/2013 7:42:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (430, 1553, 24) to (431, 1553, 24) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:42:57 PM: 127.0.0.1: Serials: 0x40002419; 0x4000241A; 
+12/27/2013 7:43:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (431, 1555, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:04 PM: 127.0.0.1: Serials: 0x4000241B; 
+12/27/2013 7:43:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (430, 1556, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:05 PM: 127.0.0.1: Serials: 0x4000241C; 
+12/27/2013 7:43:07 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:08 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (427, 1555, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:08 PM: 127.0.0.1: Serials: 0x40002421; 
+12/27/2013 7:43:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (430, 1556, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:10 PM: 127.0.0.1: Serials: 0x40002426; 
+12/27/2013 7:43:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (429, 1553, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:13 PM: 127.0.0.1: Serials: 0x40002430; 
+12/27/2013 7:43:16 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:16 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (428, 1554, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:16 PM: 127.0.0.1: Serials: 0x40002433; 
+12/27/2013 7:43:20 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:20 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (424, 1555, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:20 PM: 127.0.0.1: Serials: 0x40002436; 
+12/27/2013 7:43:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (423, 1552, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:24 PM: 127.0.0.1: Serials: 0x40002437; 
+12/27/2013 7:43:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (422, 1551, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:26 PM: 127.0.0.1: Serials: 0x4000243A; 
+12/27/2013 7:43:31 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:31 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (426, 1549, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:31 PM: 127.0.0.1: Serials: 0x4000243B; 
+12/27/2013 7:43:34 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:35 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (429, 1550, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:35 PM: 127.0.0.1: Serials: 0x40002440; 
+12/27/2013 7:43:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 24 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:43:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (430, 1551, 24) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:43:37 PM: 127.0.0.1: Serials: 0x40002443; 
+12/27/2013 7:43:43 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:43:43 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002323 (WaterWalk)
+12/27/2013 7:44:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/27/2013 7:44:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (420, 1548, 24) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:44:06 PM: 127.0.0.1: Serials: 0x40002457; 
+12/27/2013 7:44:08 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/27/2013 7:44:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (423, 1555, 24) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:44:09 PM: 127.0.0.1: Serials: 0x4000245A; 
+12/27/2013 7:44:12 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'move '
+12/27/2013 7:44:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') moving 0x4000245A (Static) to (423, 1553, 24)
+12/27/2013 7:44:17 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2275 set movable False hue 0 light Circle225'
+12/27/2013 7:44:17 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (429, 1549, 24) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:44:17 PM: 127.0.0.1: Serials: 0x40002463; 
+12/27/2013 7:44:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2278 set movable False hue 0 light Circle225'
+12/27/2013 7:44:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (420, 1551, 24) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:44:22 PM: 127.0.0.1: Serials: 0x40002464; 
+12/27/2013 7:44:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (427, 1556, 24) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:44:24 PM: 127.0.0.1: Serials: 0x40002468; 
+12/27/2013 7:44:25 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (426, 1548, 24) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:44:25 PM: 127.0.0.1: Serials: 0x40002469; 
+12/27/2013 7:44:28 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/27/2013 7:44:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (427, 1559, 34) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:44:29 PM: 127.0.0.1: Serials: 0x40002470; 
+12/27/2013 7:44:32 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'move '
+12/27/2013 7:44:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') moving 0x40002470 (Static) to (424, 1556, 24)
+12/27/2013 7:44:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/27/2013 7:44:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (428, 1549, 24) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:44:38 PM: 127.0.0.1: Serials: 0x40002478; 
+12/27/2013 7:44:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/27/2013 7:44:41 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (424, 1548, 24) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:44:41 PM: 127.0.0.1: Serials: 0x4000247C; 
+12/27/2013 7:44:44 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2279 set movable False hue 0 light Circle225'
+12/27/2013 7:44:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (429, 1554, 24) in Malas: "static" "2279" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:44:45 PM: 127.0.0.1: Serials: 0x40002485; 
+12/27/2013 7:44:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:44:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002457 (Static)
+12/27/2013 7:45:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/27/2013 7:45:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (420, 1548, 24) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:45:03 PM: 127.0.0.1: Serials: 0x40002499; 
+12/27/2013 7:45:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/27/2013 7:45:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (422, 1548, 24) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:45:09 PM: 127.0.0.1: Serials: 0x4000249C; 
+12/27/2013 7:45:35 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'map' of 0x3B7 "Denomorr" ('Zigholtul88') to 'Malas'
+12/27/2013 7:45:35 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Self Set map 3'
+12/27/2013 7:45:35 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Go 554 1598 22'
+12/27/2013 7:45:39 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:45:50 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'waterwalk '
+12/27/2013 7:45:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:46:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (552, 1580, 22) to (558, 1601, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:46:02 PM: 127.0.0.1: Serials: 0x400024A9; 0x400024AA; 0x400024AB; 0x400024AC; 0x400024AD; 0x400024AE; 0x400024AF; 0x400024B0; 0x400024B1; 0x400024B2; 0x400024B3; 0x400024B4; 0x400024B5; 0x400024B6; 0x400024B7; 0x400024B8; 0x400024B9; 0x400024BA; 0x400024BB; 0x400024BC; 0x400024BD; 0x400024BE; 0x400024BF; 0x400024C0; 0x400024C1; 0x400024C2; 0x400024C3; 0x400024C4; 0x400024C5; 0x400024C6; 0x400024C7; 0x400024C8; 0x400024C9; 0x400024CA; 0x400024CB; 0x400024CC; 0x400024CD; 0x400024CE; 0x400024CF; 0x400024D0; 0x400024D1; 0x400024D2; 0x400024D3; 0x400024D4; 0x400024D5; 0x400024D6; 0x400024D7; 0x400024D8; 0x400024D9; 0x400024DA; 0x400024DB; 0x400024DC; 0x400024DD; 0x400024DE; 0x400024DF; 0x400024E0; 0x400024E1; 0x400024E2; 0x400024E3; 0x400024E4; 0x400024E5; 0x400024E6; 0x400024E7; 0x400024E8; 0x400024E9; 0x400024EA; 0x400024EB; 0x400024EC; 0x400024ED; 0x400024EE; 0x400024EF; 0x400024F0; 0x400024F1; 0x400024F2; 0x400024F3; 0x400024F4; 0x400024F5; 0x400024F6; 0x400024F7; 0x400024F8; 0x400024F9; 0x400024FA; 0x400024FB; 0x400024FC; 0x400024FD; 0x400024FE; 0x400024FF; 0x40002500; 0x40002501; 0x40002502; 0x40002503; 0x40002504; 0x40002505; 0x40002506; 0x40002507; 0x40002508; 0x40002509; 0x4000250A; 0x4000250B; 0x4000250C; 0x4000250D; 0x4000250E; 0x4000250F; 0x40002510; 0x40002511; 0x40002512; 0x40002513; 0x40002514; 0x40002515; 0x40002516; 0x40002517; 0x40002518; 0x40002519; 0x4000251A; 0x4000251B; 0x4000251C; 0x4000251D; 0x4000251E; 0x4000251F; 0x40002520; 0x40002521; 0x40002522; 0x40002523; 0x40002524; 0x40002525; 0x40002526; 0x40002527; 0x40002528; 0x40002529; 0x4000252A; 0x4000252B; 0x4000252C; 0x4000252D; 0x4000252E; 0x4000252F; 0x40002530; 0x40002531; 0x40002532; 0x40002533; 0x40002534; 0x40002535; 0x40002536; 0x40002537; 0x40002538; 0x40002539; 0x4000253A; 0x4000253B; 0x4000253C; 0x4000253D; 0x4000253E; 0x4000253F; 0x40002540; 0x40002541; 0x40002542; 
+12/27/2013 7:46:12 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'wipe '
+12/27/2013 7:46:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') wiping from (552, 1581, 22) to (559, 1600, 31) in Malas (Items, Mobiles)
+12/27/2013 7:46:19 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'waterwalk '
+12/27/2013 7:46:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'wipe '
+12/27/2013 7:46:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') wiping from (552, 1580, 22) to (560, 1581, 25) in Malas (Items, Mobiles)
+12/27/2013 7:46:27 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:46:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (550, 1581, 22) to (552, 1594, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:46:33 PM: 127.0.0.1: Serials: 0x40002555; 0x40002556; 0x40002557; 0x40002558; 0x40002559; 0x4000255A; 0x4000255B; 0x4000255C; 0x4000255D; 0x4000255E; 0x4000255F; 0x40002560; 0x40002561; 0x40002562; 0x40002563; 0x40002564; 0x40002565; 0x40002566; 0x40002567; 0x40002568; 0x40002569; 0x4000256A; 0x4000256B; 0x4000256C; 0x4000256D; 0x4000256E; 0x4000256F; 0x40002570; 0x40002571; 0x40002572; 0x40002573; 0x40002574; 0x40002575; 0x40002576; 0x40002577; 0x40002578; 0x40002579; 0x4000257A; 0x4000257B; 0x4000257C; 0x4000257D; 0x4000257E; 
+12/27/2013 7:46:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:46:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (553, 1581, 22) to (553, 1588, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:46:40 PM: 127.0.0.1: Serials: 0x4000257F; 0x40002580; 0x40002581; 0x40002582; 0x40002583; 0x40002584; 0x40002585; 0x40002586; 
+12/27/2013 7:46:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:46:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (549, 1582, 22) to (549, 1590, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:46:48 PM: 127.0.0.1: Serials: 0x40002587; 0x40002588; 0x40002589; 0x4000258A; 0x4000258B; 0x4000258C; 0x4000258D; 0x4000258E; 0x4000258F; 
+12/27/2013 7:46:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:46:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (546, 1582, 22) to (548, 1587, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:46:57 PM: 127.0.0.1: Serials: 0x40002596; 0x40002597; 0x40002598; 0x40002599; 0x4000259A; 0x4000259B; 0x4000259C; 0x4000259D; 0x4000259E; 0x4000259F; 0x400025A0; 0x400025A1; 0x400025A2; 0x400025A3; 0x400025A4; 0x400025A5; 0x400025A6; 0x400025A7; 
+12/27/2013 7:47:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:47:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (548, 1588, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:47:00 PM: 127.0.0.1: Serials: 0x400025A8; 
+12/27/2013 7:47:08 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:47:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (554, 1583, 22) to (554, 1587, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:47:10 PM: 127.0.0.1: Serials: 0x400025AA; 0x400025AB; 0x400025AC; 0x400025AD; 0x400025AE; 
+12/27/2013 7:47:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:47:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (545, 1583, 22) to (545, 1586, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:47:15 PM: 127.0.0.1: Serials: 0x400025AF; 0x400025B0; 0x400025B1; 0x400025B2; 
+12/27/2013 7:47:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:47:28 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (554, 1589, 22) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:47:28 PM: 127.0.0.1: Serials: 0x400025B6; 
+12/27/2013 7:47:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:47:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (555, 1588, 22) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:47:30 PM: 127.0.0.1: Serials: 0x400025B7; 
+12/27/2013 7:47:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1348 set movable False hue 0 light {light}'
+12/27/2013 7:47:43 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (555, 1583, 22) to (555, 1587, 22) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:47:43 PM: 127.0.0.1: Serials: 0x400025B8; 0x400025B9; 0x400025BA; 0x400025BB; 0x400025BC; 
+12/27/2013 7:47:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1348 set movable False hue 0 light {light}'
+12/27/2013 7:47:49 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (554, 1581, 22) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:47:49 PM: 127.0.0.1: Serials: 0x400025BF; 
+12/27/2013 7:47:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:47:58 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (547, 1589, 22) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:47:58 PM: 127.0.0.1: Serials: 0x400025C0; 
+12/27/2013 7:48:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:48:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (548, 1591, 22) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:03 PM: 127.0.0.1: Serials: 0x400025C1; 
+12/27/2013 7:48:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:48:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (545, 1588, 22) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:06 PM: 127.0.0.1: Serials: 0x400025C2; 
+12/27/2013 7:48:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:48:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (544, 1587, 22) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:10 PM: 127.0.0.1: Serials: 0x400025C4; 
+12/27/2013 7:48:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1352 set movable False hue 0 light {light}'
+12/27/2013 7:48:18 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (554, 1580, 22) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:18 PM: 127.0.0.1: Serials: 0x400025C5; 
+12/27/2013 7:48:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:48:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (549, 1580, 22) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:23 PM: 127.0.0.1: Serials: 0x400025C8; 
+12/27/2013 7:48:27 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:48:27 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (545, 1581, 22) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:27 PM: 127.0.0.1: Serials: 0x400025C9; 
+12/27/2013 7:48:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:48:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (544, 1582, 22) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:29 PM: 127.0.0.1: Serials: 0x400025CA; 
+12/27/2013 7:48:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1354 set movable False hue 0 light {light}'
+12/27/2013 7:48:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (544, 1583, 22) to (544, 1586, 22) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:38 PM: 127.0.0.1: Serials: 0x400025D5; 0x400025D6; 0x400025D7; 0x400025D8; 
+12/27/2013 7:48:44 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1354 set movable False hue 0 light {light}'
+12/27/2013 7:48:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (549, 1592, 22) to (549, 1593, 22) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:46 PM: 127.0.0.1: Serials: 0x400025DA; 0x400025DB; 
+12/27/2013 7:48:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1354 set movable False hue 0 light {light}'
+12/27/2013 7:48:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (549, 1594, 22) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:48 PM: 127.0.0.1: Serials: 0x400025DC; 
+12/27/2013 7:48:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1354 set movable False hue 0 light {light}'
+12/27/2013 7:48:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (548, 1590, 22) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:48:54 PM: 127.0.0.1: Serials: 0x400025DE; 
+12/27/2013 7:48:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1357 set movable False hue 0 light {light}'
+12/27/2013 7:49:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (550, 1580, 22) to (553, 1580, 22) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:49:03 PM: 127.0.0.1: Serials: 0x400025DF; 0x400025E0; 0x400025E1; 0x400025E2; 
+12/27/2013 7:49:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1357 set movable False hue 0 light {light}'
+12/27/2013 7:49:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (546, 1581, 22) to (548, 1581, 22) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:49:09 PM: 127.0.0.1: Serials: 0x400025E3; 0x400025E4; 0x400025E5; 
+12/27/2013 7:49:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1352 set movable False hue 0 light {light}'
+12/27/2013 7:49:18 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (555, 1582, 22) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:49:18 PM: 127.0.0.1: Serials: 0x400025EE; 
+12/27/2013 7:49:31 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1348 set movable False hue 0 light {light}'
+12/27/2013 7:49:35 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (553, 1590, 22) to (553, 1593, 22) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:49:35 PM: 127.0.0.1: Serials: 0x400025F9; 0x400025FA; 0x400025FB; 0x400025FC; 
+12/27/2013 7:49:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1348 set movable False hue 0 light {light}'
+12/27/2013 7:49:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (553, 1594, 22) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:49:37 PM: 127.0.0.1: Serials: 0x400025FD; 
+12/27/2013 7:49:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:49:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (553, 1589, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:49:48 PM: 127.0.0.1: Serials: 0x40002600; 
+12/27/2013 7:49:50 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:49:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (554, 1588, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:49:51 PM: 127.0.0.1: Serials: 0x40002601; 
+12/27/2013 7:49:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:49:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (554, 1582, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:49:53 PM: 127.0.0.1: Serials: 0x40002602; 
+12/27/2013 7:49:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:49:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (549, 1581, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:49:56 PM: 127.0.0.1: Serials: 0x40002603; 
+12/27/2013 7:49:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:50:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (545, 1582, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:50:00 PM: 127.0.0.1: Serials: 0x40002606; 
+12/27/2013 7:50:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:50:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (545, 1587, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:50:03 PM: 127.0.0.1: Serials: 0x4000260F; 
+12/27/2013 7:50:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:50:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (547, 1588, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:50:06 PM: 127.0.0.1: Serials: 0x40002614; 
+12/27/2013 7:50:07 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:50:08 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (548, 1589, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:50:08 PM: 127.0.0.1: Serials: 0x40002617; 
+12/27/2013 7:50:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:50:11 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (549, 1591, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:50:11 PM: 127.0.0.1: Serials: 0x40002618; 
+12/27/2013 7:50:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 22 static 1345 set movable False hue 0 light {light}'
+12/27/2013 7:50:18 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (546, 1588, 22) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:50:18 PM: 127.0.0.1: Serials: 0x40002619; 
+12/27/2013 7:50:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:50:25 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002547 (WaterWalk)
+12/27/2013 7:50:32 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/27/2013 7:50:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (545, 1581, 22) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:50:33 PM: 127.0.0.1: Serials: 0x4000261E; 
+12/27/2013 7:50:42 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:50:43 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x4000261E (Static)
+12/27/2013 7:50:50 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2275 set movable False hue 0 light Circle225'
+12/27/2013 7:50:50 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (548, 1591, 22) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:50:50 PM: 127.0.0.1: Serials: 0x40002624; 
+12/27/2013 7:50:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (555, 1582, 22) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:50:51 PM: 127.0.0.1: Serials: 0x40002625; 
+12/27/2013 7:50:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (549, 1580, 22) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:50:53 PM: 127.0.0.1: Serials: 0x40002626; 
+12/27/2013 7:50:55 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2278 set movable False hue 0 light Circle225'
+12/27/2013 7:50:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (553, 1580, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:50:56 PM: 127.0.0.1: Serials: 0x4000262F; 
+12/27/2013 7:50:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (554, 1589, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:50:57 PM: 127.0.0.1: Serials: 0x40002632; 
+12/27/2013 7:50:58 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (553, 1591, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:50:58 PM: 127.0.0.1: Serials: 0x40002633; 
+12/27/2013 7:50:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (544, 1585, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:50:59 PM: 127.0.0.1: Serials: 0x40002634; 
+12/27/2013 7:51:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2272 set movable False hue 0 light Circle225'
+12/27/2013 7:51:05 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (547, 1581, 22) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:05 PM: 127.0.0.1: Serials: 0x40002637; 
+12/27/2013 7:51:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (546, 1588, 22) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:06 PM: 127.0.0.1: Serials: 0x40002638; 
+12/27/2013 7:51:07 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (555, 1587, 22) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:07 PM: 127.0.0.1: Serials: 0x40002639; 
+12/27/2013 7:51:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2273 set movable False hue 0 light Circle225'
+12/27/2013 7:51:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (555, 1583, 22) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:10 PM: 127.0.0.1: Serials: 0x4000263F; 
+12/27/2013 7:51:11 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (547, 1589, 22) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:11 PM: 127.0.0.1: Serials: 0x40002640; 
+12/27/2013 7:51:14 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2276 set movable False hue 0 light Circle225'
+12/27/2013 7:51:16 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (546, 1581, 22) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:16 PM: 127.0.0.1: Serials: 0x40002641; 
+12/27/2013 7:51:17 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (551, 1580, 22) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:17 PM: 127.0.0.1: Serials: 0x40002642; 
+12/27/2013 7:51:18 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (555, 1588, 22) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:18 PM: 127.0.0.1: Serials: 0x40002643; 
+12/27/2013 7:51:20 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (552, 1584, 22) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:20 PM: 127.0.0.1: Serials: 0x4000264B; 
+12/27/2013 7:51:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2277 set movable False hue 0 light Circle225'
+12/27/2013 7:51:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (549, 1591, 22) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:23 PM: 127.0.0.1: Serials: 0x4000264E; 
+12/27/2013 7:51:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (552, 1581, 22) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:24 PM: 127.0.0.1: Serials: 0x4000264F; 
+12/27/2013 7:51:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (544, 1586, 22) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:26 PM: 127.0.0.1: Serials: 0x40002650; 
+12/27/2013 7:51:27 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (555, 1585, 22) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:27 PM: 127.0.0.1: Serials: 0x40002651; 
+12/27/2013 7:51:32 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2281 set movable False hue 0 light Circle225'
+12/27/2013 7:51:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (549, 1590, 22) in Malas: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:33 PM: 127.0.0.1: Serials: 0x40002652; 
+12/27/2013 7:51:35 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (546, 1583, 22) in Malas: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:35 PM: 127.0.0.1: Serials: 0x40002653; 
+12/27/2013 7:51:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/27/2013 7:51:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (548, 1587, 22) in Malas: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:51:37 PM: 127.0.0.1: Serials: 0x40002654; 
+12/27/2013 7:51:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'map' of 0x3B7 "Denomorr" ('Zigholtul88') to 'Malas'
+12/27/2013 7:51:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Self Set map 3'
+12/27/2013 7:51:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Go 273 1619 16'
+12/27/2013 7:52:28 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'waterwalk '
+12/27/2013 7:52:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'where '
+12/27/2013 7:52:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:52:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (274, 1603, 16) to (276, 1615, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:52:45 PM: 127.0.0.1: Serials: 0x40002666; 0x40002667; 0x40002668; 0x40002669; 0x4000266A; 0x4000266B; 0x4000266C; 0x4000266D; 0x4000266E; 0x4000266F; 0x40002670; 0x40002671; 0x40002672; 0x40002673; 0x40002674; 0x40002675; 0x40002676; 0x40002677; 0x40002678; 0x40002679; 0x4000267A; 0x4000267B; 0x4000267C; 0x4000267D; 0x4000267E; 0x4000267F; 0x40002680; 0x40002681; 0x40002682; 0x40002683; 0x40002684; 0x40002685; 0x40002686; 0x40002687; 0x40002688; 0x40002689; 0x4000268A; 0x4000268B; 0x4000268C; 
+12/27/2013 7:52:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:52:50 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (277, 1603, 16) to (277, 1609, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:52:50 PM: 127.0.0.1: Serials: 0x4000268D; 0x4000268E; 0x4000268F; 0x40002690; 0x40002691; 0x40002692; 0x40002693; 
+12/27/2013 7:52:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:52:55 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (278, 1601, 16) to (278, 1608, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:52:55 PM: 127.0.0.1: Serials: 0x40002695; 0x40002696; 0x40002697; 0x40002698; 0x40002699; 0x4000269A; 0x4000269B; 0x4000269C; 
+12/27/2013 7:52:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:53:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (275, 1602, 16) to (277, 1602, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:00 PM: 127.0.0.1: Serials: 0x4000269F; 0x400026A0; 0x400026A1; 
+12/27/2013 7:53:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:53:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (272, 1604, 16) to (273, 1607, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:06 PM: 127.0.0.1: Serials: 0x400026A2; 0x400026A3; 0x400026A4; 0x400026A5; 0x400026A6; 0x400026A7; 0x400026A8; 0x400026A9; 
+12/27/2013 7:53:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:53:11 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (271, 1606, 16) to (271, 1607, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:11 PM: 127.0.0.1: Serials: 0x400026AC; 0x400026AD; 
+12/27/2013 7:53:14 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:53:16 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (271, 1608, 16) to (273, 1608, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:16 PM: 127.0.0.1: Serials: 0x400026AE; 0x400026AF; 0x400026B0; 
+12/27/2013 7:53:18 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:53:20 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (272, 1609, 16) to (273, 1609, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:20 PM: 127.0.0.1: Serials: 0x400026B3; 0x400026B4; 
+12/27/2013 7:53:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:53:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (278, 1602, 16) to (279, 1607, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:26 PM: 127.0.0.1: Serials: 0x400026B5; 0x400026B6; 0x400026B7; 0x400026B8; 0x400026B9; 0x400026BA; 0x400026BB; 0x400026BC; 0x400026BD; 0x400026BE; 0x400026BF; 0x400026C0; 
+12/27/2013 7:53:28 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:53:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (280, 1604, 16) to (280, 1606, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:30 PM: 127.0.0.1: Serials: 0x400026C3; 0x400026C4; 0x400026C5; 
+12/27/2013 7:53:35 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:53:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (278, 1610, 16) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:38 PM: 127.0.0.1: Serials: 0x400026C6; 
+12/27/2013 7:53:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:53:41 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (279, 1609, 16) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:41 PM: 127.0.0.1: Serials: 0x400026C7; 
+12/27/2013 7:53:43 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:53:43 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (280, 1608, 16) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:43 PM: 127.0.0.1: Serials: 0x400026CB; 
+12/27/2013 7:53:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1344 set movable False hue 0 light {light}'
+12/27/2013 7:53:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (281, 1607, 16) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:45 PM: 127.0.0.1: Serials: 0x400026CC; 
+12/27/2013 7:53:49 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1345 set movable False hue 0 light {light}'
+12/27/2013 7:53:53 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (272, 1610, 16) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:53 PM: 127.0.0.1: Serials: 0x400026CF; 
+12/27/2013 7:53:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1345 set movable False hue 0 light {light}'
+12/27/2013 7:53:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (271, 1609, 16) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:53:56 PM: 127.0.0.1: Serials: 0x400026D2; 
+12/27/2013 7:54:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:54:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x400026D2 (Static)
+12/27/2013 7:54:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1348 set movable False hue 0 light {light}'
+12/27/2013 7:54:08 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (281, 1604, 16) to (281, 1606, 16) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:08 PM: 127.0.0.1: Serials: 0x400026D8; 0x400026D9; 0x400026DA; 
+12/27/2013 7:54:11 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1348 set movable False hue 0 light {light}'
+12/27/2013 7:54:11 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (280, 1602, 16) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:11 PM: 127.0.0.1: Serials: 0x400026DB; 
+12/27/2013 7:54:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1348 set movable False hue 0 light {light}'
+12/27/2013 7:54:21 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (277, 1611, 16) to (277, 1614, 16) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:21 PM: 127.0.0.1: Serials: 0x400026DF; 0x400026E0; 0x400026E1; 0x400026E2; 
+12/27/2013 7:54:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1348 set movable False hue 0 light {light}'
+12/27/2013 7:54:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (277, 1615, 16) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:22 PM: 127.0.0.1: Serials: 0x400026E3; 
+12/27/2013 7:54:28 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:54:31 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (271, 1610, 16) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:31 PM: 127.0.0.1: Serials: 0x400026E5; 
+12/27/2013 7:54:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1351 set movable False hue 0 light {light}'
+12/27/2013 7:54:34 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (270, 1609, 16) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:34 PM: 127.0.0.1: Serials: 0x400026E6; 
+12/27/2013 7:54:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1352 set movable False hue 0 light {light}'
+12/27/2013 7:54:44 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (281, 1603, 16) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:44 PM: 127.0.0.1: Serials: 0x400026E9; 
+12/27/2013 7:54:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1352 set movable False hue 0 light {light}'
+12/27/2013 7:54:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (280, 1601, 16) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:47 PM: 127.0.0.1: Serials: 0x400026F2; 
+12/27/2013 7:54:49 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1352 set movable False hue 0 light {light}'
+12/27/2013 7:54:49 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (279, 1600, 16) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:49 PM: 127.0.0.1: Serials: 0x400026F3; 
+12/27/2013 7:54:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:54:55 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (277, 1600, 16) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:55 PM: 127.0.0.1: Serials: 0x400026F4; 
+12/27/2013 7:54:58 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:54:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (274, 1601, 16) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:54:59 PM: 127.0.0.1: Serials: 0x400026F5; 
+12/27/2013 7:55:00 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:55:01 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (273, 1602, 16) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:01 PM: 127.0.0.1: Serials: 0x400026F6; 
+12/27/2013 7:55:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:55:07 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x400026A2 (Static)
+12/27/2013 7:55:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:55:11 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (272, 1603, 16) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:11 PM: 127.0.0.1: Serials: 0x40002701; 
+12/27/2013 7:55:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:55:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (271, 1604, 16) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:13 PM: 127.0.0.1: Serials: 0x40002702; 
+12/27/2013 7:55:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1353 set movable False hue 0 light {light}'
+12/27/2013 7:55:16 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (270, 1605, 16) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:16 PM: 127.0.0.1: Serials: 0x40002703; 
+12/27/2013 7:55:18 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1354 set movable False hue 0 light {light}'
+12/27/2013 7:55:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (270, 1606, 16) to (270, 1608, 16) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:22 PM: 127.0.0.1: Serials: 0x40002704; 0x40002705; 0x40002706; 
+12/27/2013 7:55:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1354 set movable False hue 0 light {light}'
+12/27/2013 7:55:28 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (273, 1611, 16) to (273, 1614, 16) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:28 PM: 127.0.0.1: Serials: 0x40002707; 0x40002708; 0x40002709; 0x4000270A; 
+12/27/2013 7:55:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1354 set movable False hue 0 light {light}'
+12/27/2013 7:55:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (273, 1615, 16) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:30 PM: 127.0.0.1: Serials: 0x4000270B; 
+12/27/2013 7:55:35 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1357 set movable False hue 0 light {light}'
+12/27/2013 7:55:42 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building from (275, 1601, 16) to (276, 1601, 16) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:42 PM: 127.0.0.1: Serials: 0x4000270C; 0x4000270D; 
+12/27/2013 7:55:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1357 set movable False hue 0 light {light}'
+12/27/2013 7:55:46 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (278, 1600, 16) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:46 PM: 127.0.0.1: Serials: 0x4000270E; 
+12/27/2013 7:55:50 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:55:52 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (279, 1601, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:52 PM: 127.0.0.1: Serials: 0x4000270F; 
+12/27/2013 7:55:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:55:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (277, 1601, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:54 PM: 127.0.0.1: Serials: 0x40002710; 
+12/27/2013 7:55:56 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:55:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (274, 1602, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:57 PM: 127.0.0.1: Serials: 0x40002711; 
+12/27/2013 7:55:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:55:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (273, 1603, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:55:59 PM: 127.0.0.1: Serials: 0x40002713; 
+12/27/2013 7:56:01 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:56:02 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (272, 1604, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:56:02 PM: 127.0.0.1: Serials: 0x40002714; 
+12/27/2013 7:56:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:56:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (271, 1605, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:56:04 PM: 127.0.0.1: Serials: 0x40002715; 
+12/27/2013 7:56:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:56:07 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (271, 1609, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:56:07 PM: 127.0.0.1: Serials: 0x40002716; 
+12/27/2013 7:56:09 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:56:10 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (273, 1610, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:56:10 PM: 127.0.0.1: Serials: 0x40002717; 
+12/27/2013 7:56:12 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:56:13 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (277, 1610, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:56:13 PM: 127.0.0.1: Serials: 0x40002718; 
+12/27/2013 7:56:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:56:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (278, 1609, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:56:15 PM: 127.0.0.1: Serials: 0x40002719; 
+12/27/2013 7:56:17 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:56:17 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (279, 1608, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:56:17 PM: 127.0.0.1: Serials: 0x4000271A; 
+12/27/2013 7:56:19 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:56:20 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (280, 1607, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:56:20 PM: 127.0.0.1: Serials: 0x4000271B; 
+12/27/2013 7:56:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'TileZ 16 static 1339 set movable False hue 0 light {light}'
+12/27/2013 7:56:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (280, 1603, 16) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/27/2013 7:56:22 PM: 127.0.0.1: Serials: 0x4000271C; 
+12/27/2013 7:56:28 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:56:28 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002662 (WaterWalk)
+12/27/2013 7:56:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:56:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x4000265F (WaterWalk)
+12/27/2013 7:56:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2275 set movable False hue 0 light Circle225'
+12/27/2013 7:56:38 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (278, 1610, 16) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:38 PM: 127.0.0.1: Serials: 0x4000271E; 
+12/27/2013 7:56:39 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (278, 1604, 16) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:39 PM: 127.0.0.1: Serials: 0x40002721; 
+12/27/2013 7:56:40 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (271, 1604, 16) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:40 PM: 127.0.0.1: Serials: 0x40002722; 
+12/27/2013 7:56:41 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (271, 1610, 16) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:41 PM: 127.0.0.1: Serials: 0x40002723; 
+12/27/2013 7:56:43 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2278 set movable False hue 0 light Circle225'
+12/27/2013 7:56:44 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (279, 1600, 16) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:44 PM: 127.0.0.1: Serials: 0x40002724; 
+12/27/2013 7:56:45 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (283, 1609, 24) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:45 PM: 127.0.0.1: Serials: 0x40002726; 
+12/27/2013 7:56:47 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (283, 1609, 24) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:47 PM: 127.0.0.1: Serials: 0x40002727; 
+12/27/2013 7:56:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (280, 1607, 16) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:48 PM: 127.0.0.1: Serials: 0x40002728; 
+12/27/2013 7:56:50 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'm remove'
+12/27/2013 7:56:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002727 (Static)
+12/27/2013 7:56:51 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x40002726 (Static)
+12/27/2013 7:56:54 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Multi Add static 2272 set movable False hue 0 light Circle225'
+12/27/2013 7:56:55 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (272, 1608, 16) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:55 PM: 127.0.0.1: Serials: 0x40002729; 
+12/27/2013 7:56:57 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (277, 1602, 16) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:57 PM: 127.0.0.1: Serials: 0x4000272A; 
+12/27/2013 7:56:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/27/2013 7:56:59 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (279, 1609, 16) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:56:59 PM: 127.0.0.1: Serials: 0x4000272B; 
+12/27/2013 7:57:03 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/27/2013 7:57:04 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (270, 1608, 16) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:57:04 PM: 127.0.0.1: Serials: 0x4000272C; 
+12/27/2013 7:57:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/27/2013 7:57:06 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (274, 1601, 16) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:57:06 PM: 127.0.0.1: Serials: 0x4000272D; 
+12/27/2013 7:57:14 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/27/2013 7:57:15 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (273, 1611, 16) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:57:15 PM: 127.0.0.1: Serials: 0x4000273A; 
+12/27/2013 7:57:16 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/27/2013 7:57:17 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (281, 1603, 16) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:57:17 PM: 127.0.0.1: Serials: 0x4000273B; 
+12/27/2013 7:57:19 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/27/2013 7:57:20 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (277, 1612, 16) in Malas: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:57:20 PM: 127.0.0.1: Serials: 0x4000273C; 
+12/27/2013 7:57:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/27/2013 7:57:22 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (277, 1600, 16) in Malas: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:57:22 PM: 127.0.0.1: Serials: 0x4000273D; 
+12/27/2013 7:57:23 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/27/2013 7:57:24 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (270, 1605, 16) in Malas: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:57:24 PM: 127.0.0.1: Serials: 0x4000273E; 
+12/27/2013 7:57:26 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/27/2013 7:57:28 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (283, 1609, 24) in Malas: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:57:28 PM: 127.0.0.1: Serials: 0x4000273F; 
+12/27/2013 7:57:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/27/2013 7:57:30 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') building at (281, 1606, 16) in Malas: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/27/2013 7:57:30 PM: 127.0.0.1: Serials: 0x40002740; 
+12/27/2013 7:57:32 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'remove '
+12/27/2013 7:57:32 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') deleting 0x4000273F (Static)
+12/27/2013 7:57:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') set property 'map' of 0x3B7 "Denomorr" ('Zigholtul88') to 'Malas'
+12/27/2013 7:57:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Self Set map 3'
+12/27/2013 7:57:48 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'Go 465 1697 30'
+12/27/2013 8:02:29 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'freezemap '
+12/27/2013 8:02:31 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') invoking freeze for every item in Owner
+12/27/2013 8:02:33 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'admin '
+12/27/2013 8:02:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/27/2013 8:02:37 PM: 127.0.0.1: Owner 0x3B7 "Denomorr" ('Zigholtul88') used command 'save '

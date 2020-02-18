@@ -1,0 +1,133 @@
+##############################
+Log started on 4/11/2019 10:27:26 AM
+
+4/11/2019 10:27:37 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/11/2019 10:27:43 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add drake'
+4/11/2019 10:27:46 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1128, 1183, -12) in TerMur: "drake"
+4/11/2019 10:27:47 AM: 127.0.0.1: Serials: 0x5; 
+4/11/2019 10:27:47 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'tameit '
+4/11/2019 10:27:54 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'props '
+4/11/2019 10:28:04 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '132'
+4/11/2019 10:28:13 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '130'
+4/11/2019 10:28:24 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '131'
+4/11/2019 10:29:35 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add gargoyl'
+4/11/2019 10:29:37 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1117, 1166, -12) in TerMur: "FireGargoyle"
+4/11/2019 10:29:38 AM: 127.0.0.1: Serials: 0x7; 
+4/11/2019 10:29:40 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:29:41 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x7 "a flaming gargoyle" (no account)
+4/11/2019 10:29:45 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1116, 1166, -12) in TerMur: "GargoyleDestroyer"
+4/11/2019 10:29:45 AM: 127.0.0.1: Serials: 0x22; 
+4/11/2019 10:29:48 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:29:48 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x22 "Gargoyle Destroyer" (no account)
+4/11/2019 10:29:51 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1112, 1166, -14) in TerMur: "GargoyleEnforcer"
+4/11/2019 10:29:51 AM: 127.0.0.1: Serials: 0x305; 
+4/11/2019 10:29:53 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:29:53 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x305 "Gargoyle Enforcer" (no account)
+4/11/2019 10:29:58 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1113, 1164, -18) in TerMur: "EnslavedGargoyle"
+4/11/2019 10:29:58 AM: 127.0.0.1: Serials: 0x406; 
+4/11/2019 10:30:00 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:30:02 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:30:02 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x406 "an enslaved gargoyle" (no account)
+4/11/2019 10:30:13 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1113, 1164, -18) in TerMur: "StoneGargoyle"
+4/11/2019 10:30:13 AM: 127.0.0.1: Serials: 0x407; 
+4/11/2019 10:30:16 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:30:16 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x407 "a stone gargoyle" (no account)
+4/11/2019 10:30:29 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add juka'
+4/11/2019 10:30:33 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1113, 1164, -18) in TerMur: "JukaLord"
+4/11/2019 10:30:33 AM: 127.0.0.1: Serials: 0x408; 
+4/11/2019 10:30:34 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:30:37 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x408 "a juka lord" (no account)
+4/11/2019 10:30:38 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add juka'
+4/11/2019 10:30:41 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1112, 1165, -14) in TerMur: "JukaMage"
+4/11/2019 10:30:41 AM: 127.0.0.1: Serials: 0x409; 
+4/11/2019 10:30:44 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:30:44 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x409 "a juka mage" (no account)
+4/11/2019 10:30:48 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1113, 1166, -14) in TerMur: "JukaWarrior"
+4/11/2019 10:30:48 AM: 127.0.0.1: Serials: 0x40A; 
+4/11/2019 10:30:50 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:30:50 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40A "a juka warrior" (no account)
+4/11/2019 10:30:53 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add meer'
+4/11/2019 10:30:56 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:30:58 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1112, 1166, -14) in TerMur: "MeerCaptain"
+4/11/2019 10:30:58 AM: 127.0.0.1: Serials: 0x40B; 
+4/11/2019 10:31:01 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:31:01 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40B "a meer captain" (no account)
+4/11/2019 10:31:04 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1112, 1164, -17) in TerMur: "MeerEternal"
+4/11/2019 10:31:04 AM: 127.0.0.1: Serials: 0x40C; 
+4/11/2019 10:31:05 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:31:06 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40C "a meer eternal" (no account)
+4/11/2019 10:31:08 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1113, 1164, -18) in TerMur: "MeerMage"
+4/11/2019 10:31:08 AM: 127.0.0.1: Serials: 0x40D; 
+4/11/2019 10:31:10 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:31:10 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40D "a meer mage" (no account)
+4/11/2019 10:31:13 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1113, 1164, -18) in TerMur: "MeerWarrior"
+4/11/2019 10:31:13 AM: 127.0.0.1: Serials: 0x40E; 
+4/11/2019 10:31:14 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:31:15 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40E "a meer warrior" (no account)
+4/11/2019 10:32:01 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '774'
+4/11/2019 10:34:36 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '128'
+4/11/2019 10:34:40 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '129'
+4/11/2019 10:34:45 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '130'
+4/11/2019 10:34:50 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '131'
+4/11/2019 10:34:53 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '132'
+4/11/2019 10:34:56 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '133'
+4/11/2019 10:35:51 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '73'
+4/11/2019 10:36:16 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '67'
+4/11/2019 10:36:54 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') set property 'BodyValue' of 0x5 "a drake" (no account) to '24'
+4/11/2019 10:38:18 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 10:38:19 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x5 "a drake" (no account)
+4/11/2019 10:38:23 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/11/2019 10:38:27 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/11/2019 10:38:32 AM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/11/2019 12:39:38 PM
+
+4/11/2019 1:27:17 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/11/2019 3:25:17 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/11/2019 3:43:10 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/11/2019 3:43:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/11/2019 3:43:19 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/11/2019 4:44:13 PM
+
+4/11/2019 4:55:57 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/11/2019 4:55:58 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/11/2019 4:56:11 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add executioner'
+4/11/2019 4:56:12 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1108, 1131, -52) in TerMur: "executioner"
+4/11/2019 4:56:13 PM: 127.0.0.1: Serials: 0x5; 
+4/11/2019 4:56:16 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 4:56:18 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x5 "Bray" (no account)
+4/11/2019 4:56:24 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add lamia'
+4/11/2019 4:56:25 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1108, 1133, -52) in TerMur: "lamia"
+4/11/2019 4:56:25 PM: 127.0.0.1: Serials: 0x7; 
+4/11/2019 4:57:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 4:57:16 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x7 "Jendayi" (no account)
+4/11/2019 4:57:26 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add seeker'
+4/11/2019 4:57:27 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1106, 1132, -52) in TerMur: "seeker"
+4/11/2019 4:57:27 PM: 127.0.0.1: Serials: 0x22; 
+4/11/2019 4:58:26 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 4:58:26 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x22 "a seeker" (no account)
+4/11/2019 4:58:33 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add stoneharpy'
+4/11/2019 4:58:34 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1111, 1135, -52) in TerMur: "stoneharpy"
+4/11/2019 4:58:34 PM: 127.0.0.1: Serials: 0x305; 
+4/11/2019 4:58:50 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 4:58:50 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x305 "a stone harpy" (no account)
+4/11/2019 4:58:53 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add saliva'
+4/11/2019 4:58:54 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1105, 1130, -52) in TerMur: "saliva"
+4/11/2019 4:58:54 PM: 127.0.0.1: Serials: 0x406; 
+4/11/2019 4:59:39 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 4:59:39 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x406 "Saliva" (no account)
+4/11/2019 4:59:44 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add stoneharpy'
+4/11/2019 4:59:46 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1119, 1128, -42) in TerMur: "stoneharpy"
+4/11/2019 4:59:46 PM: 127.0.0.1: Serials: 0x407; 
+4/11/2019 5:00:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 5:00:39 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x407 "a stone harpy" (no account)
+4/11/2019 5:03:27 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'tele '
+4/11/2019 5:03:31 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add seaserpent'
+4/11/2019 5:03:32 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1070, 1124, -65) in TerMur: "seaserpent"
+4/11/2019 5:03:32 PM: 127.0.0.1: Serials: 0x408; 
+4/11/2019 5:04:54 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/11/2019 5:04:56 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x408 "a sea serpent" (no account)
+4/11/2019 5:04:59 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/11/2019 5:05:03 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/11/2019 5:05:08 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '

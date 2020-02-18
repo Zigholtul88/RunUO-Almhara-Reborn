@@ -1,0 +1,66 @@
+##############################
+Log started on 2/15/2016 11:36:29 AM
+
+2/15/2016 11:37:49 AM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+2/15/2016 11:38:09 AM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/15/2016 11:39:47 AM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/15/2016 11:40:57 AM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/15/2016 1:19:56 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add stonebur'
+2/15/2016 1:19:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2299, 1777, 20) in Malas: "StoneBurrowMinesTreasureChest1"
+2/15/2016 1:19:59 PM: 127.0.0.1: Serials: 0x40002123; 
+2/15/2016 1:20:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2301, 1777, 20) in Malas: "StoneBurrowMinesTreasureChest1"
+2/15/2016 1:20:01 PM: 127.0.0.1: Serials: 0x4000213B; 
+2/15/2016 1:20:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/15/2016 1:20:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002123 (StoneBurrowMinesTreasureChest1)
+2/15/2016 1:21:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/15/2016 1:21:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x4000213B (StoneBurrowMinesTreasureChest1)
+2/15/2016 1:21:19 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4612 set movable False hue 0 light Circle225'
+2/15/2016 1:21:20 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2303, 1777, 20) in Malas: "static" "4612" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/15/2016 1:21:20 PM: 127.0.0.1: Serials: 0x40002170; 
+2/15/2016 1:21:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Add static 4613 set movable False hue 0 light Circle225'
+2/15/2016 1:21:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2298, 1777, 20) in Malas: "static" "4613" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/15/2016 1:21:27 PM: 127.0.0.1: Serials: 0x40002171; 
+2/15/2016 1:21:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'Multi Add static 4614 set movable False hue 0 light Circle225'
+2/15/2016 1:21:31 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2299, 1777, 20) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/15/2016 1:21:31 PM: 127.0.0.1: Serials: 0x40002172; 
+2/15/2016 1:21:33 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2300, 1777, 20) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/15/2016 1:21:33 PM: 127.0.0.1: Serials: 0x40002173; 
+2/15/2016 1:21:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2302, 1777, 20) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/15/2016 1:21:36 PM: 127.0.0.1: Serials: 0x40002181; 
+2/15/2016 1:21:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2301, 1777, 20) in Malas: "static" "4614" "set" "movable" "False" "hue" "0" "light" "Circle225"
+2/15/2016 1:21:37 PM: 127.0.0.1: Serials: 0x40002182; 
+2/15/2016 1:22:17 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2311, 1771, 0) in Malas: "StoneBurrowMinesTreasureChest1"
+2/15/2016 1:22:17 PM: 127.0.0.1: Serials: 0x4000218C; 
+2/15/2016 1:22:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/15/2016 1:22:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x4000218C (StoneBurrowMinesTreasureChest1)
+2/15/2016 1:22:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+2/15/2016 1:22:38 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add stonebur'
+2/15/2016 1:22:42 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2298, 1777, 26) in Malas: "StoneBurrowMinesTreasureChest1"
+2/15/2016 1:22:42 PM: 127.0.0.1: Serials: 0x40002194; 
+2/15/2016 1:22:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2303, 1777, 26) in Malas: "StoneBurrowMinesTreasureChest1"
+2/15/2016 1:22:43 PM: 127.0.0.1: Serials: 0x4000219E; 
+2/15/2016 1:22:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2300, 1777, 26) in Malas: "StoneBurrowMinesTreasureChest1"
+2/15/2016 1:22:44 PM: 127.0.0.1: Serials: 0x400021A5; 
+2/15/2016 1:22:50 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2301, 1777, 26) in Malas: "StoneBurrowMinesTreasureChest1"
+2/15/2016 1:22:50 PM: 127.0.0.1: Serials: 0x400021B7; 
+2/15/2016 1:23:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/15/2016 1:23:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/15/2016 1:23:38 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x4000219E (StoneBurrowMinesTreasureChest1)
+2/15/2016 1:23:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/15/2016 1:23:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40002194 (StoneBurrowMinesTreasureChest1)
+2/15/2016 1:23:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2299, 1777, 26) in Malas: "StoneBurrowMinesTreasureChest1"
+2/15/2016 1:23:45 PM: 127.0.0.1: Serials: 0x400021DD; 
+2/15/2016 1:23:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2302, 1777, 26) in Malas: "StoneBurrowMinesTreasureChest1"
+2/15/2016 1:23:45 PM: 127.0.0.1: Serials: 0x400021E9; 
+2/15/2016 1:23:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'm remove'
+2/15/2016 1:23:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400021A5 (StoneBurrowMinesTreasureChest1)
+2/15/2016 1:23:50 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400021B7 (StoneBurrowMinesTreasureChest1)
+2/15/2016 1:24:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/15/2016 1:24:20 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+2/15/2016 1:24:34 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/15/2016 1:24:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400021E9 (StoneBurrowMinesTreasureChest1)
+2/15/2016 1:24:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+2/15/2016 1:24:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400021DD (StoneBurrowMinesTreasureChest1)
+2/15/2016 2:11:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+2/15/2016 2:11:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/15/2016 2:11:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'save '

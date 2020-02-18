@@ -1,0 +1,555 @@
+///	Scripted by Hienrich Jager	///
+///		   of			///
+///	  The Land of Adventure		///
+///	     With help from		///
+///          Tru and Raelis		///
+///////////////////////////////////////////
+If you open in notepad turn off wordwrap!!
+
+
+
+If at anytime you get lost in my instructions here, refer to the included refrence files:
+
+Warning. These are all distro mods. 
+
+
+
+// ItemID Mod START
+// ItemID Mod END
+
+BaseArmor.cs
+BaseClothing.cs
+BaseJewel.cs
+BaseWeapon.cs
+
+ItemIdentification.cs
+CraftItem.cs
+BaseVendor.cs
+GenericBuy.cs
+CharacterCreation.cs
+
+IdentificationScroll.cs
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Okies, first off lets do BaseArmor.cs
+Open your BaseArmor.cs and search for the line:
+
+						public override bool CanEquip( Mobile from)
+						{
+							if(from.AccessLevel < AccessLevel.GameMaster)
+							{
+						
+Right after that, Add the lines:
+						#region ItemID_Mods
+							else if( m_Identified == false )
+							{
+								from.SendMessage("You are hesitant to put on something that is unknown to you");
+								return false;
+							}
+						#endregion
+
+----------------------
+Now look for the line:
+
+						if ((prop = ArtifactRarity) > 0)
+
+Right above that line add the line:
+
+						#region ItemID_Modifications
+        				   		if (m_Identified /*|| from.AccessLevel >= AccessLevel.GameMaster*/)
+          					  	{
+
+
+
+then scroll down till you see:
+						if (m_HitPoints >= 0 && m_MaxHitPoints > 0)
+
+Then add below that line:
+
+	   					 }
+            					else if ((ArtifactRarity) > 0 || (m_AosAttributes.WeaponDamage) != 0 || (m_AosAttributes.DefendChance) != 0 || 
+                   					 (m_AosAttributes.BonusDex) != 0 || (m_AosAttributes.EnhancePotions) != 0 || (m_AosAttributes.CastRecovery) != 0 || 
+                   					 (m_AosAttributes.CastSpeed) != 0 || (m_AosAttributes.AttackChance) != 0 || (m_AosAttributes.BonusHits) != 0 || 
+                    					 (m_AosAttributes.BonusInt) != 0 || (m_AosAttributes.LowerManaCost) != 0 || (m_AosAttributes.LowerRegCost) != 0 || 
+                    					 (GetLowerStatReq()) != 0 || ((GetLuckBonus() + m_AosAttributes.Luck)) != 0 || (m_AosArmorAttributes.MageArmor) != 0 || 
+                   					 (m_AosAttributes.BonusMana) != 0 || (m_AosAttributes.RegenMana) != 0 || (m_AosAttributes.NightSight) != 0 || 
+                   					 (m_AosAttributes.ReflectPhysical) != 0 || (m_AosAttributes.RegenStam) != 0 || (m_AosAttributes.RegenHits) != 0 || 
+                   					 (m_AosArmorAttributes.SelfRepair) != 0 || (m_AosAttributes.SpellChanneling) != 0 || (m_AosAttributes.SpellDamage) != 0 || 
+                   					 (m_AosAttributes.BonusStam) != 0 || (m_AosAttributes.BonusStr) != 0 || (m_AosAttributes.WeaponSpeed) != 0 || 
+                   					 (GetDurabilityBonus()) > 0 || (ComputeStatReq(StatType.Str)) > 0 || (m_HitPoints >= 0 && m_MaxHitPoints > 0 ))
+			    list.Add(1038000); // Unidentified
+                          //list.Add(1060847, "<CENTER><BASEFONT COLOR=#0000FF>Unidentified</BASEFONT></CENTER>" );
+					#endregion
+
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Now for BaseWeapon.cs
+Search for the line:
+						public override bool CanEquip( Mobile from)
+						{
+							if(from.AccessLevel < AccessLevel.GameMaster)
+							{
+						
+Right after that, Add the lines:
+						#region ItemID_Mods
+							else if( m_Identified == false )
+							{
+								from.SendMessage("You are hesitant to use something that is unknown to you");
+								return false;
+							}
+						#endregion
+
+----------------------
+Now look for the line:
+
+            if (this is IUsesRemaining && ((IUsesRemaining)this).ShowUsesRemaining)
+                      list.Add(1060584, ((IUsesRemaining)this).UsesRemaining.ToString()); // uses remaining: ~1_val~
+
+And right after it add:
+
+						#region ItemID Modifications
+            					if (m_Identified /*|| from.AccessLevel >= AccessLevel.GameMaster*/)
+            					{
+
+Now search for:
+
+						if (m_Hits >= 0 && m_MaxHits > 0)
+					            	 list.Add(1060639, "{0}\t{1}", m_Hits, m_MaxHits); // durability ~1_val~ / ~2_val~
+
+And after that add the lines:
+
+	   					}
+            					else if (ArtifactRarity > 0 || (m_AosWeaponAttributes.UseBestSkill) != 0 || ((GetDamageBonus() + m_AosAttributes.WeaponDamage)) != 0 || 
+                  				(m_AosAttributes.DefendChance) != 0 || (m_AosAttributes.EnhancePotions) != 0 || (m_AosAttributes.CastRecovery) != 0 || 
+                   				(m_AosAttributes.CastSpeed) != 0 || ((GetHitChanceBonus() + m_AosAttributes.AttackChance)) != 0 || 
+                   				(m_AosWeaponAttributes.HitColdArea) != 0 || (m_AosWeaponAttributes.HitDispel) != 0 || (m_AosWeaponAttributes.HitEnergyArea) != 0 || 
+                    				(m_AosWeaponAttributes.HitFireArea) != 0 || (m_AosWeaponAttributes.HitFireball) != 0 || 
+                    				(m_AosWeaponAttributes.HitHarm) != 0 || (m_AosWeaponAttributes.HitLeechHits) != 0 || 
+                    				(m_AosWeaponAttributes.HitLightning) != 0 || (m_AosWeaponAttributes.HitLowerAttack) != 0 || 
+                    				(m_AosWeaponAttributes.HitLowerDefend) != 0 || (m_AosWeaponAttributes.HitMagicArrow) != 0 || 
+                    				(m_AosWeaponAttributes.HitLeechMana) != 0 || (m_AosWeaponAttributes.HitPhysicalArea) != 0 || 
+                    				(m_AosWeaponAttributes.HitPoisonArea) != 0 || (m_AosWeaponAttributes.HitLeechStam) != 0 || 
+                    				(m_AosAttributes.BonusDex) != 0 || (m_AosAttributes.BonusHits) != 0 || (m_AosAttributes.BonusInt) != 0 || 
+                    				(m_AosAttributes.LowerManaCost) != 0 || (m_AosAttributes.LowerRegCost) != 0 || (GetLowerStatReq()) != 0 || 
+                    				((GetLuckBonus() + m_AosAttributes.Luck)) != 0 || (m_AosWeaponAttributes.MageWeapon) != 0 ||
+                    				(m_AosAttributes.BonusMana) != 0 || (m_AosAttributes.RegenMana) != 0 || (m_AosAttributes.NightSight) != 0 || 
+                    				(m_AosAttributes.ReflectPhysical) != 0 || (m_AosAttributes.RegenStam) != 0 || (m_AosAttributes.RegenHits) != 0 || 
+                    				(m_AosWeaponAttributes.SelfRepair) != 0 || (m_AosAttributes.SpellChanneling) != 0 || (m_AosAttributes.SpellDamage) != 0 || 
+                    				(m_AosAttributes.BonusStam) != 0 || (m_AosAttributes.BonusStr) != 0 || (m_AosAttributes.WeaponSpeed) != 0)
+			    list.Add(1038000); // Unidentified
+                          //list.Add(1060847, "<CENTER><BASEFONT COLOR=#0000FF>Unidentified</BASEFONT></CENTER>" );
+					#endregion
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Now for BaseJewel.cs
+
+Right After the line:
+
+						public abstract class BaseJewel : Item, ICraftable
+    						{
+
+Add the lines:
+					#region ItemID_Mods
+						        private bool m_Identified;
+						        [CommandProperty(AccessLevel.GameMaster)]
+						        public bool Identified
+						        {
+						            get { return m_Identified; }
+						            set { m_Identified = value; InvalidateProperties(); }
+						        }
+					#endregion
+----------------------
+Then Look for the Lines:			
+						public BaseJewel( int itemID, Layer layer ) : base( itemID )
+						{
+							m_AosAttributes = new AosAttributes( this );
+							m_AosResistances = new AosElementAttributes( this );
+							m_AosSkillBonuses = new AosSkillBonuses( this );
+							m_Resource = CraftResource.Iron;
+							m_GemType = GemType.None;
+		
+							Layer = layer;
+					        }
+
+Add the code:
+					#region ItemID_Mods
+       						 public override bool CanEquip(Mobile from)
+     						   {
+       							     if (from.AccessLevel < AccessLevel.GameMaster)
+       	    						     {
+
+                						if (m_Identified == false)
+                						{
+                    							from.SendMessage("You are hesitant to put on something that is unknown to you");
+                    							return false;
+                						}
+
+            						     }
+            							return base.CanEquip(from);
+        					    }
+        				#endregion
+----------------------
+Then look for:		
+						public override void GetProperties( ObjectPropertyList list )
+						{
+							base.GetProperties( list );
+		
+							m_AosSkillBonuses.GetProperties( list );
+
+							int prop;
+And add after:
+
+					#region ItemID_Mods
+           					 if (m_Identified /*|| from.AccessLevel >= AccessLevel.GameMaster*/)
+            					 {
+
+Then look for:
+						base.AddResistanceProperties( list );
+
+And add after it:
+						}
+            					else if ((ArtifactRarity) > 0 || (m_AosAttributes.WeaponDamage) != 0 || (m_AosAttributes.DefendChance) != 0 ||
+                    					(m_AosAttributes.BonusDex) != 0 || (m_AosAttributes.EnhancePotions) != 0 || (m_AosAttributes.CastRecovery) != 0 ||
+                    					(m_AosAttributes.CastSpeed) != 0 || (m_AosAttributes.AttackChance) != 0 || (m_AosAttributes.BonusHits) != 0 ||
+                    					(m_AosAttributes.BonusInt) != 0 || (m_AosAttributes.LowerManaCost) != 0 || (m_AosAttributes.LowerRegCost) != 0 ||
+                    					(m_AosAttributes.BonusMana) != 0 || (m_AosAttributes.RegenMana) != 0 || (m_AosAttributes.NightSight) != 0 ||
+                    					(m_AosAttributes.ReflectPhysical) != 0 || (m_AosAttributes.RegenStam) != 0 || (m_AosAttributes.RegenHits) != 0 ||
+                    					(m_AosAttributes.SpellChanneling) != 0 || (m_AosAttributes.SpellDamage) != 0 ||
+                    					(m_AosAttributes.BonusStam) != 0 || (m_AosAttributes.BonusStr) != 0 || (m_AosAttributes.WeaponSpeed) != 0)
+			    list.Add(1038000); // Unidentified
+                          //list.Add(1060847, "<CENTER><BASEFONT COLOR=#0000FF>Unidentified</BASEFONT></CENTER>" );
+					#endregion
+----------------------
+Now for some Ser/deser fun!
+
+Increase the version by 1
+				I.E.   writer.Write( (int) # ); // version	Change this to      writer.Write( (int) (#+1) ); // version
+
+And add right after:			#region ItemID_Mods
+          					writer.Write( (bool)m_Identified );
+					#endregion
+
+Now go to Deser. and add the lines:
+
+					#region ItemID_Mods
+				                case (#+1):
+				                    {
+				                        m_Identified = reader.ReadBool();
+				                        goto case #;
+				                    }
+					#endregion
+
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+For BaseClothing.cs
+
+Look for:
+						public abstract class BaseClothing : Item, IDyable, IScissorable, IFactionItem, ICraftable, IWearableDurability
+						{
+And After the lines about factions, add:
+					#region ItemID_Mods
+					        private bool m_Identified;
+					        [CommandProperty(AccessLevel.GameMaster)]
+					        public bool Identified
+					        {
+					            get { return m_Identified; }
+					            set { m_Identified = value; InvalidateProperties(); }
+					        }
+					#endregion
+----------------------
+Search for the line:
+						public override bool CanEquip( Mobile from)
+						{
+							if(from.AccessLevel < AccessLevel.GameMaster)
+							{
+						
+Right after that, Add the lines:
+						#region ItemID_Mods
+							else if( m_Identified == false )
+							{
+								from.SendMessage("You are hesitant to use something that is unknown to you");
+								return false;
+							}
+						#endregion	
+			
+----------------------
+Now look for the line:
+
+						if ( m_Quality == WeaponQuality.Exceptional )
+							list.Add( 1060636 ); // exceptional
+		or if you are running SVn 187:
+						if( RequiredRace == Race.Elf )
+							list.Add( 1075086 ); // Elves Only
+
+And right after it add:
+
+						#region ItemID Modifications
+            					if (m_Identified /*|| from.AccessLevel >= AccessLevel.GameMaster*/)
+            					{
+
+Now search for:
+
+						if (m_Hits >= 0 && m_MaxHits > 0)
+					            	 list.Add(1060639, "{0}\t{1}", m_Hits, m_MaxHits); // durability ~1_val~ / ~2_val~
+
+And after that add the lines:
+ 
+	   					    }
+					            else if ((ArtifactRarity) > 0 || (m_AosAttributes.WeaponDamage) != 0 || (m_AosAttributes.DefendChance) != 0 ||
+					                    (m_AosAttributes.BonusDex) != 0 || (m_AosAttributes.EnhancePotions) != 0 || (m_AosAttributes.CastRecovery) != 0 ||
+					                    (m_AosAttributes.CastSpeed) != 0 || (m_AosAttributes.AttackChance) != 0 || (m_AosAttributes.BonusHits) != 0 ||
+					                    (m_AosAttributes.BonusInt) != 0 || (m_AosAttributes.LowerManaCost) != 0 || (m_AosAttributes.LowerRegCost) != 0 ||
+					                    (m_AosAttributes.BonusMana) != 0 || (m_AosAttributes.RegenMana) != 0 || (m_AosAttributes.NightSight) != 0 ||
+					                    (m_AosAttributes.ReflectPhysical) != 0 || (m_AosAttributes.RegenStam) != 0 || (m_AosAttributes.RegenHits) != 0 ||
+					                    (m_AosAttributes.SpellChanneling) != 0 || (m_AosAttributes.SpellDamage) != 0 ||
+					                    (m_AosAttributes.BonusStam) != 0 || (m_AosAttributes.BonusStr) != 0 || (m_AosAttributes.WeaponSpeed) != 0 ||
+					                    (ComputeStatReq(StatType.Str)) > 0 || (m_HitPoints >= 0 && m_MaxHitPoints > 0))
+			   list.Add(1038000); // Unidentified
+                         //list.Add(1060847, "<CENTER><BASEFONT COLOR=#0000FF>Unidentified</BASEFONT></CENTER>" );
+						#endregion
+
+----------------------
+Now in the [Flags] section, change the end to look as follows
+DONT DO THIS ONE					//Added a comma to the end of the following line
+							//StrReq				= 0x00000400,
+							//ItemID_Mods added the line below            
+            						//Identified          		= 0x00000800
+
+----------------------
+Now for some Ser/deser fun!
+Increase the version by 1
+				I.E.   writer.Write( (int) # ); // version	
+        
+Change this to      writer.Write( (int) (#+1) ); // version
+
+Then just below the +1 part add in this line of code to Serialize, add:
+
+				writer.Write((bool)m_Identified); // ItemID_Mods
+
+----------------------
+Then in Deser:
+right after
+
+							switch ( version )
+            						{
+Add:
+
+							                case 6:
+							                {
+										m_Identified = reader.ReadBool();
+										goto case 5;
+                							}
+
+
+NOTE: not sure why it was done like this, but it works. so good for me.
+
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Finally for ItemIdentification.cs
+
+Look for the line:
+
+             else if ( o is BaseArmor )
+                        ((BaseArmor)o).Identified = true;
+
+Then Add the following lines below it:
+
+          //ItemID Mods Begin
+            else if ( o is BaseClothing)
+              ((BaseClothing)o).Identified = true;
+            else if ( o is BaseJewel)
+              ((BaseJewel)o).Identified = true;
+          //ItemID Mods End
+
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+OPTIONAL1:
+If you want to make it so that playercrafted items are always already Identified, then add the following changes into your CraftItem.cs
+
+Look for the line:
+					if ( item != null )
+					{
+
+And add under it:
+					double chance = ((from.Skills[SkillName.ItemID].Value-10)*0.01);
+					chance += (from.Skills[SkillName.ArmsLore].Value*0.001);
+					if ( chance >= Utility.RandomDouble() )
+					{
+						if ( item is BaseWeapon )
+							((BaseWeapon)item).Identified = true;
+						if ( item is BaseArmor )
+							((BaseArmor)item).Identified = true;
+            if ( item is BaseClothing)
+              ((BaseClothing)item).Identified = true;
+            if ( item is BaseJewel)
+              ((BaseJewel)item).Identified = true;
+					}
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+In BaseVendor.cs add this code to make items that get added to a players backpack get Identified = true
+
+				return;
+
+			bii.Amount -= amount;
+
+			IEntity o = bii.GetEntity();
+
+			if ( o is Item )
+			{
+
+// ItemID Mod START
+				if (o is BaseArmor)
+				{
+					BaseArmor id = (BaseArmor) o;
+					id.Identified = true;
+				}
+				else if (o is BaseJewel)
+				{
+					BaseJewel id = (BaseJewel) o;
+					id.Identified = true;
+				}
+				else if (o is BaseWeapon)
+				{
+					BaseWeapon id = (BaseWeapon) o;
+					id.Identified = true;
+				}
+				else if (o is BaseClothing)
+				{
+					BaseClothing id = (BaseClothing) o;
+					id.Identified = true;
+				}
+// ItemID Mod END
+
+
+				Item item = (Item)o;
+
+				if ( item.Stackable )
+				{
+					item.Amount = amount;
+
+					if ( cont == null || !cont.TryDropItem( buyer, item, false ) )
+						item.MoveToWorld( buyer.Location, buyer.Map );
+				}
+				else
+
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+To make all the newbie stuff to ID = true open CharacterCreation.cs
+
+
+		private static Item MakeNewbie( Item item )
+		{
+			if ( !Core.AOS )
+				item.LootType = LootType.Newbied;
+
+// ItemID Mod START
+				if (item is BaseArmor)
+				{
+					BaseArmor id = (BaseArmor) item;
+					id.Identified = true;
+				}
+				else if (item is BaseJewel)
+				{
+					BaseJewel id = (BaseJewel) item;
+					id.Identified = true;
+				}
+				else if (item is BaseWeapon)
+				{
+					BaseWeapon id = (BaseWeapon) item;
+					id.Identified = true;
+				}
+				else if (item is BaseClothing)
+				{
+					BaseClothing id = (BaseClothing) item;
+					id.Identified = true;
+				}
+// ItemID Mod END
+
+			return item;
+		}
+
+		private static void PlaceItemIn( Container parent, int x, int y, Item item )
+		{
+			parent.AddItem( item );
+			item.Location = new Point3D( x, y, 0 );
+		}
+
+
+
+So, anywhere it says EquipItem or PackItem, you would just make sure it said something like this
+EquipItem( MakeNewbie(new Kasa()) );
+
+Example: 
+				EquipItem( new ElvenShirt( hue ), true );
+change to
+				EquipItem( MakeNewbie(new ElvenShirt( hue )), true );
+
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Now to make it so all vendor NPC invitory get their items ID = true open GenericBuy.cs
+
+			public void Store( Type key, IEntity obj, bool cache )
+			{
+				if ( cache )
+					m_Table[key] = obj;
+
+				if ( obj is Item )
+				{
+// ItemID Mod START			
+					if (obj is BaseArmor)
+					{
+						BaseArmor id = (BaseArmor) obj;
+						id.Identified = true;
+					}
+					else if (obj is BaseJewel)
+					{
+						BaseJewel id = (BaseJewel) obj;
+						id.Identified = true;
+					}
+					else if (obj is BaseWeapon)
+					{
+						BaseWeapon id = (BaseWeapon) obj;
+						id.Identified = true;
+					}
+					else if (obj is BaseClothing)
+					{
+						BaseClothing id = (BaseClothing) obj;
+						id.Identified = true;
+					}					
+// ItemID Mod END			
+					AddItem( (Item)obj );
+				}
+
+				else if ( obj is Mobile )
+					m_Mobiles.Add( (Mobile)obj );
+			}
+
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+OPTIONAL2:
+If you want your artifact items to always show their stats, and will thus not have to be identified, then remove all refrences to "(ArtifactRarity) > 0"
+from my additions. Also make sure that that lins is not included in the regions that my modifications create. 
+
+///////////////////////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+NOTE: This mod was installed and tested on SVN 187 with MalGanis's ML script installed. 
+This just changes where some of the locations are at. but not more than 1 or 2 lines.
+
+
+Note: You may want to set everything as already identified, othewise any loot drops that have already been dropped, and all your players items/armor 
+will need to be ItemID'ed again as it will all go to Unidentified untill it is Id'd
+		Thanks to Tru for pointing this out, and providing the command to make this change
+
+	[global set Identified true items
+  
+
+NOTE: Thanks to Raelis and all the help that he gave with this script! props man!
+
+
+
+Hienrich Jager
+

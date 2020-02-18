@@ -1,0 +1,599 @@
+##############################
+Log started on 2/4/2020 4:53:34 AM
+
+2/4/2020 4:54:47 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'speedboost '
+2/4/2020 4:54:48 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'speedboost '
+2/4/2020 4:54:59 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'clearfacet '
+2/4/2020 4:55:27 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'spawngen malas/towns.map'
+2/4/2020 4:55:36 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'spawngen malas/regions.map'
+2/4/2020 4:55:37 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'spawngen malas/class gates.map'
+2/4/2020 4:55:45 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'spawngen malas/quests.map'
+2/4/2020 4:55:50 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 4:55:55 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 4:56:46 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') unhiding 0x1 "Pearl" ('Zigholtul88')
+2/4/2020 4:56:46 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'Self Unhide'
+2/4/2020 4:57:10 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'spawngen felucca.towns.map'
+2/4/2020 4:57:26 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'spawngen felucca/towns.map'
+2/4/2020 5:00:34 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add horse'
+2/4/2020 5:00:36 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3414, 3670, 0) in Felucca: "horse"
+2/4/2020 5:00:36 AM: 127.0.0.1: Serials: 0x991; 
+2/4/2020 5:00:38 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'tameit '
+2/4/2020 5:00:50 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:00:52 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x991 "a horse" (no account)
+2/4/2020 5:00:59 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add shachihoko'
+2/4/2020 5:01:00 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3415, 3670, 0) in Felucca: "shachihoko"
+2/4/2020 5:01:00 AM: 127.0.0.1: Serials: 0x992; 
+2/4/2020 5:01:04 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'tameit '
+2/4/2020 5:03:35 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') hiding 0x1 "Pearl" ('Zigholtul88')
+2/4/2020 5:03:35 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'Self Hide'
+2/4/2020 5:49:01 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add talltree'
+2/4/2020 5:49:06 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3712, 3173, 0) in Felucca: "TallTree01Addon"
+2/4/2020 5:49:06 AM: 127.0.0.1: Serials: 0x400041BA; 
+2/4/2020 5:49:10 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3706, 3173, 2) in Felucca: "TallTree03Addon"
+2/4/2020 5:49:10 AM: 127.0.0.1: Serials: 0x400041C7; 
+2/4/2020 5:49:16 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3699, 3177, 1) in Felucca: "TallTree05Addon"
+2/4/2020 5:49:16 AM: 127.0.0.1: Serials: 0x400041D4; 
+2/4/2020 5:49:23 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:49:26 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:49:27 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:49:34 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3721, 3177, 0) in Felucca: "TallTree04Addon"
+2/4/2020 5:49:34 AM: 127.0.0.1: Serials: 0x40004207; 
+2/4/2020 5:49:39 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:49:58 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3735, 3232, 2) in Felucca: "TallTree01Addon"
+2/4/2020 5:49:58 AM: 127.0.0.1: Serials: 0x40004220; 
+2/4/2020 5:50:00 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:50:03 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3730, 3221, 13) in Felucca: "TallTree02Addon"
+2/4/2020 5:50:03 AM: 127.0.0.1: Serials: 0x40004239; 
+2/4/2020 5:50:05 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:50:08 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3736, 3220, 3) in Felucca: "TallTree08Addon"
+2/4/2020 5:50:08 AM: 127.0.0.1: Serials: 0x40004258; 
+2/4/2020 5:50:11 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:50:15 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3736, 3225, 4) in Felucca: "TallTree06Addon"
+2/4/2020 5:50:15 AM: 127.0.0.1: Serials: 0x40004269; 
+2/4/2020 5:50:17 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:50:21 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3729, 3211, 6) in Felucca: "TallTree07Addon"
+2/4/2020 5:50:21 AM: 127.0.0.1: Serials: 0x40004285; 
+2/4/2020 5:50:23 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:50:28 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3725, 3211, 12) in Felucca: "TallTree02Addon"
+2/4/2020 5:50:28 AM: 127.0.0.1: Serials: 0x40004296; 
+2/4/2020 5:50:32 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:50:38 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3726, 3205, 1) in Felucca: "TallTree01Addon"
+2/4/2020 5:50:38 AM: 127.0.0.1: Serials: 0x400042AD; 
+2/4/2020 5:50:40 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:50:46 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3716, 3198, 4) in Felucca: "TallTree03Addon"
+2/4/2020 5:50:46 AM: 127.0.0.1: Serials: 0x400042C6; 
+2/4/2020 5:50:48 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:51:08 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3732, 3240, 0) in Felucca: "TallTree04Addon"
+2/4/2020 5:51:08 AM: 127.0.0.1: Serials: 0x400042DF; 
+2/4/2020 5:51:11 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:51:14 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3736, 3238, 0) in Felucca: "TallTree07Addon"
+2/4/2020 5:51:14 AM: 127.0.0.1: Serials: 0x400042F8; 
+2/4/2020 5:51:16 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:51:27 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3764, 3250, 0) in Felucca: "TallTree02Addon"
+2/4/2020 5:51:27 AM: 127.0.0.1: Serials: 0x40004309; 
+2/4/2020 5:51:29 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:51:35 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3777, 3261, 0) in Felucca: "TallTree01Addon"
+2/4/2020 5:51:35 AM: 127.0.0.1: Serials: 0x40004320; 
+2/4/2020 5:51:37 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:51:42 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3766, 3269, 0) in Felucca: "TallTree04Addon"
+2/4/2020 5:51:42 AM: 127.0.0.1: Serials: 0x40004339; 
+2/4/2020 5:51:44 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:51:48 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3769, 3277, 0) in Felucca: "TallTree01Addon"
+2/4/2020 5:51:48 AM: 127.0.0.1: Serials: 0x40004352; 
+2/4/2020 5:51:50 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:51:53 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3785, 3278, 2) in Felucca: "TallTree03Addon"
+2/4/2020 5:51:54 AM: 127.0.0.1: Serials: 0x4000436B; 
+2/4/2020 5:51:55 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:51:58 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3775, 3289, 0) in Felucca: "TallTree01Addon"
+2/4/2020 5:51:58 AM: 127.0.0.1: Serials: 0x40004384; 
+2/4/2020 5:52:00 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3775, 3296, 1) in Felucca: "TallTree01Addon"
+2/4/2020 5:52:00 AM: 127.0.0.1: Serials: 0x40004391; 
+2/4/2020 5:52:02 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:52:03 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:52:09 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3795, 3289, 3) in Felucca: "TallTree04Addon"
+2/4/2020 5:52:09 AM: 127.0.0.1: Serials: 0x400043B6; 
+2/4/2020 5:52:11 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:52:17 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3780, 3295, 2) in Felucca: "TallTree07Addon"
+2/4/2020 5:52:17 AM: 127.0.0.1: Serials: 0x400043CF; 
+2/4/2020 5:52:19 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3787, 3281, 1) in Felucca: "TallTree07Addon"
+2/4/2020 5:52:19 AM: 127.0.0.1: Serials: 0x400043D8; 
+2/4/2020 5:52:21 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:52:22 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:52:27 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3781, 3303, 6) in Felucca: "TallTree02Addon"
+2/4/2020 5:52:27 AM: 127.0.0.1: Serials: 0x400043F1; 
+2/4/2020 5:52:29 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:52:34 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3784, 3299, 2) in Felucca: "TallTree05Addon"
+2/4/2020 5:52:34 AM: 127.0.0.1: Serials: 0x40004408; 
+2/4/2020 5:52:35 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:52:42 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3798, 3303, 5) in Felucca: "TallTree01Addon"
+2/4/2020 5:52:42 AM: 127.0.0.1: Serials: 0x40004421; 
+2/4/2020 5:52:43 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3803, 3294, 9) in Felucca: "TallTree01Addon"
+2/4/2020 5:52:43 AM: 127.0.0.1: Serials: 0x4000442E; 
+2/4/2020 5:52:44 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:52:46 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:52:48 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3802, 3300, 7) in Felucca: "TallTree02Addon"
+2/4/2020 5:52:48 AM: 127.0.0.1: Serials: 0x40004453; 
+2/4/2020 5:52:50 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:52:54 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3799, 3310, 1) in Felucca: "TallTree05Addon"
+2/4/2020 5:52:54 AM: 127.0.0.1: Serials: 0x4000446A; 
+2/4/2020 5:52:56 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:53:01 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3796, 3319, 2) in Felucca: "TallTree06Addon"
+2/4/2020 5:53:01 AM: 127.0.0.1: Serials: 0x40004483; 
+2/4/2020 5:53:03 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:53:07 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3780, 3323, 0) in Felucca: "TallTree08Addon"
+2/4/2020 5:53:07 AM: 127.0.0.1: Serials: 0x4000449A; 
+2/4/2020 5:53:10 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3784, 3319, 2) in Felucca: "TallTree06Addon"
+2/4/2020 5:53:10 AM: 127.0.0.1: Serials: 0x400044A3; 
+2/4/2020 5:53:11 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:53:13 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:53:17 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3783, 3311, 2) in Felucca: "TallTree03Addon"
+2/4/2020 5:53:17 AM: 127.0.0.1: Serials: 0x400044C2; 
+2/4/2020 5:53:19 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:53:29 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3768, 3273, 0) in Felucca: "TallTree07Addon"
+2/4/2020 5:53:29 AM: 127.0.0.1: Serials: 0x400044DB; 
+2/4/2020 5:53:31 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:53:38 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3741, 3248, 4) in Felucca: "TallTree07Addon"
+2/4/2020 5:53:38 AM: 127.0.0.1: Serials: 0x400044EC; 
+2/4/2020 5:53:42 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3735, 3243, 2) in Felucca: "TallTree08Addon"
+2/4/2020 5:53:42 AM: 127.0.0.1: Serials: 0x400044F5; 
+2/4/2020 5:53:44 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:53:45 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:54:12 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3790, 3335, 2) in Felucca: "TallTree07Addon"
+2/4/2020 5:54:12 AM: 127.0.0.1: Serials: 0x4000450E; 
+2/4/2020 5:54:14 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:54:23 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3776, 3336, 2) in Felucca: "TallTree01Addon"
+2/4/2020 5:54:23 AM: 127.0.0.1: Serials: 0x4000451F; 
+2/4/2020 5:54:25 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3777, 3345, 2) in Felucca: "TallTree02Addon"
+2/4/2020 5:54:25 AM: 127.0.0.1: Serials: 0x4000452C; 
+2/4/2020 5:54:29 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3778, 3329, 0) in Felucca: "TallTree03Addon"
+2/4/2020 5:54:29 AM: 127.0.0.1: Serials: 0x40004538; 
+2/4/2020 5:54:31 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:54:33 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:54:34 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:54:38 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3778, 3354, 1) in Felucca: "TallTree04Addon"
+2/4/2020 5:54:38 AM: 127.0.0.1: Serials: 0x40004568; 
+2/4/2020 5:54:40 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:54:46 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3789, 3369, 2) in Felucca: "TallTree01Addon"
+2/4/2020 5:54:46 AM: 127.0.0.1: Serials: 0x40004581; 
+2/4/2020 5:54:50 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:54:57 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3774, 3410, 1) in Felucca: "TallTree01Addon"
+2/4/2020 5:54:57 AM: 127.0.0.1: Serials: 0x4000459A; 
+2/4/2020 5:55:00 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3772, 3399, 5) in Felucca: "TallTree02Addon"
+2/4/2020 5:55:00 AM: 127.0.0.1: Serials: 0x400045AC; 
+2/4/2020 5:55:02 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:55:03 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:55:06 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3775, 3395, 1) in Felucca: "TallTree04Addon"
+2/4/2020 5:55:06 AM: 127.0.0.1: Serials: 0x400045CF; 
+2/4/2020 5:55:07 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:55:11 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3775, 3401, 5) in Felucca: "TallTree08Addon"
+2/4/2020 5:55:11 AM: 127.0.0.1: Serials: 0x400045E8; 
+2/4/2020 5:55:13 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:55:16 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3775, 3404, 4) in Felucca: "TallTree07Addon"
+2/4/2020 5:55:16 AM: 127.0.0.1: Serials: 0x400045F9; 
+2/4/2020 5:55:18 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:55:25 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3789, 3401, 0) in Felucca: "TallTree01Addon"
+2/4/2020 5:55:25 AM: 127.0.0.1: Serials: 0x4000460A; 
+2/4/2020 5:55:27 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:55:30 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3788, 3411, 0) in Felucca: "TallTree02Addon"
+2/4/2020 5:55:30 AM: 127.0.0.1: Serials: 0x40004623; 
+2/4/2020 5:55:32 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:55:41 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3788, 3375, 2) in Felucca: "TallTree07Addon"
+2/4/2020 5:55:41 AM: 127.0.0.1: Serials: 0x4000463F; 
+2/4/2020 5:55:42 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3788, 3372, 3) in Felucca: "TallTree07Addon"
+2/4/2020 5:55:42 AM: 127.0.0.1: Serials: 0x40004648; 
+2/4/2020 5:55:44 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:55:46 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:55:50 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3790, 3364, 2) in Felucca: "TallTree06Addon"
+2/4/2020 5:55:50 AM: 127.0.0.1: Serials: 0x40004661; 
+2/4/2020 5:55:51 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:56:01 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'set str 500'
+2/4/2020 5:56:03 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') set property 'str' of 0x1 "Pearl" ('Zigholtul88') to '500'
+2/4/2020 5:56:07 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'set hits 500'
+2/4/2020 5:56:08 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') set property 'hits' of 0x1 "Pearl" ('Zigholtul88') to '500'
+2/4/2020 5:57:03 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3709, 3177, 1) in Felucca: "TallTree07Addon"
+2/4/2020 5:57:03 AM: 127.0.0.1: Serials: 0x40004678; 
+2/4/2020 5:57:08 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 5:59:33 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'save '
+2/4/2020 7:18:42 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add nightsightscroll 999'
+2/4/2020 7:18:43 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3739, 3211, 0) in Felucca: "nightsightscroll" "999"
+2/4/2020 7:18:43 AM: 127.0.0.1: Serials: 0x40004B03; 
+2/4/2020 7:19:08 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3814, 3216, 0) in Felucca: "TallTree01Addon"
+2/4/2020 7:19:09 AM: 127.0.0.1: Serials: 0x40004B08; 
+2/4/2020 7:19:13 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:19:17 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3819, 3212, 0) in Felucca: "TallTree07Addon"
+2/4/2020 7:19:17 AM: 127.0.0.1: Serials: 0x40004B21; 
+2/4/2020 7:19:19 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:19:33 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3742, 3159, 0) in Felucca: "TallTree02Addon"
+2/4/2020 7:19:33 AM: 127.0.0.1: Serials: 0x40004B35; 
+2/4/2020 7:19:37 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3752, 3153, 0) in Felucca: "TallTree02Addon"
+2/4/2020 7:19:37 AM: 127.0.0.1: Serials: 0x40004B41; 
+2/4/2020 7:19:39 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:19:41 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:20:06 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add mltree'
+2/4/2020 7:20:13 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3824, 3291, 0) in Felucca: "MLTree21Addon"
+2/4/2020 7:20:13 AM: 127.0.0.1: Serials: 0x40004B75; 
+2/4/2020 7:20:16 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:20:22 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3835, 3261, 20) in Felucca: "MLTree22Addon"
+2/4/2020 7:20:22 AM: 127.0.0.1: Serials: 0x40004B9A; 
+2/4/2020 7:20:25 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:20:34 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3851, 3229, 0) in Felucca: "MLTree25Addon"
+2/4/2020 7:20:34 AM: 127.0.0.1: Serials: 0x40004BCA; 
+2/4/2020 7:20:36 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:20:45 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3861, 3189, 0) in Felucca: "MLTree16Addon"
+2/4/2020 7:20:45 AM: 127.0.0.1: Serials: 0x40004BE8; 
+2/4/2020 7:20:47 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3865, 3188, 0) in Felucca: "MLTree19Addon"
+2/4/2020 7:20:47 AM: 127.0.0.1: Serials: 0x40004BF2; 
+2/4/2020 7:20:49 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:20:51 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:20:54 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3860, 3194, 0) in Felucca: "MLTree20Addon"
+2/4/2020 7:20:54 AM: 127.0.0.1: Serials: 0x40004C0E; 
+2/4/2020 7:20:56 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:21:05 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3882, 3156, 0) in Felucca: "MLTree23Addon"
+2/4/2020 7:21:05 AM: 127.0.0.1: Serials: 0x40004C35; 
+2/4/2020 7:21:09 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:21:20 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3926, 3182, 0) in Felucca: "MLTree22Addon"
+2/4/2020 7:21:20 AM: 127.0.0.1: Serials: 0x40004C4A; 
+2/4/2020 7:21:22 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:21:31 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3964, 3193, 0) in Felucca: "MLTree22Addon"
+2/4/2020 7:21:31 AM: 127.0.0.1: Serials: 0x40004C75; 
+2/4/2020 7:21:33 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:21:35 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3974, 3185, 0) in Felucca: "MLTree21Addon"
+2/4/2020 7:21:35 AM: 127.0.0.1: Serials: 0x40004CA0; 
+2/4/2020 7:21:37 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:21:42 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3991, 3171, 0) in Felucca: "MLTree20Addon"
+2/4/2020 7:21:42 AM: 127.0.0.1: Serials: 0x40004CC5; 
+2/4/2020 7:21:44 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:21:48 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3983, 3166, 0) in Felucca: "MLTree23Addon"
+2/4/2020 7:21:48 AM: 127.0.0.1: Serials: 0x40004CE8; 
+2/4/2020 7:21:51 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:22:10 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3911, 3305, 0) in Felucca: "MLTree22Addon"
+2/4/2020 7:22:10 AM: 127.0.0.1: Serials: 0x40004CFE; 
+2/4/2020 7:22:13 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:22:17 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3907, 3319, 0) in Felucca: "MLTree21Addon"
+2/4/2020 7:22:17 AM: 127.0.0.1: Serials: 0x40004D29; 
+2/4/2020 7:22:18 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:22:21 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3921, 3310, 0) in Felucca: "MLTree25Addon"
+2/4/2020 7:22:21 AM: 127.0.0.1: Serials: 0x40004D4E; 
+2/4/2020 7:22:23 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:22:40 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3796, 3329, 0) in Felucca: "MLTree21Addon"
+2/4/2020 7:22:41 AM: 127.0.0.1: Serials: 0x40004D6D; 
+2/4/2020 7:22:42 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:22:55 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3790, 3387, 1) in Felucca: "MLTree23Addon"
+2/4/2020 7:22:55 AM: 127.0.0.1: Serials: 0x40004D93; 
+2/4/2020 7:22:59 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:23:03 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3777, 3391, 0) in Felucca: "MLTree22Addon"
+2/4/2020 7:23:03 AM: 127.0.0.1: Serials: 0x40004DA8; 
+2/4/2020 7:23:05 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:23:11 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3775, 3406, 2) in Felucca: "MLTree25Addon"
+2/4/2020 7:23:11 AM: 127.0.0.1: Serials: 0x40004DD3; 
+2/4/2020 7:23:12 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:23:17 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3792, 3389, 0) in Felucca: "MLTree25Addon"
+2/4/2020 7:23:18 AM: 127.0.0.1: Serials: 0x40004DF2; 
+2/4/2020 7:23:20 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:23:56 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3818, 3191, 0) in Felucca: "MLTree21Addon"
+2/4/2020 7:23:56 AM: 127.0.0.1: Serials: 0x40004E0D; 
+2/4/2020 7:23:57 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:23:59 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3826, 3188, 0) in Felucca: "MLTree25Addon"
+2/4/2020 7:24:00 AM: 127.0.0.1: Serials: 0x40004E33; 
+2/4/2020 7:24:01 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:24:16 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3941, 3287, 0) in Felucca: "MLTree21Addon"
+2/4/2020 7:24:16 AM: 127.0.0.1: Serials: 0x40004E4E; 
+2/4/2020 7:24:18 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:24:29 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4004, 3244, 0) in Felucca: "MLTree23Addon"
+2/4/2020 7:24:29 AM: 127.0.0.1: Serials: 0x40004E79; 
+2/4/2020 7:24:31 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:24:35 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3990, 3241, 0) in Felucca: "MLTree22Addon"
+2/4/2020 7:24:35 AM: 127.0.0.1: Serials: 0x40004E8E; 
+2/4/2020 7:24:37 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:24:50 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add curepotion 99'
+2/4/2020 7:24:52 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3943, 3259, 0) in Felucca: "curepotion" "99"
+2/4/2020 7:24:56 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add curepotion'
+2/4/2020 7:25:00 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3948, 3259, 0) in Felucca: "MLTree22Addon"
+2/4/2020 7:25:00 AM: 127.0.0.1: Serials: 0x40004EBA; 
+2/4/2020 7:25:03 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:25:37 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3752, 3237, 1) in Felucca: "MLTree20Addon"
+2/4/2020 7:25:37 AM: 127.0.0.1: Serials: 0x40004EE9; 
+2/4/2020 7:25:39 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:25:56 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (3772, 3157, 0) in Felucca: "MLTree23Addon"
+2/4/2020 7:25:56 AM: 127.0.0.1: Serials: 0x40004F0C; 
+2/4/2020 7:25:58 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'addon2static '
+2/4/2020 7:27:07 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'freezemap '
+2/4/2020 7:27:09 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') invoking freeze for every item in Owner
+2/4/2020 7:27:12 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 7:27:16 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/4/2020 7:27:17 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/4/2020 11:55:12 AM
+
+2/4/2020 11:55:32 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'speedboost '
+2/4/2020 11:56:00 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'go '
+2/4/2020 1:27:10 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'go '
+2/4/2020 1:28:14 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:28:59 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:29:49 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:31:56 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:31:59 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'tele '
+2/4/2020 1:32:54 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:33:31 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:34:06 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:34:34 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:35:18 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:35:40 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:36:43 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:37:41 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:38:17 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:38:47 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:39:16 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'tele '
+2/4/2020 1:39:24 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:39:59 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:40:32 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 1:46:08 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 1:46:12 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/4/2020 1:46:15 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'save '
+##############################
+Log started on 2/4/2020 4:12:45 PM
+
+2/4/2020 4:13:09 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'speedboost '
+2/4/2020 4:13:51 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') unhiding 0x1 "Pearl" ('Zigholtul88')
+2/4/2020 4:13:51 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'Self Unhide'
+2/4/2020 5:33:10 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'go '
+2/4/2020 5:33:36 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor northcw'
+2/4/2020 5:33:38 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4589, 1714, 5) in Felucca: "lightwooddoor" "northcw"
+2/4/2020 5:33:38 PM: 127.0.0.1: Serials: 0x40001BB0; 
+2/4/2020 5:33:40 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:33:41 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BB0 (LightWoodDoor)
+2/4/2020 5:33:46 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor eastcw'
+2/4/2020 5:33:48 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4589, 1714, 5) in Felucca: "lightwooddoor" "eastcw"
+2/4/2020 5:33:48 PM: 127.0.0.1: Serials: 0x40001BB1; 
+2/4/2020 5:33:52 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:33:53 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BB1 (LightWoodDoor)
+2/4/2020 5:33:58 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor westcw'
+2/4/2020 5:33:59 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4589, 1714, 5) in Felucca: "lightwooddoor" "westcw"
+2/4/2020 5:33:59 PM: 127.0.0.1: Serials: 0x40001BB2; 
+2/4/2020 5:34:03 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:34:05 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BB2 (LightWoodDoor)
+2/4/2020 5:34:07 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor westccw'
+2/4/2020 5:34:08 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4589, 1714, 5) in Felucca: "lightwooddoor" "westccw"
+2/4/2020 5:34:09 PM: 127.0.0.1: Serials: 0x40001BB3; 
+2/4/2020 5:34:13 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 5:35:13 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor westccw'
+2/4/2020 5:35:13 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4591, 1717, 0) in Felucca: "lightwooddoor" "westccw"
+2/4/2020 5:35:13 PM: 127.0.0.1: Serials: 0x40001BB4; 
+2/4/2020 5:35:17 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'm remove'
+2/4/2020 5:35:18 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BB4 (LightWoodDoor)
+2/4/2020 5:35:19 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BB3 (LightWoodDoor)
+2/4/2020 5:35:25 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor eastcw'
+2/4/2020 5:35:27 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4590, 1714, 5) in Felucca: "lightwooddoor" "eastcw"
+2/4/2020 5:35:27 PM: 127.0.0.1: Serials: 0x40001BB5; 
+2/4/2020 5:35:43 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'wipe '
+2/4/2020 5:35:45 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') wiping from (4588, 1713, 2) to (4590, 1715, 25) in Felucca (Items, Mobiles)
+2/4/2020 5:36:03 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor westcw'
+2/4/2020 5:36:05 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4589, 1714, 5) in Felucca: "lightwooddoor" "westcw"
+2/4/2020 5:36:05 PM: 127.0.0.1: Serials: 0x40001BB9; 
+2/4/2020 5:36:09 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:36:10 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BB5 (LightWoodDoor)
+2/4/2020 5:36:13 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 5:36:51 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor westcw'
+2/4/2020 5:36:56 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor eastccw'
+2/4/2020 5:36:58 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4590, 1714, 5) in Felucca: "lightwooddoor" "eastccw"
+2/4/2020 5:36:58 PM: 127.0.0.1: Serials: 0x40001BBE; 
+2/4/2020 5:37:02 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 5:37:35 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:37:36 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BB9 (LightWoodDoor)
+2/4/2020 5:37:37 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:37:38 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BBE (LightWoodDoor)
+2/4/2020 5:37:49 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor southcw'
+2/4/2020 5:37:50 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4590, 1710, 5) in Felucca: "lightwooddoor" "southcw"
+2/4/2020 5:37:51 PM: 127.0.0.1: Serials: 0x40001BBF; 
+2/4/2020 5:37:59 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor southcw'
+2/4/2020 5:37:59 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4590, 1707, 5) in Felucca: "lightwooddoor" "southcw"
+2/4/2020 5:37:59 PM: 127.0.0.1: Serials: 0x40001BC0; 
+2/4/2020 5:38:04 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 5:38:35 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor southcw'
+2/4/2020 5:38:37 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 5:38:53 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'm remove'
+2/4/2020 5:38:54 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BC0 (LightWoodDoor)
+2/4/2020 5:38:55 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BBF (LightWoodDoor)
+2/4/2020 5:39:17 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor westccw'
+2/4/2020 5:39:18 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4589, 1712, 25) in Felucca: "lightwooddoor" "westccw"
+2/4/2020 5:39:18 PM: 127.0.0.1: Serials: 0x40001BC1; 
+2/4/2020 5:39:25 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 5:39:55 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor westccw'
+2/4/2020 5:39:58 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:39:58 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BC1 (LightWoodDoor)
+2/4/2020 5:40:13 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'go '
+2/4/2020 5:40:32 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add metaldoor'
+2/4/2020 5:40:39 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add metaldoor northcw'
+2/4/2020 5:40:41 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4600, 1742, 5) in Felucca: "metaldoor" "northcw"
+2/4/2020 5:40:41 PM: 127.0.0.1: Serials: 0x40001BDD; 
+2/4/2020 5:40:46 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 5:41:37 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add metaldoor northcw'
+2/4/2020 5:41:39 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:41:39 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BDD (MetalDoor)
+2/4/2020 5:41:45 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add metaldoor southccw'
+2/4/2020 5:41:47 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4600, 1742, 5) in Felucca: "metaldoor" "southccw"
+2/4/2020 5:41:47 PM: 127.0.0.1: Serials: 0x40001BF2; 
+2/4/2020 5:41:50 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'move '
+2/4/2020 5:41:51 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') moving 0x40001BF2 (MetalDoor) to (4600, 1743, 5)
+2/4/2020 5:41:55 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 5:42:27 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add metaldoor southccw'
+2/4/2020 5:42:29 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:42:30 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001BF2 (MetalDoor)
+2/4/2020 5:43:01 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:43:19 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'go '
+2/4/2020 5:44:06 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:44:34 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:45:55 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:46:06 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:46:42 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:46:53 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:47:10 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 5:47:15 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 5:48:29 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:48:29 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001C53 (DarkWoodGate)
+2/4/2020 5:48:30 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 5:48:31 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40001C52 (DarkWoodGate)
+2/4/2020 5:49:02 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:49:14 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:49:26 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 5:49:29 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 5:50:17 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:50:27 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:51:37 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:51:47 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:53:33 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:53:43 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 5:53:58 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 5:54:00 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 5:54:29 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:32:35 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:32:52 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:33:02 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:33:33 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:34:00 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate eastcw'
+2/4/2020 9:34:02 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4546, 1597, 0) in Felucca: "darkwoodgate" "eastcw"
+2/4/2020 9:34:02 PM: 127.0.0.1: Serials: 0x400057CB; 
+2/4/2020 9:34:06 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 9:34:36 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate eastcw'
+2/4/2020 9:34:39 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:34:39 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x400057CB (DarkWoodGate)
+2/4/2020 9:35:16 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:35:21 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate northccw'
+2/4/2020 9:35:28 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate southcw'
+2/4/2020 9:35:30 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4550, 1592, 0) in Felucca: "darkwoodgate" "southcw"
+2/4/2020 9:35:30 PM: 127.0.0.1: Serials: 0x400057E9; 
+2/4/2020 9:35:35 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 9:36:06 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate southcw'
+2/4/2020 9:36:10 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:36:10 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x400057E9 (DarkWoodGate)
+2/4/2020 9:36:31 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add strongwooddoor northccw'
+2/4/2020 9:36:33 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4541, 1593, 23) in Felucca: "strongwooddoor" "northccw"
+2/4/2020 9:36:33 PM: 127.0.0.1: Serials: 0x400057FB; 
+2/4/2020 9:36:38 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:36:38 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x400057FB (StrongWoodDoor)
+2/4/2020 9:36:42 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add strongwooddoor northcw'
+2/4/2020 9:36:43 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4541, 1593, 23) in Felucca: "strongwooddoor" "northcw"
+2/4/2020 9:36:43 PM: 127.0.0.1: Serials: 0x40005807; 
+2/4/2020 9:36:49 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 9:37:32 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add strongwooddoor northcw'
+2/4/2020 9:37:34 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:37:34 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40005807 (StrongWoodDoor)
+2/4/2020 9:38:15 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add metaldoor westcw'
+2/4/2020 9:38:17 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4543, 1595, 23) in Felucca: "metaldoor" "westcw"
+2/4/2020 9:38:17 PM: 127.0.0.1: Serials: 0x40005843; 
+2/4/2020 9:38:29 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 9:39:20 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add metaldoor westcw[re'
+2/4/2020 9:39:22 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:39:22 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40005843 (MetalDoor)
+2/4/2020 9:40:01 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate eastcw'
+2/4/2020 9:40:03 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4531, 1615, 0) in Felucca: "darkwoodgate" "eastcw"
+2/4/2020 9:40:03 PM: 127.0.0.1: Serials: 0x4000587F; 
+2/4/2020 9:40:12 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 9:40:38 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate eastcw'
+2/4/2020 9:40:40 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:41:08 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:41:08 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x4000587F (DarkWoodGate)
+2/4/2020 9:41:50 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:42:03 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 9:42:07 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 9:42:40 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:42:57 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:43:24 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor eastccw'
+2/4/2020 9:43:26 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4507, 1610, 12) in Felucca: "lightwooddoor" "eastccw"
+2/4/2020 9:43:26 PM: 127.0.0.1: Serials: 0x40006063; 
+2/4/2020 9:43:36 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 9:44:16 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor eastccw'
+2/4/2020 9:44:19 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:44:20 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40006063 (LightWoodDoor)
+2/4/2020 9:44:31 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:44:47 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:45:18 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor westcw'
+2/4/2020 9:45:20 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4498, 1591, 12) in Felucca: "lightwooddoor" "westcw"
+2/4/2020 9:45:20 PM: 127.0.0.1: Serials: 0x40006070; 
+2/4/2020 9:45:27 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 9:45:58 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor westcw'
+2/4/2020 9:46:01 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:46:02 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40006070 (LightWoodDoor)
+2/4/2020 9:46:13 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add lightwooddoor northcw'
+2/4/2020 9:46:14 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4500, 1587, 12) in Felucca: "lightwooddoor" "northcw"
+2/4/2020 9:46:14 PM: 127.0.0.1: Serials: 0x4000607A; 
+2/4/2020 9:46:20 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 9:46:56 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:46:57 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x4000607A (LightWoodDoor)
+2/4/2020 9:47:10 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 9:47:13 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 9:47:34 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:47:56 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:48:26 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:48:55 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:49:41 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate northccw'
+2/4/2020 9:49:46 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate northcw'
+2/4/2020 9:49:48 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4523, 1584, 0) in Felucca: "darkwoodgate" "northcw"
+2/4/2020 9:49:48 PM: 127.0.0.1: Serials: 0x40006862; 
+2/4/2020 9:49:55 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 9:50:41 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate northcw'
+2/4/2020 9:50:43 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:50:44 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40006862 (DarkWoodGate)
+2/4/2020 9:50:49 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'add darkwoodgate southccw'
+2/4/2020 9:50:51 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') building at (4523, 1584, 0) in Felucca: "darkwoodgate" "southccw"
+2/4/2020 9:50:51 PM: 127.0.0.1: Serials: 0x40006887; 
+2/4/2020 9:50:54 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'move '
+2/4/2020 9:50:55 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') moving 0x40006887 (DarkWoodGate) to (4523, 1585, 0)
+2/4/2020 9:51:00 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'props '
+2/4/2020 9:51:39 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'remove '
+2/4/2020 9:51:39 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') deleting 0x40006887 (DarkWoodGate)
+2/4/2020 9:51:46 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:52:05 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:52:32 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:52:47 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 9:53:15 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 9:53:19 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 11:47:11 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:47:54 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:48:17 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:48:37 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:48:55 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:49:27 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:49:45 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 11:49:49 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 11:50:05 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:50:40 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:51:06 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 11:51:09 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 11:51:31 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:51:51 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:52:08 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 11:52:11 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 11:52:32 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:52:56 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:53:08 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:53:24 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 11:53:27 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 11:53:43 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:54:14 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:54:27 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:54:39 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 11:54:42 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 11:55:23 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:55:40 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:55:57 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 11:56:00 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 11:56:37 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:57:10 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:57:23 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 11:57:27 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 11:58:00 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:58:39 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:58:56 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:59:13 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/4/2020 11:59:29 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/4/2020 11:59:32 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/4/2020 11:59:57 PM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/5/2020 12:00:21 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'where '
+2/5/2020 12:00:49 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'tele '
+2/5/2020 12:01:19 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'tele '
+2/5/2020 12:01:50 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/5/2020 12:01:57 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'decorate '
+2/5/2020 12:02:02 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'admin '
+2/5/2020 12:02:06 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/5/2020 12:02:07 AM: 127.0.0.1: Owner 0x1 "Pearl" ('Zigholtul88') used command 'save '

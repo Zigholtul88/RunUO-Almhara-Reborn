@@ -1,0 +1,162 @@
+##############################
+Log started on 12/31/2019 7:31:24 AM
+
+12/31/2019 7:45:13 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'speedboost '
+12/31/2019 7:45:14 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'speedboost '
+12/31/2019 7:46:49 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'basetime '
+12/31/2019 7:47:34 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+12/31/2019 7:47:36 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x40000479 (DeathRobe)
+12/31/2019 7:47:37 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+12/31/2019 7:47:38 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x40000481 (DeathRobe)
+12/31/2019 7:56:26 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'time '
+12/31/2019 7:59:27 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'time '
+12/31/2019 8:00:26 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add fire'
+12/31/2019 8:01:14 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add firenois'
+12/31/2019 8:01:18 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add firenoise north'
+12/31/2019 8:01:21 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1598, 1883, 54) in Malas: "firenoise" "north"
+12/31/2019 8:01:21 AM: 127.0.0.1: Serials: 0x400006BD; 
+12/31/2019 8:01:49 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') starting facet clear of Malas (6673 objects)
+12/31/2019 8:01:50 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'clearfacet '
+12/31/2019 8:02:06 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 6673 objects
+12/31/2019 8:03:10 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/31/2019 8:08:02 AM
+
+12/31/2019 8:08:15 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'speedboost '
+12/31/2019 8:08:18 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add firenoise north'
+12/31/2019 8:08:19 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1597, 1884, 30) in Malas: "firenoise" "north"
+12/31/2019 8:08:19 AM: 127.0.0.1: Serials: 0x4000000A; 
+12/31/2019 8:08:44 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+12/31/2019 8:08:45 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x4000000A (FireNoise)
+12/31/2019 8:11:10 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add crickets1'
+12/31/2019 8:11:12 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1590, 1907, 5) in Malas: "crickets1"
+12/31/2019 8:11:17 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add crickets1 north'
+12/31/2019 8:11:20 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1591, 1908, 10) in Malas: "crickets1" "north"
+12/31/2019 8:11:20 AM: 127.0.0.1: Serials: 0x400001C9; 
+12/31/2019 8:11:44 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add crickets1 north'
+12/31/2019 8:11:47 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1592, 1907, 5) in Malas: "crickets1" "north"
+12/31/2019 8:11:47 AM: 127.0.0.1: Serials: 0x400001CA; 
+12/31/2019 8:11:52 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'wipe '
+12/31/2019 8:11:54 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') wiping from (1590, 1906, 5) to (1594, 1909, 11) in Malas (Items, Mobiles)
+12/31/2019 8:11:59 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add crickets1 north'
+12/31/2019 8:12:08 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add spawner'
+12/31/2019 8:12:24 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'where '
+12/31/2019 8:12:36 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'where '
+12/31/2019 8:12:45 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'admin '
+12/31/2019 8:12:51 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'decorate '
+12/31/2019 8:13:07 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'where '
+12/31/2019 8:13:18 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'where '
+12/31/2019 8:13:27 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'admin '
+12/31/2019 8:13:31 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'decorate '
+12/31/2019 8:13:46 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') starting facet clear of Malas (1240 objects)
+12/31/2019 8:13:46 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'clearfacet '
+12/31/2019 8:13:48 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 1240 objects
+12/31/2019 8:16:33 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/31/2019 8:19:38 AM
+
+12/31/2019 8:19:50 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'speedboost '
+12/31/2019 8:19:55 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add firenoise north'
+12/31/2019 8:19:56 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1594, 1907, 5) in Malas: "firenoise" "north"
+12/31/2019 8:19:57 AM: 127.0.0.1: Serials: 0x4000000A; 
+12/31/2019 8:20:08 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+12/31/2019 8:20:12 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x4000000A (FireNoise)
+12/31/2019 8:22:24 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/31/2019 8:30:45 AM
+
+12/31/2019 8:30:54 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'speedboost '
+12/31/2019 8:30:57 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add firenoise north'
+12/31/2019 8:30:58 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1595, 1906, 5) in Malas: "firenoise" "north"
+12/31/2019 8:30:58 AM: 127.0.0.1: Serials: 0x4000000A; 
+12/31/2019 8:31:15 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'wipe '
+12/31/2019 8:31:17 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') wiping from (1594, 1904, 5) to (1596, 1907, 5) in Malas (Items, Mobiles)
+12/31/2019 8:34:12 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/31/2019 8:37:33 AM
+
+12/31/2019 8:37:42 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'speedboost '
+12/31/2019 8:37:45 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add firenoise north'
+12/31/2019 8:37:46 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1595, 1906, 5) in Malas: "firenoise" "north"
+12/31/2019 8:37:46 AM: 127.0.0.1: Serials: 0x4000000A; 
+12/31/2019 8:38:02 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+12/31/2019 8:38:06 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x4000000A (FireNoise)
+12/31/2019 8:39:32 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/31/2019 8:42:38 AM
+
+12/31/2019 8:42:45 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'speedboost '
+12/31/2019 8:42:48 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add firenoise north'
+12/31/2019 8:42:50 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1595, 1906, 5) in Malas: "firenoise" "north"
+12/31/2019 8:42:50 AM: 127.0.0.1: Serials: 0x4000000A; 
+12/31/2019 8:43:18 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+12/31/2019 8:43:25 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+12/31/2019 8:43:25 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x4000000A (FireNoise)
+12/31/2019 8:48:42 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/31/2019 8:51:45 AM
+
+12/31/2019 8:51:53 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'speedboost '
+12/31/2019 8:52:01 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add cricket1 north'
+12/31/2019 8:52:06 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add crickets1 north'
+12/31/2019 8:52:07 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1595, 1907, 5) in Malas: "crickets1" "north"
+12/31/2019 8:52:08 AM: 127.0.0.1: Serials: 0x4000000A; 
+12/31/2019 8:52:16 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+12/31/2019 8:52:22 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add crickets2 north'
+12/31/2019 8:52:25 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1596, 1907, 5) in Malas: "crickets2" "north"
+12/31/2019 8:52:25 AM: 127.0.0.1: Serials: 0x4000020A; 
+12/31/2019 8:52:41 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+12/31/2019 8:52:43 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x4000020A (Crickets2)
+12/31/2019 8:52:45 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+12/31/2019 8:52:46 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x4000000A (Crickets1)
+12/31/2019 8:53:50 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'where '
+12/31/2019 8:53:59 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'where '
+12/31/2019 8:54:10 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'admin '
+12/31/2019 8:54:14 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'decorate '
+12/31/2019 8:54:58 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add firenoise north'
+12/31/2019 8:55:47 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'where '
+12/31/2019 8:56:02 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'admin '
+12/31/2019 8:56:04 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'decorate '
+12/31/2019 9:26:40 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 12/31/2019 10:57:05 AM
+
+12/31/2019 9:27:26 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'speedboost '
+12/31/2019 9:27:27 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'speedboost '
+12/31/2019 9:30:55 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'where '
+12/31/2019 9:31:11 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'where '
+12/31/2019 9:31:26 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'admin '
+12/31/2019 9:31:31 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'decorate '
+12/31/2019 9:32:41 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add skaddrianpc'
+12/31/2019 9:33:24 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'where '
+12/31/2019 9:33:39 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'admin '
+12/31/2019 9:33:54 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'admin '
+12/31/2019 9:33:57 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'decorate '
+12/31/2019 9:35:17 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'premiumspawner '
+12/31/2019 9:35:23 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'runuospawnerexporter '
+12/31/2019 9:35:23 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'spawner '
+12/31/2019 9:36:29 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') starting facet clear of Malas (1263 objects)
+12/31/2019 9:36:29 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'clearfacet '
+12/31/2019 9:36:31 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 1263 objects
+12/31/2019 9:36:35 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'admin '
+12/31/2019 9:36:38 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'decorate '
+12/31/2019 9:37:02 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'spawngen malas/towns.map'
+1/8/2020 2:00:02 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'add lyrics'
+1/8/2020 2:00:09 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1615, 1892, 5) in Malas: "BigIronLyrics"
+1/8/2020 2:00:09 AM: 127.0.0.1: Serials: 0x4001AEE9; 
+1/8/2020 2:00:29 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+1/8/2020 2:00:31 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x4001AEE9 (BigIronLyrics)
+1/8/2020 2:00:36 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1615, 1892, 5) in Malas: "TheyDontCareAboutUsLyrics"
+1/8/2020 2:00:37 AM: 127.0.0.1: Serials: 0x4001AEEA; 
+1/8/2020 2:01:42 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'remove '
+1/8/2020 2:01:43 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x4001AEEA (TheyDontCareAboutUsLyrics)
+1/8/2020 2:01:49 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1614, 1891, 5) in Malas: "TheReckoningLyrics"
+1/8/2020 2:01:49 AM: 127.0.0.1: Serials: 0x4001AEEB; 
+1/8/2020 2:02:14 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') building at (1614, 1890, 5) in Malas: "SitOnMyFaceLyrics"
+1/8/2020 2:02:14 AM: 127.0.0.1: Serials: 0x4001AEEC; 
+1/8/2020 2:02:31 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'm remove'
+1/8/2020 2:02:33 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x4001AEEC (SitOnMyFaceLyrics)
+1/8/2020 2:02:33 AM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') deleting 0x4001AEEB (TheReckoningLyrics)
+1/11/2020 3:30:25 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'admin '
+1/11/2020 3:30:30 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/11/2020 3:30:30 PM: 127.0.0.1: Owner 0x2F1 "Nirahn" ('Zigholtul88') used command 'save '

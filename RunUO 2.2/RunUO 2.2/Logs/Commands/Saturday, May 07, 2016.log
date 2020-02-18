@@ -1,0 +1,165 @@
+##############################
+Log started on 5/7/2016 12:18:20 AM
+
+5/7/2016 12:18:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/7/2016 12:18:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/7/2016 12:19:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add grandfather'
+5/7/2016 12:19:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (500, 660, 52) in Malas: "WhiteGrandfatherClock"
+5/7/2016 12:19:43 AM: 127.0.0.1: Serials: 0x40001669; 
+5/7/2016 12:19:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (512, 660, 52) in Malas: "WhiteGrandfatherClock"
+5/7/2016 12:19:49 AM: 127.0.0.1: Serials: 0x4000166A; 
+5/7/2016 12:19:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 12:20:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 12:20:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+5/7/2016 12:20:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000166A (WhiteGrandfatherClock)
+5/7/2016 12:20:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001669 (WhiteGrandfatherClock)
+5/7/2016 12:20:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/7/2016 12:20:59 AM
+
+5/7/2016 12:21:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/7/2016 12:21:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/7/2016 12:23:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/7/2016 12:28:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/7/2016 12:29:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/7/2016 12:29:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/7/2016 12:29:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/7/2016 12:34:54 PM
+
+5/7/2016 12:47:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/7/2016 12:47:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+5/7/2016 12:48:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add grandfather'
+5/7/2016 12:48:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1135, 931, 15) in Malas: "LargeGrandfatherClock"
+5/7/2016 12:48:20 PM: 127.0.0.1: Serials: 0x400004BB; 
+5/7/2016 12:49:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/7/2016 12:49:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/7/2016 12:49:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/7/2016 12:49:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/7/2016 1:17:53 PM
+
+5/7/2016 1:18:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/7/2016 1:18:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400004BB (LargeGrandfatherClock)
+5/7/2016 1:18:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add direwolf'
+5/7/2016 1:18:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1140, 938, 15) in Malas: "direwolf"
+5/7/2016 1:18:31 PM: 127.0.0.1: Serials: 0x4C7; 
+5/7/2016 1:18:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add chicken'
+5/7/2016 1:18:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1139, 938, 15) in Malas: "chicken"
+5/7/2016 1:18:35 PM: 127.0.0.1: Serials: 0x4C8; 
+5/7/2016 1:18:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+5/7/2016 1:18:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4C8 "a chicken" (no account) to (1133, 939, 15)
+5/7/2016 1:19:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+5/7/2016 1:19:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4C8 "a chicken" (no account) to (1142, 938, 15)
+5/7/2016 1:19:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/7/2016 1:19:33 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4C7 "a dire wolf" (no account)
+5/7/2016 1:19:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/7/2016 1:19:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/7/2016 1:19:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/7/2016 1:36:14 PM
+
+5/7/2016 1:38:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Malas (3698 objects)
+5/7/2016 1:38:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+5/7/2016 1:38:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 3698 objects
+5/7/2016 1:38:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/7/2016 1:38:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/7/2016 1:40:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add wildturkey'
+5/7/2016 1:40:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (810, 1113, 0) in Malas: "wildturkey"
+5/7/2016 1:40:44 PM: 127.0.0.1: Serials: 0x2B5; 
+5/7/2016 1:40:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'wipe '
+5/7/2016 1:40:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') wiping from (805, 1110, 0) to (816, 1117, 0) in Malas (Items, Mobiles)
+5/7/2016 1:40:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add faerie'
+5/7/2016 1:41:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (810, 1114, 0) in Malas: "FaerieBeetleStatue"
+5/7/2016 1:41:03 PM: 127.0.0.1: Serials: 0x40001F38; 
+5/7/2016 1:41:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 1:41:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x2B6 "a faerie beetle collector" (no account) to '95'
+5/7/2016 1:42:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'BodyValue' of 0x2B6 "a faerie beetle collector" (no account) to '1026'
+5/7/2016 1:42:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/7/2016 1:42:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2B6 "a faerie beetle collector" (no account)
+5/7/2016 1:43:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/7/2016 1:45:59 PM
+
+5/7/2016 1:46:26 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add wildturkey'
+5/7/2016 1:46:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (757, 1118, 0) in Malas: "wildturkey"
+5/7/2016 1:46:27 PM: 127.0.0.1: Serials: 0x18B; 
+5/7/2016 1:46:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/7/2016 1:46:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x18B "a wild turkey" (no account)
+5/7/2016 1:47:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/7/2016 1:47:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000038E (Corpse)
+5/7/2016 1:48:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/7/2016 1:49:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/7/2016 1:51:09 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/7/2016 1:51:29 PM
+
+5/7/2016 1:51:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/7/2016 1:51:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/7/2016 1:55:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/7/2016 1:55:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 5/7/2016 1:55:40 PM
+
+5/7/2016 1:55:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/7/2016 1:55:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/7/2016 1:58:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+5/7/2016 1:58:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (815, 1113, 0) in Malas: "spawner"
+5/7/2016 1:58:17 PM: 127.0.0.1: Serials: 0x40002222; 
+5/7/2016 1:58:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+5/7/2016 1:58:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (816, 1113, 0) in Malas: "spawner"
+5/7/2016 1:58:19 PM: 127.0.0.1: Serials: 0x40002223; 
+5/7/2016 1:58:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 1:58:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40002222 (Spawner) to '10'
+5/7/2016 1:58:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 1:58:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40002223 (Spawner) to '10'
+5/7/2016 1:58:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40002223 (Spawner) to '5'
+5/7/2016 1:58:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40002222 (Spawner) to '5'
+5/7/2016 1:58:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 1:58:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40002222 (Spawner) to '5'
+5/7/2016 1:59:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 1:59:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'HomeRange' of 0x40002223 (Spawner) to '5'
+5/7/2016 2:00:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+5/7/2016 2:00:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2FA "a cat" (no account)
+5/7/2016 2:00:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x302 "a cat" (no account)
+5/7/2016 2:00:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'wipe '
+5/7/2016 2:00:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') wiping from (811, 1110, 0) to (824, 1120, 0) in Malas (Items, Mobiles)
+5/7/2016 2:01:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+5/7/2016 2:01:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (799, 1105, 0) in Malas: "spawner"
+5/7/2016 2:01:52 PM: 127.0.0.1: Serials: 0x400022F5; 
+5/7/2016 2:01:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 2:01:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400022F5 (Spawner) to '5'
+5/7/2016 2:02:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+5/7/2016 2:02:01 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (800, 1105, 0) in Malas: "spawner"
+5/7/2016 2:02:01 PM: 127.0.0.1: Serials: 0x40002301; 
+5/7/2016 2:02:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 2:02:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x40002301 (Spawner) to '5'
+5/7/2016 2:03:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+5/7/2016 2:03:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002301 (Spawner)
+5/7/2016 2:03:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400022F5 (Spawner)
+5/7/2016 2:03:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x33A "a grey wolf pup" (no account)
+5/7/2016 2:03:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x336 "a sheep" (no account)
+5/7/2016 2:03:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x334 "a sheep" (no account)
+5/7/2016 2:03:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x33C "a grey wolf pup" (no account)
+5/7/2016 2:04:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+5/7/2016 2:04:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (798, 1106, 0) in Malas: "spawner"
+5/7/2016 2:04:38 PM: 127.0.0.1: Serials: 0x400023BF; 
+5/7/2016 2:04:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+5/7/2016 2:04:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add spawner'
+5/7/2016 2:04:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (799, 1106, 0) in Malas: "spawner"
+5/7/2016 2:04:42 PM: 127.0.0.1: Serials: 0x400023C4; 
+5/7/2016 2:04:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 2:04:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400023BF (Spawner) to '5'
+5/7/2016 2:04:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/7/2016 2:04:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Count' of 0x400023C4 (Spawner) to '5'
+5/7/2016 2:06:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+5/7/2016 2:06:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400023BF (Spawner)
+5/7/2016 2:06:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x37C "a grey wolf pup" (no account)
+5/7/2016 2:06:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x37F "a grey wolf pup" (no account)
+5/7/2016 2:06:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400023C4 (Spawner)
+5/7/2016 2:06:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x379 "an alytharr forest hart" (no account)
+5/7/2016 2:06:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x37D "a grey wolf pup" (no account)
+5/7/2016 2:06:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x377 "an alytharr forest hart" (no account)
+5/7/2016 2:06:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/7/2016 2:06:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/7/2016 2:06:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

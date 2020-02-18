@@ -1,0 +1,1258 @@
+##############################
+Log started on 3/1/2017 12:04:32 AM
+
+3/1/2017 12:05:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/1/2017 12:05:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400013A7 (Static) to (200, 1741, 15)
+3/1/2017 12:05:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 12:05:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/1/2017 12:05:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400013A7 (Static) to (198, 1746, 14)
+3/1/2017 12:05:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/1/2017 12:05:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400013A7 (Static) to (200, 1741, 15)
+3/1/2017 12:05:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 12:05:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Y' of 0x400013A7 (Static) to '1742'
+3/1/2017 12:06:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/1/2017 12:06:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/1/2017 12:06:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x40000EB0 (Static) to (196, 1740, 15)
+3/1/2017 12:06:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/1/2017 12:07:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'freezemap '
+3/1/2017 12:07:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') invoking freeze for every item in Owner
+3/1/2017 12:07:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 12:07:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/1/2017 12:07:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/1/2017 12:07:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/1/2017 12:09:05 AM
+
+3/1/2017 12:09:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/1/2017 12:09:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+3/1/2017 12:10:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add darkwoodgate northccw'
+3/1/2017 12:10:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (200, 1738, 15) in Malas: "darkwoodgate" "northccw"
+3/1/2017 12:10:21 AM: 127.0.0.1: Serials: 0x40002E80; 
+3/1/2017 12:10:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/1/2017 12:10:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002E80 (DarkWoodGate)
+3/1/2017 12:10:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add darkwoodgate northcw'
+3/1/2017 12:10:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (200, 1737, 15) in Malas: "darkwoodgate" "northcw"
+3/1/2017 12:10:35 AM: 127.0.0.1: Serials: 0x40002E81; 
+3/1/2017 12:10:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add darkwoodgate northcw'
+3/1/2017 12:10:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (200, 1738, 15) in Malas: "darkwoodgate" "northcw"
+3/1/2017 12:10:39 AM: 127.0.0.1: Serials: 0x40002E82; 
+3/1/2017 12:10:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/1/2017 12:10:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002E81 (DarkWoodGate)
+3/1/2017 12:10:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 12:11:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add darkwoodgate northcw'
+3/1/2017 12:11:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/1/2017 12:11:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002E82 (DarkWoodGate)
+3/1/2017 12:11:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add darkwoodgate southccw'
+3/1/2017 12:11:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (200, 1741, 15) in Malas: "darkwoodgate" "southccw"
+3/1/2017 12:11:20 AM: 127.0.0.1: Serials: 0x40002E83; 
+3/1/2017 12:11:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add darkwoodgate southccw'
+3/1/2017 12:11:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 12:12:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add darkwoodgate southccw'
+3/1/2017 12:12:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/1/2017 12:12:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002E83 (DarkWoodGate)
+3/1/2017 12:16:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 12:16:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 12:18:50 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set str 100'
+3/1/2017 12:18:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'str' of 0x5C8 "Erika" ('Zigholtul88') to '100'
+3/1/2017 12:18:55 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set dex 100'
+3/1/2017 12:18:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'dex' of 0x5C8 "Erika" ('Zigholtul88') to '100'
+3/1/2017 12:19:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add dyetub'
+3/1/2017 12:19:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "dyetub"
+3/1/2017 12:19:03 AM: 127.0.0.1: Serials: 0x40002E88; 
+3/1/2017 12:19:07 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add dyes'
+3/1/2017 12:19:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "dyes"
+3/1/2017 12:19:08 AM: 127.0.0.1: Serials: 0x40002E89; 
+3/1/2017 12:19:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add '
+3/1/2017 12:19:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add SkullCap'
+3/1/2017 12:19:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "SkullCap"
+3/1/2017 12:19:48 AM: 127.0.0.1: Serials: 0x40002E8A; 
+3/1/2017 12:20:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add ShortPants'
+3/1/2017 12:20:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "ShortPants"
+3/1/2017 12:20:09 AM: 127.0.0.1: Serials: 0x40002E8B; 
+3/1/2017 12:20:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add FancyShirt'
+3/1/2017 12:20:17 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2519, 1989, 0) in Malas: "FancyShirt"
+3/1/2017 12:20:17 AM: 127.0.0.1: Serials: 0x40002E8C; 
+3/1/2017 12:20:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add Boots'
+3/1/2017 12:20:28 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2519, 1989, 0) in Malas: "Boots"
+3/1/2017 12:20:28 AM: 127.0.0.1: Serials: 0x40002E8D; 
+3/1/2017 12:20:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add leatherdyetub'
+3/1/2017 12:20:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "leatherdyetub"
+3/1/2017 12:20:52 AM: 127.0.0.1: Serials: 0x40002E8E; 
+3/1/2017 12:21:04 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add leathergloves'
+3/1/2017 12:21:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2519, 1989, 0) in Malas: "leathergloves"
+3/1/2017 12:21:05 AM: 127.0.0.1: Serials: 0x40002E8F; 
+3/1/2017 12:21:53 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set hue 2405'
+3/1/2017 12:21:54 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'hue' of 0x40002E8F (LeatherGloves) to '2405'
+3/1/2017 12:21:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set hue 2405'
+3/1/2017 12:22:00 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'hue' of 0x40002E8D (Boots) to '2405'
+3/1/2017 12:22:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set hue 2405'
+3/1/2017 12:22:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'hue' of 0x40002E8A (SkullCap) to '2405'
+3/1/2017 12:22:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add BodySash'
+3/1/2017 12:22:14 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2520, 1988, 0) in Malas: "BodySash"
+3/1/2017 12:22:14 AM: 127.0.0.1: Serials: 0x40002E90; 
+3/1/2017 12:22:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set hue 2405'
+3/1/2017 12:22:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'hue' of 0x40002E90 (BodySash) to '2405'
+3/1/2017 12:22:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add WoodlandBelt'
+3/1/2017 12:22:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "WoodlandBelt"
+3/1/2017 12:22:43 AM: 127.0.0.1: Serials: 0x40002E91; 
+3/1/2017 12:22:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set hue 2405'
+3/1/2017 12:22:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'hue' of 0x40002E91 (WoodlandBelt) to '2405'
+3/1/2017 12:28:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 12:34:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 12:46:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 12:46:50 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/1/2017 12:46:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/1/2017 1:51:33 AM
+
+3/1/2017 1:51:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 1:55:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 1:56:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add erika'
+3/1/2017 1:56:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1202, 1077, -10) in Malas: "ErikaTheGambler"
+3/1/2017 1:56:05 AM: 127.0.0.1: Serials: 0x5CA; 
+3/1/2017 1:56:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 1:56:28 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x5CA "Erika" (no account)
+3/1/2017 1:57:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 1:59:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm tele'
+3/1/2017 1:59:36 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm tele'
+3/1/2017 2:00:34 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:00:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm tele'
+3/1/2017 2:01:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:01:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm tele'
+3/1/2017 2:01:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:02:15 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:03:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:05:36 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:09:01 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/1/2017 2:09:15 AM
+
+3/1/2017 2:09:28 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 2:09:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 2:09:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 2:10:07 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 2:12:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 6426 set movable False hue 0 light Circle225'
+3/1/2017 2:12:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (322, 1897, 25) in Malas: "static" "6426" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:12:16 AM: 127.0.0.1: Serials: 0x40000DB3; 
+3/1/2017 2:12:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 6426 set movable False hue 0 light Circle225'
+3/1/2017 2:12:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (321, 1897, 25) in Malas: "static" "6426" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:12:21 AM: 127.0.0.1: Serials: 0x40000DB4; 
+3/1/2017 2:12:24 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (320, 1897, 25) in Malas: "static" "6426" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:12:24 AM: 127.0.0.1: Serials: 0x40000DB5; 
+3/1/2017 2:12:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (313, 1897, 25) in Malas: "static" "6426" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:12:37 AM: 127.0.0.1: Serials: 0x40000DB6; 
+3/1/2017 2:12:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (316, 1897, 25) in Malas: "static" "6426" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:12:40 AM: 127.0.0.1: Serials: 0x40000DB7; 
+3/1/2017 2:12:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (317, 1897, 25) in Malas: "static" "6426" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:12:43 AM: 127.0.0.1: Serials: 0x40000DB8; 
+3/1/2017 2:12:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm remove'
+3/1/2017 2:12:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000DB5 (Static)
+3/1/2017 2:12:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000DB4 (Static)
+3/1/2017 2:12:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000DB3 (Static)
+3/1/2017 2:12:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 6425 set movable False hue 0 light Circle225'
+3/1/2017 2:13:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (316, 1888, 25) in Malas: "static" "6425" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:13:02 AM: 127.0.0.1: Serials: 0x40000DB9; 
+3/1/2017 2:13:07 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 6424 set movable False hue 0 light Circle225'
+3/1/2017 2:13:07 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (316, 1889, 25) in Malas: "static" "6424" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:13:07 AM: 127.0.0.1: Serials: 0x40000DBA; 
+3/1/2017 2:13:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (316, 1892, 25) in Malas: "static" "6424" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:13:10 AM: 127.0.0.1: Serials: 0x40000DBB; 
+3/1/2017 2:13:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 6418 set movable False hue 0 light Circle225'
+3/1/2017 2:13:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (316, 1893, 25) in Malas: "static" "6418" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:13:18 AM: 127.0.0.1: Serials: 0x40000E06; 
+3/1/2017 2:13:22 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm remove'
+3/1/2017 2:13:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000DB7 (Static)
+3/1/2017 2:13:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000DB6 (Static)
+3/1/2017 2:13:24 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000DB8 (Static)
+3/1/2017 2:13:30 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 6425 set movable False hue 0 light Circle225'
+3/1/2017 2:13:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (316, 1891, 25) in Malas: "static" "6425" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:13:31 AM: 127.0.0.1: Serials: 0x40000E07; 
+3/1/2017 2:13:36 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 6426 set movable False hue 0 light Circle225'
+3/1/2017 2:13:38 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (317, 1893, 25) in Malas: "static" "6426" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:13:38 AM: 127.0.0.1: Serials: 0x40000E08; 
+3/1/2017 2:13:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (318, 1893, 25) in Malas: "static" "6426" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:13:40 AM: 127.0.0.1: Serials: 0x40000E09; 
+3/1/2017 2:13:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (322, 1892, 25) in Malas: "static" "6426" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:13:46 AM: 127.0.0.1: Serials: 0x40000E0A; 
+3/1/2017 2:13:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (321, 1892, 25) in Malas: "static" "6426" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:13:48 AM: 127.0.0.1: Serials: 0x40000E0B; 
+3/1/2017 2:13:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:13:53 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000E09 (Static) to (318, 1892, 25)
+3/1/2017 2:13:55 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:13:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000E08 (Static) to (317, 1892, 25)
+3/1/2017 2:13:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 2:13:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000DBB (Static)
+3/1/2017 2:14:04 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:14:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000E06 (Static) to (316, 1892, 25)
+3/1/2017 2:14:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 6427 set movable False hue 0 light Circle225'
+3/1/2017 2:14:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (320, 1892, 25) in Malas: "static" "6427" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:14:11 AM: 127.0.0.1: Serials: 0x40000E0C; 
+3/1/2017 2:14:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2880 set movable False hue 0 light Circle225'
+3/1/2017 2:14:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (318, 1888, 25) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:14:26 AM: 127.0.0.1: Serials: 0x40000E1B; 
+3/1/2017 2:14:28 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (321, 1888, 25) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:14:28 AM: 127.0.0.1: Serials: 0x40000E1C; 
+3/1/2017 2:14:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2711 set movable False hue 0 light Circle225'
+3/1/2017 2:14:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (317, 1888, 25) in Malas: "static" "2711" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:14:43 AM: 127.0.0.1: Serials: 0x40000E1D; 
+3/1/2017 2:14:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2711 set movable False hue 0 light Circle225'
+3/1/2017 2:14:50 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2712 set movable False hue 0 light Circle225'
+3/1/2017 2:14:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (322, 1888, 25) in Malas: "static" "2712" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:14:52 AM: 127.0.0.1: Serials: 0x40000E1E; 
+3/1/2017 2:15:01 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:15:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000E1B (Static) to (319, 1888, 25)
+3/1/2017 2:15:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:15:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000E1D (Static) to (318, 1888, 25)
+3/1/2017 2:15:14 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+3/1/2017 2:15:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (317, 1893, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:15:21 AM: 127.0.0.1: Serials: 0x40000E1F; 
+3/1/2017 2:15:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+3/1/2017 2:15:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (318, 1893, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:15:23 AM: 127.0.0.1: Serials: 0x40000E20; 
+3/1/2017 2:15:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+3/1/2017 2:15:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (320, 1893, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:15:26 AM: 127.0.0.1: Serials: 0x40000E21; 
+3/1/2017 2:15:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+3/1/2017 2:15:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (321, 1893, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:15:31 AM: 127.0.0.1: Serials: 0x40000E22; 
+3/1/2017 2:15:35 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+3/1/2017 2:15:35 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (315, 1891, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:15:35 AM: 127.0.0.1: Serials: 0x40000E23; 
+3/1/2017 2:15:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+3/1/2017 2:15:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (315, 1889, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:15:37 AM: 127.0.0.1: Serials: 0x40000E24; 
+3/1/2017 2:15:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2602 set movable False hue 0 light Circle225'
+3/1/2017 2:16:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2934 set movable False hue 0 light Circle225'
+3/1/2017 2:16:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2934 set movable False hue 0 light Circle225'
+3/1/2017 2:16:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (314, 1897, 25) in Malas: "static" "2934" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:16:16 AM: 127.0.0.1: Serials: 0x40000E25; 
+3/1/2017 2:16:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2934 set movable False hue 0 light Circle225'
+3/1/2017 2:16:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (318, 1897, 25) in Malas: "static" "2934" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:16:21 AM: 127.0.0.1: Serials: 0x40000E26; 
+3/1/2017 2:16:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2933 set movable False hue 0 light Circle225'
+3/1/2017 2:16:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (318, 1898, 25) in Malas: "static" "2933" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:16:32 AM: 127.0.0.1: Serials: 0x40000E27; 
+3/1/2017 2:16:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2933 set movable False hue 0 light Circle225'
+3/1/2017 2:16:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (314, 1898, 25) in Malas: "static" "2933" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:16:33 AM: 127.0.0.1: Serials: 0x40000E28; 
+3/1/2017 2:16:38 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2934 set movable False hue 0 light Circle225'
+3/1/2017 2:16:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (314, 1900, 25) in Malas: "static" "2934" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:16:39 AM: 127.0.0.1: Serials: 0x40000E29; 
+3/1/2017 2:16:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2934 set movable False hue 0 light Circle225'
+3/1/2017 2:16:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (318, 1900, 25) in Malas: "static" "2934" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:16:43 AM: 127.0.0.1: Serials: 0x40000E2A; 
+3/1/2017 2:16:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2933 set movable False hue 0 light Circle225'
+3/1/2017 2:16:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (318, 1901, 25) in Malas: "static" "2933" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:16:46 AM: 127.0.0.1: Serials: 0x40000E5C; 
+3/1/2017 2:16:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2933 set movable False hue 0 light Circle225'
+3/1/2017 2:16:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (314, 1901, 25) in Malas: "static" "2933" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:16:48 AM: 127.0.0.1: Serials: 0x40000E5D; 
+3/1/2017 2:16:57 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2602 set movable False hue 0 light Circle225'
+3/1/2017 2:16:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (315, 1897, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:16:58 AM: 127.0.0.1: Serials: 0x40000E5E; 
+3/1/2017 2:17:00 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (315, 1898, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:00 AM: 127.0.0.1: Serials: 0x40000E5F; 
+3/1/2017 2:17:01 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (313, 1897, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:01 AM: 127.0.0.1: Serials: 0x40000E60; 
+3/1/2017 2:17:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (313, 1898, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:02 AM: 127.0.0.1: Serials: 0x40000E61; 
+3/1/2017 2:17:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (313, 1900, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:03 AM: 127.0.0.1: Serials: 0x40000E62; 
+3/1/2017 2:17:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (313, 1901, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:03 AM: 127.0.0.1: Serials: 0x40000E63; 
+3/1/2017 2:17:04 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (317, 1900, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:04 AM: 127.0.0.1: Serials: 0x40000E64; 
+3/1/2017 2:17:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (317, 1901, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:05 AM: 127.0.0.1: Serials: 0x40000E65; 
+3/1/2017 2:17:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (317, 1897, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:06 AM: 127.0.0.1: Serials: 0x40000E67; 
+3/1/2017 2:17:07 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (317, 1898, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:07 AM: 127.0.0.1: Serials: 0x40000E68; 
+3/1/2017 2:17:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (319, 1897, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:08 AM: 127.0.0.1: Serials: 0x40000E69; 
+3/1/2017 2:17:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (319, 1898, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:08 AM: 127.0.0.1: Serials: 0x40000E6A; 
+3/1/2017 2:17:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (319, 1900, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:09 AM: 127.0.0.1: Serials: 0x40000E6B; 
+3/1/2017 2:17:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (319, 1901, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:10 AM: 127.0.0.1: Serials: 0x40000E6C; 
+3/1/2017 2:17:14 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (315, 1900, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:14 AM: 127.0.0.1: Serials: 0x40000E6D; 
+3/1/2017 2:17:15 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (315, 1901, 25) in Malas: "static" "2602" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:17:15 AM: 127.0.0.1: Serials: 0x40000E6E; 
+3/1/2017 2:18:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2967 set movable False hue 0 light Circle225'
+3/1/2017 2:18:07 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (324, 1887, 25) in Malas: "static" "2967" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:18:07 AM: 127.0.0.1: Serials: 0x40000E6F; 
+3/1/2017 2:18:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 2:18:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000E6F (Static)
+3/1/2017 2:18:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2967 set movable False hue 0 light Circle225'
+3/1/2017 2:18:22 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (324, 1888, 25) in Malas: "static" "2967" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:18:22 AM: 127.0.0.1: Serials: 0x40000E70; 
+3/1/2017 2:18:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2968 set movable False hue 0 light Circle225'
+3/1/2017 2:18:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (332, 1908, 25) in Malas: "static" "2968" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:18:40 AM: 127.0.0.1: Serials: 0x40000E71; 
+3/1/2017 2:18:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2968 set movable False hue 0 light Circle225'
+3/1/2017 2:19:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (353, 1875, 30) in Malas: "static" "2968" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:19:02 AM: 127.0.0.1: Serials: 0x40000E72; 
+3/1/2017 2:19:17 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2968 set movable False hue 0 light Circle225'
+3/1/2017 2:19:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (346, 1875, 30) in Malas: "static" "2968" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:19:18 AM: 127.0.0.1: Serials: 0x40000E73; 
+3/1/2017 2:19:44 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2967 set movable False hue 0 light Circle225'
+3/1/2017 2:19:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (367, 1909, 30) in Malas: "static" "2967" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:19:45 AM: 127.0.0.1: Serials: 0x40000E74; 
+3/1/2017 2:19:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2967 set movable False hue 0 light Circle225'
+3/1/2017 2:19:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (367, 1916, 30) in Malas: "static" "2967" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:19:49 AM: 127.0.0.1: Serials: 0x40000E75; 
+3/1/2017 2:19:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 2:20:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2968 set movable False hue 0 light Circle225'
+3/1/2017 2:20:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (386, 1904, 10) in Malas: "static" "2968" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:20:11 AM: 127.0.0.1: Serials: 0x40000E76; 
+3/1/2017 2:20:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2967 set movable False hue 0 light Circle225'
+3/1/2017 2:20:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (387, 1916, 10) in Malas: "static" "2967" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:20:21 AM: 127.0.0.1: Serials: 0x40000E77; 
+3/1/2017 2:20:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2967 set movable False hue 0 light Circle225'
+3/1/2017 2:20:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1866, 10) in Malas: "static" "2967" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:20:37 AM: 127.0.0.1: Serials: 0x40000E78; 
+3/1/2017 2:20:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2967 set movable False hue 0 light Circle225'
+3/1/2017 2:20:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1861, 10) in Malas: "static" "2967" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:20:40 AM: 127.0.0.1: Serials: 0x40000E79; 
+3/1/2017 2:21:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 3011 set movable False hue 0 light Circle225'
+3/1/2017 2:21:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (324, 1888, 25) in Malas: "static" "3011" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:21:49 AM: 127.0.0.1: Serials: 0x40000E7A; 
+3/1/2017 2:21:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 2:22:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:22:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 2:22:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 2:22:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000E7A (Static)
+3/1/2017 2:23:24 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2996 set movable False hue 0 light Circle225'
+3/1/2017 2:23:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (346, 1875, 30) in Malas: "static" "2996" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:23:25 AM: 127.0.0.1: Serials: 0x40000E7B; 
+3/1/2017 2:23:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 2:23:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 2:23:53 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000E7B (Static)
+3/1/2017 2:23:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:26:30 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add strongwooddoor westcw'
+3/1/2017 2:26:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (387, 1903, 10) in Malas: "strongwooddoor" "westcw"
+3/1/2017 2:26:32 AM: 127.0.0.1: Serials: 0x40000E7C; 
+3/1/2017 2:26:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 2:26:44 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 2:27:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add strongwooddoor westcw'
+3/1/2017 2:27:17 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add strongwooddoor eastccw'
+3/1/2017 2:27:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (388, 1903, 10) in Malas: "strongwooddoor" "eastccw"
+3/1/2017 2:27:19 AM: 127.0.0.1: Serials: 0x40000E7D; 
+3/1/2017 2:27:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 2:27:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add strongwooddoor eastccw'
+3/1/2017 2:27:54 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm remove'
+3/1/2017 2:27:54 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000E7C (StrongWoodDoor)
+3/1/2017 2:27:54 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000E7D (StrongWoodDoor)
+3/1/2017 2:28:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:28:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:29:55 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2831 set movable False hue 0 light Circle225'
+3/1/2017 2:29:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2832 set movable False hue 0 light Circle225'
+3/1/2017 2:30:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1893, 25) in Malas: "static" "2832" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:03 AM: 127.0.0.1: Serials: 0x40000E7E; 
+3/1/2017 2:30:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2839 set movable False hue 0 light Circle225'
+3/1/2017 2:30:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (335, 1893, 25) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:10 AM: 127.0.0.1: Serials: 0x40000E7F; 
+3/1/2017 2:30:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (336, 1893, 25) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:11 AM: 127.0.0.1: Serials: 0x40000E80; 
+3/1/2017 2:30:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (337, 1893, 25) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:13 AM: 127.0.0.1: Serials: 0x40000E82; 
+3/1/2017 2:30:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2835 set movable False hue 0 light Circle225'
+3/1/2017 2:30:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1893, 25) in Malas: "static" "2835" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:19 AM: 127.0.0.1: Serials: 0x40000E83; 
+3/1/2017 2:30:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2836 set movable False hue 0 light Circle225'
+3/1/2017 2:30:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1894, 25) in Malas: "static" "2836" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:27 AM: 127.0.0.1: Serials: 0x40000E84; 
+3/1/2017 2:30:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2837 set movable False hue 0 light Circle225'
+3/1/2017 2:30:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (337, 1895, 25) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:40 AM: 127.0.0.1: Serials: 0x40000E85; 
+3/1/2017 2:30:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (336, 1895, 25) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:42 AM: 127.0.0.1: Serials: 0x40000E86; 
+3/1/2017 2:30:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (335, 1895, 25) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:43 AM: 127.0.0.1: Serials: 0x40000E87; 
+3/1/2017 2:30:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2833 set movable False hue 0 light Circle225'
+3/1/2017 2:30:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1895, 25) in Malas: "static" "2833" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:48 AM: 127.0.0.1: Serials: 0x40000E88; 
+3/1/2017 2:30:54 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2831 set movable False hue 0 light Circle225'
+3/1/2017 2:30:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (337, 1894, 25) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:56 AM: 127.0.0.1: Serials: 0x40000E89; 
+3/1/2017 2:30:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (336, 1894, 25) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:58 AM: 127.0.0.1: Serials: 0x40000E8A; 
+3/1/2017 2:30:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (335, 1894, 25) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:30:59 AM: 127.0.0.1: Serials: 0x40000E8B; 
+3/1/2017 2:31:04 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2834 set movable False hue 0 light Circle225'
+3/1/2017 2:31:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1895, 25) in Malas: "static" "2834" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:31:05 AM: 127.0.0.1: Serials: 0x40000E9D; 
+3/1/2017 2:31:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2838 set movable False hue 0 light Circle225'
+3/1/2017 2:31:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1894, 25) in Malas: "static" "2838" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:31:09 AM: 127.0.0.1: Serials: 0x40000E9E; 
+3/1/2017 2:31:22 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2832 set movable False hue 0 light Circle225'
+3/1/2017 2:31:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1898, 25) in Malas: "static" "2832" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:31:27 AM: 127.0.0.1: Serials: 0x40000E9F; 
+3/1/2017 2:31:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2833 set movable False hue 0 light Circle225'
+3/1/2017 2:31:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1900, 25) in Malas: "static" "2833" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:31:39 AM: 127.0.0.1: Serials: 0x40000EA0; 
+3/1/2017 2:31:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2839 set movable False hue 0 light Circle225'
+3/1/2017 2:31:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (335, 1898, 25) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:31:48 AM: 127.0.0.1: Serials: 0x40000EA1; 
+3/1/2017 2:31:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (336, 1898, 25) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:31:48 AM: 127.0.0.1: Serials: 0x40000EA2; 
+3/1/2017 2:31:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (337, 1898, 25) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:31:49 AM: 127.0.0.1: Serials: 0x40000EA3; 
+3/1/2017 2:31:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2835 set movable False hue 0 light Circle225'
+3/1/2017 2:31:53 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1898, 25) in Malas: "static" "2835" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:31:53 AM: 127.0.0.1: Serials: 0x40000EA4; 
+3/1/2017 2:31:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2831 set movable False hue 0 light Circle225'
+3/1/2017 2:31:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (337, 1899, 25) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:31:58 AM: 127.0.0.1: Serials: 0x40000EA5; 
+3/1/2017 2:31:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (336, 1899, 25) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:31:59 AM: 127.0.0.1: Serials: 0x40000EA6; 
+3/1/2017 2:32:00 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (335, 1899, 25) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:32:00 AM: 127.0.0.1: Serials: 0x40000EA7; 
+3/1/2017 2:32:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2834 set movable False hue 0 light Circle225'
+3/1/2017 2:32:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1900, 25) in Malas: "static" "2834" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:32:06 AM: 127.0.0.1: Serials: 0x40000EA8; 
+3/1/2017 2:32:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2836 set movable False hue 0 light Circle225'
+3/1/2017 2:32:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1899, 25) in Malas: "static" "2836" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:32:09 AM: 127.0.0.1: Serials: 0x40000EA9; 
+3/1/2017 2:32:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2837 set movable False hue 0 light Circle225'
+3/1/2017 2:32:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (335, 1900, 25) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:32:13 AM: 127.0.0.1: Serials: 0x40000EAA; 
+3/1/2017 2:32:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (336, 1900, 25) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:32:13 AM: 127.0.0.1: Serials: 0x40000EAB; 
+3/1/2017 2:32:14 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (337, 1900, 25) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:32:14 AM: 127.0.0.1: Serials: 0x40000EAC; 
+3/1/2017 2:32:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2838 set movable False hue 0 light Circle225'
+3/1/2017 2:32:17 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1899, 25) in Malas: "static" "2838" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:32:17 AM: 127.0.0.1: Serials: 0x40000EAD; 
+3/1/2017 2:33:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2840 set movable False hue 0 light Circle225'
+3/1/2017 2:33:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1895, 28) in Malas: "static" "2840" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:33:32 AM: 127.0.0.1: Serials: 0x40000EAE; 
+3/1/2017 2:33:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1900, 28) in Malas: "static" "2840" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:33:33 AM: 127.0.0.1: Serials: 0x40000EAF; 
+3/1/2017 2:33:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2725 set movable False hue 0 light Circle225'
+3/1/2017 2:33:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1900, 28) in Malas: "static" "2725" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:33:43 AM: 127.0.0.1: Serials: 0x40000EB0; 
+3/1/2017 2:33:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1895, 28) in Malas: "static" "2725" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:33:46 AM: 127.0.0.1: Serials: 0x40000EB1; 
+3/1/2017 2:33:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2724 set movable False hue 0 light Circle225'
+3/1/2017 2:33:50 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1898, 28) in Malas: "static" "2724" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:33:50 AM: 127.0.0.1: Serials: 0x40000EB2; 
+3/1/2017 2:33:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1893, 28) in Malas: "static" "2724" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:33:51 AM: 127.0.0.1: Serials: 0x40000EB3; 
+3/1/2017 2:33:54 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2723 set movable False hue 0 light Circle225'
+3/1/2017 2:33:55 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1893, 28) in Malas: "static" "2723" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:33:55 AM: 127.0.0.1: Serials: 0x40000EB4; 
+3/1/2017 2:33:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1898, 28) in Malas: "static" "2723" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:33:56 AM: 127.0.0.1: Serials: 0x40000EB5; 
+3/1/2017 2:33:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+3/1/2017 2:34:00 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (335, 1893, 28) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:00 AM: 127.0.0.1: Serials: 0x40000EB6; 
+3/1/2017 2:34:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+3/1/2017 2:34:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (336, 1893, 28) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:03 AM: 127.0.0.1: Serials: 0x40000EB7; 
+3/1/2017 2:34:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+3/1/2017 2:34:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (337, 1893, 28) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:06 AM: 127.0.0.1: Serials: 0x40000EEB; 
+3/1/2017 2:34:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+3/1/2017 2:34:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (335, 1898, 28) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:09 AM: 127.0.0.1: Serials: 0x40000EEC; 
+3/1/2017 2:34:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+3/1/2017 2:34:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (337, 1898, 28) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:11 AM: 127.0.0.1: Serials: 0x40000EED; 
+3/1/2017 2:34:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+3/1/2017 2:34:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (336, 1898, 28) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:13 AM: 127.0.0.1: Serials: 0x40000EEE; 
+3/1/2017 2:34:17 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2720 set movable False hue 0 light Circle225'
+3/1/2017 2:34:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (335, 1895, 28) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:18 AM: 127.0.0.1: Serials: 0x40000EEF; 
+3/1/2017 2:34:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2720 set movable False hue 0 light Circle225'
+3/1/2017 2:34:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (336, 1895, 28) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:19 AM: 127.0.0.1: Serials: 0x40000EF0; 
+3/1/2017 2:34:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2720 set movable False hue 0 light Circle225'
+3/1/2017 2:34:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (337, 1895, 28) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:21 AM: 127.0.0.1: Serials: 0x40000EF1; 
+3/1/2017 2:34:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2720 set movable False hue 0 light Circle225'
+3/1/2017 2:34:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (335, 1900, 28) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:23 AM: 127.0.0.1: Serials: 0x40000EF2; 
+3/1/2017 2:34:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2720 set movable False hue 0 light Circle225'
+3/1/2017 2:34:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (336, 1900, 28) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:27 AM: 127.0.0.1: Serials: 0x40000EF3; 
+3/1/2017 2:34:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2720 set movable False hue 0 light Circle225'
+3/1/2017 2:34:30 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (337, 1900, 28) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:30 AM: 127.0.0.1: Serials: 0x40000EF4; 
+3/1/2017 2:34:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2721 set movable False hue 0 light Circle225'
+3/1/2017 2:34:35 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1894, 28) in Malas: "static" "2721" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:35 AM: 127.0.0.1: Serials: 0x40000EF5; 
+3/1/2017 2:34:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2721 set movable False hue 0 light Circle225'
+3/1/2017 2:34:38 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (334, 1899, 25) in Malas: "static" "2721" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:34:38 AM: 127.0.0.1: Serials: 0x40000EF6; 
+3/1/2017 2:34:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:34:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000EAD (Static) to (333, 1896, 25)
+3/1/2017 2:34:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:34:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000EF6 (Static) to (333, 1898, 25)
+3/1/2017 2:34:50 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:34:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000EAD (Static) to (334, 1899, 25)
+3/1/2017 2:34:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:34:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000EF6 (Static) to (334, 1899, 28)
+3/1/2017 2:35:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2719 set movable False hue 0 light Circle225'
+3/1/2017 2:35:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1894, 28) in Malas: "static" "2719" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:35:03 AM: 127.0.0.1: Serials: 0x40000EF7; 
+3/1/2017 2:35:04 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2719 set movable False hue 0 light Circle225'
+3/1/2017 2:35:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (338, 1899, 28) in Malas: "static" "2719" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:35:05 AM: 127.0.0.1: Serials: 0x40000EF8; 
+3/1/2017 2:35:54 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+3/1/2017 2:35:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (375, 1916, 10) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:35:56 AM: 127.0.0.1: Serials: 0x40000EF9; 
+3/1/2017 2:35:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+3/1/2017 2:36:00 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (378, 1916, 10) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:36:00 AM: 127.0.0.1: Serials: 0x40000EFA; 
+3/1/2017 2:36:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:36:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000EFA (Static) to (379, 1916, 10)
+3/1/2017 2:36:15 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2880 set movable False hue 0 light Circle225'
+3/1/2017 2:36:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1918, 10) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:36:19 AM: 127.0.0.1: Serials: 0x40000EFB; 
+3/1/2017 2:36:24 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 2:36:24 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000EFB (Static)
+3/1/2017 2:36:30 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 2:36:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000EFA (Static)
+3/1/2017 2:36:34 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2879 set movable False hue 0 light Circle225'
+3/1/2017 2:36:35 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1916, 10) in Malas: "static" "2879" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:36:35 AM: 127.0.0.1: Serials: 0x40000EFC; 
+3/1/2017 2:36:38 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2879 set movable False hue 0 light Circle225'
+3/1/2017 2:36:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1918, 10) in Malas: "static" "2879" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:36:39 AM: 127.0.0.1: Serials: 0x40000EFD; 
+3/1/2017 2:36:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2879 set movable False hue 0 light Circle225'
+3/1/2017 2:36:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1920, 10) in Malas: "static" "2879" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:36:41 AM: 127.0.0.1: Serials: 0x40000EFE; 
+3/1/2017 2:36:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2879 set movable False hue 0 light Circle225'
+3/1/2017 2:36:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2880 set movable False hue 0 light Circle225'
+3/1/2017 2:37:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1922, 10) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:37:03 AM: 127.0.0.1: Serials: 0x40000EFF; 
+3/1/2017 2:37:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (375, 1922, 10) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:37:25 AM: 127.0.0.1: Serials: 0x40000F00; 
+3/1/2017 2:37:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1925, 10) in Malas: "static" "2880" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:37:25 AM: 127.0.0.1: Serials: 0x40000F01; 
+3/1/2017 2:37:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 2:37:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000F01 (Static)
+3/1/2017 2:37:34 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2878 set movable False hue 0 light Circle225'
+3/1/2017 2:37:35 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (378, 1922, 10) in Malas: "static" "2878" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:37:35 AM: 127.0.0.1: Serials: 0x40000FA6; 
+3/1/2017 2:37:36 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (377, 1922, 10) in Malas: "static" "2878" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:37:36 AM: 127.0.0.1: Serials: 0x40000FA7; 
+3/1/2017 2:37:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (376, 1922, 10) in Malas: "static" "2878" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:37:37 AM: 127.0.0.1: Serials: 0x40000FA8; 
+3/1/2017 2:37:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2877 set movable False hue 0 light Circle225'
+3/1/2017 2:37:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1917, 10) in Malas: "static" "2877" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:37:42 AM: 127.0.0.1: Serials: 0x40000FA9; 
+3/1/2017 2:37:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2877 set movable False hue 0 light Circle225'
+3/1/2017 2:37:44 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1921, 10) in Malas: "static" "2877" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:37:44 AM: 127.0.0.1: Serials: 0x40000FAA; 
+3/1/2017 2:38:00 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2832 set movable False hue 0 light Circle225'
+3/1/2017 2:38:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1916, 10) in Malas: "static" "2832" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:38:11 AM: 127.0.0.1: Serials: 0x40000FAB; 
+3/1/2017 2:38:14 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2832 set movable False hue 0 light Circle225'
+3/1/2017 2:38:15 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1922, 10) in Malas: "static" "2832" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:38:15 AM: 127.0.0.1: Serials: 0x40000FAC; 
+3/1/2017 2:38:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2831 set movable False hue 0 light Circle225'
+3/1/2017 2:38:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1917, 10) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:38:20 AM: 127.0.0.1: Serials: 0x40000FAD; 
+3/1/2017 2:38:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1917, 10) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:38:26 AM: 127.0.0.1: Serials: 0x40000FAE; 
+3/1/2017 2:38:34 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2833 set movable False hue 0 light Circle225'
+3/1/2017 2:38:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2839 set movable False hue 0 light Circle225'
+3/1/2017 2:38:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1916, 10) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:38:41 AM: 127.0.0.1: Serials: 0x40000FAF; 
+3/1/2017 2:38:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2839 set movable False hue 0 light Circle225'
+3/1/2017 2:38:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1916, 10) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:38:42 AM: 127.0.0.1: Serials: 0x40000FB0; 
+3/1/2017 2:38:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add nightsightscroll 100'
+3/1/2017 2:38:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1919, 10) in Malas: "nightsightscroll" "100"
+3/1/2017 2:38:49 AM: 127.0.0.1: Serials: 0x40000FB1; 
+3/1/2017 2:39:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2835 set movable False hue 0 light Circle225'
+3/1/2017 2:39:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1916, 10) in Malas: "static" "2835" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:39:06 AM: 127.0.0.1: Serials: 0x40000FB2; 
+3/1/2017 2:39:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2836 set movable False hue 0 light Circle225'
+3/1/2017 2:39:14 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1917, 10) in Malas: "static" "2836" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:39:14 AM: 127.0.0.1: Serials: 0x40000FB3; 
+3/1/2017 2:39:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2837 set movable False hue 0 light Circle225'
+3/1/2017 2:39:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2833 set movable False hue 0 light Circle225'
+3/1/2017 2:39:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1918, 10) in Malas: "static" "2833" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:39:33 AM: 127.0.0.1: Serials: 0x40000FB4; 
+3/1/2017 2:39:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2834 set movable False hue 0 light Circle225'
+3/1/2017 2:39:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1918, 10) in Malas: "static" "2834" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:39:39 AM: 127.0.0.1: Serials: 0x40000FB5; 
+3/1/2017 2:39:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2838 set movable False hue 0 light Circle225'
+3/1/2017 2:39:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1917, 10) in Malas: "static" "2838" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:39:46 AM: 127.0.0.1: Serials: 0x40000FB6; 
+3/1/2017 2:39:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2837 set movable False hue 0 light Circle225'
+3/1/2017 2:39:50 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1918, 10) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:39:50 AM: 127.0.0.1: Serials: 0x40000FB7; 
+3/1/2017 2:39:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2837 set movable False hue 0 light Circle225'
+3/1/2017 2:39:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1918, 10) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:39:52 AM: 127.0.0.1: Serials: 0x40000FB8; 
+3/1/2017 2:40:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2835 set movable False hue 0 light Circle225'
+3/1/2017 2:40:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1923, 10) in Malas: "static" "2835" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:40:09 AM: 127.0.0.1: Serials: 0x40000FB9; 
+3/1/2017 2:40:17 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 2:40:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40000FAC (Static) to (382, 1923, 10)
+3/1/2017 2:40:24 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2839 set movable False hue 0 light Circle225'
+3/1/2017 2:40:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1923, 10) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:40:25 AM: 127.0.0.1: Serials: 0x40000FBA; 
+3/1/2017 2:40:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2839 set movable False hue 0 light Circle225'
+3/1/2017 2:40:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1923, 10) in Malas: "static" "2839" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:40:26 AM: 127.0.0.1: Serials: 0x40000FBB; 
+3/1/2017 2:40:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2838 set movable False hue 0 light Circle225'
+3/1/2017 2:40:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1924, 10) in Malas: "static" "2838" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:40:31 AM: 127.0.0.1: Serials: 0x40000FBD; 
+3/1/2017 2:40:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2834 set movable False hue 0 light Circle225'
+3/1/2017 2:40:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1925, 10) in Malas: "static" "2834" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:40:43 AM: 127.0.0.1: Serials: 0x40001000; 
+3/1/2017 2:40:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2831 set movable False hue 0 light Circle225'
+3/1/2017 2:40:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1924, 10) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:40:49 AM: 127.0.0.1: Serials: 0x40001001; 
+3/1/2017 2:40:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2831 set movable False hue 0 light Circle225'
+3/1/2017 2:40:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1924, 10) in Malas: "static" "2831" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:40:52 AM: 127.0.0.1: Serials: 0x40001002; 
+3/1/2017 2:40:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2836 set movable False hue 0 light Circle225'
+3/1/2017 2:40:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1924, 10) in Malas: "static" "2836" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:40:59 AM: 127.0.0.1: Serials: 0x40001004; 
+3/1/2017 2:41:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2833 set movable False hue 0 light Circle225'
+3/1/2017 2:41:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1925, 10) in Malas: "static" "2833" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:41:08 AM: 127.0.0.1: Serials: 0x40001005; 
+3/1/2017 2:41:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2837 set movable False hue 0 light Circle225'
+3/1/2017 2:41:14 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1925, 10) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:41:14 AM: 127.0.0.1: Serials: 0x40001006; 
+3/1/2017 2:41:15 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2837 set movable False hue 0 light Circle225'
+3/1/2017 2:41:15 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1925, 10) in Malas: "static" "2837" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:41:15 AM: 127.0.0.1: Serials: 0x40001007; 
+3/1/2017 2:41:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2840 set movable False hue 0 light Circle225'
+3/1/2017 2:41:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1918, 13) in Malas: "static" "2840" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:41:21 AM: 127.0.0.1: Serials: 0x40001008; 
+3/1/2017 2:41:30 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2840 set movable False hue 0 light Circle225'
+3/1/2017 2:41:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1925, 13) in Malas: "static" "2840" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:41:31 AM: 127.0.0.1: Serials: 0x40001009; 
+3/1/2017 2:41:44 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2719 set movable False hue 0 light Circle225'
+3/1/2017 2:41:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1924, 13) in Malas: "static" "2719" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:41:46 AM: 127.0.0.1: Serials: 0x4000100A; 
+3/1/2017 2:41:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2719 set movable False hue 0 light Circle225'
+3/1/2017 2:41:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1917, 13) in Malas: "static" "2719" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:41:51 AM: 127.0.0.1: Serials: 0x4000100B; 
+3/1/2017 2:41:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2724 set movable False hue 0 light Circle225'
+3/1/2017 2:41:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1916, 13) in Malas: "static" "2724" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:41:58 AM: 127.0.0.1: Serials: 0x4000100C; 
+3/1/2017 2:42:01 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2724 set movable False hue 0 light Circle225'
+3/1/2017 2:42:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (385, 1923, 13) in Malas: "static" "2724" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:02 AM: 127.0.0.1: Serials: 0x4000100D; 
+3/1/2017 2:42:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2723 set movable False hue 0 light Circle225'
+3/1/2017 2:42:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1923, 13) in Malas: "static" "2723" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:06 AM: 127.0.0.1: Serials: 0x4000100E; 
+3/1/2017 2:42:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2723 set movable False hue 0 light Circle225'
+3/1/2017 2:42:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1916, 13) in Malas: "static" "2723" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:09 AM: 127.0.0.1: Serials: 0x4000100F; 
+3/1/2017 2:42:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+3/1/2017 2:42:14 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1916, 13) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:14 AM: 127.0.0.1: Serials: 0x40001010; 
+3/1/2017 2:42:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+3/1/2017 2:42:17 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1916, 13) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:17 AM: 127.0.0.1: Serials: 0x40001011; 
+3/1/2017 2:42:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+3/1/2017 2:42:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1923, 13) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:20 AM: 127.0.0.1: Serials: 0x40001012; 
+3/1/2017 2:42:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2722 set movable False hue 0 light Circle225'
+3/1/2017 2:42:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1923, 13) in Malas: "static" "2722" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:21 AM: 127.0.0.1: Serials: 0x40001014; 
+3/1/2017 2:42:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2721 set movable False hue 0 light Circle225'
+3/1/2017 2:42:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1917, 13) in Malas: "static" "2721" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:29 AM: 127.0.0.1: Serials: 0x40001015; 
+3/1/2017 2:42:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2721 set movable False hue 0 light Circle225'
+3/1/2017 2:42:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1924, 13) in Malas: "static" "2721" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:33 AM: 127.0.0.1: Serials: 0x40001016; 
+3/1/2017 2:42:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2725 set movable False hue 0 light Circle225'
+3/1/2017 2:42:38 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1918, 13) in Malas: "static" "2725" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:38 AM: 127.0.0.1: Serials: 0x40001017; 
+3/1/2017 2:42:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2725 set movable False hue 0 light Circle225'
+3/1/2017 2:42:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (382, 1925, 13) in Malas: "static" "2725" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:40 AM: 127.0.0.1: Serials: 0x40001018; 
+3/1/2017 2:42:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2720 set movable False hue 0 light Circle225'
+3/1/2017 2:42:44 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1918, 13) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:44 AM: 127.0.0.1: Serials: 0x40001019; 
+3/1/2017 2:42:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2720 set movable False hue 0 light Circle225'
+3/1/2017 2:42:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1918, 13) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:45 AM: 127.0.0.1: Serials: 0x4000101B; 
+3/1/2017 2:42:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2720 set movable False hue 0 light Circle225'
+3/1/2017 2:42:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (383, 1925, 13) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:47 AM: 127.0.0.1: Serials: 0x4000101D; 
+3/1/2017 2:42:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2720 set movable False hue 0 light Circle225'
+3/1/2017 2:42:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (384, 1925, 13) in Malas: "static" "2720" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:42:49 AM: 127.0.0.1: Serials: 0x4000101E; 
+3/1/2017 2:43:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2818 set movable False hue 0 light Circle225'
+3/1/2017 2:43:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2824 set movable False hue 0 light Circle225'
+3/1/2017 2:43:17 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (375, 1925, 10) in Malas: "static" "2824" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:43:18 AM: 127.0.0.1: Serials: 0x4000101F; 
+3/1/2017 2:43:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2824 set movable False hue 0 light Circle225'
+3/1/2017 2:43:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (378, 1925, 10) in Malas: "static" "2824" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:43:21 AM: 127.0.0.1: Serials: 0x40001020; 
+3/1/2017 2:43:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2824 set movable False hue 0 light Circle225'
+3/1/2017 2:43:30 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1925, 10) in Malas: "static" "2824" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:43:30 AM: 127.0.0.1: Serials: 0x40001021; 
+3/1/2017 2:43:36 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 2822 set movable False hue 0 light Circle225'
+3/1/2017 2:43:38 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (375, 1926, 10) in Malas: "static" "2822" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:43:38 AM: 127.0.0.1: Serials: 0x40001023; 
+3/1/2017 2:43:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (378, 1926, 10) in Malas: "static" "2822" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:43:41 AM: 127.0.0.1: Serials: 0x40001024; 
+3/1/2017 2:43:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1926, 10) in Malas: "static" "2822" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:43:42 AM: 127.0.0.1: Serials: 0x40001027; 
+3/1/2017 2:43:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2819 set movable False hue 0 light Circle225'
+3/1/2017 2:43:54 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1926, 13) in Malas: "static" "2819" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:43:54 AM: 127.0.0.1: Serials: 0x40001028; 
+3/1/2017 2:43:55 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2819 set movable False hue 0 light Circle225'
+3/1/2017 2:43:55 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (378, 1926, 13) in Malas: "static" "2819" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:43:55 AM: 127.0.0.1: Serials: 0x4000102A; 
+3/1/2017 2:43:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2819 set movable False hue 0 light Circle225'
+3/1/2017 2:44:00 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (375, 1926, 13) in Malas: "static" "2819" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:44:00 AM: 127.0.0.1: Serials: 0x4000102B; 
+3/1/2017 2:44:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2821 set movable False hue 0 light Circle225'
+3/1/2017 2:44:04 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (375, 1925, 13) in Malas: "static" "2821" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:44:04 AM: 127.0.0.1: Serials: 0x4000102C; 
+3/1/2017 2:44:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2821 set movable False hue 0 light Circle225'
+3/1/2017 2:44:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (378, 1925, 13) in Malas: "static" "2821" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:44:06 AM: 127.0.0.1: Serials: 0x4000102D; 
+3/1/2017 2:44:07 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2821 set movable False hue 0 light Circle225'
+3/1/2017 2:44:07 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (379, 1925, 13) in Malas: "static" "2821" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:44:07 AM: 127.0.0.1: Serials: 0x4000102E; 
+3/1/2017 2:45:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:47:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:47:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 2:48:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 4610 set movable False hue 0 light Circle225'
+3/1/2017 2:49:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (332, 1902, 25) in Malas: "static" "4610" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:49:03 AM: 127.0.0.1: Serials: 0x4000102F; 
+3/1/2017 2:49:07 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (340, 1902, 25) in Malas: "static" "4610" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:49:07 AM: 127.0.0.1: Serials: 0x40001030; 
+3/1/2017 2:49:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 4611 set movable False hue 0 light Circle225'
+3/1/2017 2:49:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 4609 set movable False hue 0 light Circle225'
+3/1/2017 2:49:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (340, 1906, 25) in Malas: "static" "4609" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:49:21 AM: 127.0.0.1: Serials: 0x40001031; 
+3/1/2017 2:49:24 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (332, 1906, 25) in Malas: "static" "4609" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:49:24 AM: 127.0.0.1: Serials: 0x40001032; 
+3/1/2017 2:49:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Multi Add static 4611 set movable False hue 0 light Circle225'
+3/1/2017 2:49:30 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (332, 1905, 25) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:49:30 AM: 127.0.0.1: Serials: 0x40001033; 
+3/1/2017 2:49:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (332, 1904, 25) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:49:31 AM: 127.0.0.1: Serials: 0x40001034; 
+3/1/2017 2:49:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (332, 1903, 25) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:49:33 AM: 127.0.0.1: Serials: 0x40001035; 
+3/1/2017 2:49:36 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (340, 1903, 25) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:49:36 AM: 127.0.0.1: Serials: 0x40001096; 
+3/1/2017 2:49:37 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (340, 1904, 25) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:49:37 AM: 127.0.0.1: Serials: 0x40001097; 
+3/1/2017 2:49:39 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (340, 1905, 25) in Malas: "static" "4611" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 2:49:39 AM: 127.0.0.1: Serials: 0x40001098; 
+3/1/2017 2:49:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'save '
+3/1/2017 3:06:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/1/2017 3:06:44 AM
+
+3/1/2017 3:13:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:28:35 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:30:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add spawner'
+3/1/2017 3:30:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (259, 1702, 42) in Malas: "spawner"
+3/1/2017 3:30:10 AM: 127.0.0.1: Serials: 0x40001ABD; 
+3/1/2017 3:30:15 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 3:30:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 3:30:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40001ABD (Spawner) to (258, 1702, 42)
+3/1/2017 3:31:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 3:31:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'HomeRange' of 0x40001ABD (Spawner) to '3'
+3/1/2017 3:31:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 3:31:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40001ABD (Spawner) to (259, 1701, 44)
+3/1/2017 3:31:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 3:31:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40001ABD (Spawner) to (259, 1702, 42)
+3/1/2017 3:32:04 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'move '
+3/1/2017 3:32:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') moving 0x40001ABD (Spawner) to (263, 1701, 22)
+3/1/2017 3:32:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:32:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40001ABD (Spawner)
+3/1/2017 3:33:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:36:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:37:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:41:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'adddoor '
+3/1/2017 3:41:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add paperdoor'
+3/1/2017 3:42:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add woodenslidingdoor'
+3/1/2017 3:42:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add woodenslidingdoor westcw'
+3/1/2017 3:42:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1816, 431, 50) in Malas: "woodenslidingdoor" "westcw"
+3/1/2017 3:42:12 AM: 127.0.0.1: Serials: 0x40001EC0; 
+3/1/2017 3:42:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:42:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40001EC0 (WoodenSlidingDoor)
+3/1/2017 3:42:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add woodenslidingdoor westcw'
+3/1/2017 3:42:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1816, 431, 50) in Malas: "woodenslidingdoor" "westcw"
+3/1/2017 3:42:46 AM: 127.0.0.1: Serials: 0x40001EC1; 
+3/1/2017 3:42:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 3:43:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add woodenslidingdoor westcw'
+3/1/2017 3:43:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add woodenslidingdoor eastccw'
+3/1/2017 3:43:53 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1817, 431, 50) in Malas: "woodenslidingdoor" "eastccw"
+3/1/2017 3:43:53 AM: 127.0.0.1: Serials: 0x40001ED2; 
+3/1/2017 3:44:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 3:44:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add woodenslidingdoor eastccw'
+3/1/2017 3:44:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm remove'
+3/1/2017 3:44:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40001EC1 (WoodenSlidingDoor)
+3/1/2017 3:44:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40001ED2 (WoodenSlidingDoor)
+3/1/2017 3:44:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2990 set movable False hue 0 light Circle225'
+3/1/2017 3:44:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1815, 432, 45) in Malas: "static" "2990" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 3:44:59 AM: 127.0.0.1: Serials: 0x40001F08; 
+3/1/2017 3:45:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 3:45:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:45:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40001F08 (Static)
+3/1/2017 3:47:01 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add paperslidingdoor westcw'
+3/1/2017 3:47:04 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1787, 424, 25) in Malas: "paperslidingdoor" "westcw"
+3/1/2017 3:47:04 AM: 127.0.0.1: Serials: 0x40001F55; 
+3/1/2017 3:47:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 3:47:34 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add paperslidingdoor eastccw'
+3/1/2017 3:47:35 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1788, 424, 25) in Malas: "paperslidingdoor" "eastccw"
+3/1/2017 3:47:35 AM: 127.0.0.1: Serials: 0x40001F57; 
+3/1/2017 3:47:38 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 3:48:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:48:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40001F55 (PaperSlidingDoor)
+3/1/2017 3:48:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:48:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40001F57 (PaperSlidingDoor)
+3/1/2017 3:48:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 3:48:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 3:48:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 3:49:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 3:49:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2992 set movable False hue 0 light Circle225'
+3/1/2017 3:49:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1797, 425, 25) in Malas: "static" "2992" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 3:49:58 AM: 127.0.0.1: Serials: 0x40001F5C; 
+3/1/2017 3:50:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Add static 2992 set movable False hue 0 light Circle225'
+3/1/2017 3:50:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1785, 425, 25) in Malas: "static" "2992" "set" "movable" "False" "hue" "0" "light" "Circle225"
+3/1/2017 3:50:02 AM: 127.0.0.1: Serials: 0x400020CE; 
+3/1/2017 3:50:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 3:50:30 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 3:50:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm remove'
+3/1/2017 3:50:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40001F5C (Static)
+3/1/2017 3:50:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x400020CE (Static)
+3/1/2017 3:54:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:54:24 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000A38 (LocalizedSign)
+3/1/2017 3:54:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:54:38 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:54:38 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000C4D (LocalizedSign)
+3/1/2017 3:54:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:54:51 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:54:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000A5C (LocalizedSign)
+3/1/2017 3:54:53 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:56:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add chest'
+3/1/2017 3:56:53 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (522, 672, 32) in Malas: "GildedWoodenChest"
+3/1/2017 3:56:53 AM: 127.0.0.1: Serials: 0x40002155; 
+3/1/2017 3:56:56 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:56:57 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002155 (GildedWoodenChest)
+3/1/2017 3:57:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (522, 672, 32) in Malas: "OrnateWoodenChest"
+3/1/2017 3:57:06 AM: 127.0.0.1: Serials: 0x40002156; 
+3/1/2017 3:57:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:57:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002156 (OrnateWoodenChest)
+3/1/2017 3:57:28 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (522, 671, 33) in Malas: "PlainWoodenChest"
+3/1/2017 3:57:28 AM: 127.0.0.1: Serials: 0x40002158; 
+3/1/2017 3:57:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:57:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002158 (PlainWoodenChest)
+3/1/2017 3:57:44 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (522, 672, 32) in Malas: "FinishedWoodenChest"
+3/1/2017 3:57:44 AM: 127.0.0.1: Serials: 0x40002159; 
+3/1/2017 3:57:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 3:57:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002159 (FinishedWoodenChest)
+3/1/2017 3:58:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 3:59:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 4:00:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 4:02:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'freezemap '
+3/1/2017 4:02:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') invoking freeze for every item in Owner
+3/1/2017 4:02:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 4:02:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/1/2017 4:02:54 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/1/2017 4:18:05 AM
+
+3/1/2017 4:18:34 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 4:18:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 4:18:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'decorate '
+3/1/2017 4:19:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 4:20:06 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add etherea'
+3/1/2017 4:20:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (354, 1887, 25) in Malas: "EtherealBeetle"
+3/1/2017 4:20:13 AM: 127.0.0.1: Serials: 0x40002C16; 
+3/1/2017 4:20:38 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'tele '
+3/1/2017 4:20:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'tele '
+3/1/2017 4:21:17 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 4:22:35 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 4:23:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add spawner'
+3/1/2017 4:23:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (488, 696, 32) in Malas: "spawner"
+3/1/2017 4:23:08 AM: 127.0.0.1: Serials: 0x40002C20; 
+3/1/2017 4:23:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 4:23:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'HomeRange' of 0x40002C20 (Spawner) to '0'
+3/1/2017 4:23:34 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 4:23:35 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C21 (DyeTub)
+3/1/2017 4:23:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 4:23:40 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C22 (DyeTub)
+3/1/2017 4:23:43 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add elfcity'
+3/1/2017 4:23:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (487, 698, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:23:45 AM: 127.0.0.1: Serials: 0x40002C23; 
+3/1/2017 4:23:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (487, 699, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:23:46 AM: 127.0.0.1: Serials: 0x40002C25; 
+3/1/2017 4:23:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (487, 700, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:23:46 AM: 127.0.0.1: Serials: 0x40002C27; 
+3/1/2017 4:23:57 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm remove'
+3/1/2017 4:23:57 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C23 (ElfCityChestClothier)
+3/1/2017 4:23:57 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C25 (ElfCityChestClothier)
+3/1/2017 4:23:58 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C27 (ElfCityChestClothier)
+3/1/2017 4:24:00 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (487, 697, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:00 AM: 127.0.0.1: Serials: 0x40002C2E; 
+3/1/2017 4:24:01 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (487, 698, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:01 AM: 127.0.0.1: Serials: 0x40002C31; 
+3/1/2017 4:24:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (487, 699, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:02 AM: 127.0.0.1: Serials: 0x40002C36; 
+3/1/2017 4:24:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm remove'
+3/1/2017 4:24:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C2E (ElfCityChestClothier)
+3/1/2017 4:24:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C31 (ElfCityChestClothier)
+3/1/2017 4:24:10 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C36 (ElfCityChestClothier)
+3/1/2017 4:24:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (486, 697, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:12 AM: 127.0.0.1: Serials: 0x40002C37; 
+3/1/2017 4:24:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (486, 698, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:12 AM: 127.0.0.1: Serials: 0x40002C39; 
+3/1/2017 4:24:13 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (486, 699, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:13 AM: 127.0.0.1: Serials: 0x40002C3B; 
+3/1/2017 4:24:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (489, 698, 39) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:20 AM: 127.0.0.1: Serials: 0x40002C41; 
+3/1/2017 4:24:21 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (489, 699, 38) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:21 AM: 127.0.0.1: Serials: 0x40002C43; 
+3/1/2017 4:24:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm remove'
+3/1/2017 4:24:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C41 (ElfCityChestClothier)
+3/1/2017 4:24:25 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C43 (ElfCityChestClothier)
+3/1/2017 4:24:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C37 (ElfCityChestClothier)
+3/1/2017 4:24:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C39 (ElfCityChestClothier)
+3/1/2017 4:24:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C3B (ElfCityChestClothier)
+3/1/2017 4:24:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (489, 697, 38) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:29 AM: 127.0.0.1: Serials: 0x40002C44; 
+3/1/2017 4:24:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (489, 698, 38) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:29 AM: 127.0.0.1: Serials: 0x40002C46; 
+3/1/2017 4:24:30 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (486, 697, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:30 AM: 127.0.0.1: Serials: 0x40002C4B; 
+3/1/2017 4:24:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (486, 698, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:31 AM: 127.0.0.1: Serials: 0x40002C4F; 
+3/1/2017 4:24:32 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (486, 699, 32) in Malas: "ElfCityChestClothier"
+3/1/2017 4:24:32 AM: 127.0.0.1: Serials: 0x40002C52; 
+3/1/2017 4:24:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm remove'
+3/1/2017 4:24:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C44 (ElfCityChestClothier)
+3/1/2017 4:24:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C46 (ElfCityChestClothier)
+3/1/2017 4:24:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C4B (ElfCityChestClothier)
+3/1/2017 4:24:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C4F (ElfCityChestClothier)
+3/1/2017 4:24:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40002C52 (ElfCityChestClothier)
+3/1/2017 4:24:52 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 4:26:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') starting facet clear of Malas (4146 objects)
+3/1/2017 4:26:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'clearfacet '
+3/1/2017 4:26:34 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 4146 objects
+3/1/2017 5:20:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/1/2017 5:20:54 AM
+
+3/1/2017 5:21:07 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 5:21:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'decorate '
+3/1/2017 5:21:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 5:23:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') starting facet clear of Malas (3639 objects)
+3/1/2017 5:23:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'clearfacet '
+3/1/2017 5:23:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 3639 objects
+3/1/2017 5:30:00 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/1/2017 5:30:20 AM
+
+3/1/2017 5:31:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 5:31:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'decorate '
+3/1/2017 6:01:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 6:01:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') starting facet clear of Malas (3758 objects)
+3/1/2017 6:01:42 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'clearfacet '
+3/1/2017 6:01:44 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 3758 objects
+3/1/2017 6:01:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 6:01:54 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/1/2017 6:01:55 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/1/2017 6:56:14 AM
+
+3/1/2017 6:57:04 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set map felucca'
+3/1/2017 6:57:05 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'map' of 0x5C8 "Erika" ('Zigholtul88') to 'Felucca'
+3/1/2017 6:57:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') starting facet clear of Felucca (92 objects)
+3/1/2017 6:57:09 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'clearfacet '
+3/1/2017 6:57:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 92 objects
+3/1/2017 6:57:15 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set map ilshenar'
+3/1/2017 6:57:16 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'map' of 0x5C8 "Erika" ('Zigholtul88') to 'Ilshenar'
+3/1/2017 6:57:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') starting facet clear of Ilshenar (951 objects)
+3/1/2017 6:57:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'clearfacet '
+3/1/2017 6:57:20 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 951 objects
+3/1/2017 6:57:26 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set map malas'
+3/1/2017 6:57:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'map' of 0x5C8 "Erika" ('Zigholtul88') to 'Malas'
+3/1/2017 6:57:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 6:57:35 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'decorate '
+3/1/2017 7:01:23 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 7:01:27 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/1/2017 7:01:29 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/1/2017 7:45:25 AM
+
+##############################
+Log started on 3/1/2017 7:54:22 AM
+
+##############################
+Log started on 3/1/2017 8:04:09 AM
+
+3/1/2017 8:14:41 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 8:14:45 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/1/2017 8:14:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/1/2017 8:20:00 AM
+
+##############################
+Log started on 3/1/2017 8:40:37 AM
+
+##############################
+Log started on 3/1/2017 9:05:26 AM
+
+##############################
+Log started on 3/1/2017 9:16:38 AM
+
+3/1/2017 9:48:33 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 9:49:02 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 9:49:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm tele'
+3/1/2017 9:56:19 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 10:05:11 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 10:06:08 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 10:10:00 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm tele'
+3/1/2017 10:11:57 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 10:24:03 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 10:24:22 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/1/2017 10:37:20 AM
+
+3/1/2017 10:38:46 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add towncri'
+3/1/2017 10:38:49 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1198, 1056, 0) in Malas: "HammerhillTownCrier"
+3/1/2017 10:38:49 AM: 127.0.0.1: Serials: 0x3FD; 
+3/1/2017 10:39:28 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 10:39:28 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x3FD "Beta-Titan Z21" (no account)
+3/1/2017 10:40:12 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 10:40:17 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/1/2017 10:40:18 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/1/2017 11:04:21 AM
+
+3/1/2017 11:18:24 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add towncrie'
+3/1/2017 11:18:34 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (1189, 1051, 10) in Malas: "HammerhillTownCrier"
+3/1/2017 11:18:34 AM: 127.0.0.1: Serials: 0x40C; 
+3/1/2017 11:19:47 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 11:19:48 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40C "Beta-Titan Z21" (no account)
+3/1/2017 11:21:59 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add towncrie'
+3/1/2017 11:23:14 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 11:24:14 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/1/2017 11:24:38 AM
+
+3/1/2017 11:28:31 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 11:28:36 AM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'decorate '
+3/1/2017 12:14:02 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 12:14:05 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') going to 0x427 "Mitsurugi" ('tommenquar'), Location (2534, 2005, 0), Map Malas
+3/1/2017 12:14:14 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 12:14:24 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'Set AccessLevel Administrator'
+3/1/2017 12:14:27 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'AccessLevel' of 0x427 "Mitsurugi" ('tommenquar') to 'Administrator'
+3/1/2017 12:15:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/1/2017 12:15:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'setallskills 9999'
+3/1/2017 12:15:36 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'EverySkill.Base' of 0x427 "Mitsurugi" ('tommenquar') to '9999'
+3/1/2017 12:15:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add shrould'
+3/1/2017 12:15:56 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2535, 2005, 0) in Malas: "HoodedShroudOfShadows"
+3/1/2017 12:15:56 PM: 79.68.46.94: Serials: 0x40002A7F; 
+3/1/2017 12:16:05 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add z'
+3/1/2017 12:16:13 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2534, 2005, 0) in Malas: "ZyronicClaw"
+3/1/2017 12:16:13 PM: 79.68.46.94: Serials: 0x40002A80; 
+3/1/2017 12:16:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set rawstr 999 rawdex 999 rawint 999'
+3/1/2017 12:16:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'rawstr' of 0x427 "Mitsurugi" ('tommenquar') to '999'
+3/1/2017 12:16:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'rawdex' of 0x427 "Mitsurugi" ('tommenquar') to '999'
+3/1/2017 12:16:40 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'rawint' of 0x427 "Mitsurugi" ('tommenquar') to '999'
+3/1/2017 12:16:53 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'props '
+3/1/2017 12:17:09 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'LowerRegCost' of ... to '100'
+3/1/2017 12:17:19 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add spellbook'
+3/1/2017 12:18:12 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (2534, 2005, 0) in Malas: "spellbook"
+3/1/2017 12:18:12 PM: 79.68.46.94: Serials: 0x40002A81; 
+3/1/2017 12:18:26 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'allspells '
+3/1/2017 12:18:29 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') filling spellbook 0x40002A81 (Spellbook)
+3/1/2017 12:21:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'go '
+3/1/2017 12:22:50 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'm tele'
+3/1/2017 12:47:34 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 12:48:29 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 12:51:39 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 12:54:32 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 12:57:44 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 1:05:36 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 1:11:22 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 1:15:37 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 1:19:02 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 1:19:07 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/1/2017 1:19:14 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/1/2017 3:38:27 PM
+
+3/1/2017 3:39:11 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:41:15 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:41:32 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:54:23 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/1/2017 3:54:41 PM
+
+3/1/2017 3:54:57 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 3:57:34 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'tele '
+3/1/2017 3:57:38 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'where '
+3/1/2017 3:59:31 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 4:02:29 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 4:07:52 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 4:08:15 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add regioncontrol'
+3/1/2017 4:08:16 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (2516, 1971, 0) in Malas: "regioncontrol"
+3/1/2017 4:08:16 PM: 127.0.0.1: Serials: 0x4000271F; 
+3/1/2017 4:08:19 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 4:08:25 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'CanEnter' of 0x4000271F (RegionControl) to 'True'
+3/1/2017 4:08:38 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'props '
+3/1/2017 4:08:45 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Britain1'
+3/1/2017 4:09:02 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'ValoriaShips'
+3/1/2017 4:09:18 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Paws'
+3/1/2017 4:10:51 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Cove'
+3/1/2017 4:11:26 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Approach'
+3/1/2017 4:11:47 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Swamp_a'
+3/1/2017 4:12:00 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Plains_a'
+3/1/2017 4:12:12 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'InTown01'
+3/1/2017 4:12:24 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Wind'
+3/1/2017 4:13:09 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Skarabra'
+3/1/2017 4:13:26 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Ocllo'
+3/1/2017 4:13:56 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Stones2'
+3/1/2017 4:14:58 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'OldUlt06'
+3/1/2017 4:15:15 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'DragFlit'
+3/1/2017 4:15:33 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'Music' of 0x4000271F (RegionControl) to 'Create1'
+3/1/2017 4:25:02 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'admin '
+3/1/2017 4:25:07 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/1/2017 4:25:25 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/1/2017 8:29:00 PM
+
+3/1/2017 8:29:53 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 8:29:55 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x4000271F (RegionControl)
+3/1/2017 8:29:58 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 8:31:14 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 8:33:10 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 8:35:16 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 8:37:26 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 8:39:35 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 8:41:49 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 8:58:22 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/1/2017 8:58:27 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') going to 0x5C8 "Erika" ('Zigholtul88'), Location (1225, 942, 0), Map Malas
+3/1/2017 8:58:54 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/1/2017 8:59:42 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'm tele'
+3/1/2017 9:00:03 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'speedboost '
+3/1/2017 9:00:32 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'speedboost '
+3/1/2017 9:00:55 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'add scythe'
+3/1/2017 9:00:57 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') building at (1265, 935, 1) in Malas: "scythe"
+3/1/2017 9:00:57 PM: 79.68.46.94: Serials: 0x40002ADF; 
+3/1/2017 9:01:06 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'get hue'
+3/1/2017 9:01:15 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1157'
+3/1/2017 9:01:17 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002ADF (Scythe) to '1157'
+3/1/2017 9:01:34 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 1157'
+3/1/2017 9:01:35 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002A7F (HoodedShroudOfShadows) to '1157'
+3/1/2017 9:01:45 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'set hue 0'
+3/1/2017 9:01:47 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') set property 'hue' of 0x40002ADF (Scythe) to '0'
+3/1/2017 9:02:38 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'admin '
+3/1/2017 9:03:22 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 9:03:38 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 9:03:58 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 9:06:01 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 9:07:34 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 9:07:48 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 9:08:22 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'remove '
+3/1/2017 9:08:23 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') deleting 0x40000BD5 (LocalizedSign)
+3/1/2017 9:09:24 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 9:09:33 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 9:09:36 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') going to 0x427 "Mitsurugi" ('tommenquar'), Location (1118, 1234, 0), Map Malas
+3/1/2017 9:12:03 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 9:14:46 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'setallskills 100'
+3/1/2017 9:14:48 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'EverySkill.Base' of 0x5C8 "Erika" ('Zigholtul88') to '100'
+3/1/2017 9:14:52 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'add fire'
+3/1/2017 9:14:59 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') building at (5678, 303, 0) in Felucca: "FireNoDachi"
+3/1/2017 9:14:59 PM: 127.0.0.1: Serials: 0x40002B4F; 
+3/1/2017 9:17:16 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'set hits 500'
+3/1/2017 9:17:16 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') set property 'hits' of 0x5C8 "Erika" ('Zigholtul88') to '500'
+3/1/2017 9:23:56 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 9:24:11 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'hide '
+3/1/2017 9:24:12 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') hiding 0x5C8 "Erika" ('Zigholtul88')
+3/1/2017 9:24:15 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'go '
+3/1/2017 9:24:19 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 9:25:12 PM: 79.68.46.94: Administrator 0x427 "Mitsurugi" ('tommenquar') used command 'who '
+3/1/2017 9:34:00 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'who '
+3/1/2017 9:34:24 PM: 127.0.0.1: Owner 0x5C8 "Erika" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/1/2017 9:36:11 PM
+
+3/1/2017 9:37:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+3/1/2017 9:39:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+3/1/2017 9:42:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 9:43:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+3/1/2017 9:43:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 9:47:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 9:48:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add musicbox'
+3/1/2017 9:48:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1130, 929, 15) in Malas: "DawnsMusicBox"
+3/1/2017 9:48:11 PM: 127.0.0.1: Serials: 0x400022B6; 
+3/1/2017 9:57:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 9:57:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'who '
+3/1/2017 9:59:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'flip '
+3/1/2017 9:59:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+3/1/2017 9:59:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x400022B6 (DawnsMusicBox) to (1128, 930, 15)
+3/1/2017 9:59:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 10:00:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+3/1/2017 10:00:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400022B6 (DawnsMusicBox)
+3/1/2017 10:01:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 3/1/2017 10:01:45 PM
+
+3/1/2017 10:01:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/1/2017 10:02:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+3/1/2017 10:03:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 10:05:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 10:05:08 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add regioncontrol'
+3/1/2017 10:05:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (2515, 1970, 0) in Malas: "regioncontrol"
+3/1/2017 10:05:10 PM: 127.0.0.1: Serials: 0x40002CC1; 
+3/1/2017 10:05:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 10:05:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'CanEnter' of 0x40002CC1 (RegionControl) to 'True'
+3/1/2017 10:05:29 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 10:05:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'GreatEarthSerpents'
+3/1/2017 10:06:13 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Taiko'
+3/1/2017 10:06:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Approach'
+3/1/2017 10:06:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Dungeon9'
+3/1/2017 10:07:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Stones2'
+3/1/2017 10:07:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Ocllo'
+3/1/2017 10:07:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'DragFlit'
+3/1/2017 10:07:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Create1'
+3/1/2017 10:07:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Swamp_a'
+3/1/2017 10:08:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Tavern04'
+3/1/2017 10:08:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Dungeon2'
+3/1/2017 10:08:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Zento'
+3/1/2017 10:09:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'Stones2'
+3/1/2017 10:10:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'ValoriaShips'
+3/1/2017 10:10:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Music' of 0x40002CC1 (RegionControl) to 'GwennoConversation'
+3/1/2017 10:11:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/1/2017 10:11:46 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 10:11:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/1/2017 10:11:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 3/1/2017 11:07:51 PM
+
+3/1/2017 11:08:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 11:08:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+3/1/2017 11:10:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 11:11:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 11:11:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 11:12:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 11:13:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+3/1/2017 11:13:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost oof'
+3/1/2017 11:13:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost off'
+3/1/2017 11:16:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 11:21:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 11:24:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+3/1/2017 11:24:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+3/1/2017 11:24:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+3/1/2017 11:25:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+3/1/2017 11:27:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+3/2/2017 1:23:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+3/2/2017 1:23:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+3/2/2017 1:23:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

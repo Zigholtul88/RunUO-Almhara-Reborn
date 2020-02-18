@@ -1,0 +1,354 @@
+##############################
+Log started on 10/11/2013 6:44:59 AM
+
+10/11/2013 6:45:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'admin '
+10/11/2013 6:45:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'decorate '
+10/11/2013 6:47:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add ruby'
+10/11/2013 6:47:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (763, 617, -4) in Malas: "ruby"
+10/11/2013 6:47:03 AM: 127.0.0.1: Serials: 0x4000025A; 
+10/11/2013 6:54:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'admin '
+10/11/2013 6:54:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/11/2013 6:54:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/11/2013 8:47:35 AM
+
+10/11/2013 9:48:11 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add dyetub'
+10/11/2013 9:48:12 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "dyetub"
+10/11/2013 9:48:12 AM: 127.0.0.1: Serials: 0x400000B0; 
+10/11/2013 9:48:14 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add dyes'
+10/11/2013 9:48:16 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "dyes"
+10/11/2013 9:48:16 AM: 127.0.0.1: Serials: 0x400000B1; 
+10/11/2013 9:48:18 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add '
+10/11/2013 9:48:26 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add Cloak'
+10/11/2013 9:48:26 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2519, 1976, 25) in Malas: "Cloak"
+10/11/2013 9:48:26 AM: 127.0.0.1: Serials: 0x400000B2; 
+10/11/2013 9:48:32 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add FancyShirt'
+10/11/2013 9:48:32 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "FancyShirt"
+10/11/2013 9:48:32 AM: 127.0.0.1: Serials: 0x400000B4; 
+10/11/2013 9:49:14 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add elmhaven'
+10/11/2013 9:49:17 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "ElmhavenLeatherWorker"
+10/11/2013 9:49:17 AM: 127.0.0.1: Serials: 0x71; 
+10/11/2013 9:49:23 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 9:49:24 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x71 "Talarah" (no account)
+10/11/2013 9:49:34 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add elvenrace'
+10/11/2013 9:49:38 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "ElvenRaceGate2"
+10/11/2013 9:49:38 AM: 127.0.0.1: Serials: 0x400000BE; 
+10/11/2013 9:49:47 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2521, 1976, 25) in Malas: "ElvenRaceGate3"
+10/11/2013 9:49:47 AM: 127.0.0.1: Serials: 0x400000BF; 
+10/11/2013 9:50:02 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'set bodyvalue 400'
+10/11/2013 9:50:03 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'bodyvalue' of 0x4D "Filkien" ('Zigholtul88') to '400'
+10/11/2013 9:50:08 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 9:50:08 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x400000BF (ElvenRaceGate3)
+10/11/2013 9:50:09 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 9:50:09 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x400000BE (ElvenRaceGate2)
+10/11/2013 9:50:18 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add specialhair'
+10/11/2013 9:50:22 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add hair'
+10/11/2013 9:50:24 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add hai'
+10/11/2013 9:50:28 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "HairRestylingDeed"
+10/11/2013 9:50:28 AM: 127.0.0.1: Serials: 0x400000C0; 
+10/11/2013 9:50:44 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "HairRestylingDeed"
+10/11/2013 9:50:44 AM: 127.0.0.1: Serials: 0x400000C2; 
+10/11/2013 9:51:14 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add LongPants'
+10/11/2013 9:51:14 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "LongPants"
+10/11/2013 9:51:14 AM: 127.0.0.1: Serials: 0x400000C3; 
+10/11/2013 9:51:20 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add hairdy'
+10/11/2013 9:51:23 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "SpecialHairDye"
+10/11/2013 9:51:23 AM: 127.0.0.1: Serials: 0x400000C4; 
+10/11/2013 9:51:42 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add Boots'
+10/11/2013 9:51:44 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add Shoes'
+10/11/2013 9:51:45 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "Shoes"
+10/11/2013 9:51:45 AM: 127.0.0.1: Serials: 0x400000C8; 
+10/11/2013 9:52:35 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 9:54:22 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add necklace'
+10/11/2013 9:54:23 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2520, 1977, 25) in Malas: "necklace"
+10/11/2013 9:54:23 AM: 127.0.0.1: Serials: 0x400000CD; 
+10/11/2013 9:54:31 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 9:54:43 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 9:54:53 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 9:55:01 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 9:59:44 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add ethereal'
+10/11/2013 9:59:55 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "EtherealHiryu"
+10/11/2013 9:59:55 AM: 127.0.0.1: Serials: 0x400000D5; 
+10/11/2013 10:00:06 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'go '
+10/11/2013 10:00:54 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add static 3015 set movable False hue 0 light Circle225'
+10/11/2013 10:00:56 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (624, 594, 0) in Malas: "static" "3015" "set" "movable" "False" "hue" "0" "light" "Circle225"
+10/11/2013 10:00:56 AM: 127.0.0.1: Serials: 0x400000D7; 
+10/11/2013 10:01:00 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:01:45 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 10:01:46 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x400000D7 (Static)
+10/11/2013 10:01:59 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'tele '
+10/11/2013 10:02:17 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add static 2991 set movable False hue 0 light Circle225'
+10/11/2013 10:02:17 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (617, 634, 10) in Malas: "static" "2991" "set" "movable" "False" "hue" "0" "light" "Circle225"
+10/11/2013 10:02:17 AM: 127.0.0.1: Serials: 0x400000DB; 
+10/11/2013 10:02:21 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:02:33 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'tele '
+10/11/2013 10:02:45 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add static 2991 set movable False hue 0 light Circle225'
+10/11/2013 10:02:46 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (624, 594, 0) in Malas: "static" "2991" "set" "movable" "False" "hue" "0" "light" "Circle225"
+10/11/2013 10:02:46 AM: 127.0.0.1: Serials: 0x400000DC; 
+10/11/2013 10:02:49 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:03:05 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 10:03:05 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x400000DC (Static)
+10/11/2013 10:03:23 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:03:54 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 10:03:54 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x400000DB (Static)
+10/11/2013 10:04:13 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add static 2984 set movable False hue 0 light Circle225'
+10/11/2013 10:04:14 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (642, 598, 0) in Malas: "static" "2984" "set" "movable" "False" "hue" "0" "light" "Circle225"
+10/11/2013 10:04:14 AM: 127.0.0.1: Serials: 0x400000E3; 
+10/11/2013 10:04:37 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:05:17 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 10:05:18 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x400000E3 (Static)
+10/11/2013 10:07:24 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:08:03 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:08:52 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:09:03 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:09:27 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add static 3010 set movable False hue 0 light Circle225'
+10/11/2013 10:09:28 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (762, 597, 0) in Malas: "static" "3010" "set" "movable" "False" "hue" "0" "light" "Circle225"
+10/11/2013 10:09:28 AM: 127.0.0.1: Serials: 0x400000EA; 
+10/11/2013 10:09:31 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:10:12 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 10:10:12 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x400000EA (Static)
+10/11/2013 10:11:25 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:12:10 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:12:28 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:13:11 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:13:55 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:15:04 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add static 3025 set movable False hue 0 light Circle225'
+10/11/2013 10:15:06 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (743, 694, -4) in Malas: "static" "3025" "set" "movable" "False" "hue" "0" "light" "Circle225"
+10/11/2013 10:15:06 AM: 127.0.0.1: Serials: 0x400000FA; 
+10/11/2013 10:15:20 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:16:04 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 10:16:05 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x400000FA (Static)
+10/11/2013 10:17:32 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:17:56 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:19:09 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:19:24 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:19:46 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'Add static 2985 set movable False hue 0 light Circle225'
+10/11/2013 10:19:47 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (768, 614, -4) in Malas: "static" "2985" "set" "movable" "False" "hue" "0" "light" "Circle225"
+10/11/2013 10:19:47 AM: 127.0.0.1: Serials: 0x40000104; 
+10/11/2013 10:20:00 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:20:23 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 10:20:23 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x40000104 (Static)
+10/11/2013 10:22:27 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/11/2013 10:22:51 AM
+
+10/11/2013 10:22:57 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'admin '
+10/11/2013 10:23:01 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'decorate '
+10/11/2013 10:24:22 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 10:24:22 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x4000019C (LocalizedSign)
+10/11/2013 10:35:30 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add spawner farmablecabbage'
+10/11/2013 10:35:33 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (651, 707, 0) in Malas: "spawner" "farmablecabbage"
+10/11/2013 10:35:33 AM: 127.0.0.1: Serials: 0x40000274; 
+10/11/2013 10:35:39 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:35:42 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'Count' of 0x40000274 (Spawner) to '5'
+10/11/2013 10:35:48 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'move '
+10/11/2013 10:35:50 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') moving 0x40000274 (Spawner) to (652, 707, 0)
+10/11/2013 10:36:11 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:36:14 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'HomeRange' of 0x40000274 (Spawner) to '1'
+10/11/2013 10:36:19 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'move '
+10/11/2013 10:36:20 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') moving 0x40000274 (Spawner) to (651, 707, 0)
+10/11/2013 10:36:30 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'move '
+10/11/2013 10:36:32 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') moving 0x40000274 (Spawner) to (649, 705, 0)
+10/11/2013 10:36:34 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'move '
+10/11/2013 10:36:36 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') moving 0x40000274 (Spawner) to (650, 706, 0)
+10/11/2013 10:36:46 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:36:49 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'Count' of 0x40000274 (Spawner) to '9'
+10/11/2013 10:37:19 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:37:22 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'Count' of 0x40000274 (Spawner) to '5'
+10/11/2013 10:37:43 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add spawner farmablecabbage'
+10/11/2013 10:37:43 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (650, 711, 0) in Malas: "spawner" "farmablecabbage"
+10/11/2013 10:37:43 AM: 127.0.0.1: Serials: 0x400002DE; 
+10/11/2013 10:37:47 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:37:50 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'HomeRange' of 0x400002DE (Spawner) to '1'
+10/11/2013 10:37:54 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:37:57 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'Count' of 0x400002DE (Spawner) to '5'
+10/11/2013 10:38:00 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 10:38:01 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x400002DF (FarmableCabbage)
+10/11/2013 10:38:18 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'move '
+10/11/2013 10:38:19 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') moving 0x400002DE (Spawner) to (650, 710, 0)
+10/11/2013 10:38:49 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add spawner farmablecabbage'
+10/11/2013 10:38:50 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (650, 714, 0) in Malas: "spawner" "farmablecabbage"
+10/11/2013 10:38:50 AM: 127.0.0.1: Serials: 0x40000307; 
+10/11/2013 10:38:53 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:38:56 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'HomeRange' of 0x40000307 (Spawner) to '1'
+10/11/2013 10:38:58 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'Count' of 0x40000307 (Spawner) to '5'
+10/11/2013 10:39:13 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add spawner farmablecabbage'
+10/11/2013 10:39:13 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (650, 718, 0) in Malas: "spawner" "farmablecabbage"
+10/11/2013 10:39:13 AM: 127.0.0.1: Serials: 0x40000314; 
+10/11/2013 10:39:16 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:39:19 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'HomeRange' of 0x40000314 (Spawner) to '1'
+10/11/2013 10:39:21 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'Count' of 0x40000314 (Spawner) to '5'
+10/11/2013 10:39:50 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:40:04 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:40:15 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:40:28 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:40:58 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add spawner farmablecarrot'
+10/11/2013 10:40:59 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (654, 706, 0) in Malas: "spawner" "farmablecarrot"
+10/11/2013 10:40:59 AM: 127.0.0.1: Serials: 0x4000031E; 
+10/11/2013 10:41:04 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:41:07 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'HomeRange' of 0x4000031E (Spawner) to '1'
+10/11/2013 10:41:09 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'Count' of 0x4000031E (Spawner) to '5'
+10/11/2013 10:42:01 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:42:15 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:42:21 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:42:40 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:42:54 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:43:33 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add farmable'
+10/11/2013 10:43:50 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add spawner farmable onion'
+10/11/2013 10:43:52 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (659, 706, 0) in Malas: "spawner" "farmable" "onion"
+10/11/2013 10:43:58 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add spawner farmableonion'
+10/11/2013 10:43:59 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (659, 706, 0) in Malas: "spawner" "farmableonion"
+10/11/2013 10:43:59 AM: 127.0.0.1: Serials: 0x4000033A; 
+10/11/2013 10:44:02 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:44:06 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'HomeRange' of 0x4000033A (Spawner) to '1'
+10/11/2013 10:44:08 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'Count' of 0x4000033A (Spawner) to '5'
+10/11/2013 10:44:44 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:45:37 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add spawner farmablelettuce'
+10/11/2013 10:45:38 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (663, 706, 0) in Malas: "spawner" "farmablelettuce"
+10/11/2013 10:45:38 AM: 127.0.0.1: Serials: 0x4000034C; 
+10/11/2013 10:45:46 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:45:49 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'HomeRange' of 0x4000034C (Spawner) to '1'
+10/11/2013 10:45:52 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') set property 'Count' of 0x4000034C (Spawner) to '5'
+10/11/2013 10:46:08 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'props '
+10/11/2013 10:47:04 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'm remove'
+10/11/2013 10:47:04 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x4000034C (Spawner)
+10/11/2013 10:47:05 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x4000035F (FarmableLettuce)
+10/11/2013 10:47:08 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x4000035C (FarmableLettuce)
+10/11/2013 10:47:11 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'wipe '
+10/11/2013 10:47:14 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') wiping from (648, 704, 0) to (664, 720, 0) in Malas (Items, Mobiles)
+10/11/2013 10:48:51 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'go '
+10/11/2013 10:50:00 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:51:28 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:51:55 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:52:18 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:53:01 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:53:16 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:53:35 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'tele '
+10/11/2013 10:53:39 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:53:55 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:54:13 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:54:37 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 10:55:02 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'tele '
+10/11/2013 10:57:09 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'tele '
+10/11/2013 11:02:30 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'add blacklizard'
+10/11/2013 11:02:31 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') building at (688, 756, 2) in Malas: "blacklizard"
+10/11/2013 11:02:31 AM: 127.0.0.1: Serials: 0x71; 
+10/11/2013 11:02:36 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'remove '
+10/11/2013 11:02:37 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') deleting 0x71 "a black lizard" (no account)
+10/11/2013 11:03:37 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 11:04:06 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 11:04:55 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 11:05:19 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 11:05:44 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 11:06:30 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 11:07:04 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 11:07:54 AM: 127.0.0.1: Owner 0x4D "Filkien" ('Zigholtul88') used command 'where '
+10/11/2013 11:59:58 AM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'add elvenga'
+10/11/2013 12:00:01 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'add elven'
+10/11/2013 12:00:08 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2517, 1980, 25) in Malas: "ElvenRaceGate1"
+10/11/2013 12:00:08 PM: 127.0.0.1: Serials: 0x400003E5; 
+10/11/2013 12:00:10 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2519, 1980, 25) in Malas: "ElvenRaceGate2"
+10/11/2013 12:00:10 PM: 127.0.0.1: Serials: 0x400003E6; 
+10/11/2013 12:00:13 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2521, 1980, 25) in Malas: "ElvenRaceGate3"
+10/11/2013 12:00:13 PM: 127.0.0.1: Serials: 0x400003E7; 
+10/11/2013 12:00:20 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'm remove'
+10/11/2013 12:00:20 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') deleting 0x400003E5 (ElvenRaceGate1)
+10/11/2013 12:00:21 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') deleting 0x400003E6 (ElvenRaceGate2)
+10/11/2013 12:00:21 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') deleting 0x400003E7 (ElvenRaceGate3)
+10/11/2013 12:00:24 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'add '
+10/11/2013 12:00:47 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add WideBrimHat'
+10/11/2013 12:00:48 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2517, 1977, 25) in Malas: "WideBrimHat"
+10/11/2013 12:00:48 PM: 127.0.0.1: Serials: 0x400003E9; 
+10/11/2013 12:00:57 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add Kilt'
+10/11/2013 12:00:58 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "Kilt"
+10/11/2013 12:00:58 PM: 127.0.0.1: Serials: 0x400003EA; 
+10/11/2013 12:01:13 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add Shirt'
+10/11/2013 12:01:13 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2517, 1977, 25) in Malas: "Shirt"
+10/11/2013 12:01:13 PM: 127.0.0.1: Serials: 0x400003EC; 
+10/11/2013 12:01:23 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add ThighBoots'
+10/11/2013 12:01:24 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "ThighBoots"
+10/11/2013 12:01:24 PM: 127.0.0.1: Serials: 0x400003ED; 
+10/11/2013 12:01:36 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add ElvenBoots'
+10/11/2013 12:01:37 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "ElvenBoots"
+10/11/2013 12:01:37 PM: 127.0.0.1: Serials: 0x400003F1; 
+10/11/2013 12:02:00 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add Skirt'
+10/11/2013 12:02:00 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "Skirt"
+10/11/2013 12:02:00 PM: 127.0.0.1: Serials: 0x400003F3; 
+10/11/2013 12:02:16 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add HalfApron'
+10/11/2013 12:02:17 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "HalfApron"
+10/11/2013 12:02:17 PM: 127.0.0.1: Serials: 0x400003F4; 
+10/11/2013 12:02:25 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add FullApron'
+10/11/2013 12:02:26 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2517, 1977, 25) in Malas: "FullApron"
+10/11/2013 12:02:26 PM: 127.0.0.1: Serials: 0x400003F5; 
+10/11/2013 12:02:46 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add ShortPants'
+10/11/2013 12:02:46 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "ShortPants"
+10/11/2013 12:02:46 PM: 127.0.0.1: Serials: 0x400003F6; 
+10/11/2013 12:02:52 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add LongPants'
+10/11/2013 12:02:53 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2517, 1977, 25) in Malas: "LongPants"
+10/11/2013 12:02:53 PM: 127.0.0.1: Serials: 0x400003F7; 
+10/11/2013 12:03:23 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add Hakama'
+10/11/2013 12:03:24 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2517, 1977, 25) in Malas: "Hakama"
+10/11/2013 12:03:24 PM: 127.0.0.1: Serials: 0x400003F8; 
+10/11/2013 12:03:30 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add ElvenPants'
+10/11/2013 12:03:31 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "ElvenPants"
+10/11/2013 12:03:31 PM: 127.0.0.1: Serials: 0x400003F9; 
+10/11/2013 12:03:46 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add Bonnet'
+10/11/2013 12:03:47 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "Bonnet"
+10/11/2013 12:03:47 PM: 127.0.0.1: Serials: 0x400003FB; 
+10/11/2013 12:04:55 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'Add FancyDress'
+10/11/2013 12:04:55 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2518, 1976, 25) in Malas: "FancyDress"
+10/11/2013 12:04:55 PM: 127.0.0.1: Serials: 0x400003FC; 
+10/11/2013 12:05:12 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'add dyetub'
+10/11/2013 12:05:13 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2518, 1977, 25) in Malas: "dyetub"
+10/11/2013 12:05:13 PM: 127.0.0.1: Serials: 0x400003FD; 
+10/11/2013 12:05:16 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'add dyes'
+10/11/2013 12:05:17 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2519, 1977, 25) in Malas: "dyes"
+10/11/2013 12:05:17 PM: 127.0.0.1: Serials: 0x400003FE; 
+10/11/2013 12:06:03 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'add hairre'
+10/11/2013 12:06:05 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2519, 1976, 25) in Malas: "HairRestylingDeed"
+10/11/2013 12:06:05 PM: 127.0.0.1: Serials: 0x40000401; 
+10/11/2013 12:06:33 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'add haird'
+10/11/2013 12:06:35 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') building at (2519, 1976, 25) in Malas: "SpecialHairDye"
+10/11/2013 12:06:35 PM: 127.0.0.1: Serials: 0x40000402; 
+10/11/2013 12:06:53 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'props '
+10/11/2013 12:07:46 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'props '
+10/11/2013 12:07:59 PM: 127.0.0.1: Owner 0x72 "Umarelina" ('Zigholtul88') used command 'props '
+10/11/2013 12:13:19 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') used command 'props '
+10/11/2013 12:14:03 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') used command 'add '
+10/11/2013 12:14:14 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') used command 'Add LongPants'
+10/11/2013 12:14:15 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "LongPants"
+10/11/2013 12:14:15 PM: 127.0.0.1: Serials: 0x40000418; 
+10/11/2013 12:14:20 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') used command 'Add FancyShirt'
+10/11/2013 12:14:21 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') building at (2519, 1976, 25) in Malas: "FancyShirt"
+10/11/2013 12:14:21 PM: 127.0.0.1: Serials: 0x40000419; 
+10/11/2013 12:14:28 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') used command 'Add Shoes'
+10/11/2013 12:14:29 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "Shoes"
+10/11/2013 12:14:29 PM: 127.0.0.1: Serials: 0x4000041A; 
+10/11/2013 12:15:26 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') used command 'props '
+10/11/2013 12:15:37 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') used command 'props '
+10/11/2013 12:15:47 PM: 127.0.0.1: Owner 0x73 "Raglurr" ('Zigholtul88') used command 'props '
+10/11/2013 12:38:32 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'props '
+10/11/2013 12:39:08 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'add '
+10/11/2013 12:39:15 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'Add HalfApron'
+10/11/2013 12:39:16 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "HalfApron"
+10/11/2013 12:39:16 PM: 127.0.0.1: Serials: 0x40000453; 
+10/11/2013 12:39:24 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'Add ShortPants'
+10/11/2013 12:39:25 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "ShortPants"
+10/11/2013 12:39:25 PM: 127.0.0.1: Serials: 0x40000454; 
+10/11/2013 12:39:30 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'Add Boots'
+10/11/2013 12:39:31 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "Boots"
+10/11/2013 12:39:31 PM: 127.0.0.1: Serials: 0x40000455; 
+10/11/2013 12:39:40 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'Add Shirt'
+10/11/2013 12:39:41 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') building at (2519, 1976, 25) in Malas: "Shirt"
+10/11/2013 12:39:41 PM: 127.0.0.1: Serials: 0x40000456; 
+10/11/2013 12:41:00 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'props '
+10/11/2013 12:41:08 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'props '
+10/11/2013 12:41:17 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'props '
+10/11/2013 12:41:25 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'props '
+10/11/2013 12:46:53 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'add hiry'
+10/11/2013 12:46:56 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') building at (2520, 1976, 25) in Malas: "EtherealHiryu"
+10/11/2013 12:46:56 PM: 127.0.0.1: Serials: 0x40000463; 
+10/11/2013 12:47:06 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'go '
+10/11/2013 12:51:17 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'admin '
+10/11/2013 12:51:24 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/11/2013 12:51:24 PM: 127.0.0.1: Owner 0x74 "Hormell" ('Zigholtul88') used command 'save '

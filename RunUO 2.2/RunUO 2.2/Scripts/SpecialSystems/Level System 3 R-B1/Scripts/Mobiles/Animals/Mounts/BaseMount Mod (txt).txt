@@ -1,0 +1,30 @@
+SVN - 279
+
+(OPTIONAL)
+Between
+            if (from.InRange(this, 1))
+            {
+
+                bool canAccess = (from.AccessLevel >= AccessLevel.GameMaster)
+                    || (Controlled && ControlMaster == from)
+                    || (Summoned && SummonMaster == from);
+
+Add
+                //Level System
+                if (NeedLevel.MountCheck(from, this) == false)
+                    return;
+                //End Level System
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+SHOULD LOOK LIKE:
+            if (from.InRange(this, 1))
+            {
+                //Level System
+                if (NeedLevel.MountCheck(from, this) == false)
+                    return;
+                //End Level System
+
+                bool canAccess = (from.AccessLevel >= AccessLevel.GameMaster)
+                    || (Controlled && ControlMaster == from)
+                    || (Summoned && SummonMaster == from);

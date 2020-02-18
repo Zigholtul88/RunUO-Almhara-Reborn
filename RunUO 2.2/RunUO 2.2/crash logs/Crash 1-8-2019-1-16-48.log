@@ -1,0 +1,22 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 7032.20333
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8941
+Time: 8/1/2019 1:16:48 AM
+Mobiles: 2341
+Items: 18755
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Actions.StartGain(Mobile killer, Mobile killed)
+   at Server.Mobiles.BaseCreature.OnDamage(Int32 amount, Mobile from, Boolean willKill)
+   at Server.Mobile.Damage(Int32 amount, Mobile from, Boolean informMount)
+   at Server.Mobiles.BaseCreature.Damage(Int32 amount, Mobile from)
+   at Server.Spells.SpellHelper.SpellDamageTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x12 'Wyumplo')

@@ -1,0 +1,747 @@
+##############################
+Log started on 12/7/2013 6:51:06 AM
+
+12/7/2013 6:51:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'waterwalk '
+12/7/2013 6:52:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 6:52:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:52:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2304, 847, 19) to (2304, 853, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:52:25 AM: 127.0.0.1: Serials: 0x400000BA; 0x400000BC; 0x400000BD; 0x400000BE; 0x400000BF; 0x400000C5; 0x400000C7; 
+12/7/2013 6:52:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:52:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2303, 847, 19) to (2303, 850, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:52:37 AM: 127.0.0.1: Serials: 0x400000C8; 0x400000CA; 0x400000CB; 0x400000CC; 
+12/7/2013 6:52:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:52:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2301, 845, 19) to (2302, 849, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:52:47 AM: 127.0.0.1: Serials: 0x400000CD; 0x400000CE; 0x400000CF; 0x400000D0; 0x400000D1; 0x400000D2; 0x400000D3; 0x400000D4; 0x400000D5; 0x400000D6; 
+12/7/2013 6:52:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:52:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2302, 844, 19) to (2307, 844, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:52:53 AM: 127.0.0.1: Serials: 0x400000D9; 0x400000DA; 0x400000DB; 0x400000DC; 0x400000DD; 0x400000DE; 
+12/7/2013 6:52:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:53:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2303, 845, 19) to (2307, 846, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:53:00 AM: 127.0.0.1: Serials: 0x400000DF; 0x400000E0; 0x400000E1; 0x400000F5; 0x400000FA; 0x400000FB; 0x400000FC; 0x400000FD; 0x400000FE; 0x400000FF; 
+12/7/2013 6:53:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1354 set movable False hue 0 light {light}'
+12/7/2013 6:53:22 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2303, 852, 19) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:53:22 AM: 127.0.0.1: Serials: 0x40000100; 
+12/7/2013 6:53:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1354 set movable False hue 0 light {light}'
+12/7/2013 6:53:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2303, 853, 19) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:53:36 AM: 127.0.0.1: Serials: 0x40000101; 
+12/7/2013 6:53:46 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1348 set movable False hue 0 light {light}'
+12/7/2013 6:53:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2305, 850, 19) to (2305, 853, 19) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:53:49 AM: 127.0.0.1: Serials: 0x40000103; 0x40000104; 0x40000105; 0x40000106; 
+12/7/2013 6:53:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:53:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2305, 847, 19) to (2306, 848, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:53:59 AM: 127.0.0.1: Serials: 0x40000108; 0x40000109; 0x4000010A; 0x4000010B; 
+12/7/2013 6:54:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:54:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2307, 847, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:54:02 AM: 127.0.0.1: Serials: 0x4000010C; 
+12/7/2013 6:54:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:54:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2308, 844, 19) to (2310, 846, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:54:09 AM: 127.0.0.1: Serials: 0x4000010D; 0x4000010E; 0x4000010F; 0x40000110; 0x40000111; 0x40000112; 0x40000113; 0x40000114; 0x40000115; 
+12/7/2013 6:54:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:54:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2303, 841, 19) to (2309, 843, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:54:19 AM: 127.0.0.1: Serials: 0x40000116; 0x40000117; 0x40000118; 0x40000119; 0x4000011C; 0x4000011F; 0x40000120; 0x40000122; 0x40000123; 0x40000124; 0x40000125; 0x40000126; 0x40000127; 0x40000128; 0x40000129; 0x4000012A; 0x4000012B; 0x4000012C; 0x4000012D; 0x4000012E; 0x40000130; 
+12/7/2013 6:54:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1344 set movable False hue 0 light {light}'
+12/7/2013 6:54:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2307, 849, 19) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:54:34 AM: 127.0.0.1: Serials: 0x40000131; 
+12/7/2013 6:54:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1344 set movable False hue 0 light {light}'
+12/7/2013 6:54:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2308, 848, 19) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:54:37 AM: 127.0.0.1: Serials: 0x40000133; 
+12/7/2013 6:54:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1344 set movable False hue 0 light {light}'
+12/7/2013 6:54:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2311, 847, 19) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:54:41 AM: 127.0.0.1: Serials: 0x40000134; 
+12/7/2013 6:54:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1345 set movable False hue 0 light {light}'
+12/7/2013 6:54:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2309, 847, 19) to (2310, 847, 19) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:54:48 AM: 127.0.0.1: Serials: 0x40000135; 0x40000139; 
+12/7/2013 6:54:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1345 set movable False hue 0 light {light}'
+12/7/2013 6:54:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2306, 849, 19) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:54:53 AM: 127.0.0.1: Serials: 0x4000013C; 
+12/7/2013 6:54:57 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1345 set movable False hue 0 light {light}'
+12/7/2013 6:54:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2301, 850, 19) to (2302, 850, 19) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:54:59 AM: 127.0.0.1: Serials: 0x4000013D; 0x40000153; 
+12/7/2013 6:55:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1351 set movable False hue 0 light {light}'
+12/7/2013 6:55:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2300, 850, 19) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:55:12 AM: 127.0.0.1: Serials: 0x40000154; 
+12/7/2013 6:55:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1354 set movable False hue 0 light {light}'
+12/7/2013 6:55:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1354 set movable False hue 0 light {light}'
+12/7/2013 6:55:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2303, 851, 19) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:55:28 AM: 127.0.0.1: Serials: 0x40000156; 
+12/7/2013 6:55:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1354 set movable False hue 0 light {light}'
+12/7/2013 6:55:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2300, 845, 19) to (2300, 849, 19) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:55:34 AM: 127.0.0.1: Serials: 0x40000157; 0x40000158; 0x40000159; 0x4000015A; 0x4000015B; 
+12/7/2013 6:55:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1354 set movable False hue 0 light {light}'
+12/7/2013 6:55:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2302, 841, 19) to (2302, 842, 19) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:55:39 AM: 127.0.0.1: Serials: 0x4000015E; 0x4000015F; 
+12/7/2013 6:55:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1353 set movable False hue 0 light {light}'
+12/7/2013 6:55:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2302, 840, 19) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:55:47 AM: 127.0.0.1: Serials: 0x40000160; 
+12/7/2013 6:55:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1353 set movable False hue 0 light {light}'
+12/7/2013 6:55:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2301, 843, 19) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:55:50 AM: 127.0.0.1: Serials: 0x40000166; 
+12/7/2013 6:55:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1353 set movable False hue 0 light {light}'
+12/7/2013 6:55:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2300, 844, 19) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:55:53 AM: 127.0.0.1: Serials: 0x40000167; 
+12/7/2013 6:56:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 1354 set movable False hue 0 light Circle225'
+12/7/2013 6:56:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1354 set movable False hue 0 light {light}'
+12/7/2013 6:56:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2302, 843, 19) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:56:06 AM: 127.0.0.1: Serials: 0x40000169; 
+12/7/2013 6:56:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1357 set movable False hue 0 light {light}'
+12/7/2013 6:56:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2301, 844, 19) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:56:12 AM: 127.0.0.1: Serials: 0x4000016A; 
+12/7/2013 6:56:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/7/2013 6:56:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x4000016A (Static)
+12/7/2013 6:56:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/7/2013 6:56:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x40000169 (Static)
+12/7/2013 6:56:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:56:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2302, 843, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:56:25 AM: 127.0.0.1: Serials: 0x4000016C; 
+12/7/2013 6:56:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:56:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2301, 844, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:56:26 AM: 127.0.0.1: Serials: 0x4000016D; 
+12/7/2013 6:56:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1357 set movable False hue 0 light {light}'
+12/7/2013 6:56:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2303, 840, 19) to (2309, 840, 19) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:56:39 AM: 127.0.0.1: Serials: 0x4000016F; 0x40000170; 0x40000171; 0x40000172; 0x40000173; 0x40000174; 0x40000175; 
+12/7/2013 6:56:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1352 set movable False hue 0 light {light}'
+12/7/2013 6:56:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2310, 840, 19) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:56:47 AM: 127.0.0.1: Serials: 0x40000176; 
+12/7/2013 6:56:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1352 set movable False hue 0 light {light}'
+12/7/2013 6:56:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2311, 843, 19) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:56:50 AM: 127.0.0.1: Serials: 0x40000181; 
+12/7/2013 6:56:57 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1348 set movable False hue 0 light {light}'
+12/7/2013 6:57:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2310, 841, 19) to (2310, 842, 19) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:57:00 AM: 127.0.0.1: Serials: 0x40000182; 0x40000183; 
+12/7/2013 6:57:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1348 set movable False hue 0 light {light}'
+12/7/2013 6:57:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2311, 844, 19) to (2311, 846, 19) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:57:05 AM: 127.0.0.1: Serials: 0x40000184; 0x40000185; 0x40000186; 
+12/7/2013 6:57:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:57:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2310, 843, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:57:12 AM: 127.0.0.1: Serials: 0x40000187; 
+12/7/2013 6:57:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:57:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2308, 847, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:57:18 AM: 127.0.0.1: Serials: 0x400001EC; 
+12/7/2013 6:57:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:57:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2307, 848, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:57:20 AM: 127.0.0.1: Serials: 0x4000029B; 
+12/7/2013 6:57:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 19 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:57:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2305, 849, 19) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:57:25 AM: 127.0.0.1: Serials: 0x400002B1; 
+12/7/2013 6:57:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/7/2013 6:57:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x400000B4 (WaterWalk)
+12/7/2013 6:58:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'waterwalk '
+12/7/2013 6:59:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 6:59:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:59:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2320, 652, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:59:12 AM: 127.0.0.1: Serials: 0x400002BA; 
+12/7/2013 6:59:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 6:59:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2320, 644, 22) to (2320, 651, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:59:20 AM: 127.0.0.1: Serials: 0x400002BC; 0x400002BF; 0x400002C2; 0x400002C3; 0x400002C4; 0x400002C5; 0x400002C6; 0x400002C7; 
+12/7/2013 6:59:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1348 set movable False hue 0 light {light}'
+12/7/2013 6:59:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2321, 650, 22) to (2321, 652, 22) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:59:35 AM: 127.0.0.1: Serials: 0x400002C8; 0x400002C9; 0x400002CA; 
+12/7/2013 6:59:40 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1354 set movable False hue 0 light {light}'
+12/7/2013 6:59:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2319, 650, 22) to (2319, 652, 22) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 6:59:45 AM: 127.0.0.1: Serials: 0x400002CC; 0x400002CD; 0x400002E6; 
+12/7/2013 6:59:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2318, 646, 22) to (2319, 647, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:01 AM: 127.0.0.1: Serials: 0x400002E7; 0x400002E9; 0x400002EC; 0x400002ED; 
+12/7/2013 7:00:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2315, 645, 22) to (2317, 646, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:06 AM: 127.0.0.1: Serials: 0x400002EF; 0x400002F0; 0x400002F1; 0x400002F3; 0x400002F4; 0x400002F5; 
+12/7/2013 7:00:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2318, 645, 22) to (2319, 645, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:10 AM: 127.0.0.1: Serials: 0x400002FD; 0x400002FE; 
+12/7/2013 7:00:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2314, 644, 22) to (2319, 644, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:18 AM: 127.0.0.1: Serials: 0x400002FF; 0x40000300; 0x40000301; 0x40000302; 0x40000303; 0x40000304; 
+12/7/2013 7:00:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2314, 640, 22) to (2327, 643, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:27 AM: 127.0.0.1: Serials: 0x40000306; 0x40000307; 0x40000308; 0x40000309; 0x4000030A; 0x4000030B; 0x4000030C; 0x4000030D; 0x4000030E; 0x4000030F; 0x40000310; 0x40000311; 0x40000312; 0x40000313; 0x40000314; 0x40000315; 0x40000316; 0x40000317; 0x40000318; 0x40000319; 0x4000031B; 0x4000031C; 0x4000031D; 0x4000031E; 0x40000320; 0x40000321; 0x40000322; 0x40000323; 0x40000324; 0x40000327; 0x40000328; 0x40000329; 0x4000032A; 0x4000032B; 0x4000032F; 0x40000330; 0x40000331; 0x40000332; 0x40000333; 0x40000334; 0x40000335; 0x40000336; 0x40000337; 0x40000338; 0x40000339; 0x4000033A; 0x4000033B; 0x4000033C; 0x4000033D; 0x4000033E; 0x4000033F; 0x40000343; 0x40000344; 0x40000345; 0x40000346; 0x40000347; 
+12/7/2013 7:00:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2326, 644, 22) to (2327, 644, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:33 AM: 127.0.0.1: Serials: 0x40000348; 0x40000349; 
+12/7/2013 7:00:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2324, 645, 22) to (2326, 645, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:37 AM: 127.0.0.1: Serials: 0x4000034A; 0x4000034B; 0x4000034C; 
+12/7/2013 7:00:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2322, 646, 22) to (2324, 646, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:41 AM: 127.0.0.1: Serials: 0x4000034D; 0x4000034E; 0x4000034F; 
+12/7/2013 7:00:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2321, 646, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:44 AM: 127.0.0.1: Serials: 0x40000350; 
+12/7/2013 7:00:46 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2321, 644, 22) to (2323, 645, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:49 AM: 127.0.0.1: Serials: 0x40000352; 0x40000353; 0x40000354; 0x40000355; 0x40000356; 0x40000357; 
+12/7/2013 7:00:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:00:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2324, 644, 22) to (2325, 644, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:00:53 AM: 127.0.0.1: Serials: 0x40000358; 0x40000359; 
+12/7/2013 7:00:57 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:01:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2328, 636, 22) to (2336, 644, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:01:04 AM: 127.0.0.1: Serials: 0x4000035A; 0x4000035B; 0x4000035C; 0x4000035D; 0x4000035E; 0x4000035F; 0x40000360; 0x40000361; 0x40000362; 0x40000363; 0x40000364; 0x40000365; 0x40000366; 0x40000367; 0x40000368; 0x40000369; 0x4000036A; 0x4000036B; 0x4000036C; 0x4000036D; 0x4000036E; 0x4000036F; 0x40000371; 0x40000372; 0x40000373; 0x4000037D; 0x4000037E; 0x4000037F; 0x40000384; 0x40000385; 0x40000386; 0x40000387; 0x40000388; 0x40000389; 0x4000038A; 0x4000038B; 0x4000038C; 0x4000038D; 0x4000038E; 0x4000038F; 0x40000390; 0x40000391; 0x40000392; 0x40000394; 0x40000395; 0x40000396; 0x40000397; 0x40000398; 0x40000399; 0x4000039A; 0x4000039B; 0x4000039C; 0x4000039E; 0x4000039F; 0x400003A0; 0x400003A1; 0x400003A2; 0x400003A3; 0x400003A4; 0x400003A5; 0x400003A6; 0x400003A7; 0x400003A8; 0x400003AA; 0x400003AB; 0x400003AC; 0x400003AD; 0x400003AE; 0x400003AF; 0x400003B0; 0x400003B1; 0x400003B2; 0x400003B3; 0x400003B4; 0x400003B5; 0x400003B6; 0x400003B7; 0x400003B8; 0x400003B9; 0x400003BA; 0x400003BB; 
+12/7/2013 7:01:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:01:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2327, 637, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:01:12 AM: 127.0.0.1: Serials: 0x400003BC; 
+12/7/2013 7:01:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:01:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2326, 638, 22) to (2327, 638, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:01:15 AM: 127.0.0.1: Serials: 0x400003BD; 0x400003BE; 
+12/7/2013 7:01:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:01:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2315, 639, 22) to (2327, 639, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:01:21 AM: 127.0.0.1: Serials: 0x400003BF; 0x400003C0; 0x400003C1; 0x400003C2; 0x400003C3; 0x400003C4; 0x400003C5; 0x400003C6; 0x400003C7; 0x400003C8; 0x400003C9; 0x400003CB; 0x400003CC; 
+12/7/2013 7:01:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:01:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2316, 636, 22) to (2317, 638, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:01:28 AM: 127.0.0.1: Serials: 0x400003CD; 0x400003CE; 0x400003CF; 0x400003D0; 0x400003D1; 0x400003D2; 
+12/7/2013 7:01:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:01:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2317, 635, 22) to (2321, 635, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:01:33 AM: 127.0.0.1: Serials: 0x400003DB; 0x400003DC; 0x400003FA; 0x400003FB; 0x400003FC; 
+12/7/2013 7:01:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:01:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2318, 636, 22) to (2322, 636, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:01:41 AM: 127.0.0.1: Serials: 0x400003FD; 0x400003FE; 0x40000425; 0x40000426; 0x40000427; 
+12/7/2013 7:01:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:01:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2318, 637, 22) to (2323, 638, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:01:48 AM: 127.0.0.1: Serials: 0x40000428; 0x40000429; 0x4000042A; 0x4000042B; 0x4000042C; 0x4000042D; 0x4000042E; 0x4000042F; 0x40000430; 0x40000431; 0x40000432; 0x40000433; 
+12/7/2013 7:02:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:02:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2334, 645, 22) to (2336, 645, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:02:03 AM: 127.0.0.1: Serials: 0x40000435; 0x40000436; 0x40000437; 
+12/7/2013 7:02:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:02:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2331, 645, 22) to (2333, 645, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:02:08 AM: 127.0.0.1: Serials: 0x40000439; 0x4000043A; 0x4000043B; 
+12/7/2013 7:02:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:02:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2332, 646, 22) to (2335, 646, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:02:12 AM: 127.0.0.1: Serials: 0x4000043C; 0x4000043D; 0x4000043E; 0x4000043F; 
+12/7/2013 7:02:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:02:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2333, 647, 22) to (2334, 647, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:02:16 AM: 127.0.0.1: Serials: 0x40000440; 0x40000441; 
+12/7/2013 7:02:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:02:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2337, 637, 22) to (2337, 644, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:02:26 AM: 127.0.0.1: Serials: 0x40000442; 0x40000443; 0x40000444; 0x40000445; 0x40000446; 0x40000447; 0x40000448; 0x40000449; 
+12/7/2013 7:02:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:02:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2338, 638, 22) to (2338, 643, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:02:31 AM: 127.0.0.1: Serials: 0x4000044A; 0x4000044B; 0x4000044C; 0x4000044D; 0x4000044E; 0x4000044F; 
+12/7/2013 7:02:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:02:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2339, 639, 22) to (2339, 642, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:02:36 AM: 127.0.0.1: Serials: 0x40000450; 0x40000458; 0x40000459; 0x4000046A; 
+12/7/2013 7:02:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1344 set movable False hue 0 light {light}'
+12/7/2013 7:02:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2325, 647, 22) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:02:52 AM: 127.0.0.1: Serials: 0x4000046B; 
+12/7/2013 7:02:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1344 set movable False hue 0 light {light}'
+12/7/2013 7:02:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2327, 646, 22) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:02:58 AM: 127.0.0.1: Serials: 0x4000047A; 
+12/7/2013 7:03:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1344 set movable False hue 0 light {light}'
+12/7/2013 7:03:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2335, 648, 22) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:04 AM: 127.0.0.1: Serials: 0x4000047D; 
+12/7/2013 7:03:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1344 set movable False hue 0 light {light}'
+12/7/2013 7:03:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2336, 647, 22) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:08 AM: 127.0.0.1: Serials: 0x4000047E; 
+12/7/2013 7:03:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1344 set movable False hue 0 light {light}'
+12/7/2013 7:03:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2337, 646, 22) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:11 AM: 127.0.0.1: Serials: 0x4000047F; 
+12/7/2013 7:03:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1344 set movable False hue 0 light {light}'
+12/7/2013 7:03:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2338, 645, 22) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:14 AM: 127.0.0.1: Serials: 0x40000480; 
+12/7/2013 7:03:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1344 set movable False hue 0 light {light}'
+12/7/2013 7:03:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2339, 644, 22) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:16 AM: 127.0.0.1: Serials: 0x40000481; 
+12/7/2013 7:03:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1344 set movable False hue 0 light {light}'
+12/7/2013 7:03:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2340, 643, 22) in Malas: "static" "1344" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:19 AM: 127.0.0.1: Serials: 0x40000484; 
+12/7/2013 7:03:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1351 set movable False hue 0 light {light}'
+12/7/2013 7:03:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2330, 646, 22) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:30 AM: 127.0.0.1: Serials: 0x4000048E; 
+12/7/2013 7:03:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1351 set movable False hue 0 light {light}'
+12/7/2013 7:03:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2331, 647, 22) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:33 AM: 127.0.0.1: Serials: 0x40000496; 
+12/7/2013 7:03:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1351 set movable False hue 0 light {light}'
+12/7/2013 7:03:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2332, 648, 22) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:36 AM: 127.0.0.1: Serials: 0x40000497; 
+12/7/2013 7:03:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1352 set movable False hue 0 light {light}'
+12/7/2013 7:03:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2337, 635, 22) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:48 AM: 127.0.0.1: Serials: 0x40000498; 
+12/7/2013 7:03:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1352 set movable False hue 0 light {light}'
+12/7/2013 7:03:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2338, 636, 22) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:49 AM: 127.0.0.1: Serials: 0x40000499; 
+12/7/2013 7:03:51 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1352 set movable False hue 0 light {light}'
+12/7/2013 7:03:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2339, 637, 22) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:52 AM: 127.0.0.1: Serials: 0x4000049B; 
+12/7/2013 7:03:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1352 set movable False hue 0 light {light}'
+12/7/2013 7:03:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2340, 638, 22) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:03:54 AM: 127.0.0.1: Serials: 0x4000049C; 
+12/7/2013 7:04:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1352 set movable False hue 0 light {light}'
+12/7/2013 7:04:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2324, 636, 22) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:01 AM: 127.0.0.1: Serials: 0x4000049F; 
+12/7/2013 7:04:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1352 set movable False hue 0 light {light}'
+12/7/2013 7:04:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2323, 635, 22) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:02 AM: 127.0.0.1: Serials: 0x400004A0; 
+12/7/2013 7:04:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1352 set movable False hue 0 light {light}'
+12/7/2013 7:04:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2322, 634, 22) in Malas: "static" "1352" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:05 AM: 127.0.0.1: Serials: 0x400004A1; 
+12/7/2013 7:04:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1353 set movable False hue 0 light {light}'
+12/7/2013 7:04:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2316, 634, 22) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:12 AM: 127.0.0.1: Serials: 0x400004A2; 
+12/7/2013 7:04:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1353 set movable False hue 0 light {light}'
+12/7/2013 7:04:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2315, 635, 22) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:15 AM: 127.0.0.1: Serials: 0x400004A5; 
+12/7/2013 7:04:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1353 set movable False hue 0 light {light}'
+12/7/2013 7:04:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2314, 638, 22) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:18 AM: 127.0.0.1: Serials: 0x400004A6; 
+12/7/2013 7:04:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1353 set movable False hue 0 light {light}'
+12/7/2013 7:04:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2313, 639, 22) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:21 AM: 127.0.0.1: Serials: 0x400004A7; 
+12/7/2013 7:04:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1351 set movable False hue 0 light {light}'
+12/7/2013 7:04:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2313, 645, 22) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:35 AM: 127.0.0.1: Serials: 0x400004A9; 
+12/7/2013 7:04:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1351 set movable False hue 0 light {light}'
+12/7/2013 7:04:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2314, 647, 22) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:37 AM: 127.0.0.1: Serials: 0x400004AA; 
+12/7/2013 7:04:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1351 set movable False hue 0 light {light}'
+12/7/2013 7:04:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2317, 648, 22) in Malas: "static" "1351" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:42 AM: 127.0.0.1: Serials: 0x400004AC; 
+12/7/2013 7:04:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1345 set movable False hue 0 light {light}'
+12/7/2013 7:04:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2318, 648, 22) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:49 AM: 127.0.0.1: Serials: 0x400004AD; 
+12/7/2013 7:04:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1345 set movable False hue 0 light {light}'
+12/7/2013 7:04:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2315, 647, 22) to (2316, 647, 22) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:04:53 AM: 127.0.0.1: Serials: 0x400004AF; 0x400004B0; 
+12/7/2013 7:04:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1345 set movable False hue 0 light {light}'
+12/7/2013 7:05:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2321, 647, 22) to (2324, 647, 22) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:05:01 AM: 127.0.0.1: Serials: 0x400004B1; 0x400004B2; 0x400004B3; 0x400004B4; 
+12/7/2013 7:05:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1345 set movable False hue 0 light {light}'
+12/7/2013 7:05:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2326, 646, 22) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:05:04 AM: 127.0.0.1: Serials: 0x400004B5; 
+12/7/2013 7:05:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1345 set movable False hue 0 light {light}'
+12/7/2013 7:05:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2328, 645, 22) to (2329, 645, 22) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:05:08 AM: 127.0.0.1: Serials: 0x400004B6; 0x400004B7; 
+12/7/2013 7:05:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1345 set movable False hue 0 light {light}'
+12/7/2013 7:05:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2333, 648, 22) to (2334, 648, 22) in Malas: "static" "1345" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:05:13 AM: 127.0.0.1: Serials: 0x400004B8; 0x400004B9; 
+12/7/2013 7:05:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1348 set movable False hue 0 light {light}'
+12/7/2013 7:05:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2321, 649, 22) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:05:24 AM: 127.0.0.1: Serials: 0x400004BA; 
+12/7/2013 7:05:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/7/2013 7:05:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x400004B1 (Static)
+12/7/2013 7:05:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1348 set movable False hue 0 light {light}'
+12/7/2013 7:05:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2321, 648, 22) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:05:35 AM: 127.0.0.1: Serials: 0x400004BD; 
+12/7/2013 7:05:46 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1348 set movable False hue 0 light {light}'
+12/7/2013 7:05:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2340, 639, 22) to (2340, 642, 22) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:05:49 AM: 127.0.0.1: Serials: 0x400004BE; 0x400004BF; 0x400004C1; 0x400004C2; 
+12/7/2013 7:06:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1354 set movable False hue 0 light {light}'
+12/7/2013 7:06:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2315, 636, 22) to (2315, 637, 22) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:05 AM: 127.0.0.1: Serials: 0x400004C3; 0x400004C4; 
+12/7/2013 7:06:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1354 set movable False hue 0 light {light}'
+12/7/2013 7:06:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2313, 640, 22) to (2313, 644, 22) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:13 AM: 127.0.0.1: Serials: 0x400004C6; 0x400004C7; 0x400004C8; 0x400004C9; 0x400004CA; 
+12/7/2013 7:06:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1354 set movable False hue 0 light {light}'
+12/7/2013 7:06:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2314, 646, 22) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:16 AM: 127.0.0.1: Serials: 0x400004CB; 
+12/7/2013 7:06:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1354 set movable False hue 0 light {light}'
+12/7/2013 7:06:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2319, 649, 22) in Malas: "static" "1354" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:20 AM: 127.0.0.1: Serials: 0x400004CC; 
+12/7/2013 7:06:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2321, 647, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:27 AM: 127.0.0.1: Serials: 0x400004CD; 
+12/7/2013 7:06:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2319, 648, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:30 AM: 127.0.0.1: Serials: 0x400004CE; 
+12/7/2013 7:06:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2317, 647, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:33 AM: 127.0.0.1: Serials: 0x400004CF; 
+12/7/2013 7:06:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2314, 645, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:36 AM: 127.0.0.1: Serials: 0x400004D0; 
+12/7/2013 7:06:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2315, 638, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:39 AM: 127.0.0.1: Serials: 0x400004D1; 
+12/7/2013 7:06:40 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2314, 639, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:41 AM: 127.0.0.1: Serials: 0x40000504; 
+12/7/2013 7:06:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2316, 635, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:43 AM: 127.0.0.1: Serials: 0x40000564; 
+12/7/2013 7:06:46 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:46 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2322, 635, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:46 AM: 127.0.0.1: Serials: 0x40000663; 
+12/7/2013 7:06:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2323, 636, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:49 AM: 127.0.0.1: Serials: 0x400008B5; 
+12/7/2013 7:06:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2337, 636, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:54 AM: 127.0.0.1: Serials: 0x400008B6; 
+12/7/2013 7:06:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2338, 637, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:56 AM: 127.0.0.1: Serials: 0x400008B7; 
+12/7/2013 7:06:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:06:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2339, 638, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:06:59 AM: 127.0.0.1: Serials: 0x400008B8; 
+12/7/2013 7:07:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:07:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2339, 643, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:02 AM: 127.0.0.1: Serials: 0x400008B9; 
+12/7/2013 7:07:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:07:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2338, 644, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:03 AM: 127.0.0.1: Serials: 0x40000C67; 
+12/7/2013 7:07:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:07:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2337, 645, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:07 AM: 127.0.0.1: Serials: 0x40000C68; 
+12/7/2013 7:07:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:07:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2336, 646, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:08 AM: 127.0.0.1: Serials: 0x40000C69; 
+12/7/2013 7:07:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:07:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2335, 647, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:11 AM: 127.0.0.1: Serials: 0x40000C6A; 
+12/7/2013 7:07:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:07:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2331, 646, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:15 AM: 127.0.0.1: Serials: 0x40000C6B; 
+12/7/2013 7:07:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:07:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2332, 647, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:16 AM: 127.0.0.1: Serials: 0x40000C6D; 
+12/7/2013 7:07:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:07:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2330, 645, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:20 AM: 127.0.0.1: Serials: 0x40000C6F; 
+12/7/2013 7:07:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:07:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2327, 645, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:24 AM: 127.0.0.1: Serials: 0x40000C71; 
+12/7/2013 7:07:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:07:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2325, 646, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:26 AM: 127.0.0.1: Serials: 0x40000C72; 
+12/7/2013 7:07:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1357 set movable False hue 0 light {light}'
+12/7/2013 7:07:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2317, 634, 22) to (2321, 634, 22) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:39 AM: 127.0.0.1: Serials: 0x40000C73; 0x40000C74; 0x40000C75; 0x40000C76; 0x40000C77; 
+12/7/2013 7:07:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1357 set movable False hue 0 light {light}'
+12/7/2013 7:07:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2328, 635, 22) to (2336, 635, 22) in Malas: "static" "1357" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:47 AM: 127.0.0.1: Serials: 0x40000C78; 0x40000C79; 0x40000C7A; 0x40000C7B; 0x40000C7C; 0x40000C7D; 0x40000C7E; 0x40000C7F; 0x40000C80; 
+12/7/2013 7:07:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1353 set movable False hue 0 light {light}'
+12/7/2013 7:07:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2327, 635, 22) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:07:59 AM: 127.0.0.1: Serials: 0x40000C81; 
+12/7/2013 7:08:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1353 set movable False hue 0 light {light}'
+12/7/2013 7:08:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2326, 636, 22) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:08:02 AM: 127.0.0.1: Serials: 0x40000C82; 
+12/7/2013 7:08:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1353 set movable False hue 0 light {light}'
+12/7/2013 7:08:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2325, 637, 22) in Malas: "static" "1353" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:08:04 AM: 127.0.0.1: Serials: 0x40000C83; 
+12/7/2013 7:08:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 1353 set movable False hue 0 light Circle225'
+12/7/2013 7:08:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:08:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2327, 636, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:08:14 AM: 127.0.0.1: Serials: 0x40000C85; 
+12/7/2013 7:08:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:08:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2326, 637, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:08:15 AM: 127.0.0.1: Serials: 0x40000C86; 
+12/7/2013 7:08:22 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1348 set movable False hue 0 light {light}'
+12/7/2013 7:08:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2324, 637, 22) in Malas: "static" "1348" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:08:23 AM: 127.0.0.1: Serials: 0x40000C87; 
+12/7/2013 7:08:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'TileZ 22 static 1339 set movable False hue 0 light {light}'
+12/7/2013 7:08:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building from (2324, 638, 22) to (2325, 638, 22) in Malas: "static" "1339" "set" "movable" "False" "hue" "0" "light" "{light}"
+12/7/2013 7:08:32 AM: 127.0.0.1: Serials: 0x40000C89; 0x40000C8A; 
+12/7/2013 7:08:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/7/2013 7:08:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0x400002B2 (WaterWalk)
+12/7/2013 7:09:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/7/2013 7:09:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2322, 634, 22) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:20 AM: 127.0.0.1: Serials: 0x40000C8B; 
+12/7/2013 7:09:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/7/2013 7:09:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2327, 635, 22) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:27 AM: 127.0.0.1: Serials: 0x40000C8C; 
+12/7/2013 7:09:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/7/2013 7:09:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2337, 635, 22) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:28 AM: 127.0.0.1: Serials: 0x40000C8E; 
+12/7/2013 7:09:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/7/2013 7:09:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2332, 648, 22) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:31 AM: 127.0.0.1: Serials: 0x40000C8F; 
+12/7/2013 7:09:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/7/2013 7:09:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2314, 647, 22) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:35 AM: 127.0.0.1: Serials: 0x40000C90; 
+12/7/2013 7:09:38 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2280 set movable False hue 0 light Circle225'
+12/7/2013 7:09:39 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2313, 639, 22) in Malas: "static" "2280" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:39 AM: 127.0.0.1: Serials: 0x40000C91; 
+12/7/2013 7:09:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2280 set movable False hue 0 light Circle225'
+12/7/2013 7:09:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2315, 635, 22) in Malas: "static" "2280" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:41 AM: 127.0.0.1: Serials: 0x40000C92; 
+12/7/2013 7:09:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:09:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2316, 634, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:45 AM: 127.0.0.1: Serials: 0x40000C93; 
+12/7/2013 7:09:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:09:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2314, 646, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:48 AM: 127.0.0.1: Serials: 0x40000C94; 
+12/7/2013 7:09:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:09:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2322, 647, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:50 AM: 127.0.0.1: Serials: 0x40000C95; 
+12/7/2013 7:09:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:09:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2334, 648, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:53 AM: 127.0.0.1: Serials: 0x40000C96; 
+12/7/2013 7:09:55 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:09:55 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2340, 641, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:55 AM: 127.0.0.1: Serials: 0x40000C97; 
+12/7/2013 7:09:57 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:09:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2335, 635, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:09:58 AM: 127.0.0.1: Serials: 0x40000C98; 
+12/7/2013 7:09:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:10:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2325, 637, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:00 AM: 127.0.0.1: Serials: 0x40000C99; 
+12/7/2013 7:10:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:10:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2320, 634, 22) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:07 AM: 127.0.0.1: Serials: 0x40000C9A; 
+12/7/2013 7:10:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:10:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2313, 642, 22) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:09 AM: 127.0.0.1: Serials: 0x40000C9B; 
+12/7/2013 7:10:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:10:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2325, 647, 22) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:11 AM: 127.0.0.1: Serials: 0x40000C9C; 
+12/7/2013 7:10:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:10:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2338, 645, 22) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:13 AM: 127.0.0.1: Serials: 0x40000C9D; 
+12/7/2013 7:10:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:10:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2337, 636, 22) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:15 AM: 127.0.0.1: Serials: 0x40000C9E; 
+12/7/2013 7:10:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:10:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2329, 635, 22) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:18 AM: 127.0.0.1: Serials: 0x40000C9F; 
+12/7/2013 7:10:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:10:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2330, 636, 22) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:23 AM: 127.0.0.1: Serials: 0x40000CA0; 
+12/7/2013 7:10:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:10:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2332, 643, 22) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:27 AM: 127.0.0.1: Serials: 0x40000CA1; 
+12/7/2013 7:10:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:10:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2316, 647, 22) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:30 AM: 127.0.0.1: Serials: 0x40000CA5; 
+12/7/2013 7:10:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:10:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2323, 635, 22) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:34 AM: 127.0.0.1: Serials: 0x40000CA6; 
+12/7/2013 7:10:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/7/2013 7:10:38 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2317, 647, 22) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:38 AM: 127.0.0.1: Serials: 0x40000CA7; 
+12/7/2013 7:10:40 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/7/2013 7:10:40 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2314, 639, 22) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:40 AM: 127.0.0.1: Serials: 0x40000CA8; 
+12/7/2013 7:10:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/7/2013 7:10:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2333, 642, 22) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:43 AM: 127.0.0.1: Serials: 0x40000CA9; 
+12/7/2013 7:10:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/7/2013 7:10:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2333, 644, 22) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:48 AM: 127.0.0.1: Serials: 0x40000CAA; 
+12/7/2013 7:10:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/7/2013 7:10:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2330, 637, 22) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:50 AM: 127.0.0.1: Serials: 0x40000CAB; 
+12/7/2013 7:10:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/7/2013 7:10:55 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2321, 638, 22) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:55 AM: 127.0.0.1: Serials: 0x40000CAC; 
+12/7/2013 7:10:57 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2279 set movable False hue 0 light Circle225'
+12/7/2013 7:10:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2320, 639, 22) in Malas: "static" "2279" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:10:58 AM: 127.0.0.1: Serials: 0x40000CAD; 
+12/7/2013 7:11:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2279 set movable False hue 0 light Circle225'
+12/7/2013 7:11:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2317, 648, 22) in Malas: "static" "2279" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:01 AM: 127.0.0.1: Serials: 0x40000CAE; 
+12/7/2013 7:11:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2279 set movable False hue 0 light Circle225'
+12/7/2013 7:11:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2327, 646, 22) in Malas: "static" "2279" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:03 AM: 127.0.0.1: Serials: 0x40000CAF; 
+12/7/2013 7:11:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2279 set movable False hue 0 light Circle225'
+12/7/2013 7:11:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2340, 643, 22) in Malas: "static" "2279" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:05 AM: 127.0.0.1: Serials: 0x40000CB1; 
+12/7/2013 7:11:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/7/2013 7:11:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2331, 644, 22) in Malas: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:11 AM: 127.0.0.1: Serials: 0x40000CB2; 
+12/7/2013 7:11:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/7/2013 7:11:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2337, 637, 22) in Malas: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:15 AM: 127.0.0.1: Serials: 0x40000CB3; 
+12/7/2013 7:11:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/7/2013 7:11:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2315, 640, 22) in Malas: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:20 AM: 127.0.0.1: Serials: 0x40000CB4; 
+12/7/2013 7:11:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/7/2013 7:11:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2323, 642, 22) in Malas: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:25 AM: 127.0.0.1: Serials: 0x40000CB5; 
+12/7/2013 7:11:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/7/2013 7:11:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2318, 647, 22) in Malas: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:27 AM: 127.0.0.1: Serials: 0x40000CB7; 
+12/7/2013 7:11:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/7/2013 7:11:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2326, 638, 22) in Malas: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:30 AM: 127.0.0.1: Serials: 0x40000CB8; 
+12/7/2013 7:11:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/7/2013 7:11:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2338, 638, 22) in Malas: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:33 AM: 127.0.0.1: Serials: 0x40000CB9; 
+12/7/2013 7:11:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:11:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2338, 636, 22) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:37 AM: 127.0.0.1: Serials: 0x40000CBA; 
+12/7/2013 7:11:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:11:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2338, 637, 22) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:11:41 AM: 127.0.0.1: Serials: 0x40000CBB; 
+12/7/2013 7:13:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+12/7/2013 7:13:51 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+12/7/2013 7:14:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'props '
+12/7/2013 7:14:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'go '
+12/7/2013 7:15:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:16:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:17:28 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/7/2013 7:17:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2273, 842, 21) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:17:29 AM: 127.0.0.1: Serials: 0x40000CC3; 
+12/7/2013 7:17:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/7/2013 7:17:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2277, 834, 21) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:17:31 AM: 127.0.0.1: Serials: 0x40000CC4; 
+12/7/2013 7:17:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/7/2013 7:17:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2271, 849, 21) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:17:35 AM: 127.0.0.1: Serials: 0x40000CC5; 
+12/7/2013 7:17:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2280 set movable False hue 0 light Circle225'
+12/7/2013 7:17:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2279, 846, 21) in Malas: "static" "2280" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:17:44 AM: 127.0.0.1: Serials: 0x40000CC6; 
+12/7/2013 7:17:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:17:50 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2278, 848, 21) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:17:50 AM: 127.0.0.1: Serials: 0x40000CC7; 
+12/7/2013 7:17:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:17:52 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2270, 838, 21) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:17:52 AM: 127.0.0.1: Serials: 0x40000CC8; 
+12/7/2013 7:17:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:17:55 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2276, 834, 21) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:17:55 AM: 127.0.0.1: Serials: 0x40000CC9; 
+12/7/2013 7:17:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:17:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2279, 838, 21) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:17:56 AM: 127.0.0.1: Serials: 0x40000CCA; 
+12/7/2013 7:17:59 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2275 set movable False hue 0 light Circle225'
+12/7/2013 7:18:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2274, 842, 21) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:00 AM: 127.0.0.1: Serials: 0x40000CCB; 
+12/7/2013 7:18:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:18:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2271, 845, 21) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:04 AM: 127.0.0.1: Serials: 0x40000CD2; 
+12/7/2013 7:18:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:18:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2274, 834, 21) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:06 AM: 127.0.0.1: Serials: 0x40000CD3; 
+12/7/2013 7:18:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:18:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2276, 849, 21) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:09 AM: 127.0.0.1: Serials: 0x40000CD4; 
+12/7/2013 7:18:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:18:12 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2279, 839, 21) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:12 AM: 127.0.0.1: Serials: 0x40000CD5; 
+12/7/2013 7:18:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:18:15 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2271, 847, 21) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:15 AM: 127.0.0.1: Serials: 0x40000CD6; 
+12/7/2013 7:18:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:18:17 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2270, 834, 21) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:17 AM: 127.0.0.1: Serials: 0x40000CD7; 
+12/7/2013 7:18:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/7/2013 7:18:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2271, 834, 21) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:21 AM: 127.0.0.1: Serials: 0x40000CDB; 
+12/7/2013 7:18:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/7/2013 7:18:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2272, 845, 21) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:23 AM: 127.0.0.1: Serials: 0x40000CDD; 
+12/7/2013 7:18:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/7/2013 7:18:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2274, 843, 21) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:26 AM: 127.0.0.1: Serials: 0x40000CDE; 
+12/7/2013 7:18:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2279 set movable False hue 0 light Circle225'
+12/7/2013 7:18:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2270, 835, 21) in Malas: "static" "2279" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:30 AM: 127.0.0.1: Serials: 0x40000CDF; 
+12/7/2013 7:18:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2279 set movable False hue 0 light Circle225'
+12/7/2013 7:18:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2278, 836, 21) in Malas: "static" "2279" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:32 AM: 127.0.0.1: Serials: 0x40000CE0; 
+12/7/2013 7:18:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/7/2013 7:18:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2275, 849, 21) in Malas: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:37 AM: 127.0.0.1: Serials: 0x40000CE1; 
+12/7/2013 7:18:40 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/7/2013 7:18:41 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2273, 849, 21) in Malas: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:41 AM: 127.0.0.1: Serials: 0x40000CE2; 
+12/7/2013 7:18:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/7/2013 7:18:44 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2279, 844, 21) in Malas: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:18:44 AM: 127.0.0.1: Serials: 0x40000CE3; 
+12/7/2013 7:19:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/7/2013 7:19:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2311, 847, 19) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:02 AM: 127.0.0.1: Serials: 0x40000CE5; 
+12/7/2013 7:19:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2274 set movable False hue 0 light Circle225'
+12/7/2013 7:19:03 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2300, 844, 19) in Malas: "static" "2274" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:03 AM: 127.0.0.1: Serials: 0x40000CE6; 
+12/7/2013 7:19:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2280 set movable False hue 0 light Circle225'
+12/7/2013 7:19:07 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2310, 840, 19) in Malas: "static" "2280" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:07 AM: 127.0.0.1: Serials: 0x40000CE7; 
+12/7/2013 7:19:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2280 set movable False hue 0 light Circle225'
+12/7/2013 7:19:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2300, 850, 19) in Malas: "static" "2280" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:09 AM: 127.0.0.1: Serials: 0x40000CE8; 
+12/7/2013 7:19:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2280 set movable False hue 0 light Circle225'
+12/7/2013 7:19:11 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2305, 840, 19) in Malas: "static" "2280" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:11 AM: 127.0.0.1: Serials: 0x40000CE9; 
+12/7/2013 7:19:14 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2275 set movable False hue 0 light Circle225'
+12/7/2013 7:19:16 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2306, 841, 19) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:16 AM: 127.0.0.1: Serials: 0x40000CEA; 
+12/7/2013 7:19:18 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2275 set movable False hue 0 light Circle225'
+12/7/2013 7:19:19 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2305, 848, 19) in Malas: "static" "2275" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:19 AM: 127.0.0.1: Serials: 0x40000CEB; 
+12/7/2013 7:19:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:19:22 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2309, 840, 19) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:22 AM: 127.0.0.1: Serials: 0x40000CEC; 
+12/7/2013 7:19:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:19:24 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2301, 844, 19) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:24 AM: 127.0.0.1: Serials: 0x40000CED; 
+12/7/2013 7:19:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:19:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2307, 849, 19) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:25 AM: 127.0.0.1: Serials: 0x40000CEE; 
+12/7/2013 7:19:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2278 set movable False hue 0 light Circle225'
+12/7/2013 7:19:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2311, 843, 19) in Malas: "static" "2278" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:27 AM: 127.0.0.1: Serials: 0x40000CEF; 
+12/7/2013 7:19:30 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:19:31 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2311, 844, 19) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:31 AM: 127.0.0.1: Serials: 0x40000CF0; 
+12/7/2013 7:19:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:19:32 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2302, 840, 19) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:32 AM: 127.0.0.1: Serials: 0x40000CF1; 
+12/7/2013 7:19:34 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2272 set movable False hue 0 light Circle225'
+12/7/2013 7:19:35 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2300, 847, 19) in Malas: "static" "2272" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:35 AM: 127.0.0.1: Serials: 0x40000CF2; 
+12/7/2013 7:19:37 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:19:38 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2307, 840, 19) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:38 AM: 127.0.0.1: Serials: 0x40000CF3; 
+12/7/2013 7:19:40 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:19:40 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2308, 848, 19) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:40 AM: 127.0.0.1: Serials: 0x40000CF4; 
+12/7/2013 7:19:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2273 set movable False hue 0 light Circle225'
+12/7/2013 7:19:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2310, 841, 19) in Malas: "static" "2273" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:42 AM: 127.0.0.1: Serials: 0x40000CF5; 
+12/7/2013 7:19:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/7/2013 7:19:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2307, 841, 19) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:45 AM: 127.0.0.1: Serials: 0x40000CF6; 
+12/7/2013 7:19:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2276 set movable False hue 0 light Circle225'
+12/7/2013 7:19:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2301, 847, 19) in Malas: "static" "2276" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:47 AM: 127.0.0.1: Serials: 0x40000CF7; 
+12/7/2013 7:19:49 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/7/2013 7:19:51 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2306, 842, 19) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:51 AM: 127.0.0.1: Serials: 0x40000CF8; 
+12/7/2013 7:19:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2277 set movable False hue 0 light Circle225'
+12/7/2013 7:19:54 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2302, 841, 19) in Malas: "static" "2277" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:54 AM: 127.0.0.1: Serials: 0x40000CF9; 
+12/7/2013 7:19:56 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2279 set movable False hue 0 light Circle225'
+12/7/2013 7:19:57 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2303, 840, 19) in Malas: "static" "2279" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:57 AM: 127.0.0.1: Serials: 0x40000CFA; 
+12/7/2013 7:19:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2279 set movable False hue 0 light Circle225'
+12/7/2013 7:19:58 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2301, 850, 19) in Malas: "static" "2279" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:19:58 AM: 127.0.0.1: Serials: 0x40000CFB; 
+12/7/2013 7:20:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2279 set movable False hue 0 light Circle225'
+12/7/2013 7:20:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2308, 840, 19) in Malas: "static" "2279" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:20:01 AM: 127.0.0.1: Serials: 0x40000CFC; 
+12/7/2013 7:20:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2281 set movable False hue 0 light Circle225'
+12/7/2013 7:20:05 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2309, 841, 19) in Malas: "static" "2281" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:20:05 AM: 127.0.0.1: Serials: 0x40000CFD; 
+12/7/2013 7:20:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'Add static 2282 set movable False hue 0 light Circle225'
+12/7/2013 7:20:10 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2302, 844, 19) in Malas: "static" "2282" "set" "movable" "False" "hue" "0" "light" "Circle225"
+12/7/2013 7:20:10 AM: 127.0.0.1: Serials: 0x40000CFE; 
+12/7/2013 7:21:25 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add lizardman'
+12/7/2013 7:21:27 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'add lizardma'
+12/7/2013 7:21:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2350, 724, 30) in Malas: "LizardmanGuardian"
+12/7/2013 7:21:30 AM: 127.0.0.1: Serials: 0xCA; 
+12/7/2013 7:21:36 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2349, 725, 30) in Malas: "LizardmanWizard"
+12/7/2013 7:21:36 AM: 127.0.0.1: Serials: 0xCB; 
+12/7/2013 7:21:42 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'm remove'
+12/7/2013 7:21:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0xCA "Sytsyth" (no account)
+12/7/2013 7:21:43 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0xCB "Lesstslah" (no account)
+12/7/2013 7:21:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') building at (2350, 724, 30) in Malas: "LizardmanRanger"
+12/7/2013 7:21:45 AM: 127.0.0.1: Serials: 0xCC; 
+12/7/2013 7:21:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'remove '
+12/7/2013 7:21:53 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') deleting 0xCC "Tyscesth" (no account)
+12/7/2013 7:22:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:23:20 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:24:01 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:24:21 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:24:45 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:25:13 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:25:48 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:26:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:26:22 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:27:47 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:28:26 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:29:06 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:29:29 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:30:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:30:33 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:31:23 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'where '
+12/7/2013 7:33:00 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'freezemap '
+12/7/2013 7:33:02 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') invoking freeze for every item in Owner
+12/7/2013 7:33:04 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'admin '
+12/7/2013 7:33:08 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+12/7/2013 7:33:09 AM: 127.0.0.1: Owner 0x2E3 "Zigholtul" ('Zigholtul88') used command 'save '

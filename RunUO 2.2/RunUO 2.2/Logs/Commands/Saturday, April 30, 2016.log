@@ -1,0 +1,232 @@
+##############################
+Log started on 4/30/2016 2:44:31 PM
+
+4/30/2016 2:45:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 2:46:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/30/2016 2:49:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 2:49:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/30/2016 2:49:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 2:50:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 2:54:12 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 2:54:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'adddoor '
+4/30/2016 2:54:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add LightWoodDoor SouthCW'
+4/30/2016 2:54:56 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1101, 1352, 5) in Malas: "LightWoodDoor" "SouthCW"
+4/30/2016 2:54:56 PM: 127.0.0.1: Serials: 0x40001002; 
+4/30/2016 2:55:07 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor'
+4/30/2016 2:55:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor'
+4/30/2016 2:55:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 2:55:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor northcw'
+4/30/2016 2:55:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1104, 1351, 5) in Malas: "lightwooddoor" "northcw"
+4/30/2016 2:55:32 PM: 127.0.0.1: Serials: 0x40001072; 
+4/30/2016 2:55:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor northccw'
+4/30/2016 2:55:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1106, 1351, 5) in Malas: "lightwooddoor" "northccw"
+4/30/2016 2:55:39 PM: 127.0.0.1: Serials: 0x40001073; 
+4/30/2016 2:55:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 2:55:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001072 (LightWoodDoor)
+4/30/2016 2:55:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor northccw'
+4/30/2016 2:55:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 2:55:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001002 (LightWoodDoor)
+4/30/2016 2:55:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 2:55:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001073 (LightWoodDoor)
+4/30/2016 2:55:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor northccw'
+4/30/2016 2:55:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1101, 1352, 5) in Malas: "lightwooddoor" "northccw"
+4/30/2016 2:55:59 PM: 127.0.0.1: Serials: 0x40001081; 
+4/30/2016 2:56:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 2:57:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor northccw'
+4/30/2016 2:57:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+4/30/2016 2:57:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001081 (LightWoodDoor)
+4/30/2016 2:57:58 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/30/2016 2:58:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add LightWoodDoor NorthCCW'
+4/30/2016 2:58:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1308, 1418, 15) in Malas: "LightWoodDoor" "NorthCCW"
+4/30/2016 2:58:17 PM: 127.0.0.1: Serials: 0x400011C3; 
+4/30/2016 2:58:22 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 2:58:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor northcw'
+4/30/2016 2:58:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1310, 1419, 15) in Malas: "lightwooddoor" "northcw"
+4/30/2016 2:58:37 PM: 127.0.0.1: Serials: 0x400011D7; 
+4/30/2016 2:58:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 2:58:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400011C3 (LightWoodDoor)
+4/30/2016 2:58:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 2:58:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400011D7 (LightWoodDoor)
+4/30/2016 2:58:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor northcw'
+4/30/2016 2:58:48 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1308, 1418, 15) in Malas: "lightwooddoor" "northcw"
+4/30/2016 2:58:48 PM: 127.0.0.1: Serials: 0x400011D9; 
+4/30/2016 2:58:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 2:59:28 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor northcw'
+4/30/2016 2:59:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1308, 1418, 35) in Malas: "lightwooddoor" "northcw"
+4/30/2016 2:59:31 PM: 127.0.0.1: Serials: 0x400011FA; 
+4/30/2016 2:59:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+4/30/2016 2:59:35 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400011FA (LightWoodDoor)
+4/30/2016 2:59:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400011D9 (LightWoodDoor)
+4/30/2016 2:59:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add LightWoodDoor EastCCW'
+4/30/2016 2:59:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1315, 1413, 15) in Malas: "LightWoodDoor" "EastCCW"
+4/30/2016 2:59:41 PM: 127.0.0.1: Serials: 0x4000122B; 
+4/30/2016 2:59:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 2:59:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor eastcw'
+4/30/2016 2:59:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1311, 1419, 15) in Malas: "lightwooddoor" "eastcw"
+4/30/2016 2:59:55 PM: 127.0.0.1: Serials: 0x40001233; 
+4/30/2016 2:59:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 3:00:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000122B (LightWoodDoor)
+4/30/2016 3:00:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor eastcw'
+4/30/2016 3:00:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1315, 1413, 15) in Malas: "lightwooddoor" "eastcw"
+4/30/2016 3:00:02 PM: 127.0.0.1: Serials: 0x40001234; 
+4/30/2016 3:00:05 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 3:00:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwooddoor eastcw'
+4/30/2016 3:00:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+4/30/2016 3:00:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001233 (LightWoodDoor)
+4/30/2016 3:00:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+4/30/2016 3:00:53 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001234 (LightWoodDoor)
+4/30/2016 3:01:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 3:03:43 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 4/30/2016 3:03:59 PM
+
+4/30/2016 3:04:17 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 3:04:52 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/30/2016 3:04:57 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+4/30/2016 3:05:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 3:05:42 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/30/2016 3:06:14 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+4/30/2016 3:07:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 3:07:36 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 4/30/2016 3:07:56 PM
+
+4/30/2016 3:08:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 3:08:49 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 3:22:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 3:26:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lockpickingche'
+4/30/2016 3:30:29 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'set str 100'
+4/30/2016 3:30:31 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') set property 'str' of 0x4E8 "Bruce" ('Zigholtul88') to '100'
+4/30/2016 3:30:34 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'set dex 100'
+4/30/2016 3:30:34 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') set property 'dex' of 0x4E8 "Bruce" ('Zigholtul88') to '100'
+4/30/2016 3:31:09 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'props '
+4/30/2016 3:32:15 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add '
+4/30/2016 3:32:56 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'Add LeatherChest'
+4/30/2016 3:32:57 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2536, 1975, 0) in Malas: "LeatherChest"
+4/30/2016 3:32:57 PM: 127.0.0.1: Serials: 0x400015BA; 
+4/30/2016 3:33:07 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'remove '
+4/30/2016 3:33:08 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') deleting 0x400015BA (LeatherChest)
+4/30/2016 3:33:12 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'Add Cloak'
+4/30/2016 3:33:13 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2537, 1975, 0) in Malas: "Cloak"
+4/30/2016 3:33:13 PM: 127.0.0.1: Serials: 0x400015C2; 
+4/30/2016 3:33:27 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'Add Hakama'
+4/30/2016 3:33:28 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2537, 1975, 0) in Malas: "Hakama"
+4/30/2016 3:33:28 PM: 127.0.0.1: Serials: 0x400015C4; 
+4/30/2016 3:33:39 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'Add ClothNinjaJacket'
+4/30/2016 3:33:39 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'Add ClothNinjaJacket'
+4/30/2016 3:33:39 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2537, 1975, 0) in Malas: "ClothNinjaJacket"
+4/30/2016 3:33:39 PM: 127.0.0.1: Serials: 0x400015C9; 
+4/30/2016 3:33:48 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add leathergloves'
+4/30/2016 3:33:49 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2537, 1975, 0) in Malas: "leathergloves"
+4/30/2016 3:33:49 PM: 127.0.0.1: Serials: 0x400015CB; 
+4/30/2016 3:34:10 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'Add TattsukeHakama'
+4/30/2016 3:34:18 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2537, 1975, 0) in Malas: "TattsukeHakama"
+4/30/2016 3:34:18 PM: 127.0.0.1: Serials: 0x40001602; 
+4/30/2016 3:35:09 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add bandana'
+4/30/2016 3:35:10 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2537, 1975, 0) in Malas: "bandana"
+4/30/2016 3:35:10 PM: 127.0.0.1: Serials: 0x40001698; 
+4/30/2016 3:35:26 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'Add Boots'
+4/30/2016 3:35:26 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2537, 1975, 0) in Malas: "Boots"
+4/30/2016 3:35:26 PM: 127.0.0.1: Serials: 0x400016BF; 
+4/30/2016 3:35:46 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'remove '
+4/30/2016 3:35:46 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') deleting 0x400015C4 (Hakama)
+4/30/2016 3:36:33 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add dyetub'
+4/30/2016 3:36:35 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2537, 1975, 0) in Malas: "dyetub"
+4/30/2016 3:36:35 PM: 127.0.0.1: Serials: 0x40001703; 
+4/30/2016 3:36:38 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add dyes'
+4/30/2016 3:36:40 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2537, 1975, 0) in Malas: "dyes"
+4/30/2016 3:36:40 PM: 127.0.0.1: Serials: 0x40001704; 
+4/30/2016 3:36:46 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'add leatherdyetub'
+4/30/2016 3:36:48 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') building at (2537, 1976, 0) in Malas: "leatherdyetub"
+4/30/2016 3:36:48 PM: 127.0.0.1: Serials: 0x40001705; 
+4/30/2016 3:37:36 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'props '
+4/30/2016 3:37:51 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'props '
+4/30/2016 3:38:18 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'props '
+4/30/2016 3:38:49 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'props '
+4/30/2016 3:39:14 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'admin '
+4/30/2016 3:39:19 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/30/2016 3:39:20 PM: 127.0.0.1: Owner 0x4E8 "Bruce" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/30/2016 3:55:12 PM
+
+4/30/2016 3:56:02 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 3:56:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 3:56:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'X' of 0x1 "Zigholtul" ('Zigholtul88') to '1069'
+4/30/2016 3:56:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Y' of 0x1 "Zigholtul" ('Zigholtul88') to '709'
+4/30/2016 3:56:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set z 50'
+4/30/2016 3:56:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'z' of 0x1 "Zigholtul" ('Zigholtul88') to '50'
+4/30/2016 3:56:54 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+4/30/2016 3:56:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400003A3 (Turquoise)
+4/30/2016 3:56:59 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400006DE (Spawner)
+4/30/2016 3:57:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/30/2016 3:57:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+4/30/2016 4:01:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/30/2016 4:05:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'adddoor '
+4/30/2016 4:05:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+4/30/2016 4:05:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'adddoor '
+4/30/2016 4:05:44 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add LightWoodGate SouthCW'
+4/30/2016 4:05:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (697, 742, 0) in Malas: "LightWoodGate" "SouthCW"
+4/30/2016 4:05:45 PM: 127.0.0.1: Serials: 0x40002439; 
+4/30/2016 4:05:50 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add woodgate'
+4/30/2016 4:05:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add woodengate'
+4/30/2016 4:06:03 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwoodgate'
+4/30/2016 4:06:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwoodgate'
+4/30/2016 4:06:11 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 4:06:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwoodgate northcw'
+4/30/2016 4:06:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (699, 739, 0) in Malas: "lightwoodgate" "northcw"
+4/30/2016 4:06:21 PM: 127.0.0.1: Serials: 0x40002447; 
+4/30/2016 4:06:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 4:06:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002447 (LightWoodGate)
+4/30/2016 4:06:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwoodgate northccw'
+4/30/2016 4:06:30 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (699, 738, 0) in Malas: "lightwoodgate" "northccw"
+4/30/2016 4:06:30 PM: 127.0.0.1: Serials: 0x40002449; 
+4/30/2016 4:06:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 4:06:37 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002439 (LightWoodGate)
+4/30/2016 4:06:38 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 4:06:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002449 (LightWoodGate)
+4/30/2016 4:06:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwoodgate northccw'
+4/30/2016 4:06:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (697, 741, 0) in Malas: "lightwoodgate" "northccw"
+4/30/2016 4:06:41 PM: 127.0.0.1: Serials: 0x40002450; 
+4/30/2016 4:06:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwoodgate northccw'
+4/30/2016 4:06:47 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 4:08:18 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwoodgate southccw'
+4/30/2016 4:08:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (697, 742, 0) in Malas: "lightwoodgate" "southccw"
+4/30/2016 4:08:20 PM: 127.0.0.1: Serials: 0x4000248D; 
+4/30/2016 4:08:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 4:08:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000248D (LightWoodGate)
+4/30/2016 4:08:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwoodgate southcw'
+4/30/2016 4:08:27 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (697, 742, 0) in Malas: "lightwoodgate" "southcw"
+4/30/2016 4:08:27 PM: 127.0.0.1: Serials: 0x4000248F; 
+4/30/2016 4:08:32 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwoodgate southcw'
+4/30/2016 4:08:34 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 4:09:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightwoodgate southcw'
+4/30/2016 4:09:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+4/30/2016 4:09:23 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002450 (LightWoodGate)
+4/30/2016 4:09:24 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000248F (LightWoodGate)
+4/30/2016 4:09:31 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/30/2016 4:09:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add LightWoodGate NorthCCW'
+4/30/2016 4:09:39 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (686, 690, 5) in Malas: "LightWoodGate" "NorthCCW"
+4/30/2016 4:09:39 PM: 127.0.0.1: Serials: 0x40002497; 
+4/30/2016 4:09:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 4:10:15 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add LightWoodGate SouthCW'
+4/30/2016 4:10:16 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (686, 691, 5) in Malas: "LightWoodGate" "SouthCW"
+4/30/2016 4:10:16 PM: 127.0.0.1: Serials: 0x400024A1; 
+4/30/2016 4:10:21 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+4/30/2016 4:10:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+4/30/2016 4:10:40 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002497 (LightWoodGate)
+4/30/2016 4:10:41 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400024A1 (LightWoodGate)
+4/30/2016 4:10:45 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+4/30/2016 4:12:25 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 4/30/2016 4:12:40 PM
+
+4/30/2016 4:13:00 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/30/2016 4:13:04 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+4/30/2016 4:19:06 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add fire'
+4/30/2016 4:19:10 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (651, 801, 3) in Malas: "FireBeetle"
+4/30/2016 4:19:10 PM: 127.0.0.1: Serials: 0x4F0; 
+4/30/2016 4:19:19 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+4/30/2016 4:19:20 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4F0 "a fire beetle" (no account)
+4/30/2016 4:22:51 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+4/30/2016 4:22:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/30/2016 4:22:55 PM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '

@@ -1,0 +1,128 @@
+##############################
+Log started on 3/2/2017 8:58:49 PM
+Townsperson Logging set to Debug
+
+##############################
+Log started on 3/2/2017 8:59:24 PM
+Townsperson Logging set to Debug
+
+##############################
+Log started on 3/2/2017 9:03:07 PM
+Townsperson Logging set to Debug
+
+9:05 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "hello"
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Trigger matched: " hello " : " hello "
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 8 Responses.
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 140 ms.
+9:05 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "*waves*"
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "*waves*"
+9:05 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "how are you"
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "HOW ARE YOU"
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 0 ms.
+9:05 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "What were we talking about?"
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "What were we talking about?"
+9:05 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "where can i find the nearest bank?"
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "WHERE CAN I FIND THE NEAREST BANK?"
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 15 ms.
+9:05 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "*blank stare*"
+9:05 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "*blank stare*"
+9:06 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "why are you looking at me funny?"
+9:06 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:06 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "WHY ARE YOU LOOKING AT ME FUNNY?"
+9:06 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:06 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 15 ms.
+9:06 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "I was just thinkn about goin to the pub and havin meself a nice warm beer."
+9:06 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "I was just thinkn about goin to the pub and havin meself a nice warm beer."
+9:06 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "sounds like fun"
+9:06 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:06 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "SOUNDS LIKE FUN"
+9:06 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:06 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 0 ms.
+9:06 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "*nods*"
+9:06 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "*nods*"
+9:07 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "lets do it"
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "LETS DO IT"
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 0 ms.
+9:07 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "I don't know."
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "I don't know."
+9:07 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "you dont know?"
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "YOU DONT KNOW?"
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 31 ms.
+9:07 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "*looks confused*"
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "*looks confused*"
+9:07 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "you crazy or something?"
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "YOU CRAZY OR SOMETHING?"
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 15 ms.
+9:07 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "Do you think it will rain?"
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "Do you think it will rain?"
+9:07 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "probably"
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "PROBABLY"
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 15 ms.
+9:07 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "I don't know."
+9:07 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "I don't know."
+9:08 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "me neither"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "ME NEITHER"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 0 ms.
+9:08 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "ehh?"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "ehh?"
+9:08 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "sure whatever"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "SURE WHATEVER"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 15 ms.
+9:08 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "ehh?"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "ehh?"
+9:08 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "okay?"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "OKAY?"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 15 ms.
+9:08 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "*looks confused*"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "*looks confused*"
+9:08 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "oh piss off"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "OH PISS OFF"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 0 ms.
+9:08 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "*looks startled*"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "*looks startled*"
+9:08 PM: 0x522 "Corbett" (no account): Making Asynchronous call on: "beer"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call begun.
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Default Rule: "BEER"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Matched 14 Responses.
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Asynchronous call took 0 ms.
+9:08 PM: 0x522 "Corbett" (no account): Responding to Speech Event: "*blank stare*"
+9:08 PM: 0x1 "Zigholtul" ('Zigholtul88'): Return from Asynchronous call: "*blank stare*"
+9:24 PM: 0x540 "Chanda" (no account): Making Asynchronous call on: "hi"
+9:24 PM: 0x427 "Mitsurugi" ('tommenquar'): Asynchronous call begun.
+9:24 PM: 0x427 "Mitsurugi" ('tommenquar'): Trigger matched: " hi " : " hi "
+9:24 PM: 0x427 "Mitsurugi" ('tommenquar'): Matched 8 Responses.
+9:24 PM: 0x427 "Mitsurugi" ('tommenquar'): Asynchronous call took 15 ms.
+9:24 PM: 0x540 "Chanda" (no account): Responding to Speech Event: "Hail m'lord!"
+9:24 PM: 0x427 "Mitsurugi" ('tommenquar'): Return from Asynchronous call: "Hail m'lord!"
+9:25 PM: 0x540 "Chanda" (no account): Making Asynchronous call on: "beer"
+9:25 PM: 0x427 "Mitsurugi" ('tommenquar'): Asynchronous call begun.
+9:25 PM: 0x427 "Mitsurugi" ('tommenquar'): Default Rule: "BEER"
+9:25 PM: 0x427 "Mitsurugi" ('tommenquar'): Matched 13 Responses.
+9:25 PM: 0x427 "Mitsurugi" ('tommenquar'): Asynchronous call took 0 ms.
+9:25 PM: 0x540 "Chanda" (no account): Responding to Speech Event: "I don't know."
+9:25 PM: 0x427 "Mitsurugi" ('tommenquar'): Return from Asynchronous call: "I don't know."
+##############################
+Log started on 3/2/2017 10:02:58 PM
+Townsperson Logging set to Debug
+

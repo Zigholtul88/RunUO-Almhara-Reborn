@@ -1,0 +1,82 @@
+##############################
+Log started on 4/28/2019 7:32:19 PM
+
+4/28/2019 7:35:06 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/28/2019 7:45:38 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 7:47:25 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/28/2019 7:47:40 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add movingtrap'
+4/28/2019 7:47:42 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add movingtra'
+4/28/2019 7:47:45 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1011, 1117, -42) in TerMur: "MovingTrap"
+4/28/2019 7:47:45 PM: 127.0.0.1: Serials: 0x40000125; 
+4/28/2019 7:47:48 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/28/2019 7:47:50 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000125 (MovingTrap)
+4/28/2019 7:48:03 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1012, 1118, -42) in TerMur: "MovingTrap2"
+4/28/2019 7:48:03 PM: 127.0.0.1: Serials: 0x40000127; 
+4/28/2019 7:48:07 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/28/2019 7:48:10 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x40000127 (MovingTrap2)
+4/28/2019 7:48:28 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/28/2019 7:48:32 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/28/2019 7:49:21 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/28/2019 7:49:33 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/28/2019 7:49:47 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/28/2019 7:49:49 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/28/2019 7:49:57 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/28/2019 7:50:07 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/28/2019 7:50:22 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/28/2019 7:50:24 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/28/2019 7:52:19 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'tele '
+4/28/2019 7:52:25 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'tele '
+4/28/2019 7:52:32 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/28/2019 7:52:36 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/28/2019 7:52:41 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '
+##############################
+Log started on 4/28/2019 9:30:08 PM
+
+4/28/2019 9:30:17 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost '
+4/28/2019 9:30:52 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add trap'
+4/28/2019 9:31:02 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') building at (1149, 1122, -42) in TerMur: "BoulderTrap"
+4/28/2019 9:31:02 PM: 127.0.0.1: Serials: 0x4000013F; 
+4/28/2019 9:31:17 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'remove '
+4/28/2019 9:31:19 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 0x4000013F (BoulderTrap)
+4/28/2019 9:32:40 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'premiumspawner '
+4/28/2019 9:32:43 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'runuospawnerexporter '
+4/28/2019 9:32:43 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawner '
+4/28/2019 9:33:53 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') starting facet clear of TerMur (277 objects)
+4/28/2019 9:33:53 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'clearfacet '
+4/28/2019 9:33:54 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 277 objects
+4/28/2019 9:34:09 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawngen termur/dungeons.map'
+4/28/2019 9:34:10 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/28/2019 9:34:14 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/28/2019 9:34:51 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:35:06 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:36:31 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:36:59 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:37:44 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:41:21 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:42:01 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:42:11 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:42:31 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'speedboost off'
+4/28/2019 9:46:54 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:48:29 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:52:44 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'tele '
+4/28/2019 9:53:43 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/28/2019 9:54:36 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'add gatekey'
+4/28/2019 9:55:18 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/28/2019 9:55:31 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/28/2019 9:55:34 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/28/2019 9:55:59 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'premiumspawner '
+4/28/2019 9:56:02 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'runuospawnerexporter '
+4/28/2019 9:56:02 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawner '
+4/28/2019 9:56:27 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'where '
+4/28/2019 9:56:30 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 9:57:37 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') starting facet clear of Tokuno (1509 objects)
+4/28/2019 9:57:37 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'clearfacet '
+4/28/2019 9:57:39 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') deleting 1509 objects
+4/28/2019 9:57:50 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'spawngen tokuno/dungeons.map'
+4/28/2019 9:57:52 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/28/2019 9:57:55 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'decorate '
+4/28/2019 10:02:30 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 10:02:37 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'go '
+4/28/2019 10:11:07 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'admin '
+4/28/2019 10:11:11 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+4/28/2019 10:11:15 PM: 127.0.0.1: Owner 0x1A "Kryss" ('Zigholtul88') used command 'save '

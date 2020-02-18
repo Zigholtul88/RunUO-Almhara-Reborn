@@ -1,0 +1,97 @@
+##############################
+Log started on 2/10/2013 2:30:48 PM
+
+2/10/2013 2:33:12 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'admin '
+2/10/2013 2:33:16 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'decorate '
+2/10/2013 2:36:06 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/10/2013 2:36:13 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'WalkingRange' of 0x40000013 (Spawner) to '0'
+2/10/2013 2:36:26 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'WalkingRange' of 0x40000013 (Spawner) to '-1'
+2/10/2013 2:38:50 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add dagger'
+2/10/2013 2:38:52 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (920, 785, 0) in Malas: "dagger"
+2/10/2013 2:38:52 PM: 127.0.0.1: Serials: 0x400001EC; 
+2/10/2013 2:39:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/10/2013 2:39:38 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'Slayer' of 0x400001EC (Dagger) to 'Repond'
+2/10/2013 2:41:50 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add spawning'
+2/10/2013 2:41:54 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (953, 810, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:41:54 PM: 127.0.0.1: Serials: 0x400001F1; 
+2/10/2013 2:41:55 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (953, 811, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:41:55 PM: 127.0.0.1: Serials: 0x400001F4; 
+2/10/2013 2:41:55 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (954, 811, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:41:55 PM: 127.0.0.1: Serials: 0x400001F7; 
+2/10/2013 2:42:05 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (954, 810, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:42:05 PM: 127.0.0.1: Serials: 0x400001F9; 
+2/10/2013 2:42:06 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (953, 809, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:42:06 PM: 127.0.0.1: Serials: 0x400001FC; 
+2/10/2013 2:42:07 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (954, 809, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:42:07 PM: 127.0.0.1: Serials: 0x400001FE; 
+2/10/2013 2:42:08 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (955, 809, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:42:08 PM: 127.0.0.1: Serials: 0x40000201; 
+2/10/2013 2:42:08 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (955, 810, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:42:08 PM: 127.0.0.1: Serials: 0x40000207; 
+2/10/2013 2:42:08 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (955, 811, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:42:08 PM: 127.0.0.1: Serials: 0x4000020B; 
+2/10/2013 2:42:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'wipe '
+2/10/2013 2:42:34 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') wiping from (953, 808, 0) to (956, 811, 0) in Malas (Items, Mobiles)
+2/10/2013 2:43:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') playing sound 1 (toAll=True)
+2/10/2013 2:43:47 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'sound 1'
+2/10/2013 2:43:54 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') playing sound 42 (toAll=True)
+2/10/2013 2:43:54 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'sound 42'
+2/10/2013 2:43:58 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') playing sound 66 (toAll=True)
+2/10/2013 2:43:58 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'sound 0x42'
+2/10/2013 2:43:59 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') playing sound 66 (toAll=True)
+2/10/2013 2:43:59 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'sound 0x42'
+2/10/2013 2:44:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') playing sound 65 (toAll=True)
+2/10/2013 2:44:01 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'sound 0x41'
+2/10/2013 2:44:03 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') playing sound 66 (toAll=True)
+2/10/2013 2:44:03 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'sound 0x42'
+2/10/2013 2:44:12 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add spawning'
+2/10/2013 2:44:13 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (956, 814, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:44:13 PM: 127.0.0.1: Serials: 0x40000211; 
+2/10/2013 2:44:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add vyg'
+2/10/2013 2:44:37 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (956, 814, 0) in Malas: "VygulsVaultLargeCrate"
+2/10/2013 2:44:37 PM: 127.0.0.1: Serials: 0x40000216; 
+2/10/2013 2:44:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'wipe '
+2/10/2013 2:44:43 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') wiping from (956, 813, 0) to (956, 815, 0) in Malas (Items, Mobiles)
+2/10/2013 2:45:24 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add barrel'
+2/10/2013 2:45:26 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (956, 815, 0) in Malas: "barrel"
+2/10/2013 2:45:26 PM: 127.0.0.1: Serials: 0x40000217; 
+2/10/2013 2:45:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/10/2013 2:45:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000217 (Barrel)
+2/10/2013 2:45:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add barrel'
+2/10/2013 2:45:37 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (956, 814, 0) in Malas: "barrel"
+2/10/2013 2:45:37 PM: 127.0.0.1: Serials: 0x40000218; 
+2/10/2013 2:46:35 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'set str 100'
+2/10/2013 2:46:36 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'str' of 0x280 "hhh" ('Zigholtul88') to '100'
+2/10/2013 2:46:39 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add spawn'
+2/10/2013 2:46:41 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (956, 815, 0) in Malas: "SpawningClutterBag"
+2/10/2013 2:46:41 PM: 127.0.0.1: Serials: 0x4000021B; 
+2/10/2013 2:46:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/10/2013 2:46:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000021B (SpawningClutterBag)
+2/10/2013 2:47:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/10/2013 2:47:26 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add bag'
+2/10/2013 2:47:27 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (955, 815, 0) in Malas: "bag"
+2/10/2013 2:47:27 PM: 127.0.0.1: Serials: 0x4000021F; 
+2/10/2013 2:47:30 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/10/2013 2:47:59 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/10/2013 2:48:04 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/10/2013 2:48:05 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000021F (Bag)
+2/10/2013 2:48:06 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/10/2013 2:48:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/10/2013 2:48:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x40000218 (Barrel)
+2/10/2013 2:52:00 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'go '
+2/10/2013 2:54:19 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add basket'
+2/10/2013 2:54:20 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1215, 1063, 0) in Malas: "basket"
+2/10/2013 2:54:20 PM: 127.0.0.1: Serials: 0x40000227; 
+2/10/2013 3:02:36 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'add balron'
+2/10/2013 3:02:37 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') building at (1185, 1057, 0) in Malas: "balron"
+2/10/2013 3:02:37 PM: 127.0.0.1: Serials: 0x5A; 
+2/10/2013 3:02:42 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'props '
+2/10/2013 3:02:51 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'NameMod' of 0x5A "the Lord of the Abyss" (no account) to '(null)'
+2/10/2013 3:02:56 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') set property 'Name' of 0x5A "the Lord of the Abyss" (no account) to '(null)'
+2/10/2013 3:03:12 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'kill '
+2/10/2013 3:03:13 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') killing 0x5A "" (no account)
+2/10/2013 3:03:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'remove '
+2/10/2013 3:03:23 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') deleting 0x4000024C (Corpse)
+2/10/2013 3:20:33 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'admin '
+2/10/2013 3:20:37 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+2/10/2013 3:20:37 PM: 127.0.0.1: Owner 0x280 "hhh" ('Zigholtul88') used command 'save '

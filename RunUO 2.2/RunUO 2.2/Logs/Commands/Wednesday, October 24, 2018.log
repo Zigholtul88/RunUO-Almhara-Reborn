@@ -1,0 +1,335 @@
+##############################
+Log started on 10/24/2018 12:51:56 AM
+
+10/24/2018 12:52:50 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+10/24/2018 12:52:56 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+10/24/2018 12:54:55 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+10/24/2018 1:00:45 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+10/24/2018 1:01:16 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+10/24/2018 1:01:29 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+10/24/2018 1:01:53 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+10/24/2018 1:01:58 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+10/24/2018 1:02:17 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'allspells '
+10/24/2018 1:02:20 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') filling spellbook 0x40000B78 (Spellbook)
+10/24/2018 1:02:29 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add bagofreagents 5000'
+10/24/2018 1:02:30 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1684, 1899, 67) in Malas: "bagofreagents" "5000"
+10/24/2018 1:02:30 AM: 71.208.8.50: Serials: 0x4000126F; 
+10/24/2018 1:02:42 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+10/24/2018 1:03:05 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+10/24/2018 1:03:06 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+10/24/2018 9:18:39 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'unhide '
+10/24/2018 9:18:39 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') unhiding 0x1 "Zigholtul" ('Zigholtul88')
+10/24/2018 9:18:51 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 9:18:52 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x5CE "a horse" (no account)
+10/24/2018 9:18:55 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add pony'
+10/24/2018 9:18:58 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1620, 1904, 5) in Malas: "PonyStatue"
+10/24/2018 9:18:58 PM: 71.208.8.50: Serials: 0x40006A20; 
+10/24/2018 9:19:26 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 9:19:34 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set hue 28'
+10/24/2018 9:19:34 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'hue' of 0x2BA "my little pony" (no account) to '28'
+10/24/2018 9:23:55 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 9:23:56 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2BA "my little pony" (no account)
+10/24/2018 9:26:31 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/24/2018 9:30:37 PM
+
+##############################
+Log started on 10/24/2018 9:50:42 PM
+
+10/24/2018 9:50:52 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+10/24/2018 9:51:00 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ponystatue'
+10/24/2018 9:51:01 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1631, 1904, 5) in Malas: "ponystatue"
+10/24/2018 9:51:01 PM: 71.208.8.50: Serials: 0x400000A0; 
+10/24/2018 9:52:10 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 9:52:10 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2BA "my little pony" (no account)
+10/24/2018 9:53:22 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'sound '
+10/24/2018 9:53:27 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') playing sound 823 (toAll=True)
+10/24/2018 9:53:27 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'sound 823'
+10/24/2018 9:58:31 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/24/2018 10:07:10 PM
+
+10/24/2018 10:08:43 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+10/24/2018 10:08:50 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add ponystatue'
+10/24/2018 10:08:51 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1614, 1898, 5) in Malas: "ponystatue"
+10/24/2018 10:08:51 PM: 71.208.8.50: Serials: 0x40000133; 
+10/24/2018 10:16:30 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+10/24/2018 10:16:34 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+10/24/2018 10:16:36 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 10/24/2018 10:19:09 PM
+
+10/24/2018 10:19:18 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+10/24/2018 10:19:22 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+10/24/2018 10:19:36 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+10/24/2018 10:20:38 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add portc'
+10/24/2018 10:20:46 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1197, 1022, 0) in Malas: "PortcullisNS"
+10/24/2018 10:20:46 PM: 71.208.8.50: Serials: 0x40000206; 
+10/24/2018 10:20:50 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 10:20:51 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000206 (PortcullisNS)
+10/24/2018 10:21:17 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+10/24/2018 10:21:34 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+10/24/2018 10:21:39 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+10/24/2018 10:21:58 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+10/24/2018 10:21:59 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001C65 (PortcullisNS)
+10/24/2018 10:22:00 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000BE1 (Spawner)
+10/24/2018 10:22:09 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+10/24/2018 10:22:23 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+10/24/2018 10:22:33 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+10/24/2018 10:22:52 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+10/24/2018 10:22:55 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+10/24/2018 10:23:06 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+10/24/2018 10:23:06 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000423A (PortcullisNS)
+10/24/2018 10:23:07 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000423B (PortcullisNS)
+10/24/2018 10:23:08 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000423D (PortcullisNS)
+10/24/2018 10:23:08 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000423E (PortcullisNS)
+10/24/2018 10:23:09 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000261F (Spawner)
+10/24/2018 10:23:10 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004254 (PortcullisNS)
+10/24/2018 10:23:10 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40002620 (Spawner)
+10/24/2018 10:23:11 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000261E (Spawner)
+10/24/2018 10:23:12 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000261D (Spawner)
+10/24/2018 10:23:46 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+10/24/2018 10:23:48 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+10/24/2018 10:23:56 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:24:04 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:24:23 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:24:33 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Link' of 0x40004B96 (PortcullisNS) to '0x40004B97 "PortcullisNS"'
+10/24/2018 10:25:01 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'wipe '
+10/24/2018 10:25:03 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') wiping from (1197, 1022, 0) to (1200, 1023, 20) in Malas (Items, Mobiles)
+10/24/2018 10:25:05 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+10/24/2018 10:25:08 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+10/24/2018 10:25:12 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:25:19 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Link' of 0x400050C4 (PortcullisNS) to '0x400050C4 "PortcullisNS"'
+10/24/2018 10:25:39 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Link' of 0x400050C4 (PortcullisNS) to '0x400050C4 "PortcullisNS"'
+10/24/2018 10:25:56 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Link' of 0x400050C4 (PortcullisNS) to '(null)'
+10/24/2018 10:26:06 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Link' of 0x400050C4 (PortcullisNS) to '0x400050C4 "PortcullisNS"'
+10/24/2018 10:26:17 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+10/24/2018 10:26:19 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'wipe '
+10/24/2018 10:26:20 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') wiping from (1197, 1022, 0) to (1200, 1023, 28) in Malas (Items, Mobiles)
+10/24/2018 10:32:00 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add potion'
+10/24/2018 10:34:03 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1069, 0) in Malas: "FatManManaPotion"
+10/24/2018 10:34:03 PM: 71.208.8.50: Serials: 0x4000514E; 
+10/24/2018 10:34:06 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:37:36 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 10:37:36 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000514E (FatManManaPotion)
+10/24/2018 10:37:44 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add lightningpo'
+10/24/2018 10:37:48 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1180, 1075, 0) in Malas: "LesserLightningPotion"
+10/24/2018 10:37:48 PM: 71.208.8.50: Serials: 0x40005197; 
+10/24/2018 10:37:51 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:39:25 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 10:39:26 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005197 (LesserLightningPotion)
+10/24/2018 10:39:38 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add potio'
+10/24/2018 10:39:50 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add shatterpo'
+10/24/2018 10:39:54 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1180, 1070, 0) in Malas: "LesserShatterPotion"
+10/24/2018 10:39:54 PM: 71.208.8.50: Serials: 0x400051C0; 
+10/24/2018 10:39:56 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:40:56 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 10:40:57 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400051C0 (LesserShatterPotion)
+10/24/2018 10:41:00 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add potio'
+10/24/2018 10:41:06 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add mindpoti'
+10/24/2018 10:41:12 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1070, 0) in Malas: "MindPotion"
+10/24/2018 10:41:12 PM: 71.208.8.50: Serials: 0x400051D5; 
+10/24/2018 10:41:15 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:43:14 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 10:43:15 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400051D5 (MindPotion)
+10/24/2018 10:43:20 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add strengthpo'
+10/24/2018 10:44:01 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add glacia'
+10/24/2018 10:44:04 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1180, 1070, 0) in Malas: "GlacianTonic"
+10/24/2018 10:44:04 PM: 71.208.8.50: Serials: 0x400051FB; 
+10/24/2018 10:44:09 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:47:06 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add candl'
+10/24/2018 10:47:09 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1179, 1066, 0) in Malas: "BlueCandle"
+10/24/2018 10:47:09 PM: 71.208.8.50: Serials: 0x40005245; 
+10/24/2018 10:47:12 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1180, 1066, 0) in Malas: "GreenCandle"
+10/24/2018 10:47:13 PM: 71.208.8.50: Serials: 0x40005246; 
+10/24/2018 10:47:15 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1180, 1065, 0) in Malas: "HolyCandle"
+10/24/2018 10:47:15 PM: 71.208.8.50: Serials: 0x40005247; 
+10/24/2018 10:47:20 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1180, 1064, 0) in Malas: "WhiteCandle"
+10/24/2018 10:47:20 PM: 71.208.8.50: Serials: 0x40005248; 
+10/24/2018 10:47:27 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:48:19 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:48:38 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:48:54 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:48:59 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:50:45 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm remove'
+10/24/2018 10:50:45 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005248 (WhiteCandle)
+10/24/2018 10:50:46 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005247 (HolyCandle)
+10/24/2018 10:50:47 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005245 (BlueCandle)
+10/24/2018 10:50:48 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40005246 (GreenCandle)
+10/24/2018 10:53:04 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/24/2018 10:53:40 PM
+
+10/24/2018 10:53:50 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+10/24/2018 10:53:53 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+10/24/2018 10:54:21 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add BlueCandle'
+10/24/2018 10:54:22 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1180, 1063, 0) in Malas: "BlueCandle"
+10/24/2018 10:54:22 PM: 71.208.8.50: Serials: 0x400003A7; 
+10/24/2018 10:54:25 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 10:54:26 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400003A7 (BlueCandle)
+10/24/2018 10:54:53 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add FatManStrengthPotion'
+10/24/2018 10:54:54 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1180, 1063, 0) in Malas: "FatManStrengthPotion"
+10/24/2018 10:54:54 PM: 71.208.8.50: Serials: 0x40000896; 
+10/24/2018 10:57:14 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add summonru'
+10/24/2018 10:57:17 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1214, 1057, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 10:57:17 PM: 71.208.8.50: Serials: 0x400008CE; 
+10/24/2018 10:57:20 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 10:57:58 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 10:58:00 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x400008CE (SummonRunningPantsScroll)
+10/24/2018 10:58:02 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/24/2018 10:58:39 PM
+
+10/24/2018 10:58:49 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+10/24/2018 10:58:55 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+10/24/2018 10:59:04 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 10:59:05 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1215, 1057, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 10:59:05 PM: 71.208.8.50: Serials: 0x40000896; 
+10/24/2018 10:59:24 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 10:59:25 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1215, 1057, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 10:59:25 PM: 71.208.8.50: Serials: 0x40000897; 
+10/24/2018 11:01:31 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:01:32 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1215, 1057, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:01:32 PM: 71.208.8.50: Serials: 0x40000910; 
+10/24/2018 11:01:38 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 0'
+10/24/2018 11:01:38 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '0'
+10/24/2018 11:01:56 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+10/24/2018 11:01:57 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+10/24/2018 11:02:01 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 11:02:01 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2BA "WompWomp" (no account)
+10/24/2018 11:02:21 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:02:21 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1215, 1058, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:02:21 PM: 71.208.8.50: Serials: 0x4000091F; 
+10/24/2018 11:02:36 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:02:36 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1215, 1058, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:02:37 PM: 71.208.8.50: Serials: 0x40000926; 
+10/24/2018 11:02:42 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:02:43 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1215, 1058, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:02:43 PM: 71.208.8.50: Serials: 0x40000927; 
+10/24/2018 11:02:54 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:02:54 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1215, 1058, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:02:54 PM: 71.208.8.50: Serials: 0x4000092A; 
+10/24/2018 11:03:34 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:03:35 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1215, 1058, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:03:35 PM: 71.208.8.50: Serials: 0x40000944; 
+10/24/2018 11:04:00 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set int 10'
+10/24/2018 11:04:01 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'int' of 0x1 "Zigholtul" ('Zigholtul88') to '10'
+10/24/2018 11:04:02 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:04:03 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1214, 1058, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:04:03 PM: 71.208.8.50: Serials: 0x40000951; 
+10/24/2018 11:04:24 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:04:25 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1214, 1058, 0) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:04:25 PM: 71.208.8.50: Serials: 0x40000952; 
+10/24/2018 11:05:02 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add summon'
+10/24/2018 11:05:05 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1213, 1059, 0) in Malas: "SummonBeachBeetleScroll"
+10/24/2018 11:05:06 PM: 71.208.8.50: Serials: 0x40000960; 
+10/24/2018 11:05:22 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1214, 1059, 0) in Malas: "SummonBlackWidowSpiderScroll"
+10/24/2018 11:05:22 PM: 71.208.8.50: Serials: 0x40000961; 
+10/24/2018 11:05:41 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1215, 1058, 0) in Malas: "SummonBeetleScroll"
+10/24/2018 11:05:41 PM: 71.208.8.50: Serials: 0x40000964; 
+10/24/2018 11:05:58 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1214, 1057, 0) in Malas: "SummonBeetleScroll"
+10/24/2018 11:05:58 PM: 71.208.8.50: Serials: 0x4000096A; 
+10/24/2018 11:06:22 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1280, 1077, 1) in Malas: "SummonBlackWidowSpiderScroll"
+10/24/2018 11:06:22 PM: 71.208.8.50: Serials: 0x40000987; 
+10/24/2018 11:06:37 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1280, 1077, 1) in Malas: "SummonBlackWidowSpiderScroll"
+10/24/2018 11:06:37 PM: 71.208.8.50: Serials: 0x4000098F; 
+10/24/2018 11:06:55 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1279, 1077, 2) in Malas: "SummonAirElementalScroll"
+10/24/2018 11:06:55 PM: 71.208.8.50: Serials: 0x40000990; 
+10/24/2018 11:07:01 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set int 100'
+10/24/2018 11:07:02 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'int' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+10/24/2018 11:07:07 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set mana 500'
+10/24/2018 11:07:07 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'mana' of 0x1 "Zigholtul" ('Zigholtul88') to '500'
+10/24/2018 11:07:21 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 11:07:21 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2BA "an air elemental" (no account)
+10/24/2018 11:07:24 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add blizza'
+10/24/2018 11:07:27 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1282, 1081, 1) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:07:27 PM: 71.208.8.50: Serials: 0x400009A2; 
+10/24/2018 11:07:55 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+10/24/2018 11:08:05 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1553, 1836, 40) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:08:05 PM: 71.208.8.50: Serials: 0x400009D0; 
+10/24/2018 11:08:43 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 150'
+10/24/2018 11:08:43 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '150'
+10/24/2018 11:08:46 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1554, 1835, 40) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:08:46 PM: 71.208.8.50: Serials: 0x40000A1C; 
+10/24/2018 11:08:59 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1554, 1835, 40) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:08:59 PM: 71.208.8.50: Serials: 0x40000A31; 
+10/24/2018 11:09:20 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 120'
+10/24/2018 11:09:21 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '120'
+10/24/2018 11:09:24 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1554, 1835, 40) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:09:24 PM: 71.208.8.50: Serials: 0x40000A32; 
+10/24/2018 11:11:30 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 10.1'
+10/24/2018 11:11:31 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '10.1'
+10/24/2018 11:11:34 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1554, 1835, 40) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:11:34 PM: 71.208.8.50: Serials: 0x40000A4F; 
+10/24/2018 11:14:55 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1554, 1835, 40) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:14:55 PM: 71.208.8.50: Serials: 0x40000A7A; 
+10/24/2018 11:14:55 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1554, 1835, 40) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:14:55 PM: 71.208.8.50: Serials: 0x40000A7B; 
+10/24/2018 11:14:55 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1554, 1835, 40) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:14:55 PM: 71.208.8.50: Serials: 0x40000A7D; 
+10/24/2018 11:14:55 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1554, 1835, 40) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:14:55 PM: 71.208.8.50: Serials: 0x40000A7E; 
+10/24/2018 11:15:08 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'setallskills 100'
+10/24/2018 11:15:08 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'EverySkill.Base' of 0x1 "Zigholtul" ('Zigholtul88') to '100'
+10/24/2018 11:21:32 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+10/24/2018 11:21:45 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:21:46 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1751, 1232, 29) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:21:46 PM: 71.208.8.50: Serials: 0x40000AFC; 
+10/24/2018 11:22:04 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:22:05 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1751, 1231, 29) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:22:05 PM: 71.208.8.50: Serials: 0x40000B01; 
+10/24/2018 11:26:44 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:26:45 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1750, 1231, 31) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:26:45 PM: 71.208.8.50: Serials: 0x40000B28; 
+10/24/2018 11:27:05 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 11:27:06 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000586F (CrystalStaff)
+10/24/2018 11:28:07 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add blizza'
+10/24/2018 11:28:09 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1778, 1217, 10) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:28:09 PM: 71.208.8.50: Serials: 0x40000B2B; 
+10/24/2018 11:28:40 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'cast '
+10/24/2018 11:28:45 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'cast summonbeetle'
+10/24/2018 11:28:51 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'cast tomespell'
+10/24/2018 11:28:52 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'cast tome'
+10/24/2018 11:28:57 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'cast summonbeetle'
+10/24/2018 11:29:01 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'cast summonbeetlescroll'
+10/24/2018 11:29:47 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:29:48 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1779, 1217, 10) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:29:48 PM: 71.208.8.50: Serials: 0x40000BB4; 
+10/24/2018 11:30:06 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'Add SummonRunningPantsScroll'
+10/24/2018 11:30:07 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1779, 1216, 10) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:30:07 PM: 71.208.8.50: Serials: 0x40000BB8; 
+10/24/2018 11:32:44 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+10/24/2018 11:32:58 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+10/24/2018 11:32:59 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x1 "Zigholtul" ('Zigholtul88')
+10/24/2018 11:33:00 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'res '
+10/24/2018 11:33:01 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') resurrecting 0x1 "Zigholtul" ('Zigholtul88')
+10/24/2018 11:33:06 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add summon'
+10/24/2018 11:33:15 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1780, 1214, 10) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:33:15 PM: 71.208.8.50: Serials: 0x40000C92; 
+10/24/2018 11:33:37 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 11:35:44 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/24/2018 11:38:07 PM
+
+10/24/2018 11:38:17 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+10/24/2018 11:38:23 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add runnin'
+10/24/2018 11:38:25 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1778, 1215, 10) in Malas: "SummonRunningPantsScroll"
+10/24/2018 11:38:26 PM: 71.208.8.50: Serials: 0x40000135; 
+10/24/2018 11:38:48 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+10/24/2018 11:39:11 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+10/24/2018 11:39:12 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2BA "a pair of running pants" (no account)
+10/24/2018 11:43:23 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/24/2018 11:45:40 PM
+
+10/24/2018 11:47:15 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+10/24/2018 11:47:48 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add blizza'
+10/24/2018 11:47:50 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1775, 1207, 10) in Malas: "BlizzardStrikeScroll"
+10/24/2018 11:47:50 PM: 71.208.8.50: Serials: 0x40000E40; 
+10/24/2018 11:57:06 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 10/24/2018 11:57:39 PM
+
+10/24/2018 11:57:50 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+10/24/2018 11:57:52 PM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add '
+10/25/2018 12:02:32 AM: 71.208.8.50: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'restart '

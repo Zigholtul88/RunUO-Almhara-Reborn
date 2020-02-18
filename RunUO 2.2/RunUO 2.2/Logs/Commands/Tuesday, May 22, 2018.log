@@ -1,0 +1,544 @@
+##############################
+Log started on 5/22/2018 5:36:37 AM
+
+5/22/2018 5:37:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+5/22/2018 5:41:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 5:42:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 5:45:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 5:50:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 5:54:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 5:56:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'm tele'
+5/22/2018 5:57:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 6:02:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add boulder'
+5/22/2018 6:03:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1245, 945, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:00 AM: 127.0.0.1: Serials: 0x40000038; 
+5/22/2018 6:03:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1245, 945, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:02 AM: 127.0.0.1: Serials: 0x4000003C; 
+5/22/2018 6:03:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'move '
+5/22/2018 6:03:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') moving 0x4000003E (AddonComponent) to (1245, 947, -35)
+5/22/2018 6:03:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/22/2018 6:03:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1247, 944, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:19 AM: 127.0.0.1: Serials: 0x40000040; 
+5/22/2018 6:03:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1246, 944, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:20 AM: 127.0.0.1: Serials: 0x40000044; 
+5/22/2018 6:03:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1248, 943, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:23 AM: 127.0.0.1: Serials: 0x40000048; 
+5/22/2018 6:03:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1249, 942, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:26 AM: 127.0.0.1: Serials: 0x4000004C; 
+5/22/2018 6:03:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1249, 941, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:27 AM: 127.0.0.1: Serials: 0x40000050; 
+5/22/2018 6:03:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1250, 940, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:28 AM: 127.0.0.1: Serials: 0x40000054; 
+5/22/2018 6:03:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1249, 940, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:30 AM: 127.0.0.1: Serials: 0x40000058; 
+5/22/2018 6:03:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1249, 939, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:31 AM: 127.0.0.1: Serials: 0x4000005C; 
+5/22/2018 6:03:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1250, 938, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:32 AM: 127.0.0.1: Serials: 0x40000060; 
+5/22/2018 6:03:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1251, 937, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:34 AM: 127.0.0.1: Serials: 0x40000064; 
+5/22/2018 6:03:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1253, 938, -29) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:35 AM: 127.0.0.1: Serials: 0x40000068; 
+5/22/2018 6:03:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1254, 938, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:36 AM: 127.0.0.1: Serials: 0x4000006C; 
+5/22/2018 6:03:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1252, 939, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:37 AM: 127.0.0.1: Serials: 0x40000070; 
+5/22/2018 6:03:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1254, 940, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:38 AM: 127.0.0.1: Serials: 0x40000074; 
+5/22/2018 6:03:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1251, 941, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:40 AM: 127.0.0.1: Serials: 0x40000078; 
+5/22/2018 6:03:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1253, 942, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:41 AM: 127.0.0.1: Serials: 0x4000007C; 
+5/22/2018 6:03:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1253, 941, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:03:44 AM: 127.0.0.1: Serials: 0x40000080; 
+5/22/2018 6:03:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:03:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:03:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:03:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:03:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:03:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1255, 942, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:21 AM: 127.0.0.1: Serials: 0x400000BD; 
+5/22/2018 6:04:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1256, 940, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:22 AM: 127.0.0.1: Serials: 0x400000C1; 
+5/22/2018 6:04:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1257, 942, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:23 AM: 127.0.0.1: Serials: 0x400000C5; 
+5/22/2018 6:04:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1256, 939, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:24 AM: 127.0.0.1: Serials: 0x400000C9; 
+5/22/2018 6:04:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1256, 944, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:25 AM: 127.0.0.1: Serials: 0x400000CD; 
+5/22/2018 6:04:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1255, 945, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:26 AM: 127.0.0.1: Serials: 0x400000D1; 
+5/22/2018 6:04:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1254, 944, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:27 AM: 127.0.0.1: Serials: 0x400000D5; 
+5/22/2018 6:04:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1253, 944, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:29 AM: 127.0.0.1: Serials: 0x400000D9; 
+5/22/2018 6:04:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1251, 943, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:29 AM: 127.0.0.1: Serials: 0x400000DD; 
+5/22/2018 6:04:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1251, 945, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:30 AM: 127.0.0.1: Serials: 0x400000E1; 
+5/22/2018 6:04:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:04:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1249, 945, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:48 AM: 127.0.0.1: Serials: 0x40000103; 
+5/22/2018 6:04:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1250, 944, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:49 AM: 127.0.0.1: Serials: 0x40000107; 
+5/22/2018 6:04:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1248, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:50 AM: 127.0.0.1: Serials: 0x4000010B; 
+5/22/2018 6:04:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1247, 946, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:51 AM: 127.0.0.1: Serials: 0x4000010F; 
+5/22/2018 6:04:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1249, 950, -15) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:52 AM: 127.0.0.1: Serials: 0x40000113; 
+5/22/2018 6:04:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1246, 949, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:53 AM: 127.0.0.1: Serials: 0x40000117; 
+5/22/2018 6:04:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1246, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:04:56 AM: 127.0.0.1: Serials: 0x4000011B; 
+5/22/2018 6:04:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/22/2018 6:05:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1250, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:05:25 AM: 127.0.0.1: Serials: 0x40000131; 
+5/22/2018 6:05:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1252, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:05:28 AM: 127.0.0.1: Serials: 0x40000135; 
+5/22/2018 6:05:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1254, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:05:28 AM: 127.0.0.1: Serials: 0x40000139; 
+5/22/2018 6:05:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1254, 946, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:05:29 AM: 127.0.0.1: Serials: 0x4000013D; 
+5/22/2018 6:05:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:05:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/22/2018 6:05:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1257, 946, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:05:50 AM: 127.0.0.1: Serials: 0x4000014D; 
+5/22/2018 6:05:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/22/2018 6:06:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1256, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:03 AM: 127.0.0.1: Serials: 0x40000154; 
+5/22/2018 6:06:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/22/2018 6:06:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1236, 945, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:20 AM: 127.0.0.1: Serials: 0x4000015B; 
+5/22/2018 6:06:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1238, 945, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:22 AM: 127.0.0.1: Serials: 0x4000015F; 
+5/22/2018 6:06:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1240, 945, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:23 AM: 127.0.0.1: Serials: 0x40000163; 
+5/22/2018 6:06:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1236, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:25 AM: 127.0.0.1: Serials: 0x40000167; 
+5/22/2018 6:06:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/22/2018 6:06:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1242, 946, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:32 AM: 127.0.0.1: Serials: 0x4000016B; 
+5/22/2018 6:06:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1243, 948, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:35 AM: 127.0.0.1: Serials: 0x4000016F; 
+5/22/2018 6:06:37 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1241, 948, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:37 AM: 127.0.0.1: Serials: 0x40000173; 
+5/22/2018 6:06:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1241, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:38 AM: 127.0.0.1: Serials: 0x40000177; 
+5/22/2018 6:06:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1240, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:39 AM: 127.0.0.1: Serials: 0x4000017B; 
+5/22/2018 6:06:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1239, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:40 AM: 127.0.0.1: Serials: 0x4000017F; 
+5/22/2018 6:06:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1238, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:06:40 AM: 127.0.0.1: Serials: 0x40000183; 
+5/22/2018 6:06:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:06:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/22/2018 6:07:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1240, 949, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:09 AM: 127.0.0.1: Serials: 0x400001A8; 
+5/22/2018 6:07:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1239, 949, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:10 AM: 127.0.0.1: Serials: 0x400001AC; 
+5/22/2018 6:07:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1237, 949, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:12 AM: 127.0.0.1: Serials: 0x400001B0; 
+5/22/2018 6:07:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1236, 949, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:13 AM: 127.0.0.1: Serials: 0x400001B4; 
+5/22/2018 6:07:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1236, 951, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:17 AM: 127.0.0.1: Serials: 0x400001B8; 
+5/22/2018 6:07:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1238, 951, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:21 AM: 127.0.0.1: Serials: 0x400001BC; 
+5/22/2018 6:07:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1240, 951, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:23 AM: 127.0.0.1: Serials: 0x400001C0; 
+5/22/2018 6:07:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1242, 951, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:24 AM: 127.0.0.1: Serials: 0x400001C4; 
+5/22/2018 6:07:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:07:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/22/2018 6:07:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1237, 953, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:44 AM: 127.0.0.1: Serials: 0x400001E0; 
+5/22/2018 6:07:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1236, 953, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:47 AM: 127.0.0.1: Serials: 0x400001E4; 
+5/22/2018 6:07:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1239, 954, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:50 AM: 127.0.0.1: Serials: 0x400001E8; 
+5/22/2018 6:07:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1240, 953, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:51 AM: 127.0.0.1: Serials: 0x400001EC; 
+5/22/2018 6:07:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1238, 955, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:07:58 AM: 127.0.0.1: Serials: 0x400001F0; 
+5/22/2018 6:08:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1238, 955, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:08:02 AM: 127.0.0.1: Serials: 0x400001F4; 
+5/22/2018 6:08:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1237, 955, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:08:04 AM: 127.0.0.1: Serials: 0x400001F8; 
+5/22/2018 6:08:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1242, 953, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:08:26 AM: 127.0.0.1: Serials: 0x4000020E; 
+5/22/2018 6:08:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1241, 955, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:08:27 AM: 127.0.0.1: Serials: 0x40000212; 
+5/22/2018 6:08:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1241, 957, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:08:29 AM: 127.0.0.1: Serials: 0x40000216; 
+5/22/2018 6:08:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1240, 956, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:08:30 AM: 127.0.0.1: Serials: 0x4000021A; 
+5/22/2018 6:08:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'tele '
+5/22/2018 6:08:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1239, 957, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:08:44 AM: 127.0.0.1: Serials: 0x4000022A; 
+5/22/2018 6:08:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1238, 957, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:08:46 AM: 127.0.0.1: Serials: 0x4000022E; 
+5/22/2018 6:08:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:08:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1237, 957, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:08:54 AM: 127.0.0.1: Serials: 0x40000238; 
+5/22/2018 6:08:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:09:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1236, 957, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:09:01 AM: 127.0.0.1: Serials: 0x4000023F; 
+5/22/2018 6:09:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:09:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1236, 956, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:09:09 AM: 127.0.0.1: Serials: 0x40000246; 
+5/22/2018 6:09:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:09:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1236, 955, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:09:14 AM: 127.0.0.1: Serials: 0x4000024D; 
+5/22/2018 6:09:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:09:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 958, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:09:27 AM: 127.0.0.1: Serials: 0x40000254; 
+5/22/2018 6:09:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:09:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 957, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:09:33 AM: 127.0.0.1: Serials: 0x4000025B; 
+5/22/2018 6:09:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:09:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 956, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:09:38 AM: 127.0.0.1: Serials: 0x40000262; 
+5/22/2018 6:09:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:09:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 955, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:09:43 AM: 127.0.0.1: Serials: 0x40000269; 
+5/22/2018 6:09:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:09:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 954, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:09:49 AM: 127.0.0.1: Serials: 0x40000270; 
+5/22/2018 6:09:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:09:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 953, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:09:57 AM: 127.0.0.1: Serials: 0x40000277; 
+5/22/2018 6:09:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 952, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:09:59 AM: 127.0.0.1: Serials: 0x4000027B; 
+5/22/2018 6:10:00 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 951, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:10:00 AM: 127.0.0.1: Serials: 0x4000027F; 
+5/22/2018 6:10:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 951, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:10:15 AM: 127.0.0.1: Serials: 0x4000028C; 
+5/22/2018 6:10:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 950, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:10:17 AM: 127.0.0.1: Serials: 0x40000290; 
+5/22/2018 6:10:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 949, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:10:18 AM: 127.0.0.1: Serials: 0x40000294; 
+5/22/2018 6:10:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 948, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:10:26 AM: 127.0.0.1: Serials: 0x400002A1; 
+5/22/2018 6:10:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 947, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:10:28 AM: 127.0.0.1: Serials: 0x400002A5; 
+5/22/2018 6:10:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 946, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:10:29 AM: 127.0.0.1: Serials: 0x400002A9; 
+5/22/2018 6:10:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:10:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1235, 946, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:10:41 AM: 127.0.0.1: Serials: 0x400002B6; 
+5/22/2018 6:10:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:11:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1240, 945, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:11:03 AM: 127.0.0.1: Serials: 0x400002BD; 
+5/22/2018 6:11:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:11:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1253, 937, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:11:16 AM: 127.0.0.1: Serials: 0x400002C4; 
+5/22/2018 6:11:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1255, 937, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:11:20 AM: 127.0.0.1: Serials: 0x400002C8; 
+5/22/2018 6:11:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:11:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:11:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1257, 938, -35) in Ilshenar: "BoulderRock01Addon"
+5/22/2018 6:11:30 AM: 127.0.0.1: Serials: 0x400002D2; 
+5/22/2018 6:11:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:14:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'freezemap '
+5/22/2018 6:14:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') invoking freeze for every item in Owner
+5/22/2018 6:14:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:14:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'addon2static '
+5/22/2018 6:14:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'freezemap '
+5/22/2018 6:14:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') invoking freeze for every item in Owner
+5/22/2018 6:14:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 6:15:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+5/22/2018 6:15:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'save '
+##############################
+Log started on 5/22/2018 6:28:55 AM
+
+5/22/2018 6:29:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'speedboost '
+5/22/2018 6:29:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:29:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:30:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:30:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map malas'
+5/22/2018 6:30:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Malas'
+5/22/2018 6:30:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:31:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:32:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:33:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'set map ilshenar'
+5/22/2018 6:33:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'map' of 0x1 "Zigholtul" ('Zigholtul88') to 'Ilshenar'
+5/22/2018 6:33:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:33:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 6:34:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:34:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 6:35:28 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 6:35:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 6:35:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'wipe '
+5/22/2018 6:35:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') wiping from (1678, 1077, -7) to (1683, 1081, 31) in Ilshenar (Items, Mobiles)
+5/22/2018 6:36:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:36:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/22/2018 6:36:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x4000001C (LocalizedSign) to '-25'
+5/22/2018 6:36:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x4000001C (LocalizedSign) to '-15'
+5/22/2018 6:36:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:36:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000001C (LocalizedSign)
+5/22/2018 6:36:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:36:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/22/2018 6:37:14 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 6:37:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/22/2018 6:37:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x4000074A (LocalizedSign) to '5'
+5/22/2018 6:37:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:37:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x4000074A (LocalizedSign)
+5/22/2018 6:37:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:37:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 6:37:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:38:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 6:38:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/22/2018 6:38:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x40000B56 (LocalizedSign) to '-10'
+5/22/2018 6:39:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:39:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40000B56 (LocalizedSign)
+5/22/2018 6:39:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:39:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:39:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:39:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:39:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 6:40:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 6:40:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:40:45 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 6:41:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 6:41:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 6:41:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/22/2018 6:41:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x40001377 (LocalizedSign) to '5'
+5/22/2018 6:41:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x40001377 (LocalizedSign) to '3'
+5/22/2018 6:41:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:41:55 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001377 (LocalizedSign)
+5/22/2018 6:42:02 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:42:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:42:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:42:36 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:42:44 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 6:43:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 6:43:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 6:43:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/22/2018 6:43:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x40001788 (LocalizedSign) to '-10'
+5/22/2018 6:43:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x40001788 (LocalizedSign) to '-8'
+5/22/2018 6:43:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x40001788 (LocalizedSign) to '-12'
+5/22/2018 6:43:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:43:53 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001788 (LocalizedSign)
+5/22/2018 6:44:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 6:44:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:44:39 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 6:44:43 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 6:44:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/22/2018 6:44:54 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x40001B97 (LocalizedSign) to '-11'
+5/22/2018 6:44:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x40001B97 (LocalizedSign) to '-12'
+5/22/2018 6:45:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:45:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40001B97 (LocalizedSign)
+5/22/2018 6:45:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 6:45:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:45:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 6:46:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 6:46:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 6:46:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:47:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 6:47:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 6:47:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'props '
+5/22/2018 6:47:17 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') set property 'Z' of 0x400028E2 (LocalizedSign) to '-12'
+5/22/2018 6:54:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:55:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 6:56:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add rob'
+5/22/2018 6:56:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1199, 1142, -25) in Ilshenar: "FancyRobe"
+5/22/2018 6:56:22 AM: 127.0.0.1: Serials: 0x40002CDF; 
+5/22/2018 6:58:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add animaltrainer'
+5/22/2018 6:58:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1183, 1114, -25) in Ilshenar: "animaltrainer"
+5/22/2018 6:58:08 AM: 127.0.0.1: Serials: 0x2; 
+5/22/2018 6:58:18 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:58:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:58:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:58:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x2 "Eartha" (no account)
+5/22/2018 6:59:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add animaltrainer'
+5/22/2018 6:59:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1322, 1317, -14) in Ilshenar: "animaltrainer"
+5/22/2018 6:59:12 AM: 127.0.0.1: Serials: 0x9; 
+5/22/2018 6:59:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 6:59:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x9 "Carver" (no account)
+5/22/2018 7:00:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:01:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add rancher'
+5/22/2018 7:01:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1321, 1330, -14) in Ilshenar: "rancher"
+5/22/2018 7:01:05 AM: 127.0.0.1: Serials: 0x10; 
+5/22/2018 7:01:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 7:01:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x10 "Dante" (no account)
+5/22/2018 7:01:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:01:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 7:02:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:03:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'add blacksmith'
+5/22/2018 7:03:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') building at (1222, 1107, -25) in Ilshenar: "blacksmith"
+5/22/2018 7:03:05 AM: 127.0.0.1: Serials: 0x12; 
+5/22/2018 7:03:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 7:03:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x12 "Dale" (no account)
+5/22/2018 7:05:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:07:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:08:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:10:34 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:11:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 7:11:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:12:01 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 7:15:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 7:15:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:15:30 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '
+5/22/2018 7:17:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:18:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 7:18:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:18:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:19:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 7:19:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:20:46 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:20:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:21:12 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 7:21:16 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:21:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:22:03 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 7:22:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:22:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/22/2018 7:22:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x29 "a dog" (no account)
+5/22/2018 7:23:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 7:23:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004226 (Corpse)
+5/22/2018 7:23:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/22/2018 7:23:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x20 "a dog" (no account)
+5/22/2018 7:23:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'remove '
+5/22/2018 7:23:41 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 0x40004229 (Corpse)
+5/22/2018 7:24:33 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+5/22/2018 7:24:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+5/22/2018 7:24:38 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+5/22/2018 7:26:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Ilshenar (1095 objects)
+5/22/2018 7:26:49 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+5/22/2018 7:26:51 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1095 objects
+5/22/2018 7:26:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 7:27:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:27:22 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen ilshenar/npcs.map'
+5/22/2018 7:34:48 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:36:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:37:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 7:37:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:38:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:38:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 7:38:26 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:38:40 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:38:52 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 7:38:57 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:39:15 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:39:31 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:39:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:39:59 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:40:10 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:40:25 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:41:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:41:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Ilshenar (1240 objects)
+5/22/2018 7:41:19 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+5/22/2018 7:41:21 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1240 objects
+5/22/2018 7:41:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:41:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:41:56 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:42:20 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:42:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:42:47 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:43:08 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:43:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:43:50 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:44:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:44:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:44:42 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:45:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:45:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:45:35 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:46:11 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'where '
+5/22/2018 7:46:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:47:29 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'premiumspawner '
+5/22/2018 7:47:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'runuospawnerexporter '
+5/22/2018 7:47:32 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawner '
+5/22/2018 7:50:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') starting facet clear of Ilshenar (1330 objects)
+5/22/2018 7:50:06 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'clearfacet '
+5/22/2018 7:50:07 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') deleting 1330 objects
+5/22/2018 7:50:09 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'admin '
+5/22/2018 7:50:13 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'decorate '
+5/22/2018 7:50:23 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'spawngen ilshenar/npcs.map'
+5/22/2018 7:51:04 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/22/2018 7:51:05 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x10A "a crane" (no account)
+5/22/2018 7:54:24 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'kill '
+5/22/2018 7:54:27 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') killing 0x114 "a crow" (no account)
+5/22/2018 7:59:58 AM: 127.0.0.1: Owner 0x1 "Zigholtul" ('Zigholtul88') used command 'go '

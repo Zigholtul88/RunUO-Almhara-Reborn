@@ -1,0 +1,19 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8935
+Time: 10/11/2018 1:51:13 PM
+Mobiles: 2325
+Items: 17456
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Spells.Tome.ZooTravelSpell.OnCast()
+   at Server.Spells.Spell.CastTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 71.215.247.156: (account = Zigholtul88) (mobile = 0x3 'Womp Womp')

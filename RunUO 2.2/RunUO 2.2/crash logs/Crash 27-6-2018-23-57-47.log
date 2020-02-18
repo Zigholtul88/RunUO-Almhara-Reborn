@@ -1,0 +1,21 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8922
+Time: 6/27/2018 11:57:47 PM
+Mobiles: 2121
+Items: 17359
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Items.DemolishersKit.OnTarget(Mobile from, Object target)
+   at Server.Targeting.Target.Invoke(Mobile from, Object targeted)
+   at Server.Network.PacketHandlers.TargetResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 127.0.0.1: (account = Zigholtul88) (mobile = 0x1 'Zigholtul')

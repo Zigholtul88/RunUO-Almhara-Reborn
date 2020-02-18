@@ -1,0 +1,154 @@
+##############################
+Log started on 1/29/2016 3:21:19 PM
+
+1/29/2016 3:21:55 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+1/29/2016 3:22:17 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/29/2016 3:22:18 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x265 "Boryan" (no account)
+1/29/2016 3:22:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/29/2016 3:22:19 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x4000069C (Spawner)
+1/29/2016 3:22:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+1/29/2016 3:23:05 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'kill '
+1/29/2016 3:23:06 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') killing 0x1E1 "a cavern mongbat elder" (no account)
+1/29/2016 3:23:22 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/29/2016 3:23:23 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x400006F4 (Corpse)
+1/29/2016 3:23:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'remove '
+1/29/2016 3:23:29 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') deleting 0x40000372 (Spawner)
+1/29/2016 3:23:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'go '
+1/29/2016 3:24:08 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'admin '
+1/29/2016 3:24:11 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/29/2016 3:24:12 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/29/2016 3:29:12 PM
+
+1/29/2016 3:29:42 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') used command 'add boryan'
+1/29/2016 3:29:43 PM: 127.0.0.1: Owner 0x2 "Aurora" ('Zigholtul88') building at (1232, 1069, 10) in Malas: "boryan"
+1/29/2016 3:29:43 PM: 127.0.0.1: Serials: 0xB; 
+1/29/2016 3:30:42 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set str 100'
+1/29/2016 3:30:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'str' of 0xC "Kain" ('Zigholtul88') to '100'
+1/29/2016 3:30:46 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set dex 100'
+1/29/2016 3:30:46 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'dex' of 0xC "Kain" ('Zigholtul88') to '100'
+1/29/2016 3:30:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set hits 500'
+1/29/2016 3:30:50 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'hits' of 0xC "Kain" ('Zigholtul88') to '500'
+1/29/2016 3:30:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add '
+1/29/2016 3:31:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add daemonbone'
+1/29/2016 3:31:07 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add daemonbon'
+1/29/2016 3:31:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "DaemonBoneArms"
+1/29/2016 3:31:09 PM: 127.0.0.1: Serials: 0x40000718; 
+1/29/2016 3:31:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2519, 1988, 0) in Malas: "DaemonBoneChest"
+1/29/2016 3:31:11 PM: 127.0.0.1: Serials: 0x4000071D; 
+1/29/2016 3:31:18 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "DaemonBoneGloves"
+1/29/2016 3:31:18 PM: 127.0.0.1: Serials: 0x40000737; 
+1/29/2016 3:31:20 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2519, 1988, 0) in Malas: "DaemonBoneHelm"
+1/29/2016 3:31:20 PM: 127.0.0.1: Serials: 0x4000075B; 
+1/29/2016 3:31:22 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2519, 1990, 0) in Malas: "DaemonBoneLegs"
+1/29/2016 3:31:24 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2518, 1990, 0) in Malas: "DaemonBoneLegs"
+1/29/2016 3:31:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2519, 1990, 0) in Malas: "DaemonBoneLegs"
+1/29/2016 3:31:42 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add balr'
+1/29/2016 3:31:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2520, 1989, 0) in Malas: "BalronVolcanicSting"
+1/29/2016 3:31:45 PM: 127.0.0.1: Serials: 0x4000075E; 
+1/29/2016 3:31:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/29/2016 3:31:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add hiry'
+1/29/2016 3:32:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1244, 1108, 0) in Malas: "EtherealHiryu"
+1/29/2016 3:32:01 PM: 127.0.0.1: Serials: 0x40000762; 
+1/29/2016 3:32:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'setallskills 100'
+1/29/2016 3:32:10 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'EverySkill.Base' of 0xC "Kain" ('Zigholtul88') to '100'
+1/29/2016 3:33:13 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add nightsightscroll 100'
+1/29/2016 3:33:15 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1332, 1182, 1) in Malas: "nightsightscroll" "100"
+1/29/2016 3:33:15 PM: 127.0.0.1: Serials: 0x40000768; 
+1/29/2016 3:34:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add elder'
+1/29/2016 3:34:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (2188, 390, 5) in Malas: "CavernMongbatElder"
+1/29/2016 3:34:05 PM: 127.0.0.1: Serials: 0xD; 
+1/29/2016 3:34:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/29/2016 3:35:04 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/29/2016 3:35:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0xB "Boryan" (no account)
+1/29/2016 3:35:56 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add bonelegs'
+1/29/2016 3:35:58 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1231, 1069, 10) in Malas: "bonelegs"
+1/29/2016 3:35:58 PM: 127.0.0.1: Serials: 0x400007D7; 
+1/29/2016 3:36:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add daemonbonelegs'
+1/29/2016 3:36:07 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1232, 1070, 10) in Malas: "daemonbonelegs"
+1/29/2016 3:36:25 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/29/2016 3:36:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add cracked'
+1/29/2016 3:36:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1230, 1071, 10) in Malas: "CrackedHitHarmGem"
+1/29/2016 3:36:39 PM: 127.0.0.1: Serials: 0x400007D8; 
+1/29/2016 3:36:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1231, 1070, 10) in Malas: "CrackedHitFireballGem"
+1/29/2016 3:36:41 PM: 127.0.0.1: Serials: 0x400007DC; 
+1/29/2016 3:36:43 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1231, 1070, 10) in Malas: "CrackedHitLeechHitsGem"
+1/29/2016 3:36:43 PM: 127.0.0.1: Serials: 0x400007DD; 
+1/29/2016 3:36:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1232, 1069, 10) in Malas: "CrackedHitLeechManaGem"
+1/29/2016 3:36:45 PM: 127.0.0.1: Serials: 0x400007DE; 
+1/29/2016 3:36:48 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/29/2016 3:36:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400007DE (CrackedHitLeechManaGem)
+1/29/2016 3:36:50 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/29/2016 3:36:50 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400007DD (CrackedHitLeechHitsGem)
+1/29/2016 3:36:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/29/2016 3:36:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400007D8 (CrackedHitHarmGem)
+1/29/2016 3:36:52 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/29/2016 3:36:52 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x400007DC (CrackedHitFireballGem)
+1/29/2016 3:36:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add dyetub'
+1/29/2016 3:36:56 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1230, 1071, 10) in Malas: "dyetub"
+1/29/2016 3:36:56 PM: 127.0.0.1: Serials: 0x400007DF; 
+1/29/2016 3:36:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add dyes'
+1/29/2016 3:37:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1230, 1071, 10) in Malas: "dyes"
+1/29/2016 3:37:01 PM: 127.0.0.1: Serials: 0x400007E0; 
+1/29/2016 3:37:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+1/29/2016 3:37:13 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set hue 138'
+1/29/2016 3:37:14 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'hue' of 0x40000786 (CrackedHitFireballGem) to '138'
+1/29/2016 3:37:35 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/29/2016 3:37:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40000786 (CrackedHitFireballGem)
+1/29/2016 3:37:44 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/29/2016 3:37:47 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/29/2016 3:37:47 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'save '
+##############################
+Log started on 1/29/2016 9:47:52 PM
+
+1/29/2016 9:48:37 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'add daemonbonelegs'
+1/29/2016 9:48:39 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') building at (1231, 1072, 10) in Malas: "daemonbonelegs"
+1/29/2016 9:48:39 PM: 127.0.0.1: Serials: 0x4000000A; 
+1/29/2016 9:48:47 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/29/2016 9:48:51 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+1/29/2016 9:49:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/29/2016 9:49:22 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set map ilshenar'
+1/29/2016 9:49:23 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'map' of 0xC "Kain" ('Zigholtul88') to 'Ilshenar'
+1/29/2016 9:49:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/29/2016 9:50:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/29/2016 9:51:08 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/29/2016 9:54:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/29/2016 9:54:41 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'restart '
+##############################
+Log started on 1/29/2016 9:54:55 PM
+
+1/29/2016 9:55:11 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/29/2016 9:55:14 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+1/29/2016 9:55:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') starting facet clear of Ilshenar (914 objects)
+1/29/2016 9:55:29 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'clearfacet '
+1/29/2016 9:55:30 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 914 objects
+1/29/2016 9:55:32 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/29/2016 9:55:36 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+1/29/2016 9:55:48 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/29/2016 9:57:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+1/29/2016 9:58:00 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x40001EA0 (Static) to (1908, 118, -28)
+1/29/2016 9:58:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+1/29/2016 9:58:05 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x40001EA0 (Static) to (1907, 121, -23)
+1/29/2016 9:58:16 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'move '
+1/29/2016 9:58:17 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') moving 0x40001EA0 (Static) to (1908, 118, -28)
+1/29/2016 9:58:27 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+1/29/2016 9:59:50 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'set hue 0'
+1/29/2016 9:59:50 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') set property 'hue' of 0x40001EA0 (Static) to '0'
+1/29/2016 9:59:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/29/2016 9:59:55 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001EA0 (Static)
+1/29/2016 9:59:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/29/2016 9:59:59 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') deleting 0x40001EBE (Static)
+1/29/2016 10:00:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/29/2016 10:00:03 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'remove '
+1/29/2016 10:00:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'wipe '
+1/29/2016 10:00:10 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') wiping from (1903, 118, -28) to (1908, 123, -26) in Ilshenar (Items, Mobiles)
+1/29/2016 10:00:17 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/29/2016 10:00:21 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'decorate '
+1/29/2016 10:02:01 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'props '
+1/29/2016 10:03:06 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+1/29/2016 10:03:09 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'go '
+1/29/2016 10:04:26 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'where '
+1/29/2016 10:05:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'm tele'
+1/29/2016 10:07:45 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'admin '
+1/29/2016 10:07:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') shutting down server (Restart: False) (Save: True)
+1/29/2016 10:07:49 PM: 127.0.0.1: Owner 0xC "Kain" ('Zigholtul88') used command 'save '

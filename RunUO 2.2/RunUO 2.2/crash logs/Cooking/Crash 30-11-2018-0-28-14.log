@@ -1,0 +1,24 @@
+Server Crash Report
+===================
+
+RunUO Version 2.1, Build 4272.35047
+Operating System: Microsoft Windows NT 6.2.9200.0
+.NET Framework: 2.0.50727.8937
+Time: 11/30/2018 12:28:14 AM
+Mobiles: 1375
+Items: 14859
+Exception:
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Engines.Craft.CraftItem.Find(Mobile from, Int32[] itemIDs)
+   at Server.Engines.Craft.CraftItem.ConsumeRes(Mobile from, Type typeRes, CraftSystem craftSystem, Int32& resHue, Int32& maxAmount, ConsumeType consumeType, Object& message, Boolean isFailure)
+   at Server.Engines.Craft.CraftItem.Craft(Mobile from, CraftSystem craftSystem, Type typeRes, BaseTool tool)
+   at Server.Engines.Craft.CraftGump.CraftItem(CraftItem item)
+   at Server.Engines.Craft.CraftGump.OnResponse(NetState sender, RelayInfo info)
+   at Server.Network.PacketHandlers.DisplayGumpResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 71.208.10.79: (account = Zigholtul88) (mobile = 0x109 'dudette')
