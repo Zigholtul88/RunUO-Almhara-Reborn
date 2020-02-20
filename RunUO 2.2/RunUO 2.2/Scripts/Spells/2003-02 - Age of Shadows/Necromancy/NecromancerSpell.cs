@@ -45,6 +45,9 @@ namespace Server.Spells.Necromancy
 			if( ArcaneGem.ConsumeCharges( Caster, 1 ) )
 				return true;
 
+            		if ( Caster.AccessLevel != AccessLevel.Player )
+                		return true;
+
 			return false;
 		}
 

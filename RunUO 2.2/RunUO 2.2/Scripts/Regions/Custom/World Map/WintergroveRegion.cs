@@ -90,6 +90,8 @@ namespace Server.Regions
                                      }
                                      else
                                      {
+		                     	if ( Utility.RandomDouble() < 0.02 )
+                                     	{
 			                   m.Stam -= 10;
 			                   m.Mana -= 20;
 			                   m.FixedParticles( 0x37CC, 1, 40, 97, 3, 9917, EffectLayer.Waist );
@@ -99,6 +101,7 @@ namespace Server.Regions
 			                   m.PlaySound( m.Female ? 811 : 1085 );
 			                   m.Say( "*oooh!*" );
                                            AOS.Damage(m, Utility.Random(5, 15), 0, 0, 100, 0, 0);
+					}
                                      }
 
                                      // Wind

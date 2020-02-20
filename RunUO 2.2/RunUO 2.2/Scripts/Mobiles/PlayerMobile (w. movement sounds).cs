@@ -2966,6 +2966,14 @@ namespace Server.Mobiles
 				if ( !EquipItem( deathRobe ) )
 					deathRobe.Delete();
 
+            			// Staff now res to full health
+            			if ( this.AccessLevel > AccessLevel.Player )
+            			{
+                			this.Hits = HitsMax;
+                			this.Mana = ManaMax;
+                			this.Stam = StamMax;
+            			}
+
                                 if ( this.Title == "Monster Race" )
                                 {
                                         this.BodyMod = Utility.RandomList( 317, 0x116, 80, 430, 264, 1026 );

@@ -203,6 +203,7 @@ namespace Server.Items
 					new PAlmharaEntry( new Point3D( 1194, 1143, 46 ), "Hammerhill" ),
 					new PAlmharaEntry( new Point3D( 638, 746, 5 ), "Elmhaven" ),
 					new PAlmharaEntry( new Point3D( 534, 728, 29 ), "Elandrim Nur Shaz" ),
+					new PAlmharaEntry( new Point3D( 1737, 597, -2 ), "Coven's Landing" ),
 					new PAlmharaEntry( new Point3D( 754, 1248, 20 ), "Old Plunderer's Haven" ),
 					new PAlmharaEntry( new Point3D( 382, 1884, 29 ), "Red Dagger Keep" )
 				} );

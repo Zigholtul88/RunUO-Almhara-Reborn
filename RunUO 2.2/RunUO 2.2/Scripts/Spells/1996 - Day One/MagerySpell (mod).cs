@@ -20,6 +20,9 @@ namespace Server.Spells
 			if( ArcaneGem.ConsumeCharges( Caster, (Core.SE ? 1 : 1 + (int)Circle) ) )
 				return true;
 
+            		if ( Caster.AccessLevel != AccessLevel.Player )
+                		return true;
+
 			return false;
 		}
 

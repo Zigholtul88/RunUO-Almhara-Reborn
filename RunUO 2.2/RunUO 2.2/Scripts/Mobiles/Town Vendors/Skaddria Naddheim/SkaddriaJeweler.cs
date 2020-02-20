@@ -2,15 +2,15 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using Server;
-using Server.Items;
-using Server.Targeting;
 using Server.Commands;
 using Server.ContextMenus;
 using Server.Gumps;
+using Server.Items;
 using Server.Misc;
+using Server.Mobiles;
 using Server.Network;
 using Server.Spells;
-using Server.Mobiles;
+using Server.Targeting;
 
 namespace Server.Mobiles 
 { 
@@ -20,6 +20,7 @@ namespace Server.Mobiles
 		protected override List<SBInfo> SBInfos{ get { return m_SBInfos; } } 
 
 		public override bool InitialInnocent{ get{ return true; } }
+		public override bool CanTeach { get { return true; } }
 
 		[Constructable]
 		public SkaddriaJeweler() : base( "the jeweler" ) 
@@ -36,6 +37,11 @@ namespace Server.Mobiles
 			SetStr( 72 );
 			SetDex( 61 );
 			SetInt( 38 );
+
+			SetSkill( SkillName.Anatomy, 60.0, 83.0 );
+			SetSkill( SkillName.ItemID, 64.0, 100.0 );
+			SetSkill( SkillName.Tactics, 60.0, 83.0 );
+			SetSkill( SkillName.Wrestling, 60.0, 83.0 );
 
 			PackGold( 23, 35 );
 
@@ -185,6 +191,215 @@ namespace Server.Mobiles
                         }
                 }
 
+                public override void OnSpeech( SpeechEventArgs e )
+                {
+                    	if ( ( e.Speech.ToLower() == "id" ) )
+                    	{
+                        	BeginIdentify ( e.Mobile );
+                    	}
+                    	else
+                    	{
+                        	base.OnSpeech( e );
+                    	}
+                }
+
+                public void BeginIdentify( Mobile from )
+                {
+                    	if ( Deleted || !from.CheckAlive() )
+                        	return;
+
+                    	SayTo( from, "What do you want me to id?" );
+
+                    	from.Target = new IdentifyTarget( this );
+                }
+
+                private class IdentifyTarget : Target
+                {
+                    	private SkaddriaJeweler m_Jeweler;
+
+                    	public IdentifyTarget( SkaddriaJeweler jeweler ): base( 12, false, TargetFlags.None )
+                    	{
+                        	m_Jeweler = jeweler;
+                    	}
+
+                    	protected override void OnTarget( Mobile from, object targeted )
+                    	{
+				if ( targeted is PlayerMobile )
+				{
+					PlayerMobile pm = targeted as PlayerMobile;
+
+					if ( pm.Female == false )
+					{
+                                		m_Jeweler.SayTo( from, "You are a male, not an object. But you do seem like a tough fella." );
+					}
+					else if ( pm.Female == true )
+					{
+                                		m_Jeweler.SayTo( from, "You are a female, not an object and not bad looking either." );
+					}
+					else
+					{
+                                		m_Jeweler.SayTo( from, "Yeah I'm not touching that with a 10 foot pole." );
+					}
+				}
+
+				if ( targeted is BaseVendor )
+				{
+					BaseVendor bv = targeted as BaseVendor;
+
+					if ( bv.Female == false )
+					{
+                                		m_Jeweler.SayTo( from, "That person identifies as a male. Want me to pull down their pants?" );
+					}
+					else if ( bv.Female == true )
+					{
+                                		m_Jeweler.SayTo( from, "That person identifies as a female. Want me to lift up their shirt?" );
+					}
+					else
+					{
+                                		m_Jeweler.SayTo( from, "They identify as none of your business." );
+					}
+				}
+
+				if ( targeted is BaseCreature )
+				{
+					BaseCreature c = targeted as BaseCreature;
+
+					if ( c.Tamable )
+					{
+                                		m_Jeweler.SayTo( from, "That creature seems to know its identity already. It doesn't need my help." );
+					}
+					else
+					{
+                                		m_Jeweler.SayTo( from, "Get that frigging thing away from me before it causes trouble." );
+					}
+				}
+
+                        	if ( targeted is BaseWeapon )
+                        	{
+                            		BaseWeapon bw = targeted as BaseWeapon;
+                            		Container pack = from.Backpack;
+                            		int toConsume = 250;
+                            		toConsume = 250;
+
+                            		if ( bw.Identified == true )
+                            		{
+                                		m_Jeweler.SayTo( from, "That weapon is already identified." );
+                            		}
+                            		else if ( ( bw.Identified == false ) && ( pack.ConsumeTotal( typeof( Gold ), toConsume ) ) )
+                            		{
+			        		Item a = from.Backpack.FindItemByType( typeof( Gold ) );
+			        		if ( a != null )
+
+						a.Consume( toConsume );
+
+                                		bw.Identified = true;
+                                		m_Jeweler.SayTo( from, "Here is your weapon." );
+                                		from.SendMessage( "You pay 500 gp." );
+                                		Effects.PlaySound( from.Location, from.Map, 0x2A );
+                            		}
+                            		else
+                            		{
+                                		m_Jeweler.SayTo( from, "It will cost you 500 gp to have your weapon identified." );
+                                		from.SendMessage( "You do not have enough gold." );
+                            		}
+                        	}
+
+                        	else if ( targeted is BaseArmor )
+                        	{
+                            		BaseArmor ba = targeted as BaseArmor;
+                            		Container pack = from.Backpack;
+                            		int toConsume = 200;
+                            		toConsume = 200;
+
+                            		if ( ba.Identified == true )
+                            		{
+                                		m_Jeweler.SayTo( from, "That armor is already identified." );
+                            		}
+                            		else if ( ( ba.Identified == false ) && ( pack.ConsumeTotal( typeof( Gold ), toConsume ) ) )
+                            		{
+			        		Item a = from.Backpack.FindItemByType( typeof( Gold ) );
+			        		if ( a != null )
+
+						a.Consume( toConsume );
+
+                                		ba.Identified = true;
+                                		m_Jeweler.SayTo( from, "Here is your armor." );
+                                		from.SendMessage( "You pay 400 gp." );
+                                		Effects.PlaySound( from.Location, from.Map, 0x2A );
+                            		}
+                            		else
+                            		{
+                                		m_Jeweler.SayTo( from, "It will cost you 400 gp to have your armor identified." );
+                                		from.SendMessage( "You do not have enough gold." );
+                            		}                    
+                        	}
+
+                        	else if ( targeted is BaseClothing )
+                        	{
+                            		BaseClothing bc = targeted as BaseClothing;
+                            		Container pack = from.Backpack;
+                            		int toConsume = 150;
+                            		toConsume = 150;
+
+                            		if ( bc.Identified == true )
+                            		{
+                                		m_Jeweler.SayTo( from, "That clothing is already identified." );
+                            		}
+                            		else if ( ( bc.Identified == false ) && ( pack.ConsumeTotal( typeof( Gold ), toConsume ) ) )
+                            		{
+			        		Item a = from.Backpack.FindItemByType( typeof( Gold ) );
+			        		if ( a != null )
+
+						a.Consume( toConsume );
+
+                                		bc.Identified = true;
+                                		m_Jeweler.SayTo( from, "Here is your clothing." );
+                                		from.SendMessage( "You pay 300 gp." );
+                                		Effects.PlaySound( from.Location, from.Map, 0x2A );
+                            		}
+                            		else
+                            		{
+                                		m_Jeweler.SayTo( from, "It will cost you 300 gp to have your clothing identified." );
+                                		from.SendMessage( "You do not have enough gold." );
+                            		}                    
+                        	}
+
+                        	else if ( targeted is BaseJewel )
+                        	{
+                            		BaseJewel bj = targeted as BaseJewel;
+                            		Container pack = from.Backpack;
+                            		int toConsume = 100;
+                            		toConsume = 100;
+
+                            		if ( bj.Identified == true )
+                            		{
+                                		m_Jeweler.SayTo( from, "That jewel is already identified." );
+                            		}
+                            		else if ( ( bj.Identified == false ) && ( pack.ConsumeTotal( typeof( Gold ), toConsume ) ) )
+                            		{
+			        		Item a = from.Backpack.FindItemByType( typeof( Gold ) );
+			        		if ( a != null )
+
+						a.Consume( toConsume );
+
+                                		bj.Identified = true;
+                                		m_Jeweler.SayTo( from, "Here is your jewel." );
+                                		from.SendMessage( "You pay 200 gp." );
+                                		Effects.PlaySound( from.Location, from.Map, 0x2A );
+                            		}
+                            		else
+                            		{
+                                		m_Jeweler.SayTo( from, "It will cost you 200 gp to have your jewel identified." );
+                                		from.SendMessage( "You do not have enough gold." );
+                            		}                    
+                        	}
+				else
+				{
+                                	m_Jeweler.SayTo( from, "That is not something I can identify." );
+				}
+                    	}
+                }
+
 		public SkaddriaJeweler( Serial serial ) : base( serial ) 
 		{ 
 		} 
@@ -198,14 +413,12 @@ namespace Server.Mobiles
 		public override void Serialize( GenericWriter writer )
 		{
 			base.Serialize( writer );
-
 			writer.Write( (int) 0 ); // version
 		}
 
 		public override void Deserialize( GenericReader reader )
 		{
 			base.Deserialize( reader );
-
 			int version = reader.ReadInt();
 		}
 
@@ -252,10 +465,10 @@ namespace Server.Mobiles
 		{ 
 			public InternalBuyInfo() 
 			{
-				Add( new GenericBuyInfo( "Cracked Attack Chance Gem", typeof( CrackedAttackChanceGem ), 500, 500, 0x3198, 1023 ) );
-				Add( new GenericBuyInfo( "Cracked Spell Damage Gem", typeof( CrackedSpellDamageGem ), 500, 500, 0x3198, 2607 ) );
-				Add( new GenericBuyInfo( "Cracked Weapon Damage Gem", typeof( CrackedWeaponDamageGem ), 500, 500, 0x3198, 971 ) );
-				Add( new GenericBuyInfo( "Cracked Weapon Speed Gem", typeof( CrackedWeaponSpeedGem ), 500, 500, 0x3198, 1009 ) );
+				Add( new GenericBuyInfo( typeof( CrackedAttackChanceGem ), 500, 500, 0x3198, 1023 ) );
+				Add( new GenericBuyInfo( typeof( CrackedSpellDamageGem ), 500, 500, 0x3198, 2607 ) );
+				Add( new GenericBuyInfo( typeof( CrackedWeaponDamageGem ), 500, 500, 0x3198, 971 ) );
+				Add( new GenericBuyInfo( typeof( CrackedWeaponSpeedGem ), 500, 500, 0x3198, 1009 ) );
 
 				Add( new GenericBuyInfo( typeof( GoldRing ), 50, 20, 0x108A, 0 ) );
 				Add( new GenericBuyInfo( typeof( Necklace ), 100, 20, 0x1085, 0 ) );
@@ -389,78 +602,134 @@ namespace Server.Mobiles
 		} 
 	} 
 
-   public class SkaddriaJewelerGump : Gump 
-   { 
-      public static void Initialize() 
-      { 
-         CommandSystem.Register( "SkaddriaJewelerGump", AccessLevel.GameMaster, new CommandEventHandler( SkaddriaJewelerGump_OnCommand ) ); 
-      } 
+        public class SkaddriaJewelerGump : Gump 
+        { 
+                public static void Initialize() 
+                { 
+                     CommandSystem.Register( "SkaddriaJewelerGump", AccessLevel.GameMaster, new CommandEventHandler( SkaddriaJewelerGump_OnCommand ) ); 
+                } 
 
-      private static void SkaddriaJewelerGump_OnCommand( CommandEventArgs e ) 
-      { 
-         e.Mobile.SendGump( new SkaddriaJewelerGump( e.Mobile ) ); 
-      } 
+                private static void SkaddriaJewelerGump_OnCommand( CommandEventArgs e ) 
+                { 
+                     e.Mobile.SendGump( new SkaddriaJewelerGump( e.Mobile ) ); 
+                } 
 
-      public SkaddriaJewelerGump( Mobile owner ) : base( 50,50 ) 
-      { 
+                public SkaddriaJewelerGump( Mobile owner ) : base( 50,50 ) 
+                { 
 //----------------------------------------------------------------------------------------------------
+			this.AddPage(0);
+			this.AddBackground(126, 131, 398, 389, 9270);
+			this.AddAlphaRegion(130, 132, 391, 389);
+			this.AddImage(110, 460, 10464);
+			this.AddImage(536, 214, 9265);
+			this.AddImage(507, 460, 10464);
+			this.AddImage(507, 408, 10464);
+			this.AddImage(110, 193, 10464);
+			this.AddImage(110, 247, 10464);
+			this.AddImage(110, 301, 10464);
+			this.AddImage(110, 354, 10464);
+			this.AddImage(110, 408, 10464);
+			this.AddImage(110, 139, 10464);
+			this.AddImage(93, 197, 9263);
+			this.AddImage(59, 124, 10421);
+			this.AddImage(88, 110, 10420);
+			this.AddImage(107, 246, 10411);
+			this.AddImage(43, 399, 10402);
+			this.AddImage(93, 513, 10103);
+			this.AddImage(109, 513, 10100);
+			this.AddImage(234, 513, 10100);
+			this.AddImage(218, 513, 10100);
+			this.AddImage(202, 513, 10100);
+			this.AddImage(124, 513, 10100);
+			this.AddImage(172, 513, 10100);
+			this.AddImage(156, 513, 10100);
+			this.AddImage(140, 513, 10100);
+			this.AddImage(188, 513, 10100);
+			this.AddImage(234, 513, 10100);
+			this.AddImage(234, 513, 10100);
+			this.AddImage(249, 513, 10100);
+			this.AddImage(264, 513, 10100);
+			this.AddImage(218, 513, 10100);
+			this.AddImage(308, 513, 10100);
+			this.AddImage(172, 513, 10100);
+			this.AddImage(292, 513, 10100);
+			this.AddImage(188, 513, 10100);
+			this.AddImage(277, 513, 10100);
+			this.AddImage(339, 513, 10100);
+			this.AddImage(324, 513, 10100);
+			this.AddImage(415, 513, 10100);
+			this.AddImage(399, 513, 10100);
+			this.AddImage(354, 513, 10100);
+			this.AddImage(368, 123, 10100);
+			this.AddImage(385, 513, 10100);
+			this.AddImage(445, 513, 10100);
+			this.AddImage(430, 513, 10100);
+			this.AddImage(521, 513, 10100);
+			this.AddImage(505, 513, 10100);
+			this.AddImage(460, 513, 10100);
+			this.AddImage(476, 513, 10100);
+			this.AddImage(491, 513, 10100);
+			this.AddImage(156, 123, 10100);
+			this.AddImage(140, 123, 10100);
+			this.AddImage(232, 123, 10100);
+			this.AddImage(216, 123, 10100);
+			this.AddImage(171, 123, 10100);
+			this.AddImage(187, 123, 10100);
+			this.AddImage(202, 123, 10100);
+			this.AddImage(339, 513, 10100);
+			this.AddImage(324, 513, 10100);
+			this.AddImage(415, 513, 10100);
+			this.AddImage(399, 513, 10100);
+			this.AddImage(353, 123, 10100);
+			this.AddImage(369, 513, 10100);
+			this.AddImage(385, 513, 10100);
+			this.AddImage(263, 123, 10100);
+			this.AddImage(248, 123, 10100);
+			this.AddImage(339, 123, 10100);
+			this.AddImage(323, 123, 10100);
+			this.AddImage(278, 123, 10100);
+			this.AddImage(294, 123, 10100);
+			this.AddImage(309, 123, 10100);
+			this.AddImage(398, 123, 10100);
+			this.AddImage(383, 123, 10100);
+			this.AddImage(474, 123, 10100);
+			this.AddImage(458, 123, 10100);
+			this.AddImage(413, 123, 10100);
+			this.AddImage(429, 123, 10100);
+			this.AddImage(444, 123, 10100);
+			this.AddImage(505, 123, 10100);
+			this.AddImage(489, 123, 10100);
+			this.AddImage(521, 123, 10100);
+			this.AddImage(507, 193, 10464);
+			this.AddImage(507, 139, 10464);
+			this.AddImage(507, 354, 10464);
+			this.AddImage(507, 299, 10464);
+			this.AddImage(507, 247, 10464);
+			this.AddImage(523, 254, 10411);
+			this.AddImage(532, 130, 10431);
+			this.AddImage(500, 112, 10430);
+			this.AddImage(535, 513, 10105);
+			this.AddImage(520, 417, 10412);
+			this.AddButton( 225, 390, 0xF7, 0xF8, 0, GumpButtonType.Reply, 0 );
+			this.AddHtml( 157, 181, 345, 279, "G'day to you and welcome my fellow Almharian. If you have any gems or jewels you want to sell then I'll take them off your hands. In addition if you have any equipment that needs to be identified then simply say to me id and I'll do just that for a fee of course. Weapons costs 500 gp, armor costs 400 gp, clothing costs 300 gp, and jewels cost 200 gp.", false, true);
 
-				AddPage( 0 );
-			AddImageTiled(  54, 33, 369, 400, 2624 );
-			AddAlphaRegion( 54, 33, 369, 400 );
+//----------------------------------------------------------------------------------------------------
+		}
 
-			AddImageTiled( 416, 39, 44, 389, 203 );
-//--------------------------------------Window size bar--------------------------------------------
-			
-			AddImage( 97, 49, 9005 );
-			AddImageTiled( 58, 39, 29, 390, 10460 );
-			AddImageTiled( 412, 37, 31, 389, 10460 );
-			AddLabel( 140, 60, 0x34, "" );
-			
-			AddHtml( 107, 140, 300, 230, "<BODY>" +
-//----------------------/----------------------------------------------/
-"<BASEFONT COLOR=YELLOW>I must say that despite being run down,<BR>" +
-"<BASEFONT COLOR=YELLOW>the rooms in this town are a lot better<BR>" +
-"<BASEFONT COLOR=YELLOW>than Guardian's Horizon thanks to not<BR>" +
-"<BASEFONT COLOR=YELLOW>being surrounded by a hot desert.<BR>" +
-"<BASEFONT COLOR=YELLOW><BR>" +
-"<BASEFONT COLOR=YELLOW>By the way, if you have any gems or<BR>" +
-"<BASEFONT COLOR=YELLOW>pieces of jewelry on your person, then<BR>" +
-"<BASEFONT COLOR=YELLOW>I would be most obliged to take them<BR>" +
-"<BASEFONT COLOR=YELLOW>off your hands.<BR>" +
-"</BODY>", false, true);
-			
-//			<BASEFONT COLOR=#7B6D20>			
+                public override void OnResponse( NetState state, RelayInfo info ) //Function for GumpButtonType.Reply Buttons 
 
-			AddImage( 430, 9, 10441);
-			AddImageTiled( 40, 38, 17, 391, 9263 );
-			AddImage( 6, 25, 10421 );
-			AddImage( 34, 12, 10420 );
-			AddImageTiled( 94, 25, 342, 15, 10304 );
-			AddImageTiled( 40, 427, 415, 16, 10304 );
-			AddImage( -10, 314, 10402 );
-			AddImage( 56, 150, 10411 );
-			AddImage( 155, 120, 2103 );
-			AddImage( 136, 84, 96 );
+                { 
+                    Mobile from = state.Mobile; 
 
-			AddButton( 225, 390, 0xF7, 0xF8, 0, GumpButtonType.Reply, 0 ); 
+                    switch ( info.ButtonID ) 
+                { 
 
-//--------------------------------------------------------------------------------------------------------------
-      } 
-
-      public override void OnResponse( NetState state, RelayInfo info ) //Function for GumpButtonType.Reply Buttons 
-
-      { 
-         Mobile from = state.Mobile; 
-
-         switch ( info.ButtonID ) 
-         { 
-            case 0: //Case uses the ActionIDs defenied above. Case 0 defenies the actions for the button with the action id 0 
-            { 
-               //Cancel 
-               break; 
-            } 
-         }
-      }
-   }
+                case 0: //Case uses the ActionIDs defenied above. Case 0 defenies the actions for the button with the action id 0 
+                { 
+                    //Cancel 
+                    break; 
+                } 
+            }
+        }
+    }
 }

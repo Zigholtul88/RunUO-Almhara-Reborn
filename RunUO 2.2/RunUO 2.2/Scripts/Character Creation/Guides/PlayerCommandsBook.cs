@@ -82,6 +82,15 @@ namespace Server.Items
 			),
 			new BookPageInfo
 			(
+				"[petlore - ",
+				"Displays the taming",
+				"requirements and",
+				"control slots needed",
+				"for a particular",
+				"creature."
+			),
+			new BookPageInfo
+			(
 				"[infravision - ",
 				"Grants nightsight to",
 				"night elves. Can be",

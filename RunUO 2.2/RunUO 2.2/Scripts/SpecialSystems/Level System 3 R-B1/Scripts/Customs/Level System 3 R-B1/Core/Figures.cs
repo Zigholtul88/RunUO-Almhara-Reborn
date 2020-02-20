@@ -81,10 +81,10 @@ namespace Server
                 amount = dead.HitsMax + dead.RawStatTotal;
 
                 if (IsMageryCreature(dead))
-                    amount += 10;
+                    amount += 100;
 
                 if (IsFireBreathingCreature(dead))
-                    amount += 15;
+                    amount += 200;
 
                 if (killed is VampireBat || killed is VampireBatFamiliar)
                     amount += 5;
@@ -92,7 +92,7 @@ namespace Server
                 amount += GetPoisonLevel(dead) * 10;
             }
 
-            return amount / 10;
+            return amount / 5;
         }
 
         public static void GetCraftExp(Mobile m, Item created, int Quality, double SuccessChance, double ExcepChance)
